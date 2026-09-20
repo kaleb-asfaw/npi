@@ -1,0 +1,22 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 4-0,08/29/2025,Valley Forge,0,away,@ Valley Forge,08/29/2025,30,4
+L,False,L 0-1,09/01/2025,Wilson,1,away,@ Wilson,09/01/2025,150,0
+L,False,L 0-1,09/03/2025,Penn St.-Abington,1,away,@ Penn St.-Abington,09/03/2025,153,0
+W,False,W 2-1,09/06/2025,Penn St. Brandywine,1,away,@ Penn St. Brandywine,09/06/2025,100,2
+L,False,L 1-2,09/08/2025,Lancaster Bible,2,home,Lancaster Bible,09/08/2025,131,1
+L,False,L 1-2,09/13/2025,Ursinus,2,home,Ursinus,09/13/2025,123,1
+W,False,W 4-0,09/17/2025,Cedar Crest,0,away,@ Cedar Crest,09/17/2025,73,4
+W,False,W 2-1,09/20/2025,Cairn,1,home,Cairn,09/20/2025,111,2
+T,False,T 1-1,09/24/2025,Penn St.-Berks,1,home,Penn St.-Berks,09/24/2025,171,1
+W,False,W 4-2,09/27/2025,Albright,2,away,@ Albright,09/27/2025,302,4
+W,False,W 6-1,10/01/2025,Penn St.-Schuylkill,1,home,Penn St.-Schuylkill,10/01/2025,99,6
+W,False,W 9-1,10/04/2025,Saint Elizabeth,1,home,Saint Elizabeth,10/04/2025,77,9
+L,False,L 0-5,10/08/2025,Pratt,5,away,@ Pratt,10/08/2025,41,0
+L,False,L 0-2,10/11/2025,Marymount (VA),2,home,Marymount (VA),10/11/2025,101,0
+L,False,L 0-1,10/18/2025,Neumann,1,away,@ Neumann,10/18/2025,60,0
+L,False,L 0-2,10/22/2025,Marywood,2,away,@ Marywood,10/22/2025,110,0
+W,False,W 1-0,10/25/2025,Immaculata,0,home,Immaculata,10/25/2025,211,1
+W,False,W 7-1,10/29/2025,Centenary (NJ),1,home,Centenary (NJ),10/29/2025,113,7
+W,False,W 4-2,11/01/2025,Pratt,2,away,@ #4 Pratt AEC WSOC Tournament,11/01/2025,93,4
+W,False,W 1-0,11/04/2025,Marywood,0,away,@ #1 Marywood AEC WSOC Tournament,11/04/2025,182,1
+L,False,L 0-4,11/08/2025,Marymount (VA),4,away,@ #2 Marymount (VA) AEC WSOC Tournament,11/08/2025,435,0

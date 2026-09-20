@@ -1,0 +1,21 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 1-0,08/29/2025,Concordia (TX),0,home,Concordia (TX),08/29/2025,408,1
+T,False,T 1-1,08/31/2025,Puget Sound,1,home,Puget Sound,08/31/2025,108,1
+L,False,L 0-1,09/05/2025,Chris. Newport,1,away,@ Chris. Newport,09/05/2025,242,0
+T,False,T 1-1,09/07/2025,Va. Wesleyan,1,away,@ Va. Wesleyan,09/07/2025,214,1
+L,False,L 1-4,09/12/2025,Misericordia,4,home,Misericordia,09/12/2025,248,1
+T,False,T 0-0,09/13/2025,Austin,0,home,Austin,09/13/2025,306,0
+L,False,L 0-6,09/20/2025,WashU,6,neutral,"WashU @Memphis, TN",09/20/2025,100,0
+L,False,L 0-1,09/21/2025,DePauw,1,neutral,"DePauw @Memphis, TN",09/21/2025,50,0
+W,False,W 1-0,09/25/2025,Howard Payne,0,home,Howard Payne,09/25/2025,309,1
+T,False,T 1-1,09/27/2025,Trinity (TX),1,home,Trinity (TX),09/27/2025,136,1
+W,False,W 1-0,10/04/2025,East Tex. Baptist,0,away,@ East Tex. Baptist,10/04/2025,101,1
+W,False,W 4-1,10/08/2025,Southwestern (TX),1,away,@ Southwestern (TX),10/08/2025,261,4
+W,False,W 1-0,10/11/2025,Hardin-Simmons,0,home,Hardin-Simmons,10/11/2025,246,1
+W,False,W 2-0,10/18/2025,Howard Payne,0,away,@ Howard Payne,10/18/2025,187,2
+T,False,T 1-1,10/21/2025,Texas Lutheran,1,home,Texas Lutheran,10/21/2025,103,1
+T,False,T 0-0,10/23/2025,McMurry,0,home,McMurry,10/23/2025,308,0
+W,False,W 4-0,10/26/2025,East Tex. Baptist,0,home,East Tex. Baptist,10/26/2025,258,4
+L,False,L 0-1,11/01/2025,Hardin-Simmons,1,away,@ Hardin-Simmons,11/01/2025,741,0
+W,False,W 3-0,11/06/2025,East Tex. Baptist,0,neutral,"East Tex. Baptist @Belton, TX (ASC WSOC Tournament)",11/06/2025,278,3
+L,True,L 0-1 (1 OT),11/08/2025,Hardin-Simmons,1,home,Hardin-Simmons ASC WSOC Tournament,11/08/2025,458,0

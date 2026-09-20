@@ -1,0 +1,20 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 3-0,08/29/2025,Manhattanville,0,away,@ Manhattanville,08/29/2025,89,3
+T,False,T 1-1,09/03/2025,Stockton,1,away,@ Stockton,09/03/2025,103,1
+W,False,W 3-1,09/06/2025,Farmingdale St.,1,home,Farmingdale St.,09/06/2025,100,3
+L,False,L 0-1,09/07/2025,Ithaca,1,home,Ithaca,09/07/2025,87,0
+L,False,L 0-1,09/13/2025,Rensselaer,1,away,@ Rensselaer,09/13/2025,250,0
+W,False,W 3-0,09/17/2025,Ramapo,0,home,Ramapo,09/17/2025,100,3
+L,False,L 0-5,09/20/2025,Rowan,5,home,Rowan,09/20/2025,73,0
+,,Canceled,09/23/2025,FDU-Florham,,away,@ FDU-Florham,09/23/2025,,
+W,False,W 4-1,09/27/2025,Goucher,1,home,Goucher,09/27/2025,121,4
+T,False,T 1-1,09/30/2025,Stevens,1,home,Stevens,09/30/2025,122,1
+L,False,L 1-3,10/04/2025,Lycoming,3,away,@ Lycoming,10/04/2025,225,1
+L,False,L 2-3,10/07/2025,Moravian,3,home,Moravian,10/07/2025,100,2
+L,False,L 0-2,10/11/2025,Susquehanna,2,home,Susquehanna,10/11/2025,150,0
+W,False,W 1-0,10/14/2025,Wilkes,0,away,@ Wilkes,10/14/2025,172,1
+L,False,L 0-4,10/18/2025,Catholic,4,away,@ Catholic,10/18/2025,128,0
+T,False,T 0-0,10/21/2025,Elizabethtown,0,home,Elizabethtown,10/21/2025,80,0
+W,False,W 1-0,10/25/2025,Juniata,0,home,Juniata,10/25/2025,95,1
+L,False,L 0-2,10/28/2025,Scranton,2,away,@ Scranton,10/28/2025,218,0
+L,False,L 0-3,11/01/2025,Catholic,3,away,@ #3 Catholic Landmark WSOC Championship,11/01/2025,234,0

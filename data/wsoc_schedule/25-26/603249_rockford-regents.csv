@@ -1,0 +1,19 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 1-2,08/29/2025,Olivet,2,home,Olivet,08/29/2025,120,1
+L,False,L 0-10,08/31/2025,Elmhurst,10,home,Elmhurst,08/31/2025,200,0
+L,False,L 0-7,09/04/2025,Luther,7,home,Luther,09/04/2025,55,0
+L,False,L 0-8,09/06/2025,Ripon,8,away,@ Ripon,09/06/2025,77,0
+L,False,L 0-3,09/09/2025,Beloit,3,home,Beloit,09/09/2025,40,0
+W,False,W 4-0,09/12/2025,Maranatha Baptist,0,home,Maranatha Baptist,09/12/2025,35,4
+L,False,L 0-1,09/17/2025,Concordia Chicago,1,away,@ Concordia Chicago,09/17/2025,34,0
+L,False,L 0-7,09/24/2025,Dominican (IL),7,home,Dominican (IL),09/24/2025,17,0
+L,False,L 0-10,09/27/2025,Marian (WI),10,away,@ Marian (WI),09/27/2025,507,0
+L,False,L 0-6,10/01/2025,St. Norbert,6,away,@ St. Norbert,10/01/2025,143,0
+L,False,L 0-6,10/04/2025,Wis. Lutheran,6,home,Wis. Lutheran,10/04/2025,176,0
+L,False,L 0-6,10/08/2025,Benedictine (IL),6,home,Benedictine (IL),10/08/2025,74,0
+L,False,L 0-5,10/11/2025,Lakeland,5,away,@ Lakeland,10/11/2025,105,0
+L,False,L 0-4,10/15/2025,Concordia Wisconsin,4,home,Concordia Wisconsin,10/15/2025,46,0
+L,False,L 0-7,10/17/2025,Edgewood,7,home,Edgewood,10/17/2025,76,0
+L,False,L 0-7,10/22/2025,Aurora,7,away,@ Aurora,10/22/2025,107,0
+L,False,L 0-6,10/25/2025,MSOE,6,away,@ MSOE,10/25/2025,179,0
+L,False,L 0-17,10/29/2025,Illinois Tech,17,home,Illinois Tech,10/29/2025,12,0

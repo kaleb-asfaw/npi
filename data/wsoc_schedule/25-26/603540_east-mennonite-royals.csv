@@ -1,0 +1,19 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 0-3,08/29/2025,Greensboro,3,away,@ Greensboro,08/29/2025,150,0
+T,False,T 0-0,08/30/2025,Methodist,0,away,@ Methodist,08/30/2025,200,0
+W,False,W 3-0,09/05/2025,JWU Charlotte,0,home,JWU Charlotte,09/05/2025,171,3
+L,False,L 0-4,09/07/2025,Brevard,4,home,Brevard,09/07/2025,93,0
+L,False,L 1-5,09/13/2025,Mary Baldwin,5,away,@ Mary Baldwin,09/13/2025,100,1
+L,False,L 1-4,09/17/2025,Virginia St.,4,away,@ Virginia St.,09/17/2025,51,1
+L,False,L 0-4,09/24/2025,Randolph-Macon,4,home,Randolph-Macon,09/24/2025,120,0
+W,False,W 1-0,09/27/2025,Randolph,0,away,@ Randolph,09/27/2025,200,1
+L,False,L 0-3,09/30/2025,Va. Wesleyan,3,home,Va. Wesleyan,09/30/2025,71,0
+W,False,W 2-0,10/04/2025,Regent,0,home,Regent,10/04/2025,89,2
+L,False,L 1-4,10/08/2025,Roanoke,4,away,@ Roanoke,10/08/2025,180,1
+W,False,W 2-0,10/11/2025,Sweet Briar,0,home,Sweet Briar,10/11/2025,187,2
+L,False,L 0-10,10/15/2025,Bridgewater (VA),10,home,Bridgewater (VA),10/15/2025,97,0
+W,False,W 4-1,10/19/2025,Averett,1,away,@ Averett,10/19/2025,103,4
+L,False,L 1-7,10/22/2025,Shenandoah,7,away,@ Shenandoah,10/22/2025,73,1
+W,False,W 4-1,10/25/2025,Hollins,1,home,Hollins,10/25/2025,156,4
+L,False,L 1-2,10/29/2025,Guilford,2,away,@ Guilford,10/29/2025,100,1
+L,False,L 0-9,11/01/2025,Wash. & Lee,9,away,@ #2 Wash. & Lee ODAC WSOC Championship,11/01/2025,139,0

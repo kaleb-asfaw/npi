@@ -1,0 +1,18 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 3-1,08/30/2025,Wilkes,1,home,Wilkes,08/30/2025,162,3
+T,False,T 1-1,09/02/2025,SUNY Geneseo,1,away,@ SUNY Geneseo,09/02/2025,212,1
+W,False,W 4-0,09/05/2025,Keuka,0,neutral,"Keuka @Fredonia, NY",09/05/2025,46,4
+W,False,W 1-0,09/06/2025,Utica,0,neutral,"Utica @Fredonia, NY",09/06/2025,45,1
+L,False,L 1-3,09/09/2025,Hamilton,3,home,Hamilton,09/09/2025,94,1
+L,False,L 1-2,09/13/2025,St. Lawrence,2,home,St. Lawrence,09/13/2025,120,1
+L,False,L 1-3,09/17/2025,Marywood,3,home,Marywood,09/17/2025,97,1
+T,False,T 0-0,09/27/2025,SUNY Oneonta,0,away,@ SUNY Oneonta,09/27/2025,343,0
+W,False,W 6-0,10/01/2025,SUNY Canton,0,home,SUNY Canton,10/01/2025,87,6
+W,False,W 9-3,10/04/2025,SUNY Morrisville,3,away,@ SUNY Morrisville,10/04/2025,101,9
+L,False,L 0-2,10/08/2025,Cortland,2,home,Cortland,10/08/2025,95,0
+T,False,T 0-0,10/11/2025,SUNY New Paltz,0,home,SUNY New Paltz,10/11/2025,104,0
+W,False,W 3-1,10/15/2025,SUNY Potsdam,1,away,@ SUNY Potsdam,10/15/2025,52,3
+T,False,T 1-1,10/18/2025,Plattsburgh St.,1,home,Plattsburgh St.,10/18/2025,132,1
+T,False,T 1-1,10/22/2025,Buffalo St.,1,away,@ Buffalo St.,10/22/2025,75,1
+L,False,L 1-2,10/25/2025,Fredonia,2,home,Fredonia,10/25/2025,126,1
+L,True,L 0-1 (2 OT),11/01/2025,Fredonia,1,away,@ Fredonia SUNYAC WSOC Tournament,11/01/2025,150,0

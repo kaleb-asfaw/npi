@@ -1,0 +1,18 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 0-8,08/29/2025,WashU,8,away,@ WashU,08/29/2025,232,0
+W,False,W 1-0,09/02/2025,William Woods,0,home,William Woods,09/02/2025,200,1
+L,False,L 1-2,09/06/2025,Millikin,2,away,@ Millikin,09/06/2025,175,1
+W,False,W 2-0,09/10/2025,Stephens College,0,home,Stephens College,09/10/2025,100,2
+L,False,L 1-4,09/17/2025,Ill. Wesleyan,4,home,Ill. Wesleyan,09/17/2025,50,1
+L,False,L 0-1,09/20/2025,Grinnell,1,away,@ Grinnell,09/20/2025,150,0
+W,False,W 2-1,09/23/2025,Harris-Stowe,1,home,Harris-Stowe,09/23/2025,60,2
+W,False,W 11-0,09/28/2025,Eureka,0,away,@ Eureka,09/28/2025,100,11
+W,False,W 2-0,10/01/2025,Blackburn,0,home,Blackburn,10/01/2025,100,2
+W,False,W 4-0,10/04/2025,Lyon,0,away,@ Lyon,10/04/2025,50,4
+L,False,L 0-1,10/08/2025,Webster,1,away,@ Webster,10/08/2025,175,0
+W,False,W 3-0,10/19/2025,MUW,0,home,MUW,10/19/2025,50,3
+W,False,W 2-1,10/21/2025,Principia,1,away,@ Principia,10/21/2025,75,2
+L,False,L 0-1,10/23/2025,Spalding,1,home,Spalding,10/23/2025,76,0
+T,False,T 1-1,10/29/2025,Greenville,1,home,Greenville,10/29/2025,50,1
+T,True,T 0-0 (3 OT),11/01/2025,Principia,0,home,#5 Principia SLIAC WSOC Tournament,11/01/2025,60,0
+L,False,L 0-1,11/06/2025,Greenville,1,away,@ #1 Greenville SLIAC WSOC Tournament,11/06/2025,142,0

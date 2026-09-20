@@ -1,0 +1,20 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 2-0,08/30/2025,Old Westbury,0,home,Old Westbury,08/30/2025,50,2
+W,False,W 2-0,09/02/2025,Pratt,0,away,@ Pratt,09/02/2025,43,2
+,,Canceled,09/06/2025,Penn St.-Abington,,away,@ Penn St.-Abington,09/06/2025,,
+W,False,W 3-0,09/08/2025,St. Joseph's (Brkln),0,home,St. Joseph's (Brkln),09/08/2025,50,3
+W,False,W 1-0,09/10/2025,Cedar Crest,0,away,@ Cedar Crest,09/10/2025,72,1
+L,False,L 0-4,09/13/2025,Kean,4,away,@ Kean,09/13/2025,200,0
+T,False,T 0-0,09/20/2025,Penn St. Brandywine,0,away,@ Penn St. Brandywine,09/20/2025,150,0
+L,False,L 0-11,09/24/2025,NYU,11,home,NYU,09/24/2025,55,0
+T,False,T 1-1,09/27/2025,Alvernia,1,home,Alvernia,09/27/2025,50,1
+T,False,T 1-1,10/01/2025,Centenary (NJ),1,away,@ Centenary (NJ),10/01/2025,34,1
+W,False,W 1-0,10/08/2025,Anna Maria,0,away,@ Anna Maria,10/08/2025,125,1
+W,False,W 4-0,10/11/2025,Lehman,0,away,@ Lehman,10/11/2025,22,4
+W,False,W 3-0,10/15/2025,Brooklyn,0,home,Brooklyn,10/15/2025,55,3
+W,False,W 4-0,10/18/2025,CCNY,0,home,CCNY,10/18/2025,75,4
+W,False,W 3-0,10/22/2025,York (NY),0,away,@ York (NY),10/22/2025,14,3
+,,Canceled,10/25/2025,Medgar Evers,,away,@ Medgar Evers,10/25/2025,,
+W,False,W 9-0,11/01/2025,Lehman,0,home,#4 Lehman CUNYAC WSOC Championship,11/01/2025,75,9
+W,False,W 3-0,11/08/2025,CCNY,0,neutral,"#3 CCNY @Jamaica, NY (CUNYAC WSOC Championship)",11/08/2025,167,3
+L,False,L 0-5,11/15/2025,Williams,5,away,@ Williams 2025 NCAA DIII Women's Soccer Championship,11/15/2025,177,0

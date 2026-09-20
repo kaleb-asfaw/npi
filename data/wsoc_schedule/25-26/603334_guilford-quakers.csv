@@ -1,0 +1,20 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 2-0,08/29/2025,Mary Baldwin,0,home,Mary Baldwin,08/29/2025,144,2
+W,False,W 7-0,08/31/2025,@ CarolinaU,0,home,@ CarolinaU,08/31/2025,104,7
+T,False,T 1-1,09/03/2025,Methodist,1,home,Methodist,09/03/2025,197,1
+W,False,W 2-0,09/10/2025,Meredith,0,away,@ Meredith,09/10/2025,149,2
+,,Canceled,09/13/2025,Carolina Christian,,home,Carolina Christian,09/13/2025,,
+T,False,T 0-0,09/17/2025,Greensboro,0,away,@ Greensboro,09/17/2025,150,0
+W,False,W 3-0,09/20/2025,Averett,0,away,@ Averett,09/20/2025,57,3
+W,False,W 2-1,09/22/2025,JWU Charlotte,1,away,@ JWU Charlotte,09/22/2025,100,2
+W,False,W 3-0,09/24/2025,N.C. Wesleyan,0,home,N.C. Wesleyan,09/24/2025,562,3
+L,False,L 0-2,09/27/2025,Roanoke,2,away,@ Roanoke,09/27/2025,184,0
+W,False,W 8-0,10/01/2025,Hollins,0,away,@ Hollins,10/01/2025,118,8
+L,False,L 0-4,10/04/2025,Wash. & Lee,4,home,Wash. & Lee,10/04/2025,108,0
+L,False,L 0-2,10/08/2025,Randolph-Macon,2,home,Randolph-Macon,10/08/2025,107,0
+L,False,L 0-5,10/11/2025,Bridgewater (VA),5,away,@ Bridgewater (VA),10/11/2025,339,0
+W,False,W 6-2,10/15/2025,Sweet Briar,2,away,@ Sweet Briar,10/15/2025,50,6
+L,False,L 0-1,10/18/2025,Va. Wesleyan,1,home,Va. Wesleyan,10/18/2025,208,0
+L,False,L 0-2,10/22/2025,Lynchburg,2,home,Lynchburg,10/22/2025,104,0
+L,False,L 1-2,10/24/2025,Shenandoah,2,away,@ Shenandoah,10/24/2025,323,1
+W,False,W 2-1,10/29/2025,East. Mennonite,1,home,East. Mennonite,10/29/2025,100,2

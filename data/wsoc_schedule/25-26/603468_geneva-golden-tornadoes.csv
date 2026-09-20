@@ -1,0 +1,19 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 1-0,08/29/2025,Juniata,0,away,@ Juniata,08/29/2025,125,1
+T,False,T 0-0,08/30/2025,Baldwin Wallace,0,home,Baldwin Wallace,08/30/2025,281,0
+L,False,L 0-1,09/02/2025,Alfred,1,home,Alfred,09/02/2025,71,0
+T,False,T 0-0,09/06/2025,Oberlin,0,home,Oberlin,09/06/2025,151,0
+L,False,L 0-2,09/10/2025,Mount Union,2,away,@ Mount Union,09/10/2025,69,0
+L,False,L 0-4,09/13/2025,Kenyon,4,away,@ Kenyon,09/13/2025,121,0
+T,False,T 0-0,09/20/2025,Heidelberg,0,home,Heidelberg,09/20/2025,122,0
+W,False,W 1-0,09/23/2025,Wash. & Jeff.,0,home,Wash. & Jeff.,09/23/2025,115,1
+W,False,W 1-0,09/27/2025,Westminster (PA),0,away,@ Westminster (PA),09/27/2025,171,1
+L,False,L 0-2,09/30/2025,Grove City,2,home,Grove City,09/30/2025,188,0
+T,False,T 2-2,10/04/2025,Allegheny,2,home,Allegheny,10/04/2025,142,2
+L,False,L 0-2,10/07/2025,Saint Vincent,2,away,@ Saint Vincent,10/07/2025,77,0
+W,False,W 5-1,10/11/2025,Bethany (WV),1,away,@ Bethany (WV),10/11/2025,148,5
+W,False,W 1-0,10/14/2025,Thiel,0,home,Thiel,10/14/2025,153,1
+W,False,W 1-0,10/18/2025,Hiram,0,away,@ Hiram,10/18/2025,95,1
+L,False,L 0-3,10/22/2025,Chatham,3,away,@ Chatham,10/22/2025,62,0
+L,False,L 0-2,10/25/2025,Waynesburg,2,home,Waynesburg,10/25/2025,247,0
+T,False,T 0-0,10/29/2025,Franciscan,0,away,@ Franciscan,10/29/2025,75,0

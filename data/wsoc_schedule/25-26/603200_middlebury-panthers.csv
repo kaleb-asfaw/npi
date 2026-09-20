@@ -1,0 +1,21 @@
+Result,home_away,overtime,date_parsed,Date,Attendance,opponent,opp_score,outcome,Opponent,team_score
+W 7-0,away,False,09/02/2025,09/02/2025,122,Plymouth St.,0,W,@ Plymouth St.,7
+W 1-0,away,False,09/06/2025,09/06/2025,117,Hamilton,0,W,@ Hamilton,1
+W 5-0,home,False,09/07/2025,09/07/2025,237,VTSU Castleton,0,W,VTSU Castleton,5
+T 0-0,away,False,09/13/2025,09/13/2025,113,Trinity (CT),0,T,@ Trinity (CT),0
+W 1-0,away,False,09/14/2025,09/14/2025,158,Vassar,0,W,@ Vassar,1
+W 2-1,home,False,09/17/2025,09/17/2025,289,Union (NY),1,W,Union (NY),2
+T 0-0,home,False,09/20/2025,09/20/2025,201,Amherst,0,T,Amherst,0
+W 1-0,away,False,09/27/2025,09/27/2025,419,Connecticut Col.,0,W,@ Connecticut Col.,1
+W 2-1,home,False,09/28/2025,09/28/2025,187,Wesleyan (CT),1,W,Wesleyan (CT),2
+L 1-2,home,False,10/04/2025,10/04/2025,447,Bowdoin,2,L,Bowdoin,1
+W 1-0,away,False,10/11/2025,10/11/2025,137,Colby,0,W,@ Colby,1
+W 2-1,away,False,10/12/2025,10/12/2025,124,Southern Me.,1,W,@ Southern Me.,2
+T 0-0,home,False,10/18/2025,10/18/2025,267,Tufts,0,T,Tufts,0
+W 1-0,home,False,10/25/2025,10/25/2025,317,Bates,0,W,Bates,1
+L 0-1,away,False,10/28/2025,10/28/2025,99,Williams,1,L,@ Williams,0
+W 2-0,home,False,11/01/2025,11/01/2025,267,Hamilton,0,W,#6 Hamilton NESCAC WSOC Tournament,2
+L 1-2,away,False,11/08/2025,11/08/2025,213,Williams,2,L,@ #2 Williams NESCAC WSOC Tournament,1
+W 3-0,home,False,11/15/2025,11/15/2025,467,Westfield St.,0,W,Westfield St. 2025 NCAA DIII Women's Soccer Championship,3
+W 2-1,neutral,False,11/16/2025,11/16/2025,407,Rochester (NY),1,W,"Rochester (NY) @Middlebury, VT (2025 NCAA DIII Women's Soccer Championship)",2
+L 0-2,home,False,11/22/2025,11/22/2025,398,Tufts,2,L,Tufts 2025 NCAA DIII Women's Soccer Championship,0

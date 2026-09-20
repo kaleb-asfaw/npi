@@ -1,0 +1,19 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 0-2,08/30/2025,MIT,2,home,MIT,08/30/2025,130,0
+W,False,W 5-0,09/03/2025,Regis (MA),0,away,@ Regis (MA),09/03/2025,113,5
+L,False,L 0-4,09/06/2025,Misericordia,4,away,@ Misericordia,09/06/2025,76,0
+L,False,L 0-1,09/10/2025,Salve Regina,1,away,@ Salve Regina,09/10/2025,0,0
+W,False,W 1-0,09/13/2025,Curry,0,away,@ Curry,09/13/2025,0,1
+L,False,L 1-2,09/16/2025,Tufts,2,home,Tufts,09/16/2025,148,1
+L,False,L 1-2,09/20/2025,Skidmore,2,home,Skidmore,09/20/2025,114,1
+W,False,W 4-0,09/23/2025,Salem St.,0,home,Salem St.,09/23/2025,155,4
+L,False,L 2-3,09/27/2025,JWU (Providence),3,home,JWU (Providence),09/27/2025,412,2
+T,False,T 1-1,10/01/2025,Bridgewater St.,1,away,@ Bridgewater St.,10/01/2025,100,1
+L,False,L 1-5,10/04/2025,Hartford,5,away,@ Hartford,10/04/2025,431,1
+W,False,W 8-1,10/08/2025,Nichols,1,home,Nichols,10/08/2025,77,8
+L,False,L 1-2,10/11/2025,Western New Eng.,2,home,Western New Eng.,10/11/2025,211,1
+T,False,T 2-2,10/14/2025,Wentworth,2,home,Wentworth,10/14/2025,88,2
+T,False,T 0-0,10/18/2025,Suffolk,0,away,@ Suffolk,10/18/2025,132,0
+T,False,T 1-1,10/22/2025,Roger Williams,1,away,@ Roger Williams,10/22/2025,74,1
+L,False,L 0-2,10/25/2025,Endicott,2,home,Endicott,10/25/2025,219,0
+L,False,L 0-5,10/28/2025,U New England,5,away,@ U New England,10/28/2025,64,0

@@ -1,0 +1,21 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 0-1,08/30/2025,Catholic,1,away,@ Catholic,08/30/2025,275,0
+W,False,W 3-0,09/03/2025,Buffalo St.,0,home,Buffalo St.,09/03/2025,242,3
+L,False,L 0-1,09/06/2025,Penn St.-Behrend,1,away,@ Penn St.-Behrend,09/06/2025,75,0
+T,False,T 1-1,09/10/2025,RIT,1,away,@ RIT,09/10/2025,156,1
+W,False,W 6-0,09/13/2025,Elmira,0,home,Elmira,09/13/2025,354,6
+L,False,L 2-3,09/16/2025,Rochester (NY),3,away,@ Rochester (NY),09/16/2025,151,2
+W,False,W 1-0,09/20/2025,SUNY Geneseo,0,away,@ SUNY Geneseo,09/20/2025,143,1
+T,False,T 0-0,09/24/2025,Utica,0,away,@ Utica,09/24/2025,185,0
+W,False,W 9-0,09/27/2025,SUNY Poly,0,home,SUNY Poly,09/27/2025,79,9
+W,False,W 1-0,10/01/2025,Alfred,0,away,@ Alfred,10/01/2025,240,1
+W,False,W 3-0,10/04/2025,Russell Sage,0,home,Russell Sage,10/04/2025,75,3
+L,False,L 0-1,10/11/2025,SUNY Brockport,1,home,SUNY Brockport,10/11/2025,0,0
+W,False,W 4-0,10/15/2025,Houghton,0,home,Houghton,10/15/2025,68,4
+W,False,W 3-0,10/18/2025,Hartwick,0,away,@ Hartwick,10/18/2025,165,3
+W,False,W 8-0,10/25/2025,Keuka,0,home,Keuka,10/25/2025,189,8
+W,False,W 2-1,10/29/2025,Nazareth,1,away,@ Nazareth,10/29/2025,234,2
+W,False,W 1-0,11/01/2025,Houghton,0,home,#7 Houghton Empire 8 WSOC Championship,11/01/2025,0,1
+W,False,W 2-0,11/05/2025,Nazareth,0,home,#3 Nazareth Empire 8 WSOC Championship,11/05/2025,263,2
+W,True,W 1-0 (1 OT),11/08/2025,SUNY Brockport,0,away,@ #1 SUNY Brockport Empire 8 WSOC Championship,11/08/2025,555,1
+L,False,L 0-2,11/15/2025,Johns Hopkins,2,away,@ Johns Hopkins 2025 NCAA DIII Women's Soccer Championship,11/15/2025,0,0

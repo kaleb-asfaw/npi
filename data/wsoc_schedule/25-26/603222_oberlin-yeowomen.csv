@@ -1,0 +1,18 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+T,False,T 1-1,08/29/2025,Wilmington (OH),1,away,@ Wilmington (OH),08/29/2025,350,1
+L,False,L 0-4,09/01/2025,Pitt.-Greensburg,4,home,Pitt.-Greensburg,09/01/2025,139,0
+L,False,L 0-2,09/03/2025,Kalamazoo,2,home,Kalamazoo,09/03/2025,67,0
+T,False,T 0-0,09/06/2025,Geneva,0,away,@ Geneva,09/06/2025,151,0
+W,False,W 3-1,09/10/2025,Muskingum,1,home,Muskingum,09/10/2025,143,3
+W,False,W 4-0,09/13/2025,Olivet,0,away,@ Olivet,09/13/2025,0,4
+L,False,L 0-2,09/16/2025,Otterbein,2,away,@ Otterbein,09/16/2025,94,0
+W,False,W 3-0,09/20/2025,Hiram,0,home,Hiram,09/20/2025,231,3
+L,False,L 0-2,09/24/2025,Heidelberg,2,home,Heidelberg,09/24/2025,198,0
+T,False,T 0-0,09/27/2025,Marietta,0,away,@ Marietta,09/27/2025,175,0
+L,False,L 1-4,10/04/2025,Wittenberg,4,home,Wittenberg,10/04/2025,156,1
+L,False,L 0-3,10/11/2025,Denison,3,away,@ Denison,10/11/2025,350,0
+L,False,L 1-3,10/18/2025,John Carroll,3,home,John Carroll,10/18/2025,176,1
+T,False,T 1-1,10/22/2025,Ohio Wesleyan,1,away,@ Ohio Wesleyan,10/22/2025,67,1
+L,False,L 0-2,10/25/2025,Kenyon,2,away,@ Kenyon,10/25/2025,125,0
+L,False,L 0-2,10/28/2025,Wooster,2,home,Wooster,10/28/2025,187,0
+L,False,L 0-1,11/01/2025,DePauw,1,home,DePauw,11/01/2025,218,0

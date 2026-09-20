@@ -1,0 +1,21 @@
+opponent,Result,date_parsed,Attendance,team_score,Opponent,Date,opp_score,outcome,home_away,overtime
+Albright,W 3-0,09/03/2025,252,3,@ Albright,09/03/2025,0,W,away,False
+Salisbury,W 1-0,09/06/2025,147,1,@ Salisbury,09/06/2025,0,W,away,False
+St. Mary's (MD),W 4-0,09/07/2025,60,4,"St. Mary's (MD) @Salisbury, MD",09/07/2025,0,W,neutral,False
+Swarthmore,W 2-1,09/10/2025,392,2,Swarthmore,09/10/2025,1,W,home,False
+Babson,L 0-1,09/13/2025,200,0,@ Babson,09/13/2025,1,L,away,False
+Drew,W 5-0,09/20/2025,73,5,@ Drew,09/20/2025,0,W,away,False
+Rutgers-Newark,W 9-0,09/27/2025,218,9,@ Rutgers-Newark,09/27/2025,0,W,away,False
+New Jersey City,W 1-0,10/01/2025,74,1,@ New Jersey City,10/01/2025,0,W,away,False
+Rutgers-Camden,W 2-0,10/04/2025,274,2,Rutgers-Camden,10/04/2025,0,W,home,False
+Messiah,W 2-1,10/08/2025,257,2,Messiah,10/08/2025,1,W,home,False
+Wm. Paterson,W 3-0,10/11/2025,172,3,Wm. Paterson,10/11/2025,0,W,home,False
+Stockton,W 5-0,10/15/2025,135,5,@ Stockton,10/15/2025,0,W,away,False
+Montclair St.,T 2-2,10/18/2025,143,2,@ Montclair St.,10/18/2025,2,T,away,False
+Kean,W 3-0,10/22/2025,271,3,Kean,10/22/2025,0,W,home,False
+Ramapo,W 6-0,10/25/2025,276,6,Ramapo,10/25/2025,0,W,home,False
+TCNJ,T 2-2,10/29/2025,384,2,@ TCNJ,10/29/2025,2,T,away,False
+TCNJ,T 0-0 (3 OT),11/04/2025,358,0,#3 TCNJ NJAC WSOC Championship,11/04/2025,0,T,home,True
+Montclair St.,T 1-1 (3 OT),11/07/2025,425,1,@ #1 Montclair St. NJAC WSOC Championship,11/07/2025,1,T,away,True
+Misericordia,T 1-1 (2 OT),11/15/2025,182,1,"Misericordia @Newport News, VA (2025 NCAA DIII Women's Soccer Championship)",11/15/2025,1,T,neutral,True
+Penn St. Harrisburg,L 0-1,11/16/2025,172,0,"Penn St. Harrisburg @Newport News, VA (2025 NCAA DIII Women's Soccer Championship)",11/16/2025,1,L,neutral,False

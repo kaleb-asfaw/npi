@@ -1,0 +1,19 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 1-5,08/29/2025,North Park,5,away,@ North Park,08/29/2025,144,1
+L,False,L 0-1,09/03/2025,Elmhurst,1,home,Elmhurst,09/03/2025,105,0
+L,False,L 0-2,09/06/2025,Webster,2,away,@ Webster,09/06/2025,308,0
+L,False,L 0-8,09/11/2025,Lake Forest,8,away,@ Lake Forest,09/11/2025,34,0
+L,False,L 0-1,09/13/2025,Grinnell,1,home,Grinnell,09/13/2025,63,0
+L,False,L 0-3,09/17/2025,Concordia Wisconsin,3,home,Concordia Wisconsin,09/17/2025,100,0
+W,False,W 2-0,09/20/2025,Lakeland,0,home,Lakeland,09/20/2025,30,2
+L,False,L 0-4,09/22/2025,Wis.-Whitewater,4,away,@ Wis.-Whitewater,09/22/2025,197,0
+L,False,L 0-1,09/27/2025,Wis. Lutheran,1,away,@ Wis. Lutheran,09/27/2025,123,0
+L,False,L 0-5,10/01/2025,Illinois Tech,5,home,Illinois Tech,10/01/2025,100,0
+L,False,L 0-3,10/04/2025,MSOE,3,home,MSOE,10/04/2025,80,0
+W,False,W 6-0,10/08/2025,Rockford,0,away,@ Rockford,10/08/2025,74,6
+L,False,L 0-1,10/11/2025,St. Norbert,1,away,@ St. Norbert,10/11/2025,138,0
+L,False,L 2-4,10/15/2025,Concordia Chicago,4,away,@ Concordia Chicago,10/15/2025,38,2
+L,False,L 1-4,10/18/2025,Marian (WI),4,home,Marian (WI),10/18/2025,83,1
+L,False,L 1-5,10/22/2025,Dominican (IL),5,home,Dominican (IL),10/22/2025,53,1
+L,False,L 0-2,10/25/2025,Edgewood,2,away,@ Edgewood,10/25/2025,176,0
+L,False,L 0-2,10/29/2025,Aurora,2,away,@ Aurora,10/29/2025,148,0

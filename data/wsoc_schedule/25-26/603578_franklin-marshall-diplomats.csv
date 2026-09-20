@@ -1,0 +1,21 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 2-0,08/29/2025,Catholic,0,away,@ Catholic,08/29/2025,295,2
+W,False,W 5-1,09/02/2025,Elizabethtown,1,home,Elizabethtown,09/02/2025,102,5
+L,False,L 0-1,09/06/2025,Wash. & Lee,1,home,Wash. & Lee,09/06/2025,120,0
+W,False,W 2-1,09/09/2025,York (PA),1,away,@ York (PA),09/09/2025,178,2
+W,False,W 3-1,09/13/2025,Penn St. Harrisburg,1,home,Penn St. Harrisburg,09/13/2025,150,3
+T,False,T 0-0,09/17/2025,Arcadia,0,away,@ Arcadia,09/17/2025,75,0
+W,False,W 3-0,09/20/2025,Muhlenberg,0,home,Muhlenberg,09/20/2025,150,3
+W,False,W 2-1,09/24/2025,Washington Col.,1,away,@ Washington Col.,09/24/2025,131,2
+L,False,L 0-1,09/27/2025,Swarthmore,1,away,@ Swarthmore,09/27/2025,100,0
+T,False,T 1-1,10/04/2025,Dickinson,1,home,Dickinson,10/04/2025,150,1
+T,False,T 1-1,10/08/2025,McDaniel,1,home,McDaniel,10/08/2025,125,1
+T,False,T 0-0,10/11/2025,Mary Washington,0,home,Mary Washington,10/11/2025,150,0
+W,False,W 1-0,10/15/2025,Gettysburg,0,away,@ Gettysburg,10/15/2025,101,1
+L,False,L 0-1,10/18/2025,Johns Hopkins,1,home,Johns Hopkins,10/18/2025,150,0
+W,False,W 9-0,10/22/2025,Wilson,0,home,Wilson,10/22/2025,163,9
+W,False,W 1-0,10/25/2025,Haverford,0,home,Haverford,10/25/2025,190,1
+L,False,L 0-1,10/29/2025,Ursinus,1,away,@ Ursinus,10/29/2025,122,0
+W,False,W 4-0,11/01/2025,Bryn Mawr,0,away,@ Bryn Mawr,11/01/2025,100,4
+W,False,W 2-1,11/04/2025,Gettysburg,1,home,#5 Gettysburg Centennial WSOC Championship,11/04/2025,182,2
+L,False,L 0-1,11/07/2025,Swarthmore,1,away,@ #1 Swarthmore Centennial WSOC Championship,11/07/2025,124,0

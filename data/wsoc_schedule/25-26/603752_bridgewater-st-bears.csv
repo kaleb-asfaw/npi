@@ -1,0 +1,19 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 1-5,08/29/2025,Brandeis,5,away,@ Brandeis,08/29/2025,125,1
+L,False,L 2-5,09/03/2025,JWU (Providence),5,home,JWU (Providence),09/03/2025,150,2
+W,False,W 7-0,09/06/2025,Anna Maria,0,away,@ Anna Maria,09/06/2025,115,7
+L,False,L 0-3,09/10/2025,Wheaton (MA),3,away,@ Wheaton (MA),09/10/2025,82,0
+W,False,W 7-0,09/12/2025,Mass. Maritime,0,away,@ Mass. Maritime,09/12/2025,76,7
+L,False,L 1-6,09/17/2025,MIT,6,home,MIT,09/17/2025,75,1
+W,False,W 5-0,09/20/2025,MCLA,0,home,MCLA,09/20/2025,100,5
+L,False,L 0-1,09/24/2025,Roger Williams,1,home,Roger Williams,09/24/2025,100,0
+T,False,T 1-1,09/27/2025,Westfield St.,1,home,Westfield St.,09/27/2025,125,1
+T,False,T 1-1,10/01/2025,Gordon,1,home,Gordon,10/01/2025,100,1
+L,False,L 0-1,10/04/2025,Worcester St.,1,away,@ Worcester St.,10/04/2025,96,0
+T,False,T 0-0,10/08/2025,Connecticut Col.,0,home,Connecticut Col.,10/08/2025,100,0
+W,False,W 2-0,10/11/2025,Salem St.,0,home,Salem St.,10/11/2025,80,2
+L,False,L 0-3,10/22/2025,Tufts,3,home,Tufts,10/22/2025,70,0
+T,False,T 0-0,10/25/2025,Fitchburg St.,0,home,Fitchburg St.,10/25/2025,175,0
+W,False,W 3-2,11/01/2025,Framingham St.,2,away,@ Framingham St.,11/01/2025,200,3
+T,False,T 0-0,11/05/2025,Fitchburg St.,0,home,Fitchburg St. MASCAC WSOC Championship,11/05/2025,,0
+L,False,L 0-2,11/07/2025,Westfield St.,2,away,@ Westfield St. MASCAC WSOC Championship,11/07/2025,153,0

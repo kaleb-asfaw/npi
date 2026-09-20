@@ -1,0 +1,21 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 5-0,08/29/2025,Keuka,0,home,Keuka,08/29/2025,125,5
+L,False,L 3-8,08/30/2025,Lycoming,8,home,Lycoming,08/30/2025,100,3
+L,False,L 0-3,09/03/2025,St. John Fisher,3,away,@ St. John Fisher,09/03/2025,242,0
+T,False,T 0-0,09/06/2025,SUNY Brockport,0,away,@ SUNY Brockport,09/06/2025,0,0
+L,False,L 2-4,09/10/2025,Elmira,4,away,@ Elmira,09/10/2025,100,2
+W,False,W 4-1,09/13/2025,Hilbert,1,home,Hilbert,09/13/2025,100,4
+T,False,T 0-0,09/14/2025,Wooster,0,home,Wooster,09/14/2025,100,0
+L,False,L 1-4,09/17/2025,Houghton,4,away,@ Houghton,09/17/2025,115,1
+W,False,W 5-0,09/20/2025,Westminster (PA),0,away,@ Westminster (PA),09/20/2025,163,5
+W,False,W 2-1,09/27/2025,SUNY Potsdam,1,away,@ SUNY Potsdam,09/27/2025,112,2
+W,False,W 8-1,10/01/2025,SUNY Morrisville,1,home,SUNY Morrisville,10/01/2025,125,8
+W,False,W 5-0,10/04/2025,SUNY Canton,0,away,@ SUNY Canton,10/04/2025,125,5
+T,False,T 1-1,10/08/2025,Fredonia,1,away,@ Fredonia,10/08/2025,50,1
+L,False,L 0-2,10/11/2025,Cortland,2,home,Cortland,10/11/2025,105,0
+W,False,W 1-0,10/15/2025,SUNY Oneonta,0,home,SUNY Oneonta,10/15/2025,100,1
+T,False,T 1-1,10/18/2025,SUNY New Paltz,1,away,@ SUNY New Paltz,10/18/2025,201,1
+T,False,T 1-1,10/22/2025,Oswego St.,1,home,Oswego St.,10/22/2025,75,1
+L,False,L 0-1,10/25/2025,Plattsburgh St.,1,home,Plattsburgh St.,10/25/2025,100,0
+W,False,W 3-1,11/01/2025,SUNY New Paltz,1,home,SUNY New Paltz SUNYAC WSOC Tournament,11/01/2025,125,3
+L,False,L 0-5,11/05/2025,Cortland,5,away,@ Cortland SUNYAC WSOC Tournament,11/05/2025,163,0

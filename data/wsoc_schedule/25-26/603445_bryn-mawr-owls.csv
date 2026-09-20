@@ -1,0 +1,19 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 1-0,08/29/2025,Delaware Valley,0,away,@ Delaware Valley,08/29/2025,87,1
+W,False,W 6-0,08/31/2025,Notre Dame (MD),0,home,Notre Dame (MD),08/31/2025,60,6
+W,False,W 3-0,09/03/2025,Cedar Crest,0,home,Cedar Crest,09/03/2025,30,3
+W,False,W 1-0,09/06/2025,Hood,0,home,Hood,09/06/2025,50,1
+W,False,W 6-0,09/10/2025,Cairn,0,away,@ Cairn,09/10/2025,45,6
+L,False,L 0-4,09/13/2025,York (PA),4,away,@ York (PA),09/13/2025,0,0
+L,False,L 0-2,09/16/2025,Rutgers-Camden,2,home,Rutgers-Camden,09/16/2025,30,0
+L,False,L 0-1,09/20/2025,McDaniel,1,home,McDaniel,09/20/2025,75,0
+L,False,L 0-2,09/24/2025,Swarthmore,2,away,@ Swarthmore,09/24/2025,100,0
+L,False,L 0-1,09/27/2025,Marywood,1,away,@ Marywood,09/27/2025,131,0
+L,False,L 0-5,10/04/2025,Johns Hopkins,5,away,@ Johns Hopkins,10/04/2025,250,0
+L,False,L 0-2,10/08/2025,Haverford,2,away,@ Haverford,10/08/2025,53,0
+L,False,L 0-2,10/11/2025,Gettysburg,2,home,Gettysburg,10/11/2025,50,0
+L,False,L 0-4,10/15/2025,Ursinus,4,home,Ursinus,10/15/2025,50,0
+L,False,L 0-4,10/18/2025,Dickinson,4,away,@ Dickinson,10/18/2025,30,0
+L,False,L 0-1,10/25/2025,Washington Col.,1,away,@ Washington Col.,10/25/2025,150,0
+T,False,T 0-0,10/29/2025,Muhlenberg,0,home,Muhlenberg,10/29/2025,55,0
+L,False,L 0-4,11/01/2025,Franklin & Marshall,4,home,Franklin & Marshall,11/01/2025,100,0

@@ -1,0 +1,20 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 0-6,08/29/2025,Houghton,6,away,@ Houghton,08/29/2025,163,0
+L,False,L 0-3,08/30/2025,Hilbert,3,away,@ Hilbert,08/30/2025,88,0
+L,False,L 0-7,09/02/2025,Utica,7,home,Utica,09/02/2025,150,0
+L,False,L 1-4,09/06/2025,SUNY ESF,4,home,SUNY ESF,09/06/2025,56,1
+L,False,L 0-6,09/09/2025,Clarkson,6,away,@ Clarkson,09/09/2025,143,0
+L,False,L 0-4,09/13/2025,Alfred St.,4,home,Alfred St.,09/13/2025,120,0
+L,False,L 0-7,09/16/2025,St. Lawrence,7,home,St. Lawrence,09/16/2025,350,0
+L,False,L 0-3,09/19/2025,VTSU-Johnson,3,away,@ VTSU-Johnson,09/19/2025,99,0
+,,Ppd,09/24/2025,SUNY Cobleskill,,away,@ SUNY Cobleskill,09/24/2025,,
+L,False,L 0-6,09/27/2025,Fredonia,6,away,@ Fredonia,09/27/2025,100,0
+L,False,L 0-6,10/01/2025,Oswego St.,6,away,@ Oswego St.,10/01/2025,87,0
+L,False,L 0-5,10/04/2025,Buffalo St.,5,home,Buffalo St.,10/04/2025,125,0
+L,False,L 0-5,10/08/2025,SUNY Potsdam,5,away,@ SUNY Potsdam,10/08/2025,130,0
+L,False,L 0-2,10/11/2025,Plattsburgh St.,2,home,Plattsburgh St.,10/11/2025,180,0
+L,False,L 0-2,10/15/2025,SUNY Morrisville,2,home,SUNY Morrisville,10/15/2025,52,0
+L,False,L 1-9,10/18/2025,SUNY Oneonta,9,away,@ SUNY Oneonta,10/18/2025,230,1
+L,False,L 0-6,10/22/2025,Cortland,6,away,@ Cortland,10/22/2025,113,0
+L,False,L 0-7,10/25/2025,SUNY New Paltz,7,home,SUNY New Paltz,10/25/2025,72,0
+W,False,W 9-0,10/29/2025,VTSU Lyndon,0,home,VTSU Lyndon,10/29/2025,56,9

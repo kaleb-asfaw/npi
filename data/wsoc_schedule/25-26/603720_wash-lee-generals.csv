@@ -1,0 +1,24 @@
+Date,outcome,opp_score,overtime,Result,date_parsed,opponent,Attendance,home_away,team_score,Opponent
+08/29/2025,W,0,False,W 3-0,08/29/2025,York (PA),210,away,3,@ York (PA)
+08/31/2025,L,1,False,L 0-1,08/31/2025,Swarthmore,75,away,0,@ Swarthmore
+09/06/2025,W,0,False,W 1-0,09/06/2025,Franklin & Marshall,120,away,1,@ Franklin & Marshall
+09/07/2025,W,1,False,W 2-1,09/07/2025,Johns Hopkins,169,home,2,Johns Hopkins
+09/12/2025,W,0,False,W 1-0,09/12/2025,Southern Va.,152,home,1,Southern Va.
+09/14/2025,L,1,False,L 0-1,09/14/2025,Emory,207,neutral,0,"Emory @Cary, NC"
+09/20/2025,T,1,False,T 1-1,09/20/2025,Chris. Newport,327,home,1,Chris. Newport
+09/24/2025,W,0,False,W 4-0,09/24/2025,Va. Wesleyan,235,away,4,@ Va. Wesleyan
+09/27/2025,W,1,False,W 2-1,09/27/2025,Shenandoah,81,home,2,Shenandoah
+10/01/2025,W,0,False,W 2-0,10/01/2025,Bridgewater (VA),101,away,2,@ Bridgewater (VA)
+10/04/2025,W,0,False,W 4-0,10/04/2025,Guilford,108,away,4,@ Guilford
+10/07/2025,W,0,False,W 12-0,10/07/2025,Sweet Briar,49,home,12,Sweet Briar
+10/11/2025,W,0,False,W 4-0,10/11/2025,Roanoke,183,home,4,Roanoke
+10/15/2025,W,0,False,W 2-0,10/15/2025,Randolph-Macon,249,away,2,@ Randolph-Macon
+10/18/2025,W,0,False,W 1-0,10/18/2025,Lynchburg,204,away,1,@ Lynchburg
+10/22/2025,W,0,False,W 4-0,10/22/2025,Randolph,134,home,4,Randolph
+10/25/2025,W,0,False,W 12-0,10/25/2025,Averett,176,home,12,Averett
+11/01/2025,W,0,False,W 9-0,11/01/2025,East. Mennonite,139,home,9,#8 East. Mennonite ODAC WSOC Championship
+11/05/2025,W,2,True,W 3-2 (1 OT),11/05/2025,Bridgewater (VA),118,home,3,#4 Bridgewater (VA) ODAC WSOC Championship
+11/08/2025,T,1,True,T 1-1 (3 OT),11/08/2025,Va. Wesleyan,377,home,1,#2 Va. Wesleyan ODAC WSOC Championship
+11/15/2025,W,0,False,W 3-0,11/15/2025,Marymount (VA),297,home,3,Marymount (VA) 2025 NCAA DIII Women's Soccer Championship
+11/16/2025,W,0,False,W 2-0,11/16/2025,Carnegie Mellon,362,neutral,2,"Carnegie Mellon @Lexington, VA (2025 NCAA DIII Women's Soccer Championship)"
+11/22/2025,T,0,True,T 0-0 (3 OT),11/22/2025,Pomona-Pitzer,274,home,0,Pomona-Pitzer 2025 NCAA DIII Women's Soccer Championship

@@ -1,0 +1,16 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 7-0,09/03/2025,Anna Maria,0,home,Anna Maria,09/03/2025,111,7
+W,False,W 2-0,09/06/2025,Bates,0,home,Bates,09/06/2025,132,2
+W,False,W 3-0,09/09/2025,Saint Joseph (CT),0,away,@ Saint Joseph (CT),09/09/2025,102,3
+T,False,T 0-0,09/13/2025,Middlebury,0,home,Middlebury,09/13/2025,113,0
+W,False,W 1-0,09/17/2025,Salve Regina,0,home,Salve Regina,09/17/2025,109,1
+L,False,L 0-2,09/20/2025,Williams,2,away,@ Williams,09/20/2025,62,0
+L,False,L 0-4,09/23/2025,Wesleyan (CT),4,away,@ Wesleyan (CT),09/23/2025,107,0
+T,False,T 0-0,09/27/2025,Brandeis,0,home,Brandeis,09/27/2025,142,0
+L,False,L 0-2,10/04/2025,Tufts,2,home,Tufts,10/04/2025,0,0
+W,False,W 3-0,10/08/2025,Eastern Conn. St.,0,home,Eastern Conn. St.,10/08/2025,121,3
+L,False,L 0-1,10/11/2025,Bowdoin,1,away,@ Bowdoin,10/11/2025,211,0
+L,False,L 1-4,10/18/2025,Colby,4,home,Colby,10/18/2025,420,1
+W,False,W 4-3,10/21/2025,Connecticut Col.,3,home,Connecticut Col.,10/21/2025,133,4
+L,False,L 0-1,10/25/2025,Hamilton,1,away,@ Hamilton,10/25/2025,104,0
+L,False,L 0-3,10/28/2025,Amherst,3,away,@ Amherst,10/28/2025,131,0

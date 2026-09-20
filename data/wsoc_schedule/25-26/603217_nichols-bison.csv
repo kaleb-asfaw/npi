@@ -1,0 +1,19 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 0-4,08/29/2025,Albertus Magnus,4,home,Albertus Magnus,08/29/2025,102,0
+L,False,L 0-6,08/30/2025,Clark (MA),6,home,Clark (MA),08/30/2025,243,0
+L,False,L 0-1,09/03/2025,Russell Sage,1,away,@ Russell Sage,09/03/2025,13,0
+L,False,L 2-5,09/06/2025,Plymouth St.,5,away,@ Plymouth St.,09/06/2025,120,2
+W,False,W 4-2,09/09/2025,Fitchburg St.,2,home,Fitchburg St.,09/09/2025,102,4
+L,False,L 0-4,09/12/2025,JWU (Providence),4,home,JWU (Providence),09/12/2025,117,0
+L,False,L 2-7,09/16/2025,Rivier,7,home,Rivier,09/16/2025,80,2
+L,False,L 1-3,09/20/2025,U New England,3,away,@ U New England,09/20/2025,106,1
+L,False,L 0-8,09/23/2025,Smith,8,away,@ Smith,09/23/2025,100,0
+L,False,L 0-2,09/26/2025,Western New Eng.,2,home,Western New Eng.,09/26/2025,143,0
+T,False,T 0-0,09/30/2025,Salem St.,0,away,@ Salem St.,09/30/2025,100,0
+L,False,L 1-4,10/04/2025,Curry,4,home,Curry,10/04/2025,127,1
+L,False,L 1-8,10/08/2025,Gordon,8,away,@ Gordon,10/08/2025,77,1
+L,False,L 1-3,10/11/2025,Wentworth,3,away,@ Wentworth,10/11/2025,349,1
+L,False,L 1-6,10/18/2025,Endicott,6,home,Endicott,10/18/2025,120,1
+L,False,L 0-7,10/22/2025,Hartford,7,away,@ Hartford,10/22/2025,212,0
+L,False,L 0-7,10/25/2025,Roger Williams,7,home,Roger Williams,10/25/2025,147,0
+L,False,L 0-5,10/29/2025,Suffolk,5,away,@ Suffolk,10/29/2025,128,0

@@ -1,0 +1,18 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 0-2,08/29/2025,Ithaca,2,away,@ Ithaca,08/29/2025,300,0
+L,False,L 0-1,09/03/2025,King's (PA),1,home,King's (PA),09/03/2025,150,0
+L,False,L 0-6,09/06/2025,Penn College,6,home,Penn College,09/06/2025,150,0
+W,False,W 4-2,09/10/2025,Buffalo St.,2,home,Buffalo St.,09/10/2025,100,4
+L,False,L 0-6,09/13/2025,St. John Fisher,6,away,@ St. John Fisher,09/13/2025,354,0
+L,False,L 0-2,09/17/2025,Alfred St.,2,away,@ Alfred St.,09/17/2025,72,0
+W,False,W 2-0,09/20/2025,SUNY Poly,0,away,@ SUNY Poly,09/20/2025,113,2
+L,False,L 0-4,09/24/2025,Russell Sage,4,home,Russell Sage,09/24/2025,37,0
+L,False,L 0-2,09/27/2025,Utica,2,home,Utica,09/27/2025,63,0
+L,False,L 0-8,10/01/2025,Lycoming,8,home,Lycoming,10/01/2025,45,0
+T,False,T 0-0,10/04/2025,Alfred,0,away,@ Alfred,10/04/2025,199,0
+L,False,L 0-5,10/08/2025,Hartwick,5,away,@ Hartwick,10/08/2025,88,0
+L,False,L 0-3,10/11/2025,SUNY Geneseo,3,home,SUNY Geneseo,10/11/2025,200,0
+T,False,T 1-1,10/15/2025,Keuka,1,home,Keuka,10/15/2025,102,1
+L,False,L 0-1,10/18/2025,SUNY Brockport,1,away,@ SUNY Brockport,10/18/2025,150,0
+L,False,L 0-1,10/25/2025,Nazareth,1,home,Nazareth,10/25/2025,125,0
+L,False,L 0-1,10/29/2025,Houghton,1,away,@ Houghton,10/29/2025,110,0

@@ -1,0 +1,24 @@
+Result,home_away,overtime,date_parsed,Date,Attendance,opponent,opp_score,outcome,Opponent,team_score
+W 7-0,home,False,08/29/2025,08/29/2025,450,Carroll (WI),0,W,Carroll (WI),7
+W 6-0,home,False,09/02/2025,09/02/2025,135,Wis.-Superior,0,W,Wis.-Superior,6
+W 5-0,home,False,09/05/2025,09/05/2025,110,Lawrence,0,W,Lawrence,5
+W 4-0,home,False,09/06/2025,09/06/2025,135,Grinnell,0,W,Grinnell,4
+W 6-2,away,False,09/13/2025,09/13/2025,150,Millikin,2,W,@ Millikin,6
+W 4-0,away,False,09/14/2025,09/14/2025,216,Edgewood,0,W,@ Edgewood,4
+W 5-0,home,False,09/18/2025,09/18/2025,110,Simpson,0,W,Simpson,5
+W 5-0,home,False,09/21/2025,09/21/2025,153,Concordia-M'head,0,W,Concordia-M'head,5
+L 2-3,away,False,09/24/2025,09/24/2025,152,Carleton,3,L,@ Carleton,2
+W 9-2,away,False,09/27/2025,09/27/2025,80,Concordia Wisconsin,2,W,@ Concordia Wisconsin,9
+W 6-0,away,False,10/01/2025,10/01/2025,75,UW-River Falls,0,W,@ UW-River Falls,6
+W 4-1,away,False,10/04/2025,10/04/2025,239,Wis.-Stevens Point,1,W,@ Wis.-Stevens Point,4
+W 8-0,home,False,10/08/2025,10/08/2025,75,Bethel (MN),0,W,Bethel (MN),8
+W 3-0,home,False,10/11/2025,10/11/2025,405,Wis.-Eau Claire,0,W,Wis.-Eau Claire,3
+L 0-1,away,False,10/14/2025,10/14/2025,145,MSOE,1,L,@ MSOE,0
+W 4-0,away,False,10/18/2025,10/18/2025,175,Wis.-Stout,0,W,@ Wis.-Stout,4
+T 1-1,home,False,10/22/2025,10/22/2025,166,Wis.-Platteville,1,T,Wis.-Platteville,1
+W 5-1,away,False,10/25/2025,10/25/2025,216,Wis.-Oshkosh,1,W,@ Wis.-Oshkosh,5
+W 3-0,home,False,11/01/2025,11/01/2025,271,Wis.-Whitewater,0,W,Wis.-Whitewater,3
+W 9-0,home,False,11/07/2025,11/07/2025,206,Wis.-Stevens Point,0,W,#4 Wis.-Stevens Point WIAC WSOC Tournament,9
+W 2-0,home,False,11/09/2025,11/09/2025,226,Wis.-Platteville,0,W,#2 Wis.-Platteville WIAC WSOC Tournament,2
+W 4-0,neutral,False,11/15/2025,11/15/2025,209,St. Catherine,0,W,"St. Catherine @Chicago, IL (2025 NCAA DIII Women's Soccer Championship)",4
+L 1-3,neutral,False,11/16/2025,11/16/2025,384,UChicago,3,L,"UChicago @Chicago, IL (2025 NCAA DIII Women's Soccer Championship)",1

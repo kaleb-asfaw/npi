@@ -1,0 +1,18 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 0-1,08/29/2025,Suffolk,1,home,Suffolk,08/29/2025,135,0
+W,False,W 1-0,08/31/2025,Plattsburgh St.,0,home,Plattsburgh St.,08/31/2025,115,1
+L,False,L 0-1,09/06/2025,Hartwick,1,away,@ Hartwick,09/06/2025,70,0
+W,False,W 1-0,09/07/2025,SUNY Oneonta,0,away,@ SUNY Oneonta,09/07/2025,352,1
+W,False,W 1-0,09/10/2025,VTSU Castleton,0,away,@ VTSU Castleton,09/10/2025,85,1
+W,False,W 1-0,09/13/2025,Drew,0,home,Drew,09/13/2025,250,1
+T,False,T 0-0,09/16/2025,UMSV,0,away,@ UMSV,09/16/2025,82,0
+L,False,L 1-2,09/20/2025,SUNY New Paltz,2,away,@ SUNY New Paltz,09/20/2025,80,1
+T,False,T 0-0,09/27/2025,RIT,0,home,RIT,09/27/2025,102,0
+L,False,L 0-1,10/04/2025,Union (NY),1,away,@ Union (NY),10/04/2025,256,0
+T,False,T 0-0,10/08/2025,Skidmore,0,home,Skidmore,10/08/2025,100,0
+L,False,L 0-2,10/11/2025,Ithaca,2,away,@ Ithaca,10/11/2025,125,0
+W,False,W 2-1,10/18/2025,Clarkson,1,home,Clarkson,10/18/2025,125,2
+L,False,L 0-4,10/22/2025,Vassar,4,away,@ Vassar,10/22/2025,67,0
+L,False,L 0-1,10/25/2025,St. Lawrence,1,away,@ St. Lawrence,10/25/2025,229,0
+W,False,W 4-0,10/29/2025,Bard,0,home,Bard,10/29/2025,112,4
+T,False,T 0-0,11/01/2025,William Smith,0,home,William Smith,11/01/2025,120,0

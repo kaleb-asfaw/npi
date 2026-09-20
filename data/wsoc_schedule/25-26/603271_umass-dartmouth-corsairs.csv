@@ -1,0 +1,19 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+T,False,T 1-1,08/29/2025,Regis (MA),1,home,Regis (MA),08/29/2025,83,1
+W,False,W 4-1,08/30/2025,Elms,1,away,@ Elms,08/30/2025,112,4
+L,False,L 0-1,09/02/2025,Suffolk,1,home,Suffolk,09/02/2025,63,0
+W,False,W 2-1,09/05/2025,Curry,1,home,Curry,09/05/2025,73,2
+L,False,L 0-5,09/10/2025,Roger Williams,5,away,@ Roger Williams,09/10/2025,173,0
+L,False,L 0-3,09/13/2025,Southern Me.,3,home,Southern Me.,09/13/2025,113,0
+L,False,L 0-2,09/17/2025,WPI,2,home,WPI,09/17/2025,57,0
+T,False,T 1-1,09/20/2025,Keene St.,1,away,@ Keene St.,09/20/2025,380,1
+W,False,W 3-1,09/27/2025,WestConn,1,home,WestConn,09/27/2025,113,3
+T,False,T 2-2,09/30/2025,Hartford,2,away,@ Hartford,09/30/2025,512,2
+L,False,L 1-2,10/04/2025,VTSU Castleton,2,away,@ VTSU Castleton,10/04/2025,55,1
+W,False,W 3-0,10/08/2025,Framingham St.,0,away,@ Framingham St.,10/08/2025,50,3
+L,False,L 1-4,10/11/2025,Eastern Conn. St.,4,home,Eastern Conn. St.,10/11/2025,127,1
+W,False,W 3-0,10/14/2025,Mass. Maritime,0,home,Mass. Maritime,10/14/2025,89,3
+W,False,W 3-0,10/18/2025,Plymouth St.,0,away,@ Plymouth St.,10/18/2025,205,3
+L,False,L 0-1,10/22/2025,Rhode Island Col.,1,away,@ Rhode Island Col.,10/22/2025,315,0
+W,False,W 2-0,10/25/2025,Worcester St.,0,away,@ Worcester St.,10/25/2025,115,2
+L,False,L 0-3,10/29/2025,UMass Boston,3,home,UMass Boston,10/29/2025,87,0

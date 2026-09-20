@@ -1,0 +1,19 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+T,False,T 0-0,08/29/2025,Dubuque,0,away,@ Dubuque,08/29/2025,85,0
+L,False,L 0-1,08/30/2025,Edgewood,1,home,Edgewood,08/30/2025,70,0
+L,False,L 0-2,09/05/2025,Saint Mary's (MN),2,away,@ Saint Mary's (MN),09/05/2025,115,0
+L,False,L 0-4,09/06/2025,Wis.-La Crosse,4,away,@ Wis.-La Crosse,09/06/2025,135,0
+W,False,W 1-0,09/13/2025,Benedictine (IL),0,away,@ Benedictine (IL),09/13/2025,63,1
+W,False,W 1-0,09/14/2025,Wis.-Whitewater,0,home,Wis.-Whitewater,09/14/2025,35,1
+W,False,W 1-0,09/20/2025,Westminster (MO),0,home,Westminster (MO),09/20/2025,150,1
+L,False,L 0-1,09/23/2025,Central (IA),1,away,@ Central (IA),09/23/2025,100,0
+L,False,L 0-2,09/27/2025,Lawrence,2,away,@ Lawrence,09/27/2025,210,0
+T,False,T 0-0,09/30/2025,Monmouth (IL),0,home,Monmouth (IL),09/30/2025,70,0
+T,False,T 0-0,10/04/2025,Ripon,0,home,Ripon,10/04/2025,65,0
+W,False,W 3-0,10/08/2025,Cornell College,0,away,@ Cornell College,10/08/2025,126,3
+T,False,T 2-2,10/11/2025,Coe,2,away,@ Coe,10/11/2025,71,2
+W,False,W 3-1,10/14/2025,Beloit,1,home,Beloit,10/14/2025,61,3
+L,False,L 0-2,10/18/2025,Illinois Col.,2,home,Illinois Col.,10/18/2025,70,0
+L,False,L 0-3,10/25/2025,Lake Forest,3,away,@ Lake Forest,10/25/2025,136,0
+W,False,W 3-0,11/01/2025,Knox,0,away,@ Knox,11/01/2025,34,3
+L,False,L 0-1,11/07/2025,Lake Forest,1,away,@ #1 Lake Forest Midwest Conference WSOC Tournament,11/07/2025,174,0

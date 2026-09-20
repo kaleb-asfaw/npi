@@ -1,0 +1,20 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 0-1,08/31/2025,Wis.-Oshkosh,1,home,Wis.-Oshkosh,08/31/2025,220,0
+T,False,T 2-2,09/05/2025,Redlands,2,home,Redlands,09/05/2025,227,2
+W,False,W 3-2,09/07/2025,Warner Pacific,2,home,Warner Pacific,09/07/2025,218,3
+T,False,T 0-0,09/12/2025,George Fox,0,away,@ George Fox,09/12/2025,96,0
+L,False,L 1-4,09/14/2025,Linfield,4,home,Linfield,09/14/2025,180,1
+W,False,W 2-1,09/20/2025,Whitworth,1,away,@ Whitworth,09/20/2025,200,2
+L,False,L 0-1,09/21/2025,Whitman,1,away,@ Whitman,09/21/2025,100,0
+L,False,L 0-3,09/27/2025,Pacific Lutheran,3,home,Pacific Lutheran,09/27/2025,280,0
+L,False,L 0-2,09/28/2025,Puget Sound,2,home,Puget Sound,09/28/2025,247,0
+T,False,T 2-2,10/01/2025,Linfield,2,away,@ Linfield,10/01/2025,97,2
+T,False,T 2-2,10/11/2025,Lewis & Clark,2,home,Lewis & Clark,10/11/2025,178,2
+T,False,T 0-0,10/12/2025,Pacific (OR),0,away,@ Pacific (OR),10/12/2025,50,0
+W,False,W 3-0,10/15/2025,George Fox,0,home,George Fox,10/15/2025,118,3
+T,False,T 1-1,10/18/2025,Whitman,1,home,Whitman,10/18/2025,218,1
+T,False,T 1-1,10/19/2025,Whitworth,1,home,Whitworth,10/19/2025,189,1
+L,False,L 0-4,10/25/2025,Puget Sound,4,away,@ Puget Sound,10/25/2025,207,0
+L,False,L 0-2,10/26/2025,Pacific Lutheran,2,away,@ Pacific Lutheran,10/26/2025,124,0
+T,False,T 1-1,11/08/2025,Pacific (OR),1,home,Pacific (OR),11/08/2025,178,1
+T,False,T 1-1,11/09/2025,Lewis & Clark,1,away,@ Lewis & Clark,11/09/2025,213,1

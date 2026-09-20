@@ -1,0 +1,21 @@
+Attendance,date_parsed,opp_score,outcome,Date,overtime,Result,opponent,team_score,home_away,Opponent
+56,08/29/2025,1,W,08/29/2025,False,W 4-1,Salisbury,4,neutral,"Salisbury @Saint Mary`s City, MD"
+133,08/30/2025,0,T,08/30/2025,False,T 0-0,St. Mary's (MD),0,away,@ St. Mary's (MD)
+295,09/06/2025,4,L,09/06/2025,False,L 2-4,NYU,2,home,NYU
+265,09/07/2025,0,W,09/07/2025,False,W 1-0,SUNY New Paltz,1,home,SUNY New Paltz
+150,09/10/2025,1,L,09/10/2025,False,L 0-1,Arcadia,0,away,@ Arcadia
+100,09/13/2025,2,T,09/13/2025,False,T 2-2,Swarthmore,2,away,@ Swarthmore
+128,09/16/2025,4,L,09/16/2025,False,L 0-4,Johns Hopkins,0,home,Johns Hopkins
+148,09/20/2025,1,W,09/20/2025,False,W 3-1,Penn St. Harrisburg,3,home,Penn St. Harrisburg
+328,09/24/2025,1,T,09/24/2025,False,T 1-1,Stevens,1,home,Stevens
+140,09/27/2025,0,W,09/27/2025,False,W 1-0,Kean,1,away,@ Kean
+188,10/01/2025,3,L,10/01/2025,False,L 2-3,Stockton,2,home,Stockton
+275,10/04/2025,2,T,10/04/2025,False,T 2-2,Montclair St.,2,away,@ Montclair St.
+437,10/11/2025,0,W,10/11/2025,False,W 7-0,Ramapo,7,home,Ramapo
+101,10/15/2025,0,W,10/15/2025,False,W 1-0,Rutgers-Camden,1,away,@ Rutgers-Camden
+244,10/18/2025,2,W,10/18/2025,False,W 3-2,Rutgers-Newark,3,home,Rutgers-Newark
+192,10/22/2025,1,W,10/22/2025,False,W 2-1,New Jersey City,2,home,New Jersey City
+78,10/25/2025,0,W,10/25/2025,False,W 4-0,Wm. Paterson,4,away,@ Wm. Paterson
+384,10/29/2025,2,T,10/29/2025,False,T 2-2,Rowan,2,home,Rowan
+258,11/01/2025,0,W,11/01/2025,False,W 3-0,Stockton,3,home,#6 Stockton NJAC WSOC Championship
+358,11/04/2025,0,T,11/04/2025,True,T 0-0 (3 OT),Rowan,0,away,@ #2 Rowan NJAC WSOC Championship

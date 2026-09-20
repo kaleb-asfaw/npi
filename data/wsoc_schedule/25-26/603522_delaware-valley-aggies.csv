@@ -1,0 +1,19 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 0-1,08/29/2025,Bryn Mawr,1,home,Bryn Mawr,08/29/2025,87,0
+L,False,L 0-5,08/31/2025,Ursinus,5,away,@ Ursinus,08/31/2025,223,0
+T,False,T 1-1,09/03/2025,Neumann,1,home,Neumann,09/03/2025,40,1
+L,False,L 0-4,09/06/2025,Susquehanna,4,away,@ Susquehanna,09/06/2025,225,0
+L,False,L 0-3,09/09/2025,Eastern,3,home,Eastern,09/09/2025,60,0
+L,False,L 0-1,09/13/2025,Marymount (VA),1,away,@ Marymount (VA),09/13/2025,89,0
+W,False,W 3-2,09/17/2025,Cairn,2,away,@ Cairn,09/17/2025,115,3
+W,False,W 2-1,09/20/2025,Cedar Crest,1,away,@ Cedar Crest,09/20/2025,67,2
+W,False,W 2-1,09/24/2025,Rutgers-Camden,1,home,Rutgers-Camden,09/24/2025,30,2
+L,False,L 0-4,09/30/2025,Alvernia,4,home,Alvernia,09/30/2025,78,0
+L,False,L 0-6,10/04/2025,DeSales,6,away,@ DeSales,10/04/2025,120,0
+L,False,L 0-6,10/11/2025,Lebanon Valley,6,away,@ Lebanon Valley,10/11/2025,168,0
+L,False,L 0-1,10/15/2025,Albright,1,home,Albright,10/15/2025,90,0
+L,False,L 1-5,10/18/2025,King's (PA),5,home,King's (PA),10/18/2025,75,1
+L,False,L 0-4,10/21/2025,Arcadia,4,home,Arcadia,10/21/2025,77,0
+L,False,L 0-5,10/25/2025,FDU-Florham,5,away,@ FDU-Florham,10/25/2025,345,0
+L,False,L 0-9,10/29/2025,Misericordia,9,away,@ Misericordia,10/29/2025,150,0
+L,False,L 0-8,11/01/2025,Stevens,8,home,Stevens,11/01/2025,180,0

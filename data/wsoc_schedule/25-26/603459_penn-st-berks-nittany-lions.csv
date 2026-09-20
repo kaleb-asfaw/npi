@@ -1,0 +1,21 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 2-3,08/29/2025,Ursinus,3,home,Ursinus,08/29/2025,154,2
+L,False,L 0-4,08/31/2025,York (PA),4,away,@ York (PA),08/31/2025,212,0
+,,Ppd,09/04/2025,Pitt.-Bradford,,home,Pitt.-Bradford,09/04/2025,,
+W,False,W 2-1,09/06/2025,Alfred St.,1,home,Alfred St.,09/06/2025,108,2
+L,False,L 1-5,09/08/2025,Montclair St.,5,home,Montclair St.,09/08/2025,119,1
+L,False,L 0-1,09/10/2025,Haverford,1,home,Haverford,09/10/2025,137,0
+W,False,W 2-0,09/13/2025,Albright,0,home,Albright,09/13/2025,148,2
+L,False,L 0-7,09/17/2025,Messiah,7,away,@ Messiah,09/17/2025,110,0
+T,False,T 1-1,09/20/2025,Elizabethtown,1,away,@ Elizabethtown,09/20/2025,173,1
+T,False,T 1-1,09/24/2025,Gwynedd Mercy,1,away,@ Gwynedd Mercy,09/24/2025,171,1
+W,False,W 3-0,10/01/2025,Wilson,0,home,Wilson,10/01/2025,123,3
+W,False,W 1-0,10/04/2025,Penn St. Brandywine,0,away,@ Penn St. Brandywine,10/04/2025,125,1
+L,False,L 1-2,10/07/2025,Lancaster Bible,2,home,Lancaster Bible,10/07/2025,112,1
+L,False,L 0-1,10/11/2025,Penn St. Harrisburg,1,away,@ Penn St. Harrisburg,10/11/2025,205,0
+L,False,L 1-2,10/15/2025,St. Mary's (MD),2,home,St. Mary's (MD),10/15/2025,107,1
+W,False,W 2-0,10/18/2025,Penn St.-Abington,0,away,@ Penn St.-Abington,10/18/2025,102,2
+W,False,W 13-1,10/21/2025,Keystone,1,home,Keystone,10/21/2025,115,13
+W,False,W 2-1,10/25/2025,Cedar Crest,1,away,@ Cedar Crest,10/25/2025,120,2
+W,False,W 2-1,11/01/2025,Lancaster Bible,1,away,@ Lancaster Bible United East WSOC Championship,11/01/2025,380,2
+L,False,L 0-4,11/04/2025,Penn St. Harrisburg,4,away,@ Penn St. Harrisburg United East WSOC Championship,11/04/2025,175,0

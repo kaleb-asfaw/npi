@@ -1,0 +1,6 @@
+CLAUDE.md
+.venv/
+__pycache__/
+*.pyc
+
+docs/meetings.md

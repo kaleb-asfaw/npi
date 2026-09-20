@@ -1,0 +1,20 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 0-2,08/30/2025,Alfred,2,away,@ Alfred,08/30/2025,0,0
+L,False,L 0-2,09/03/2025,Mount Union,2,away,@ Mount Union,09/03/2025,69,0
+W,False,W 6-0,09/06/2025,Pitt.-Bradford,0,home,Pitt.-Bradford,09/06/2025,74,6
+W,False,W 5-0,09/10/2025,Carlow,0,home,Carlow,09/10/2025,86,5
+T,False,T 3-3,09/13/2025,Penn St.-Altoona,3,home,Penn St.-Altoona,09/13/2025,67,3
+T,False,T 1-1,09/17/2025,Marietta,1,away,@ Marietta,09/17/2025,148,1
+W,False,W 2-1,09/20/2025,Muskingum,1,home,Muskingum,09/20/2025,79,2
+L,False,L 0-2,09/24/2025,Allegheny,2,away,@ Allegheny,09/24/2025,55,0
+W,False,W 3-0,09/27/2025,Franciscan,0,home,Franciscan,09/27/2025,130,3
+W,False,W 7-2,10/01/2025,Thiel,2,away,@ Thiel,10/01/2025,100,7
+W,False,W 3-1,10/04/2025,Bethany (WV),1,away,@ Bethany (WV),10/04/2025,119,3
+W,False,W 1-0,10/07/2025,Westminster (PA),0,home,Westminster (PA),10/07/2025,74,1
+W,False,W 1-0,10/10/2025,Wash. & Jeff.,0,home,Wash. & Jeff.,10/10/2025,133,1
+L,False,L 1-2,10/15/2025,Waynesburg,2,away,@ Waynesburg,10/15/2025,82,1
+L,False,L 0-6,10/18/2025,Grove City,6,home,Grove City,10/18/2025,75,0
+W,False,W 3-0,10/22/2025,Geneva,0,home,Geneva,10/22/2025,62,3
+L,False,L 0-2,10/25/2025,Saint Vincent,2,away,@ Saint Vincent,10/25/2025,273,0
+W,False,W 1-0,10/29/2025,Hiram,0,away,@ Hiram,10/29/2025,97,1
+T,True,T 0-0 (3 OT),11/01/2025,Franciscan,0,home,#5 Franciscan PAC WSOC Championship,11/01/2025,167,0

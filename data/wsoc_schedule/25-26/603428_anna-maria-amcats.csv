@@ -1,0 +1,17 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 0-1,08/29/2025,New England Col.,1,home,New England Col.,08/29/2025,115,0
+L,False,L 0-4,08/31/2025,Mount Holyoke,4,away,@ Mount Holyoke,08/31/2025,120,0
+L,False,L 0-7,09/03/2025,Trinity (CT),7,away,@ Trinity (CT),09/03/2025,111,0
+L,False,L 0-7,09/06/2025,Bridgewater St.,7,home,Bridgewater St.,09/06/2025,115,0
+L,False,L 2-3,09/10/2025,Simmons,3,home,Simmons,09/10/2025,0,2
+L,False,L 0-2,09/13/2025,Salem St.,2,away,@ Salem St.,09/13/2025,,0
+L,False,L 1-4,09/17/2025,Albertus Magnus,4,home,Albertus Magnus,09/17/2025,95,1
+L,False,L 0-3,09/24/2025,Regis (MA),3,home,Regis (MA),09/24/2025,115,0
+W,False,W 1-0,09/27/2025,Mass. Maritime,0,away,@ Mass. Maritime,09/27/2025,75,1
+T,False,T 0-0,10/01/2025,Wentworth,0,home,Wentworth,10/01/2025,115,0
+T,False,T 0-0,10/03/2025,MCLA,0,away,@ MCLA,10/03/2025,293,0
+L,False,L 0-1,10/08/2025,John Jay,1,home,John Jay,10/08/2025,125,0
+L,False,L 0-2,10/11/2025,Framingham St.,2,home,Framingham St.,10/11/2025,709,0
+L,False,L 0-2,10/18/2025,Fitchburg St.,2,away,@ Fitchburg St.,10/18/2025,80,0
+L,False,L 0-3,10/24/2025,Westfield St.,3,home,Westfield St.,10/24/2025,95,0
+L,False,L 0-2,11/01/2025,Worcester St.,2,home,Worcester St.,11/01/2025,125,0

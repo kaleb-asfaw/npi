@@ -1,0 +1,18 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 3-2,08/31/2025,Fredonia,2,home,Fredonia,08/31/2025,"1,324",3
+T,False,T 1-1,09/06/2025,Soka,1,home,Soka,09/06/2025,80,1
+L,False,L 1-3,09/12/2025,Westcliff,3,home,Westcliff,09/12/2025,127,1
+W,False,W 1-0,09/17/2025,La Verne,0,home,La Verne,09/17/2025,144,1
+T,False,T 1-1,09/20/2025,Pomona-Pitzer,1,away,@ Pomona-Pitzer,09/20/2025,103,1
+W,False,W 2-0,09/24/2025,Whittier,0,home,Whittier,09/24/2025,144,2
+W,False,W 3-0,10/01/2025,Caltech,0,home,Caltech,10/01/2025,50,3
+W,False,W 1-0,10/04/2025,Redlands,0,away,@ Redlands,10/04/2025,145,1
+L,False,L 0-1,10/08/2025,Chapman,1,away,@ Chapman,10/08/2025,106,0
+L,False,L 0-2,10/11/2025,Claremont-M-S,2,away,@ Claremont-M-S,10/11/2025,200,0
+L,False,L 0-1,10/15/2025,Cal Lutheran,1,home,Cal Lutheran,10/15/2025,104,0
+L,False,L 0-1,10/18/2025,Chapman,1,home,Chapman,10/18/2025,"1,200",0
+W,False,W 5-1,10/22/2025,Caltech,1,away,@ Caltech,10/22/2025,37,5
+L,False,L 0-1,10/25/2025,Pomona-Pitzer,1,home,Pomona-Pitzer,10/25/2025,362,0
+W,False,W 2-0,10/29/2025,Whittier,0,away,@ Whittier,10/29/2025,68,2
+W,False,W 2-0,11/03/2025,Chapman,0,home,#5 Chapman SCIAC WSOC Tournament,11/03/2025,234,2
+L,False,L 0-3,11/05/2025,Pomona-Pitzer,3,away,@ #1 Pomona-Pitzer SCIAC WSOC Tournament,11/05/2025,130,0

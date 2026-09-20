@@ -1,0 +1,19 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 2-0,08/29/2025,Martin Luther,0,away,@ Martin Luther,08/29/2025,115,2
+W,False,W 2-1,08/31/2025,Hesston,1,home,Hesston,08/31/2025,50,2
+T,False,T 0-0,09/02/2025,Dakota Wesleyan,0,home,Dakota Wesleyan,09/02/2025,75,0
+L,False,L 1-2,09/06/2025,Minn.-Morris,2,home,Minn.-Morris,09/06/2025,60,1
+L,False,L 0-4,09/10/2025,Mt. Marty,4,home,Mt. Marty,09/10/2025,100,0
+L,False,L 1-4,09/12/2025,Monmouth (IL),4,away,@ Monmouth (IL),09/12/2025,80,1
+L,False,L 0-3,09/17/2025,UW-River Falls,3,home,UW-River Falls,09/17/2025,75,0
+W,False,W 2-0,09/19/2025,@ Spurgeon,0,home,@ Spurgeon,09/19/2025,0,2
+L,False,L 1-9,09/27/2025,Wartburg,9,away,@ Wartburg,09/27/2025,205,1
+L,False,L 0-4,10/01/2025,Wis.-Stout,4,away,@ Wis.-Stout,10/01/2025,115,0
+L,False,L 0-5,10/04/2025,Loras,5,away,@ Loras,10/04/2025,215,0
+W,False,W 3-1,10/08/2025,Coe,1,home,Coe,10/08/2025,50,3
+L,False,L 0-1,10/11/2025,Luther,1,home,Luther,10/11/2025,65,0
+T,False,T 1-1,10/14/2025,Dakota St.,1,home,Dakota St.,10/14/2025,7,1
+L,False,L 1-3,10/18/2025,Simpson,3,home,Simpson,10/18/2025,40,1
+L,False,L 0-4,10/22/2025,Neb. Wesleyan,4,away,@ Neb. Wesleyan,10/22/2025,214,0
+L,False,L 0-3,10/25/2025,Central (IA),3,away,@ Central (IA),10/25/2025,80,0
+L,False,L 0-3,10/28/2025,Dubuque,3,home,Dubuque,10/28/2025,35,0

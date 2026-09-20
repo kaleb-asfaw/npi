@@ -1,0 +1,21 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+T,False,T 0-0,08/29/2025,UC Santa Cruz,0,away,@ UC Santa Cruz,08/29/2025,129,0
+T,False,T 2-2,08/31/2025,East Tex. Baptist,2,neutral,"East Tex. Baptist @Santa Cruz, CA",08/31/2025,50,2
+W,False,W 5-2,09/05/2025,Warner Pacific,2,home,Warner Pacific,09/05/2025,216,5
+W,False,W 2-0,09/07/2025,Redlands,0,home,Redlands,09/07/2025,178,2
+W,False,W 3-0,09/12/2025,Pacific (OR),0,away,@ Pacific (OR),09/12/2025,75,3
+W,False,W 4-1,09/14/2025,Willamette,1,away,@ Willamette,09/14/2025,180,4
+T,False,T 1-1,09/27/2025,Whitman,1,home,Whitman,09/27/2025,163,1
+W,False,W 2-0,09/28/2025,Whitworth,0,home,Whitworth,09/28/2025,107,2
+T,False,T 2-2,10/01/2025,Willamette,2,home,Willamette,10/01/2025,97,2
+L,False,L 1-2,10/04/2025,Puget Sound,2,away,@ Puget Sound,10/04/2025,174,1
+L,False,L 0-2,10/05/2025,Pacific Lutheran,2,away,@ Pacific Lutheran,10/05/2025,349,0
+W,False,W 2-0,10/11/2025,George Fox,0,home,George Fox,10/11/2025,172,2
+W,False,W 1-0,10/12/2025,Lewis & Clark,0,away,@ Lewis & Clark,10/12/2025,179,1
+W,False,W 2-1,10/15/2025,Pacific (OR),1,home,Pacific (OR),10/15/2025,59,2
+L,False,L 1-2,10/25/2025,Whitworth,2,away,@ Whitworth,10/25/2025,125,1
+T,False,T 0-0,10/26/2025,Whitman,0,away,@ Whitman,10/26/2025,100,0
+L,False,L 0-1,11/01/2025,Pacific Lutheran,1,home,Pacific Lutheran,11/01/2025,103,0
+L,False,L 0-2,11/02/2025,Puget Sound,2,home,Puget Sound,11/02/2025,119,0
+W,False,W 3-0,11/08/2025,Lewis & Clark,0,home,Lewis & Clark,11/08/2025,247,3
+W,False,W 1-0,11/09/2025,George Fox,0,away,@ George Fox,11/09/2025,252,1

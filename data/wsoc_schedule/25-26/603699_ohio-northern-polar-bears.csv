@@ -1,0 +1,21 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 1-0,08/31/2025,Rose-Hulman,0,away,@ Rose-Hulman,08/31/2025,218,1
+T,False,T 2-2,09/03/2025,Wittenberg,2,home,Wittenberg,09/03/2025,241,2
+L,False,L 0-1,09/06/2025,Carnegie Mellon,1,away,@ Carnegie Mellon,09/06/2025,148,0
+T,False,T 0-0,09/12/2025,Ohio Wesleyan,0,away,@ Ohio Wesleyan,09/12/2025,342,0
+L,False,L 0-6,09/14/2025,CWRU,6,neutral,"CWRU @Delaware, OH",09/14/2025,55,0
+L,False,L 0-2,09/18/2025,Albion,2,away,@ Albion,09/18/2025,90,0
+W,False,W 2-0,09/20/2025,Transylvania,0,home,Transylvania,09/20/2025,221,2
+L,False,L 1-2,09/23/2025,Denison,2,home,Denison,09/23/2025,92,1
+L,False,L 0-2,09/27/2025,Calvin,2,away,@ Calvin,09/27/2025,576,0
+T,False,T 0-0,10/04/2025,Marietta,0,away,@ Marietta,10/04/2025,172,0
+L,False,L 0-1,10/08/2025,Baldwin Wallace,1,home,Baldwin Wallace,10/08/2025,78,0
+W,False,W 2-0,10/11/2025,Muskingum,0,home,Muskingum,10/11/2025,126,2
+W,False,W 2-1,10/15/2025,Heidelberg,1,away,@ Heidelberg,10/15/2025,35,2
+L,False,L 0-3,10/18/2025,Capital,3,away,@ Capital,10/18/2025,125,0
+W,False,W 1-0,10/22/2025,Otterbein,0,home,Otterbein,10/22/2025,92,1
+L,False,L 0-1,10/25/2025,Mount Union,1,home,Mount Union,10/25/2025,123,0
+W,False,W 1-0,10/29/2025,Wilmington (OH),0,away,@ Wilmington (OH),10/29/2025,150,1
+T,True,T 1-1 (3 OT),11/04/2025,Mount Union,1,away,@ #4 Mount Union OAC WSOC Tournament,11/04/2025,156,1
+W,False,W 1-0,11/06/2025,Otterbein,0,away,@ #1 Otterbein OAC WSOC Tournament,11/06/2025,147,1
+L,False,L 2-3,11/09/2025,Wilmington (OH),3,away,@ #3 Wilmington (OH) OAC WSOC Tournament,11/09/2025,500,2

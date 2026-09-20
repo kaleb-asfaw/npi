@@ -1,0 +1,19 @@
+opponent,Result,date_parsed,Attendance,team_score,Opponent,Date,opp_score,outcome,home_away,overtime
+Bridgewater St.,W 5-1,08/29/2025,125,5,Bridgewater St.,08/29/2025,1,W,home,False
+Babson,T 0-0,09/02/2025,200,0,@ Babson,09/02/2025,0,T,away,False
+Rhode Island Col.,W 2-0,09/06/2025,125,2,Rhode Island Col.,09/06/2025,0,W,home,False
+Wellesley,W 2-1,09/07/2025,50,2,@ Wellesley,09/07/2025,1,W,away,False
+Clark (MA),W 5-0,09/10/2025,100,5,Clark (MA),09/10/2025,0,W,home,False
+MIT,W 2-1,09/13/2025,175,2,MIT,09/13/2025,1,W,home,False
+JWU (Providence),W 4-1,09/17/2025,130,4,@ JWU (Providence),09/17/2025,1,W,away,False
+Lesley,T 1-1,09/24/2025,75,1,Lesley,09/24/2025,1,T,home,False
+Trinity (CT),T 0-0,09/27/2025,142,0,@ Trinity (CT),09/27/2025,0,T,away,False
+Dartmouth,L 0-6 *,09/30/2025,221,0,@ Dartmouth,09/30/2025,6,L,away,False
+WashU,L 0-4,10/04/2025,233,0,@ WashU,10/04/2025,4,L,away,False
+UMass Boston,W 3-0,10/08/2025,175,3,@ UMass Boston,10/08/2025,0,W,away,False
+Emory,L 0-3,10/11/2025,700,0,Emory,10/11/2025,3,L,home,False
+Rochester (NY),L 0-1,10/18/2025,105,0,@ Rochester (NY),10/18/2025,1,L,away,False
+CWRU,L 0-2,10/24/2025,185,0,CWRU,10/24/2025,2,L,home,False
+Carnegie Mellon,T 1-1,10/26/2025,300,1,Carnegie Mellon,10/26/2025,1,T,home,False
+UChicago,L 0-6,11/02/2025,100,0,@ UChicago,11/02/2025,6,L,away,False
+NYU,W 1-0,11/08/2025,212,1,@ NYU,11/08/2025,0,W,away,False

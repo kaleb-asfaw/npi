@@ -1,0 +1,23 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 2-1,08/29/2025,Mount Union,1,home,Mount Union,08/29/2025,143,2
+W,False,W 4-0,08/30/2025,Mount Aloysius,0,away,@ Mount Aloysius,08/30/2025,175,4
+W,False,W 8-0,09/03/2025,La Roche,0,home,La Roche,09/03/2025,67,8
+W,False,W 15-0,09/06/2025,Keystone,0,home,Keystone,09/06/2025,73,15
+L,False,L 0-1,09/10/2025,Pitt.-Greensburg,1,away,@ Pitt.-Greensburg,09/10/2025,97,0
+W,False,W 1-0,09/12/2025,Baldwin Wallace,0,away,@ Baldwin Wallace,09/12/2025,79,1
+W,False,W 6-0,09/16/2025,Carlow,0,home,Carlow,09/16/2025,73,6
+T,False,T 0-0,09/24/2025,Westminster (PA),0,away,@ Westminster (PA),09/24/2025,155,0
+W,False,W 8-0,09/27/2025,Bethany (WV),0,home,Bethany (WV),09/27/2025,72,8
+W,False,W 1-0,10/01/2025,Allegheny,0,away,@ Allegheny,10/01/2025,71,1
+T,False,T 2-2,10/04/2025,Wash. & Jeff.,2,away,@ Wash. & Jeff.,10/04/2025,654,2
+W,False,W 11-0,10/08/2025,Thiel,0,home,Thiel,10/08/2025,71,11
+W,False,W 2-1,10/11/2025,Saint Vincent,1,home,Saint Vincent,10/11/2025,86,2
+W,False,W 2-1,10/15/2025,Chatham,1,home,Chatham,10/15/2025,82,2
+W,False,W 1-0,10/18/2025,Franciscan,0,away,@ Franciscan,10/18/2025,200,1
+W,False,W 2-0,10/22/2025,Hiram,0,away,@ Hiram,10/22/2025,127,2
+W,False,W 2-0,10/25/2025,Geneva,0,away,@ Geneva,10/25/2025,247,2
+L,False,L 0-4,10/29/2025,Grove City,4,home,Grove City,10/29/2025,65,0
+W,False,W 2-0,11/05/2025,Saint Vincent,0,home,#3 Saint Vincent PAC WSOC Championship,11/05/2025,172,2
+L,False,L 0-1,11/08/2025,Grove City,1,away,@ #1 Grove City PAC WSOC Championship,11/08/2025,350,0
+W,True,W 3-2 (1 OT),11/15/2025,Pitt.-Greensburg,2,home,Pitt.-Greensburg ECAC WSOC Championship,11/15/2025,120,3
+W,False,W 1-0,11/22/2025,Keene St.,0,home,Keene St. ECAC WSOC Championship,11/22/2025,112,1

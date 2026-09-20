@@ -1,0 +1,19 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+T,False,T 1-1,08/29/2025,Westminster (PA),1,home,Westminster (PA),08/29/2025,105,1
+L,False,L 0-4,08/30/2025,Waynesburg,4,home,Waynesburg,08/30/2025,175,0
+T,False,T 0-0,09/03/2025,Penn College,0,home,Penn College,09/03/2025,124,0
+L,False,L 1-7,09/06/2025,Lycoming,7,away,@ Lycoming,09/06/2025,95,1
+L,False,L 0-1,09/10/2025,Saint Vincent,1,home,Saint Vincent,09/10/2025,45,0
+W,False,W 2-0,09/13/2025,Wilson,0,away,@ Wilson,09/13/2025,75,2
+W,False,W 3-1,09/20/2025,Bethany (WV),1,home,Bethany (WV),09/20/2025,50,3
+W,False,W 3-2,09/27/2025,Hilbert,2,home,Hilbert,09/27/2025,175,3
+L,False,L 0-2,09/29/2025,Swarthmore,2,away,@ Swarthmore,09/29/2025,100,0
+L,False,L 0-6,10/04/2025,Penn St.-Behrend,6,away,@ Penn St.-Behrend,10/04/2025,91,0
+T,False,T 0-0,10/08/2025,Penn St.-Altoona,0,home,Penn St.-Altoona,10/08/2025,103,0
+L,False,L 0-3,10/11/2025,Alfred St.,3,home,Alfred St.,10/11/2025,117,0
+W,False,W 6-0,10/14/2025,Carlow,0,away,@ Carlow,10/14/2025,82,6
+,,Canceled,10/18/2025,Penn St.-Abington,,away,@ Penn St.-Abington,10/18/2025,,
+T,False,T 0-0,10/22/2025,La Roche,0,home,La Roche,10/22/2025,72,0
+W,False,W 2-1,10/25/2025,Pitt.-Bradford,1,away,@ Pitt.-Bradford,10/25/2025,75,2
+L,False,L 0-4,10/28/2025,Pitt.-Greensburg,4,away,@ Pitt.-Greensburg,10/28/2025,58,0
+L,False,L 1-2,11/01/2025,Penn St.-Altoona,2,home,#5 Penn St.-Altoona AMCC WSOC Tournament,11/01/2025,185,1

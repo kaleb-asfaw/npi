@@ -1,0 +1,16 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 0-13,08/30/2025,Alfred St.,13,away,@ Alfred St.,08/30/2025,50,0
+L,False,L 0-15,09/06/2025,Waynesburg,15,away,@ Waynesburg,09/06/2025,73,0
+T,False,T 4-4,09/09/2025,Penn St.-Scranton,4,home,Penn St.-Scranton,09/09/2025,80,4
+L,False,L 1-4,09/17/2025,Saint Elizabeth,4,away,@ Saint Elizabeth,09/17/2025,75,1
+,,Canceled,09/20/2025,Juniata,,away,@ Juniata,09/20/2025,,
+L,False,L 1-10,09/22/2025,Penn St.-Schuylkill,10,home,Penn St.-Schuylkill,09/22/2025,50,1
+L,False,L 5-7,09/24/2025,York (NY),7,home,York (NY),09/24/2025,20,5
+L,False,L 0-11,09/27/2025,Penn St. Harrisburg,11,away,@ Penn St. Harrisburg,09/27/2025,105,0
+L,False,L 1-12,10/01/2025,Penn College,12,home,Penn College,10/01/2025,25,1
+L,False,L 0-10,10/04/2025,St. Mary's (MD),10,away,@ St. Mary's (MD),10/04/2025,178,0
+L,False,L 0-10,10/07/2025,Penn St. Brandywine,10,home,Penn St. Brandywine,10/07/2025,90,0
+L,False,L 1-8,10/11/2025,Cedar Crest,8,home,Cedar Crest,10/11/2025,67,1
+L,False,L 4-5,10/15/2025,Valley Forge,5,away,@ Valley Forge,10/15/2025,30,4
+L,False,L 1-8,10/18/2025,Notre Dame (MD),8,home,Notre Dame (MD),10/18/2025,60,1
+L,False,L 1-13,10/21/2025,Penn St.-Berks,13,away,@ Penn St.-Berks,10/21/2025,115,1

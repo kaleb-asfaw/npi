@@ -1,0 +1,18 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 3-0,08/30/2025,SUNY Canton,0,home,SUNY Canton,08/30/2025,88,3
+L,False,L 0-4,09/02/2025,Houghton,4,home,Houghton,09/02/2025,103,0
+L,False,L 1-4,09/06/2025,Alfred,4,home,Alfred,09/06/2025,113,1
+T,False,T 1-1,09/10/2025,Keuka,1,away,@ Keuka,09/10/2025,87,1
+L,False,L 1-4,09/13/2025,Buffalo St.,4,away,@ Buffalo St.,09/13/2025,100,1
+W,False,W 4-0,09/16/2025,Thiel,0,home,Thiel,09/16/2025,64,4
+W,False,W 2-0,09/20/2025,SUNY Cobleskill,0,away,@ SUNY Cobleskill,09/20/2025,110,2
+W,False,W 2-1,09/23/2025,SUNY Delhi,1,home,SUNY Delhi,09/23/2025,138,2
+L,False,L 2-3,09/27/2025,Mount Aloysius,3,away,@ Mount Aloysius,09/27/2025,175,2
+,,Canceled,10/01/2025,@ Penn St.-New Kens.,,home,@ Penn St.-New Kens.,10/01/2025,,
+W,False,W 3-0,10/04/2025,Carlow,0,home,Carlow,10/04/2025,88,3
+L,False,L 0-11,10/08/2025,Penn St.-Behrend,11,away,@ Penn St.-Behrend,10/08/2025,103,0
+T,False,T 1-1,10/11/2025,La Roche,1,away,@ La Roche,10/11/2025,175,1
+L,False,L 0-4,10/14/2025,Alfred St.,4,away,@ Alfred St.,10/14/2025,67,0
+L,False,L 0-3,10/18/2025,Pitt.-Greensburg,3,home,Pitt.-Greensburg,10/18/2025,158,0
+W,False,W 7-1,10/22/2025,Pitt.-Bradford,1,home,Pitt.-Bradford,10/22/2025,55,7
+T,False,T 0-0,10/25/2025,Penn St.-Altoona,0,away,@ Penn St.-Altoona,10/25/2025,66,0

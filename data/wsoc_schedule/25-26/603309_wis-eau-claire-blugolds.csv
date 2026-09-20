@@ -1,0 +1,20 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 0-4,08/29/2025,St. Olaf,4,away,@ St. Olaf,08/29/2025,208,0
+L,False,L 1-2,08/31/2025,Central (IA),2,away,@ Central (IA),08/31/2025,175,1
+T,False,T 1-1,09/05/2025,Wheaton (IL),1,away,@ Wheaton (IL),09/05/2025,607,1
+L,False,L 1-2,09/06/2025,RIT,2,neutral,"RIT @Wheaton, IL",09/06/2025,113,1
+W,False,W 1-0,09/10/2025,Augsburg,0,away,@ Augsburg,09/10/2025,400,1
+L,False,L 0-1,09/13/2025,Saint Benedict,1,home,Saint Benedict,09/13/2025,137,0
+L,False,L 0-2,09/17/2025,Luther,2,away,@ Luther,09/17/2025,102,0
+T,False,T 0-0,09/20/2025,Simpson,0,home,Simpson,09/20/2025,103,0
+L,False,L 0-2,09/23/2025,St. Catherine,2,home,St. Catherine,09/23/2025,231,0
+T,False,T 2-2,09/24/2025,Hamline,2,home,Hamline,09/24/2025,79,2
+L,False,L 0-1,10/01/2025,Wartburg,1,home,Wartburg,10/01/2025,80,0
+W,False,W 1-0,10/04/2025,Wis.-Oshkosh,0,home,Wis.-Oshkosh,10/04/2025,150,1
+T,False,T 1-1,10/08/2025,Wis.-Stout,1,home,Wis.-Stout,10/08/2025,108,1
+L,False,L 0-3,10/11/2025,Wis.-La Crosse,3,away,@ Wis.-La Crosse,10/11/2025,405,0
+L,False,L 1-2,10/18/2025,Wis.-Whitewater,2,home,Wis.-Whitewater,10/18/2025,55,1
+L,False,L 0-3,10/22/2025,Wis.-Stevens Point,3,home,Wis.-Stevens Point,10/22/2025,143,0
+L,False,L 1-2,10/25/2025,UW-River Falls,2,away,@ UW-River Falls,10/25/2025,113,1
+W,False,W 2-1,10/26/2025,Concordia-M'head,1,home,Concordia-M'head,10/26/2025,105,2
+T,False,T 0-0,11/01/2025,Wis.-Platteville,0,away,@ Wis.-Platteville,11/01/2025,186,0

@@ -1,0 +1,20 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 1-2,08/29/2025,Lycoming,2,home,Lycoming,08/29/2025,285,1
+W,False,W 7-0,09/02/2025,SUNY Canton,0,away,@ SUNY Canton,09/02/2025,150,7
+T,False,T 2-2,09/05/2025,Fredonia,2,away,@ Fredonia,09/05/2025,20,2
+L,False,L 0-1,09/06/2025,Oswego St.,1,neutral,"Oswego St. @Fredonia, NY",09/06/2025,45,0
+W,False,W 2-0,09/09/2025,SUNY Potsdam,0,home,SUNY Potsdam,09/09/2025,137,2
+W,False,W 5-0,09/12/2025,SUNY Morrisville,0,away,@ SUNY Morrisville,09/12/2025,70,5
+L,False,L 0-1,09/17/2025,Hamilton,1,home,Hamilton,09/17/2025,68,0
+W,False,W 3-1,09/20/2025,Houghton,1,home,Houghton,09/20/2025,174,3
+T,False,T 0-0,09/24/2025,St. John Fisher,0,home,St. John Fisher,09/24/2025,185,0
+W,False,W 2-0,09/27/2025,Elmira,0,away,@ Elmira,09/27/2025,63,2
+W,False,W 7-0,10/01/2025,SUNY Poly,0,home,SUNY Poly,10/01/2025,154,7
+T,False,T 1-1,10/04/2025,SUNY Geneseo,1,away,@ SUNY Geneseo,10/04/2025,229,1
+T,False,T 0-0,10/08/2025,Russell Sage,0,away,@ Russell Sage,10/08/2025,203,0
+W,False,W 4-0,10/11/2025,Alfred,0,home,Alfred,10/11/2025,225,4
+L,False,L 0-1,10/15/2025,Hartwick,1,home,Hartwick,10/15/2025,120,0
+L,False,L 0-1,10/18/2025,Nazareth,1,away,@ Nazareth,10/18/2025,456,0
+T,False,T 0-0,10/25/2025,SUNY Brockport,0,home,SUNY Brockport,10/25/2025,275,0
+W,False,W 4-0,10/29/2025,Keuka,0,away,@ Keuka,10/29/2025,247,4
+L,False,L 1-3,11/01/2025,Hartwick,3,away,@ #4 Hartwick Empire 8 WSOC Championship,11/01/2025,300,1

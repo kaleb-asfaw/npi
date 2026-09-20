@@ -1,0 +1,19 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 0-1,08/29/2025,Fitchburg St.,1,away,@ Fitchburg St.,08/29/2025,75,0
+L,False,L 0-4,09/03/2025,Eastern Conn. St.,4,away,@ Eastern Conn. St.,09/03/2025,200,0
+W,False,W 6-0,09/06/2025,New England Col.,0,home,New England Col.,09/06/2025,212,6
+L,False,L 0-3,09/09/2025,Trinity (CT),3,home,Trinity (CT),09/09/2025,102,0
+W,False,W 6-0,09/13/2025,Dean,0,away,@ Dean,09/13/2025,86,6
+L,False,L 1-4,09/15/2025,WestConn,4,home,WestConn,09/15/2025,94,1
+T,False,T 1-1,09/20/2025,Colby-Sawyer,1,away,@ Colby-Sawyer,09/20/2025,100,1
+L,False,L 0-4,09/27/2025,Emmanuel (MA),4,away,@ Emmanuel (MA),09/27/2025,197,0
+W,False,W 3-2,10/01/2025,Simmons,2,home,Simmons,10/01/2025,149,3
+L,False,L 0-1,10/04/2025,Lasell,1,home,Lasell,10/04/2025,132,0
+L,False,L 0-1,10/08/2025,Albertus Magnus,1,home,Albertus Magnus,10/08/2025,282,0
+W,False,W 1-0,10/11/2025,Norwich,0,away,@ Norwich,10/11/2025,79,1
+L,False,L 1-2,10/14/2025,Regis (MA),2,away,@ Regis (MA),10/14/2025,64,1
+L,False,L 1-2,10/18/2025,Rivier,2,home,Rivier,10/18/2025,184,1
+W,False,W 6-0,10/22/2025,Mitchell,0,away,@ Mitchell,10/22/2025,95,6
+L,False,L 0-2,10/25/2025,St. Joseph's (ME),2,home,St. Joseph's (ME),10/25/2025,208,0
+W,False,W 5-1,10/28/2025,Elms,1,away,@ Elms,10/28/2025,123,5
+L,False,L 0-3,11/01/2025,Rivier,3,away,@ #2 Rivier GNAC WSOC Tournament,11/01/2025,333,0

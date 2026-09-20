@@ -1,0 +1,22 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 3-0,08/29/2025,Crown (MN),0,home,Crown (MN),08/29/2025,212,3
+W,False,W 4-1,08/31/2025,St. Norbert,1,home,St. Norbert,08/31/2025,125,4
+L,False,L 0-4,09/06/2025,St. Catherine,4,away,@ St. Catherine,09/06/2025,100,0
+W,False,W 3-0,09/10/2025,Gustavus Adolphus,0,home,Gustavus Adolphus,09/10/2025,175,3
+W,False,W 4-2,09/13/2025,Wis.-Superior,2,home,Wis.-Superior,09/13/2025,200,4
+W,False,W 3-0,09/17/2025,Buena Vista,0,away,@ Buena Vista,09/17/2025,75,3
+W,False,W 2-1,09/20/2025,Central (IA),1,home,Central (IA),09/20/2025,224,2
+W,False,W 2-1,09/21/2025,St. Scholastica,1,home,St. Scholastica,09/21/2025,250,2
+L,False,L 0-1,09/24/2025,Augsburg,1,away,@ Augsburg,09/24/2025,200,0
+W,False,W 2-0,09/27/2025,Luther,0,away,@ Luther,09/27/2025,82,2
+L,False,L 0-6,10/01/2025,Wis.-La Crosse,6,home,Wis.-La Crosse,10/01/2025,75,0
+W,False,W 2-1,10/04/2025,Wis.-Whitewater,1,away,@ Wis.-Whitewater,10/04/2025,113,2
+T,False,T 0-0,10/08/2025,Hamline,0,away,@ Hamline,10/08/2025,60,0
+L,False,L 0-1,10/11/2025,Wis.-Platteville,1,home,Wis.-Platteville,10/11/2025,225,0
+T,False,T 0-0,10/18/2025,Wis.-Stevens Point,0,away,@ Wis.-Stevens Point,10/18/2025,100,0
+W,False,W 1-0,10/22/2025,Wis.-Stout,0,away,@ Wis.-Stout,10/22/2025,132,1
+W,False,W 2-1,10/25/2025,Wis.-Eau Claire,1,home,Wis.-Eau Claire,10/25/2025,113,2
+W,False,W 8-0,10/28/2025,Bethany Lutheran,0,home,Bethany Lutheran,10/28/2025,76,8
+L,False,L 0-2,11/01/2025,Wis.-Oshkosh,2,away,@ Wis.-Oshkosh,11/01/2025,257,0
+W,False,W 3-1,11/05/2025,Wis.-Oshkosh,1,home,#6 Wis.-Oshkosh WIAC WSOC Tournament,11/05/2025,182,3
+T,True,T 0-0 (3 OT),11/07/2025,Wis.-Platteville,0,away,@ #2 Wis.-Platteville WIAC WSOC Tournament,11/07/2025,231,0

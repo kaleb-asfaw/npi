@@ -1,0 +1,19 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 0-3,08/29/2025,Alma,3,home,Alma,08/29/2025,112,0
+L,False,L 0-3,08/31/2025,Wooster,3,away,@ Wooster,08/31/2025,127,0
+W,False,W 5-0,09/03/2025,Olivet,0,away,@ Olivet,09/03/2025,45,5
+L,False,L 0-3,09/06/2025,Albion,3,away,@ Albion,09/06/2025,110,0
+L,False,L 0-3,09/10/2025,Wilmington (OH),3,home,Wilmington (OH),09/10/2025,132,0
+L,False,L 0-3,09/13/2025,Ind.-East,3,home,Ind.-East,09/13/2025,103,0
+L,False,L 0-4,09/17/2025,Muskingum,4,away,@ Muskingum,09/17/2025,117,0
+L,False,L 0-3,09/24/2025,St. Mary's (IN),3,away,@ St. Mary's (IN),09/24/2025,53,0
+W,False,W 2-1,09/27/2025,Manchester,1,home,Manchester,09/27/2025,315,2
+L,False,L 0-1,10/04/2025,Anderson (IN),1,away,@ Anderson (IN),10/04/2025,440,0
+W,False,W 2-1,10/08/2025,Bluffton,1,home,Bluffton,10/08/2025,122,2
+L,False,L 0-3,10/11/2025,Transylvania,3,home,Transylvania,10/11/2025,300,0
+L,False,L 0-1,10/15/2025,Rose-Hulman,1,away,@ Rose-Hulman,10/15/2025,300,0
+L,False,L 1-3,10/18/2025,Mt. St. Joseph,3,away,@ Mt. St. Joseph,10/18/2025,212,1
+W,False,W 1-0,10/22/2025,Franklin,0,home,Franklin,10/22/2025,167,1
+T,False,T 1-1,10/25/2025,Hanover,1,home,Hanover,10/25/2025,67,1
+W,False,W 2-1,10/28/2025,Berea,1,away,@ Berea,10/28/2025,45,2
+L,False,L 0-2,11/01/2025,Transylvania,2,away,@ #3 Transylvania HCAC WSOC Championship,11/01/2025,215,0

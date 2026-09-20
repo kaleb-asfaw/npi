@@ -1,0 +1,18 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 0-4,08/29/2025,SUNY New Paltz,4,away,@ SUNY New Paltz,08/29/2025,37,0
+W,False,W 1-0,09/03/2025,Nichols,0,home,Nichols,09/03/2025,13,1
+L,False,L 0-1,09/06/2025,UMass Boston,1,away,@ UMass Boston,09/06/2025,172,0
+W,False,W 1-0,09/09/2025,SUNY Delhi,0,away,@ SUNY Delhi,09/09/2025,120,1
+L,False,L 0-3,09/13/2025,SUNY Brockport,3,away,@ SUNY Brockport,09/13/2025,130,0
+L,False,L 0-1,09/17/2025,WestConn,1,home,WestConn,09/17/2025,332,0
+L,False,L 0-2,09/20/2025,Alfred,2,home,Alfred,09/20/2025,367,0
+W,False,W 4-0,09/24/2025,Elmira,0,away,@ Elmira,09/24/2025,37,4
+L,False,L 0-3,09/27/2025,SUNY Geneseo,3,home,SUNY Geneseo,09/27/2025,257,0
+T,False,T 0-0,10/01/2025,Mt. St. Mary (NY),0,home,Mt. St. Mary (NY),10/01/2025,214,0
+L,False,L 0-3,10/04/2025,St. John Fisher,3,away,@ St. John Fisher,10/04/2025,75,0
+T,False,T 0-0,10/08/2025,Utica,0,home,Utica,10/08/2025,203,0
+L,False,L 0-3,10/11/2025,Nazareth,3,home,Nazareth,10/11/2025,344,0
+W,False,W 3-1,10/15/2025,SUNY Poly,1,away,@ SUNY Poly,10/15/2025,87,3
+W,False,W 6-0,10/18/2025,Keuka,0,home,Keuka,10/18/2025,277,6
+L,False,L 0-1,10/25/2025,Houghton,1,away,@ Houghton,10/25/2025,100,0
+T,False,T 0-0,10/29/2025,Hartwick,0,away,@ Hartwick,10/29/2025,95,0

@@ -1,0 +1,19 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+T,False,T 0-0,08/29/2025,Roger Williams,0,away,@ Roger Williams,08/29/2025,240,0
+L,False,L 0-2,09/03/2025,Rhode Island Col.,2,away,@ Rhode Island Col.,09/03/2025,375,0
+L,False,L 0-1,09/07/2025,Connecticut Col.,1,home,Connecticut Col.,09/07/2025,143,0
+W,False,W 1-0,09/10/2025,Gordon,0,home,Gordon,09/10/2025,0,1
+L,False,L 0-1,09/17/2025,Trinity (CT),1,away,@ Trinity (CT),09/17/2025,109,0
+W,False,W 1-0,09/20/2025,Mount Holyoke,0,away,@ Mount Holyoke,09/20/2025,150,1
+W,False,W 1-0,09/24/2025,JWU (Providence),0,neutral,"JWU (Providence) @Providence, R.I.",09/24/2025,151,1
+L,False,L 1-2,09/27/2025,Emerson,2,home,Emerson,09/27/2025,50,1
+L,False,L 0-3,10/01/2025,U New England,3,home,U New England,10/01/2025,63,0
+L,False,L 1-2,10/04/2025,Springfield,2,home,Springfield,10/04/2025,107,1
+L,False,L 0-3,10/08/2025,MIT,3,away,@ MIT,10/08/2025,64,0
+L,False,L 0-1,10/11/2025,WPI,1,away,@ WPI,10/11/2025,300,0
+T,False,T 0-0,10/15/2025,Babson,0,home,Babson,10/15/2025,97,0
+W,False,W 4-0,10/18/2025,Wellesley,0,home,Wellesley,10/18/2025,0,4
+L,False,L 0-1,10/22/2025,Coast Guard,1,away,@ Coast Guard,10/22/2025,80,0
+T,False,T 1-1,10/25/2025,Smith,1,home,Smith,10/25/2025,129,1
+L,False,L 1-2,10/29/2025,Clark (MA),2,away,@ Clark (MA),10/29/2025,74,1
+L,False,L 1-2,11/01/2025,Wheaton (MA),2,home,Wheaton (MA),11/01/2025,131,1

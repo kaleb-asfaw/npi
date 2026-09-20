@@ -1,0 +1,27 @@
+Date,outcome,opp_score,overtime,Result,date_parsed,opponent,Attendance,home_away,team_score,Opponent
+08/30/2025,W,0,False,W 2-0,08/30/2025,Gordon,130,away,2,@ Gordon
+09/02/2025,W,0,False,W 6-0,09/02/2025,Lesley,35,away,6,@ Lesley
+09/06/2025,W,1,False,W 3-1,09/06/2025,Trinity (TX),168,neutral,3,"Trinity (TX) @Irving, TX"
+09/07/2025,W,0,False,W 7-0,09/07/2025,Dallas,70,away,7,@ Dallas
+09/10/2025,W,0,False,W 3-0,09/10/2025,JWU (Providence),105,home,3,JWU (Providence)
+09/13/2025,L,2,False,L 1-2,09/13/2025,Brandeis,175,away,1,@ Brandeis
+09/17/2025,W,1,False,W 6-1,09/17/2025,Bridgewater St.,75,away,6,@ Bridgewater St.
+09/20/2025,W,0,False,W 8-0,09/20/2025,Smith,87,home,8,Smith
+09/27/2025,W,0,False,W 2-0,09/27/2025,Wellesley,25,away,2,@ Wellesley
+10/01/2025,L,1,False,L 0-1,10/01/2025,Tufts,211,away,0,@ Tufts
+10/04/2025,W,0,False,W 5-0,10/04/2025,Coast Guard,75,away,5,@ Coast Guard
+10/08/2025,W,0,False,W 3-0,10/08/2025,Salve Regina,64,home,3,Salve Regina
+10/11/2025,W,0,False,W 4-0,10/11/2025,Springfield,108,home,4,Springfield
+10/12/2025,W,0,False,W 1-0,10/12/2025,Williams,113,away,1,@ Williams
+10/15/2025,W,0,False,W 5-0,10/15/2025,Clark (MA),138,away,5,@ Clark (MA)
+10/18/2025,W,0,False,W 3-0,10/18/2025,Babson,200,away,3,@ Babson
+10/22/2025,W,0,False,W 3-0,10/22/2025,Wheaton (MA),57,home,3,Wheaton (MA)
+10/25/2025,T,1,False,T 1-1,10/25/2025,Mount Holyoke,124,home,1,Mount Holyoke
+10/29/2025,W,0,False,W 4-0,10/29/2025,Emerson,112,away,4,@ Emerson
+11/01/2025,W,0,False,W 4-0,11/01/2025,WPI,187,home,4,WPI
+11/04/2025,W,0,True,W 1-0 (1 OT),11/04/2025,Wellesley,93,home,1,#8 Wellesley NEWMAC WSOC Tournament
+11/06/2025,W,0,False,W 3-0,11/06/2025,Wheaton (MA),78,home,3,#5 Wheaton (MA) NEWMAC WSOC Tournament
+11/08/2025,W,0,False,W 3-0,11/08/2025,Springfield,141,home,3,#2 Springfield NEWMAC WSOC Tournament
+11/15/2025,W,0,False,W 3-0,11/15/2025,Emmanuel (MA),0,home,3,Emmanuel (MA) 2025 NCAA DIII Women's Soccer Championship
+11/16/2025,W,0,False,W 1-0,11/16/2025,Colby,200,home,1,Colby 2025 NCAA DIII Women's Soccer Championship
+11/21/2025,L,1,False,L 0-1,11/21/2025,WashU,112,neutral,0,"WashU @Mechanicsburg, PA (2025 NCAA DIII Women's Soccer Championship)"

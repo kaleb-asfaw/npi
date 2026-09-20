@@ -1,0 +1,21 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 2-3,08/31/2025,Stevens,3,away,@ Stevens,08/31/2025,339,2
+L,False,L 0-2,09/03/2025,Western New Eng.,2,away,@ Western New Eng.,09/03/2025,170,0
+L,False,L 1-4,09/06/2025,Hartford,4,home,Hartford,09/06/2025,120,1
+L,False,L 0-6,09/16/2025,Wesleyan (CT),6,away,@ Wesleyan (CT),09/16/2025,100,0
+W,False,W 2-0,09/17/2025,Framingham St.,0,home,Framingham St.,09/17/2025,185,2
+L,False,L 0-1,09/20/2025,Babson,1,home,Babson,09/20/2025,225,0
+L,False,L 0-3,09/23/2025,Amherst,3,home,Amherst,09/23/2025,95,0
+W,False,W 2-1,09/27/2025,Smith,1,away,@ Smith,09/27/2025,50,2
+W,False,W 2-1,10/04/2025,Salve Regina,1,away,@ Salve Regina,10/04/2025,107,2
+W,False,W 2-1,10/08/2025,Coast Guard,1,home,Coast Guard,10/08/2025,185,2
+L,False,L 0-4,10/11/2025,MIT,4,away,@ MIT,10/11/2025,108,0
+L,False,L 2-5,10/15/2025,Wheaton (MA),5,away,@ Wheaton (MA),10/15/2025,111,2
+W,False,W 4-2,10/18/2025,WPI,2,home,WPI,10/18/2025,200,4
+W,False,W 3-0,10/22/2025,Wellesley,0,away,@ Wellesley,10/22/2025,55,3
+W,False,W 3-1,10/25/2025,Emerson,1,home,Emerson,10/25/2025,85,3
+W,False,W 3-0,10/29/2025,Mount Holyoke,0,away,@ Mount Holyoke,10/29/2025,195,3
+W,False,W 7-2,11/01/2025,Clark (MA),2,home,Clark (MA),11/01/2025,67,7
+W,False,W 4-2,11/04/2025,Coast Guard,2,home,#7 Coast Guard NEWMAC WSOC Tournament,11/04/2025,167,4
+W,False,W 3-2,11/06/2025,WPI,2,home,#6 WPI NEWMAC WSOC Tournament,11/06/2025,95,3
+L,False,L 0-3,11/08/2025,MIT,3,away,@ #1 MIT NEWMAC WSOC Tournament,11/08/2025,141,0

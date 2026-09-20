@@ -1,0 +1,18 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 6-1,08/30/2025,North Central (MN),1,home,North Central (MN),08/30/2025,135,6
+L,False,L 0-2,09/03/2025,Edgewood,2,away,@ Edgewood,09/03/2025,143,0
+W,False,W 4-0,09/07/2025,Minn.-Morris,0,home,Minn.-Morris,09/07/2025,170,4
+L,False,L 0-10,09/09/2025,Simpson,10,away,@ Simpson,09/09/2025,123,0
+L,False,L 0-3,09/12/2025,Augustana (IL),3,home,Augustana (IL),09/12/2025,89,0
+L,False,L 1-7,09/14/2025,Neb. Wesleyan,7,home,Neb. Wesleyan,09/14/2025,79,1
+L,False,L 1-5,09/20/2025,Wis.-Whitewater,5,away,@ Wis.-Whitewater,09/20/2025,217,1
+L,False,L 0-4,09/24/2025,Coe,4,home,Coe,09/24/2025,112,0
+L,False,L 0-6,09/27/2025,Webster,6,away,@ Webster,09/27/2025,75,0
+L,False,L 1-3,09/30/2025,Ripon,3,away,@ Ripon,09/30/2025,97,1
+L,False,L 0-4,10/04/2025,Lawrence,4,away,@ Lawrence,10/04/2025,275,0
+L,False,L 0-3,10/08/2025,Grinnell,3,home,Grinnell,10/08/2025,126,0
+L,False,L 0-5,10/11/2025,Illinois Col.,5,away,@ Illinois Col.,10/11/2025,315,0
+L,False,L 1-9,10/18/2025,Lake Forest,9,home,Lake Forest,10/18/2025,150,1
+L,False,L 2-3,10/25/2025,Monmouth (IL),3,home,Monmouth (IL),10/25/2025,145,2
+L,False,L 0-1,10/28/2025,Knox,1,home,Knox,10/28/2025,73,0
+L,False,L 0-3,11/01/2025,Beloit,3,away,@ Beloit,11/01/2025,97,0

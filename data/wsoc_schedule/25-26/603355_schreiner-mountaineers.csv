@@ -1,0 +1,15 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 8-0,09/05/2025,North American,0,home,North American,09/05/2025,300,8
+L,False,L 1-2,09/11/2025,Howard Payne,2,away,@ Howard Payne,09/11/2025,230,1
+L,False,L 0-3,09/13/2025,East Tex. Baptist,3,home,East Tex. Baptist,09/13/2025,130,0
+L,False,L 0-9,09/18/2025,Tarleton St.,9,away,@ Tarleton St.,09/18/2025,291,0
+L,False,L 1-2,09/26/2025,St. Thomas (TX),2,home,St. Thomas (TX),09/26/2025,155,1
+W,False,W 2-0,09/28/2025,Centenary (LA),0,home,Centenary (LA),09/28/2025,80,2
+W,False,W 4-2,10/03/2025,LeTourneau,2,home,LeTourneau,10/03/2025,200,4
+L,False,L 1-2,10/05/2025,Austin,2,home,Austin,10/05/2025,200,1
+L,False,L 0-1,10/10/2025,Hendrix,1,away,@ Hendrix,10/10/2025,250,0
+T,False,T 1-1,10/12/2025,Ozarks (AR),1,away,@ Ozarks (AR),10/12/2025,105,1
+L,False,L 1-4,10/17/2025,Concordia (TX),4,neutral,"Concordia (TX) @Round Rock, TX",10/17/2025,122,1
+L,False,L 0-3,10/19/2025,Texas Lutheran,3,away,@ Texas Lutheran,10/19/2025,200,0
+W,False,W 1-0,10/24/2025,Dallas,0,home,Dallas,10/24/2025,120,1
+L,False,L 0-2,11/01/2025,McMurry,2,home,McMurry,11/01/2025,150,0

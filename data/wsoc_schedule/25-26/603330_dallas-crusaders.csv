@@ -1,0 +1,17 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 1-7,08/29/2025,Hardin-Simmons,7,home,Hardin-Simmons,08/29/2025,50,1
+W,False,W 8-0,09/01/2025,Arlington Baptist,0,home,Arlington Baptist,09/01/2025,30,8
+L,False,L 0-3,09/05/2025,Trinity (TX),3,home,Trinity (TX),09/05/2025,45,0
+L,False,L 0-7,09/07/2025,MIT,7,home,MIT,09/07/2025,70,0
+L,False,L 1-7,09/20/2025,@ Nelson,7,home,@ Nelson,09/20/2025,74,1
+L,False,L 0-3,09/21/2025,Southwestern (TX),3,home,Southwestern (TX),09/21/2025,55,0
+W,False,W 2-1,09/26/2025,Hendrix,1,home,Hendrix,09/26/2025,50,2
+W,False,W 2-0,09/28/2025,Ozarks (AR),0,home,Ozarks (AR),09/28/2025,45,2
+L,False,L 0-2,10/03/2025,St. Thomas (TX),2,away,@ St. Thomas (TX),10/03/2025,100,0
+T,False,T 0-0,10/05/2025,Centenary (LA),0,away,@ Centenary (LA),10/05/2025,63,0
+L,False,L 0-1,10/10/2025,Concordia (TX),1,home,Concordia (TX),10/10/2025,80,0
+L,False,L 0-5,10/12/2025,Texas Lutheran,5,home,Texas Lutheran,10/12/2025,65,0
+L,False,L 0-1,10/17/2025,LeTourneau,1,away,@ LeTourneau,10/17/2025,91,0
+L,False,L 0-4,10/19/2025,Austin,4,away,@ Austin,10/19/2025,132,0
+L,False,L 0-1,10/24/2025,Schreiner,1,away,@ Schreiner,10/24/2025,120,0
+L,False,L 1-4,10/26/2025,McMurry,4,home,McMurry,10/26/2025,110,1

@@ -1,0 +1,21 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 0-1,08/29/2025,Mary Hardin-Baylor,1,away,@ Mary Hardin-Baylor,08/29/2025,408,0
+L,False,L 1-2,09/01/2025,Southwestern (TX),2,home,Southwestern (TX),09/01/2025,151,1
+L,False,L 0-4,09/04/2025,Howard Payne,4,away,@ Howard Payne,09/04/2025,189,0
+T,False,T 0-0,09/10/2025,@ Huston-Tillotson,0,home,@ Huston-Tillotson,09/10/2025,80,0
+T,False,T 1-1,09/13/2025,@ Houston-Victoria,1,home,@ Houston-Victoria,09/13/2025,175,1
+L,False,L 0-3,09/18/2025,Hardin-Simmons,3,home,Hardin-Simmons,09/18/2025,102,0
+L,False,L 0-4,09/21/2025,Trinity (TX),4,away,@ Trinity (TX),09/21/2025,199,0
+W,False,W 1-0,09/26/2025,LeTourneau,0,away,@ LeTourneau,09/26/2025,73,1
+W,False,W 3-2,09/28/2025,Austin,2,away,@ Austin,09/28/2025,163,3
+L,False,L 0-3,10/03/2025,Hendrix,3,home,Hendrix,10/03/2025,71,0
+T,False,T 1-1,10/05/2025,Ozarks (AR),1,away,@ Ozarks (AR),10/05/2025,105,1
+W,False,W 1-0,10/10/2025,Dallas,0,away,@ Dallas,10/10/2025,80,1
+W,False,W 4-1,10/17/2025,Schreiner,1,neutral,"Schreiner @Round Rock, TX",10/17/2025,122,4
+T,False,T 0-0,10/19/2025,McMurry,0,neutral,"McMurry @Round Rock, TX",10/19/2025,124,0
+L,False,L 0-3,10/24/2025,St. Thomas (TX),3,home,St. Thomas (TX),10/24/2025,111,0
+W,False,W 2-0,10/26/2025,Centenary (LA),0,away,@ Centenary (LA),10/26/2025,0,2
+L,False,L 0-1,10/31/2025,Texas Lutheran,1,home,Texas Lutheran,10/31/2025,60,0
+W,False,W 3-0,11/06/2025,Austin,0,neutral,"#5 Austin @Round Rock, TX (SCAC WSOC Tournament )",11/06/2025,148,3
+W,False,W 1-0,11/07/2025,Texas Lutheran,0,neutral,"#1 Texas Lutheran @Round Rock, TX (SCAC WSOC Tournament )",11/07/2025,139,1
+L,False,L 0-1,11/09/2025,McMurry,1,neutral,"#2 McMurry @Round Rock, TX (SCAC WSOC Tournament )",11/09/2025,404,0

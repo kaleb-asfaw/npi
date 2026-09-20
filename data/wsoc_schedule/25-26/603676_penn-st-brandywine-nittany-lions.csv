@@ -1,0 +1,17 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 1-2,09/06/2025,Gwynedd Mercy,2,home,Gwynedd Mercy,09/06/2025,100,1
+W,False,W 4-0,09/09/2025,Valley Forge,0,away,@ Valley Forge,09/09/2025,40,4
+W,False,W 2-1,09/13/2025,Pratt,1,home,Pratt,09/13/2025,150,2
+W,False,W 3-0,09/17/2025,Brooklyn,0,away,@ Brooklyn,09/17/2025,75,3
+T,False,T 0-0,09/20/2025,John Jay,0,home,John Jay,09/20/2025,150,0
+W,False,W 10-0,09/24/2025,Trinity Washington,0,home,Trinity Washington,09/24/2025,100,10
+W,False,W 2-1,09/27/2025,Cedar Crest,1,home,Cedar Crest,09/27/2025,150,2
+L,False,L 0-4,10/01/2025,St. Mary's (MD),4,away,@ St. Mary's (MD),10/01/2025,73,0
+L,False,L 0-1,10/04/2025,Penn St.-Berks,1,home,Penn St.-Berks,10/04/2025,125,0
+W,False,W 10-0,10/07/2025,Keystone,0,away,@ Keystone,10/07/2025,90,10
+,,Canceled,10/09/2025,@ Penn St.-Hazleton,,home,@ Penn St.-Hazleton,10/09/2025,,
+L,False,L 0-1,10/15/2025,Wilson,1,home,Wilson,10/15/2025,100,0
+L,False,L 0-5,10/18/2025,Penn College,5,home,Penn College,10/18/2025,175,0
+L,False,L 0-6,10/21/2025,Lancaster Bible,6,away,@ Lancaster Bible,10/21/2025,183,0
+L,False,L 0-3,10/25/2025,Notre Dame (MD),3,away,@ Notre Dame (MD),10/25/2025,215,0
+L,False,L 3-5,10/29/2025,Notre Dame (MD),5,away,@ Notre Dame (MD) United East WSOC Championship,10/29/2025,225,3
