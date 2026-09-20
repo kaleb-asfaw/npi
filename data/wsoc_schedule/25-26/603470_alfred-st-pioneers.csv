@@ -1,0 +1,19 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 13-0,08/30/2025,Keystone,0,home,Keystone,08/30/2025,50,13
+L,False,L 0-2,08/31/2025,Penn College,2,home,Penn College,08/31/2025,150,0
+L,False,L 1-2,09/06/2025,Penn St.-Berks,2,away,@ Penn St.-Berks,09/06/2025,108,1
+L,False,L 0-3,09/10/2025,Alfred,3,away,@ Alfred,09/10/2025,303,0
+W,False,W 4-0,09/13/2025,SUNY Canton,0,away,@ SUNY Canton,09/13/2025,120,4
+W,False,W 2-0,09/17/2025,Elmira,0,home,Elmira,09/17/2025,72,2
+W,False,W 5-2,09/20/2025,Thiel,2,home,Thiel,09/20/2025,252,5
+L,False,L 0-3,09/23/2025,Houghton,3,home,Houghton,09/23/2025,126,0
+W,False,W 5-1,09/27/2025,Carlow,1,away,@ Carlow,09/27/2025,73,5
+W,False,W 5-0,09/30/2025,Pitt.-Bradford,0,home,Pitt.-Bradford,09/30/2025,50,5
+W,False,W 1-0,10/04/2025,La Roche,0,home,La Roche,10/04/2025,76,1
+W,False,W 3-0,10/11/2025,Mount Aloysius,0,away,@ Mount Aloysius,10/11/2025,117,3
+W,False,W 4-0,10/14/2025,Hilbert,0,home,Hilbert,10/14/2025,67,4
+W,False,W 2-1,10/18/2025,Penn St.-Altoona,1,home,Penn St.-Altoona,10/18/2025,85,2
+L,False,L 0-4,10/25/2025,Pitt.-Greensburg,4,away,@ Pitt.-Greensburg,10/25/2025,150,0
+L,False,L 0-6,10/28/2025,Penn St.-Behrend,6,away,@ Penn St.-Behrend,10/28/2025,97,0
+W,False,W 3-0,11/01/2025,La Roche,0,home,#6 La Roche AMCC WSOC Tournament,11/01/2025,120,3
+T,True,T 0-0 (3 OT),11/05/2025,Pitt.-Greensburg,0,away,@ #2 Pitt.-Greensburg AMCC WSOC Tournament,11/05/2025,98,0

@@ -1,0 +1,20 @@
+Attendance,date_parsed,opp_score,outcome,Date,overtime,Result,opponent,team_score,home_away,Opponent
+9,08/29/2025,0,W,08/29/2025,False,W 2-0,Hanover,2,away,@ Hanover
+406,09/01/2025,0,W,09/01/2025,False,W 3-0,Capital,3,away,@ Capital
+72,09/05/2025,0,T,09/05/2025,False,T 0-0,RIT,0,neutral,"RIT @Wheaton, IL"
+347,09/06/2025,1,L,09/06/2025,False,L 0-1,Wheaton (IL),0,away,@ Wheaton (IL)
+154,09/14/2025,1,T,09/14/2025,False,T 1-1,WashU,1,home,WashU
+100,09/17/2025,1,W,09/17/2025,False,W 3-1,Millikin,3,away,@ Millikin
+92,09/20/2025,1,W,09/20/2025,False,W 4-1,Ill. Wesleyan,4,home,Ill. Wesleyan
+103,09/27/2025,0,T,09/27/2025,False,T 0-0,Wittenberg,0,home,Wittenberg
+150,09/30/2025,0,W,09/30/2025,False,W 1-0,Albion,1,away,@ Albion
+276,10/04/2025,4,L,10/04/2025,False,L 2-4,North Central (IL),2,away,@ North Central (IL)
+507,10/08/2025,2,L,10/08/2025,False,L 1-2,Calvin,1,away,@ Calvin
+103,10/11/2025,3,L,10/11/2025,False,L 0-3,Hope,0,home,Hope
+150,10/14/2025,0,W,10/14/2025,False,W 1-0,Adrian,1,away,@ Adrian
+100,10/20/2025,1,T,10/20/2025,False,T 1-1,Kalamazoo,1,home,Kalamazoo
+72,10/22/2025,0,W,10/22/2025,False,W 2-0,Alma,2,away,@ Alma
+137,10/25/2025,1,W,10/25/2025,False,W 4-1,St. Mary's (IN),4,home,St. Mary's (IN)
+119,10/28/2025,0,W,10/28/2025,False,W 8-0,Olivet,8,home,Olivet
+224,11/01/2025,1,T,11/01/2025,True,T 1-1 (3 OT),Adrian,1,home,#6 Adrian MIAA WSOC Tournament
+320,11/04/2025,1,T,11/04/2025,True,T 1-1 (3 OT),Hope,1,away,@ #2 Hope MIAA WSOC Tournament

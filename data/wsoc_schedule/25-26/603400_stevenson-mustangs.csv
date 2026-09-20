@@ -1,0 +1,21 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 4-1,08/29/2025,Rutgers-Camden,1,away,@ Rutgers-Camden,08/29/2025,200,4
+T,False,T 1-1,09/03/2025,Shenandoah,1,away,@ Shenandoah,09/03/2025,238,1
+L,False,L 0-1,09/06/2025,Washington Col.,1,away,@ Washington Col.,09/06/2025,172,0
+W,False,W 1-0,09/10/2025,St. Mary's (MD),0,home,St. Mary's (MD),09/10/2025,103,1
+T,False,T 0-0,09/13/2025,Elizabethtown,0,home,Elizabethtown,09/13/2025,225,0
+T,False,T 1-1,09/17/2025,Randolph-Macon,1,away,@ Randolph-Macon,09/17/2025,135,1
+W,False,W 4-2,09/20/2025,Lebanon Valley,2,home,Lebanon Valley,09/20/2025,129,4
+L,False,L 0-1,09/24/2025,Susquehanna,1,away,@ Susquehanna,09/24/2025,121,0
+W,False,W 2-1,09/27/2025,King's (PA),1,home,King's (PA),09/27/2025,127,2
+T,False,T 0-0,10/01/2025,Neumann,0,home,Neumann,10/01/2025,75,0
+W,False,W 1-0,10/04/2025,Alvernia,0,home,Alvernia,10/04/2025,115,1
+T,False,T 0-0,10/07/2025,Salisbury,0,home,Salisbury,10/07/2025,125,0
+W,False,W 2-0,10/11/2025,Albright,0,away,@ Albright,10/11/2025,247,2
+W,False,W 1-0,10/18/2025,Widener,0,home,Widener,10/18/2025,157,1
+L,False,L 0-1,10/21/2025,Eastern,1,away,@ Eastern,10/21/2025,162,0
+L,False,L 0-3,10/25/2025,Messiah,3,home,Messiah,10/25/2025,100,0
+W,False,W 1-0,10/29/2025,Hood,0,home,Hood,10/29/2025,100,1
+L,False,L 0-1,11/01/2025,York (PA),1,away,@ York (PA),11/01/2025,237,0
+W,False,W 2-1,11/04/2025,York (PA),1,away,@ York (PA) MAC Commonwealth WSOC Championship,11/04/2025,196,2
+L,False,L 0-4,11/08/2025,Messiah,4,away,@ Messiah MAC Commonwealth WSOC Championship,11/08/2025,776,0

@@ -1,0 +1,19 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 4-0,08/31/2025,Anna Maria,0,home,Anna Maria,08/31/2025,120,4
+L,False,L 0-1,09/03/2025,Albertus Magnus,1,away,@ Albertus Magnus,09/03/2025,205,0
+,,Canceled,09/05/2025 07:00 PM,Albertus Magnus,,away,@ Albertus Magnus,09/05/2025 07:00 PM,,
+T,False,T 1-1,09/07/2025,DeSales,1,home,DeSales,09/07/2025,68,1
+T,False,T 0-0,09/10/2025,Wentworth,0,home,Wentworth,09/10/2025,133,0
+L,False,L 0-1,09/20/2025,Salve Regina,1,home,Salve Regina,09/20/2025,150,0
+T,False,T 0-0,09/24/2025,Westfield St.,0,away,@ Westfield St.,09/24/2025,84,0
+,,Canceled,09/26/2025,Westfield St.,,away,@ Westfield St.,09/26/2025,,
+L,False,L 0-3,09/27/2025,WPI,3,home,WPI,09/27/2025,200,0
+L,False,L 0-3,10/04/2025,Wheaton (MA),3,away,@ Wheaton (MA),10/04/2025,212,0
+L,False,L 0-3,10/08/2025,Smith,3,away,@ Smith,10/08/2025,123,0
+L,False,L 0-1,10/11/2025,Babson,1,home,Babson,10/11/2025,117,0
+L,False,L 0-1,10/15/2025,Coast Guard,1,home,Coast Guard,10/15/2025,98,0
+L,False,L 0-1,10/18/2025,Emerson,1,away,@ Emerson,10/18/2025,105,0
+L,False,L 0-2,10/22/2025,Clark (MA),2,home,Clark (MA),10/22/2025,65,0
+T,False,T 1-1,10/25/2025,MIT,1,away,@ MIT,10/25/2025,124,1
+L,False,L 0-3,10/29/2025,Springfield,3,home,Springfield,10/29/2025,195,0
+T,False,T 0-0,11/01/2025,Wellesley,0,away,@ Wellesley,11/01/2025,60,0

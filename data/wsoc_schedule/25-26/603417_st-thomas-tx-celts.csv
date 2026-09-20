@@ -1,0 +1,19 @@
+Opponent,opp_score,Date,team_score,overtime,Result,Attendance,home_away,outcome,opponent,date_parsed
+"Pacific Lutheran @San Antonio, TX",1,08/29/2025,1,False,T 1-1,300,neutral,T,Pacific Lutheran,08/29/2025
+@ East Tex. Baptist,1,09/05/2025,0,False,L 0-1,101,away,L,East Tex. Baptist,09/05/2025
+"Belhaven @Marshall, TX",2,09/07/2025,2,False,T 2-2,101,neutral,T,Belhaven,09/07/2025
+North American,0,09/11/2025,3,False,W 3-0,100,home,W,North American,09/11/2025
+@ Howard Payne,0,09/13/2025,1,False,W 1-0,257,away,W,Howard Payne,09/13/2025
+MUW,0,09/19/2025,4,False,W 4-0,100,home,W,MUW,09/19/2025
+@ Texas Southern,3,09/21/2025,0,False,L 0-3 *,75,away,L,Texas Southern,09/21/2025
+@ Schreiner,1,09/26/2025,2,False,W 2-1,155,away,W,Schreiner,09/26/2025
+"McMurry @Abilene, TX",0,09/28/2025,0,False,T 0-0,75,neutral,T,McMurry,09/28/2025
+Dallas,0,10/03/2025,2,False,W 2-0,100,home,W,Dallas,10/03/2025
+@ Austin,1,10/10/2025,1,False,T 1-1,115,away,T,Austin,10/10/2025
+@ LeTourneau,0,10/12/2025,1,False,W 1-0,73,away,W,LeTourneau,10/12/2025
+Hendrix,1,10/17/2025,2,False,W 2-1,100,home,W,Hendrix,10/17/2025
+Ozarks (AR),0,10/19/2025,2,False,W 2-0,100,home,W,Ozarks (AR),10/19/2025
+@ Concordia (TX),0,10/24/2025,3,False,W 3-0,111,away,W,Concordia (TX),10/24/2025
+Texas Lutheran,1,10/26/2025,0,False,L 0-1,100,home,L,Texas Lutheran,10/26/2025
+Centenary (LA),0,11/01/2025,3,False,W 3-0,150,home,W,Centenary (LA),11/01/2025
+"#6 Hendrix @Round Rock, TX (SCAC WSOC Tournament )",3,11/06/2025,0,False,L 0-3,111,neutral,L,Hendrix,11/06/2025

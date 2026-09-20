@@ -1,0 +1,19 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 0-2,08/30/2025,Augsburg,2,away,@ Augsburg,08/30/2025,150,0
+L,False,L 2-3,08/31/2025,Hamline,3,away,@ Hamline,08/31/2025,101,2
+T,False,T 1-1,09/06/2025,Crown (MN),1,home,Crown (MN),09/06/2025,88,1
+L,False,L 0-2,09/07/2025,Knox,2,home,Knox,09/07/2025,67,0
+L,False,L 0-4,09/13/2025,Wis.-Whitewater,4,home,Wis.-Whitewater,09/13/2025,68,0
+T,False,T 0-0,09/17/2025,Monmouth (IL),0,away,@ Monmouth (IL),09/17/2025,80,0
+W,False,W 3-2,09/20/2025,Ripon,2,away,@ Ripon,09/20/2025,75,3
+W,False,W 4-0,09/24/2025,Cornell College,0,away,@ Cornell College,09/24/2025,112,4
+L,False,L 1-3,09/27/2025,Simpson,3,home,Simpson,09/27/2025,122,1
+T,False,T 1-1,10/01/2025,Augustana (IL),1,away,@ Augustana (IL),10/01/2025,43,1
+L,False,L 0-7,10/04/2025,Central (IA),7,home,Central (IA),10/04/2025,78,0
+L,False,L 1-3,10/08/2025,Buena Vista,3,away,@ Buena Vista,10/08/2025,50,1
+T,False,T 2-2,10/11/2025,Grinnell,2,home,Grinnell,10/11/2025,71,2
+L,False,L 0-5,10/14/2025,Loras,5,away,@ Loras,10/14/2025,78,0
+L,False,L 0-1,10/18/2025,Luther,1,home,Luther,10/18/2025,155,0
+L,False,L 1-3,10/22/2025,Wartburg,3,home,Wartburg,10/22/2025,156,1
+L,False,L 0-7,10/25/2025,Dubuque,7,away,@ Dubuque,10/25/2025,200,0
+L,False,L 1-3,10/28/2025,Neb. Wesleyan,3,home,Neb. Wesleyan,10/28/2025,34,1

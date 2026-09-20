@@ -1,0 +1,21 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 0-1,08/29/2025,Wis.-Stout,1,away,@ Wis.-Stout,08/29/2025,126,0
+W,False,W 3-2,08/31/2025,Coe,2,home,Coe,08/31/2025,101,3
+T,False,T 2-2,09/03/2025,Central (IA),2,home,Central (IA),09/03/2025,102,2
+T,False,T 0-0,09/07/2025,Wis.-Stevens Point,0,away,@ Wis.-Stevens Point,09/07/2025,149,0
+,,Canceled,09/10/2025,North Central (MN),,home,North Central (MN),09/10/2025,,
+W,False,W 6-0,09/11/2025,Minn.-Morris,0,away,@ Minn.-Morris,09/11/2025,34,6
+T,False,T 1-1,09/13/2025,Bethany Lutheran,1,away,@ Bethany Lutheran,09/13/2025,120,1
+W,False,W 2-0,09/16/2025,Concordia-M'head,0,home,Concordia-M'head,09/16/2025,100,2
+L,False,L 0-4,09/20/2025,Carleton,4,away,@ Carleton,09/20/2025,202,0
+T,False,T 2-2,09/24/2025,Wis.-Eau Claire,2,away,@ Wis.-Eau Claire,09/24/2025,79,2
+L,False,L 0-2,09/27/2025,Saint Mary's (MN),2,home,Saint Mary's (MN),09/27/2025,198,0
+L,False,L 0-2,10/01/2025,St. Catherine,2,home,St. Catherine,10/01/2025,50,0
+T,False,T 0-0,10/04/2025,St. Scholastica,0,away,@ St. Scholastica,10/04/2025,120,0
+T,False,T 0-0,10/08/2025,UW-River Falls,0,home,UW-River Falls,10/08/2025,60,0
+L,False,L 0-4,10/11/2025,Augsburg,4,away,@ Augsburg,10/11/2025,150,0
+L,False,L 0-1,10/14/2025,Gustavus Adolphus,1,home,Gustavus Adolphus,10/14/2025,50,0
+T,False,T 0-0,10/18/2025,Bethel (MN),0,away,@ Bethel (MN),10/18/2025,128,0
+L,False,L 0-4,10/22/2025,St. Olaf,4,away,@ St. Olaf,10/22/2025,82,0
+L,False,L 0-1,10/25/2025,Macalester,1,home,Macalester,10/25/2025,75,0
+L,False,L 0-1,11/01/2025,Saint Benedict,1,home,Saint Benedict,11/01/2025,100,0

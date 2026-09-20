@@ -1,0 +1,21 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 0-1,08/29/2025,@ Williams Baptist,1,home,@ Williams Baptist,08/29/2025,0,0
+W,False,W 3-0,08/31/2025,MUW,0,home,MUW,08/31/2025,150,3
+W,False,W 3-1,09/04/2025,Central Baptist,1,home,Central Baptist,09/04/2025,100,3
+T,False,T 2-2,09/12/2025,Millsaps,2,home,Millsaps,09/12/2025,0,2
+L,False,L 1-2,09/14/2025,Rhodes,2,away,@ Rhodes,09/14/2025,102,1
+T,False,T 0-0,09/17/2025,East Tex. Baptist,0,away,@ East Tex. Baptist,09/17/2025,101,0
+L,False,L 0-1,09/20/2025,Webster,1,home,Webster,09/20/2025,100,0
+L,False,L 1-2,09/26/2025,Dallas,2,away,@ Dallas,09/26/2025,50,1
+W,False,W 3-0,10/03/2025,Concordia (TX),0,away,@ Concordia (TX),10/03/2025,71,3
+L,False,L 0-3,10/05/2025,Texas Lutheran,3,away,@ Texas Lutheran,10/05/2025,115,0
+W,False,W 1-0,10/10/2025,Schreiner,0,home,Schreiner,10/10/2025,250,1
+L,False,L 0-2,10/12/2025,McMurry,2,home,McMurry,10/12/2025,150,0
+L,False,L 1-2,10/17/2025,St. Thomas (TX),2,away,@ St. Thomas (TX),10/17/2025,100,1
+W,False,W 2-0,10/19/2025,Centenary (LA),0,away,@ Centenary (LA),10/19/2025,86,2
+T,False,T 1-1,10/24/2025,Austin,1,home,Austin,10/24/2025,150,1
+T,False,T 1-1,10/26/2025,LeTourneau,1,home,LeTourneau,10/26/2025,75,1
+L,False,L 0-3,10/28/2025,Belhaven,3,away,@ Belhaven,10/28/2025,60,0
+W,False,W 2-0,11/01/2025,Ozarks (AR),0,home,Ozarks (AR),11/01/2025,150,2
+W,False,W 3-0,11/06/2025,St. Thomas (TX),0,neutral,"#3 St. Thomas (TX) @Round Rock, TX (SCAC WSOC Tournament )",11/06/2025,111,3
+L,False,L 0-2,11/07/2025,McMurry,2,neutral,"#2 McMurry @Round Rock, TX (SCAC WSOC Tournament )",11/07/2025,168,0

@@ -1,0 +1,26 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 0-11 *,08/23/2025,Bellarmine,11,home,Bellarmine,08/23/2025,150,0
+T,False,T 0-0,08/29/2025,Johnson (TN),0,home,Johnson (TN),08/29/2025,150,0
+W,False,W 5-0,08/30/2025,Ohio Christian,0,home,Ohio Christian,08/30/2025,110,5
+W,False,W 6-0,09/03/2025,Ky. Christian,0,home,Ky. Christian,09/03/2025,200,6
+L,False,L 2-4,09/06/2025,Wittenberg,4,away,@ Wittenberg,09/06/2025,176,2
+W,False,W 5-0,09/10/2025,Berea,0,home,Berea,09/10/2025,100,5
+L,False,L 0-6,09/13/2025,Spalding,6,away,@ Spalding,09/13/2025,175,0
+T,False,T 1-1,09/17/2025,Mt. St. Joseph,1,away,@ Mt. St. Joseph,09/17/2025,212,1
+W,False,W 2-0,09/20/2025,Huntingdon,0,home,Huntingdon,09/20/2025,70,2
+L,False,L 0-5,09/24/2025,Centre,5,away,@ Centre,09/24/2025,121,0
+W,False,W 5-0,09/27/2025,Wesleyan (GA),0,away,@ Wesleyan (GA),09/27/2025,85,5
+W,False,W 4-2,10/01/2025,Franklin,2,away,@ Franklin,10/01/2025,53,4
+W,False,W 1-0,10/04/2025,LaGrange,0,home,LaGrange,10/04/2025,150,1
+L,False,L 0-2,10/08/2025,Maryville (TN),2,home,Maryville (TN),10/08/2025,100,0
+W,False,W 3-0,10/11/2025,Agnes Scott,0,away,@ Agnes Scott,10/11/2025,45,3
+L,False,L 0-2,10/15/2025,Covenant,2,away,@ Covenant,10/15/2025,121,0
+T,False,T 2-2,10/18/2025,Belhaven,2,home,Belhaven,10/18/2025,100,2
+W,False,W 4-0,10/22/2025,Midway,0,home,Midway,10/22/2025,150,4
+L,False,L 0-1,10/26/2025,Piedmont,1,away,@ Piedmont,10/26/2025,432,0
+W,False,W 3-1,11/01/2025,Covenant,1,away,@ #4 Covenant CCS WSOC Championship,11/01/2025,287,3
+T,True,T 1-1 (3 OT),11/04/2025,Maryville (TN),1,away,@ #1 Maryville (TN) CCS WSOC Championship,11/04/2025,376,1
+L,False,L 1-2,11/08/2025,Belhaven,2,away,@ #2 Belhaven CCS WSOC Championship,11/08/2025,264,1
+L,False,L 1-2,12/01/2025,Northwestern-St. Paul,2,neutral,"Northwestern-St. Paul @Kissimmee, Fla.",12/01/2025,32,1
+,,,12/02/2025,Warner,,home,Warner,12/02/2025,,
+,,Canceled,12/04/2025,Bethel (IN),,home,Bethel (IN),12/04/2025,,

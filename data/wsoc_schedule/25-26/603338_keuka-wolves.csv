@@ -1,0 +1,17 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 0-5,08/29/2025,Buffalo St.,5,away,@ Buffalo St.,08/29/2025,125,0
+L,False,L 0-5,09/02/2025,Lycoming,5,home,Lycoming,09/02/2025,115,0
+L,False,L 0-4,09/05/2025,Oswego St.,4,neutral,"Oswego St. @Fredonia, NY",09/05/2025,46,0
+T,False,T 1-1,09/06/2025,Fredonia,1,away,@ Fredonia,09/06/2025,20,1
+T,False,T 1-1,09/10/2025,Hilbert,1,home,Hilbert,09/10/2025,87,1
+T,False,T 0-0,09/13/2025,Alfred,0,home,Alfred,09/13/2025,148,0
+L,False,L 0-1,09/20/2025,SUNY Brockport,1,home,SUNY Brockport,09/20/2025,207,0
+L,False,L 0-2,09/27/2025,Nazareth,2,away,@ Nazareth,09/27/2025,175,0
+L,False,L 0-5,10/01/2025,SUNY Geneseo,5,home,SUNY Geneseo,10/01/2025,88,0
+L,False,L 1-2,10/04/2025,Hartwick,2,home,Hartwick,10/04/2025,150,1
+L,False,L 0-1,10/08/2025,Houghton,1,away,@ Houghton,10/08/2025,65,0
+W,False,W 3-1,10/11/2025,SUNY Poly,1,away,@ SUNY Poly,10/11/2025,89,3
+T,False,T 1-1,10/15/2025,Elmira,1,away,@ Elmira,10/15/2025,102,1
+L,False,L 0-6,10/18/2025,Russell Sage,6,away,@ Russell Sage,10/18/2025,277,0
+L,False,L 0-8,10/25/2025,St. John Fisher,8,away,@ St. John Fisher,10/25/2025,189,0
+L,False,L 0-4,10/29/2025,Utica,4,home,Utica,10/29/2025,247,0

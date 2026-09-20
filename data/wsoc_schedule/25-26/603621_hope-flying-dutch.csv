@@ -1,0 +1,20 @@
+opponent,Result,date_parsed,Attendance,team_score,Opponent,Date,opp_score,outcome,home_away,overtime
+MSOE,W 3-0,08/29/2025,948,3,MSOE,08/29/2025,0,W,home,False
+Wartburg,W 3-0,08/30/2025,431,3,Wartburg,08/30/2025,0,W,home,False
+Carleton,L 0-3,09/05/2025,113,0,@ Carleton,09/05/2025,3,L,away,False
+St. Olaf,L 1-3,09/06/2025,129,1,@ St. Olaf,09/06/2025,3,L,away,False
+Illinois Tech,T 2-2,09/10/2025,35,2,@ Illinois Tech,09/10/2025,2,T,away,False
+Capital,W 2-0,09/12/2025,306,2,Capital,09/12/2025,0,W,home,False
+Wheaton (IL),W 3-0,09/16/2025,179,3,@ Wheaton (IL),09/16/2025,0,W,away,False
+UChicago,T 2-2,09/20/2025,284,2,UChicago,09/20/2025,2,T,home,False
+Ohio Wesleyan,W 2-1,09/27/2025,421,2,@ Ohio Wesleyan,09/27/2025,1,W,away,False
+Olivet,W 7-0,09/30/2025,217,7,Olivet,09/30/2025,0,W,home,False
+Alma,W 2-1,10/03/2025,108,2,@ Alma,10/03/2025,1,W,away,False
+Albion,W 3-0,10/08/2025,371,3,Albion,10/08/2025,0,W,home,False
+Trine,W 3-0,10/11/2025,103,3,@ Trine,10/11/2025,0,W,away,False
+Calvin,L 1-2,10/14/2025,983,1,@ Calvin,10/14/2025,2,L,away,False
+Adrian,W 2-0,10/22/2025,350,2,@ Adrian,10/22/2025,0,W,away,False
+Kalamazoo,W 3-2,10/25/2025,419,3,Kalamazoo,10/25/2025,2,W,home,False
+St. Mary's (IN),W 4-0,10/28/2025,243,4,St. Mary's (IN),10/28/2025,0,W,home,False
+Trine,T 1-1 (3 OT),11/04/2025,320,1,#3 Trine MIAA WSOC Tournament,11/04/2025,1,T,home,True
+Calvin,L 1-2,11/08/2025,903,1,@ #1 Calvin MIAA WSOC Tournament,11/08/2025,2,L,away,False

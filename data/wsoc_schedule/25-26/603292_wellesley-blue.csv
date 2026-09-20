@@ -1,0 +1,20 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 5-0,08/30/2025,Simmons,0,home,Simmons,08/30/2025,115,5
+W,False,W 1-0,09/03/2025,Endicott,0,home,Endicott,09/03/2025,105,1
+L,False,L 1-2,09/07/2025,Brandeis,2,home,Brandeis,09/07/2025,50,1
+T,False,T 0-0,09/10/2025,UMass Boston,0,away,@ UMass Boston,09/10/2025,121,0
+W,False,W 4-0,09/13/2025,Me.-Farmington,0,home,Me.-Farmington,09/13/2025,70,4
+L,False,L 0-2,09/17/2025,Plymouth St.,2,away,@ Plymouth St.,09/17/2025,85,0
+W,False,W 2-0,09/20/2025,Coast Guard,0,away,@ Coast Guard,09/20/2025,86,2
+L,False,L 1-5,09/24/2025,Hartford,5,away,@ Hartford,09/24/2025,132,1
+L,False,L 0-2,09/27/2025,MIT,2,home,MIT,09/27/2025,25,0
+W,False,W 1-0,10/04/2025,Smith,0,home,Smith,10/04/2025,60,1
+T,False,T 0-0,10/08/2025,Emerson,0,away,@ Emerson,10/08/2025,101,0
+W,False,W 3-0,10/11/2025,Wheaton (MA),0,home,Wheaton (MA),10/11/2025,105,3
+L,False,L 0-1,10/15/2025,WPI,1,away,@ WPI,10/15/2025,200,0
+L,False,L 0-4,10/18/2025,Salve Regina,4,away,@ Salve Regina,10/18/2025,0,0
+L,False,L 0-3,10/22/2025,Springfield,3,home,Springfield,10/22/2025,55,0
+T,False,T 0-0,10/25/2025,Clark (MA),0,away,@ Clark (MA),10/25/2025,197,0
+L,False,L 0-3,10/29/2025,Babson,3,away,@ Babson,10/29/2025,110,0
+T,False,T 0-0,11/01/2025,Mount Holyoke,0,home,Mount Holyoke,11/01/2025,60,0
+L,True,L 0-1 (1 OT),11/04/2025,MIT,1,away,@ #1 MIT NEWMAC WSOC Tournament,11/04/2025,93,0

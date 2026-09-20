@@ -1,0 +1,17 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 0-1,09/01/2025,Mary Baldwin,1,away,@ Mary Baldwin,09/01/2025,0,0
+W,False,W 2-0,09/06/2025,William Peace,0,home,William Peace,09/06/2025,135,2
+L,False,L 1-2,09/10/2025,N.C. Wesleyan,2,away,@ N.C. Wesleyan,09/10/2025,50,1
+W,False,W 2-0,09/13/2025,Regent,0,home,Regent,09/13/2025,50,2
+T,False,T 1-1,09/17/2025,Meredith,1,away,@ Meredith,09/17/2025,188,1
+W,False,W 2-1,09/20/2025,Salem (NC),1,home,Salem (NC),09/20/2025,60,2
+L,False,L 0-5,09/24/2025,Lynchburg,5,away,@ Lynchburg,09/24/2025,113,0
+L,False,L 0-1,09/27/2025,East. Mennonite,1,home,East. Mennonite,09/27/2025,200,0
+W,False,W 3-0,10/01/2025,Sweet Briar,0,home,Sweet Briar,10/01/2025,50,3
+W,False,W 7-1,10/04/2025,Hollins,1,away,@ Hollins,10/04/2025,178,7
+W,False,W 2-0,10/08/2025,Averett,0,home,Averett,10/08/2025,90,2
+L,False,L 0-2,10/15/2025,Roanoke,2,away,@ Roanoke,10/15/2025,65,0
+L,False,L 0-4,10/18/2025,Shenandoah,4,home,Shenandoah,10/18/2025,125,0
+L,False,L 0-4,10/22/2025,Wash. & Lee,4,away,@ Wash. & Lee,10/22/2025,134,0
+L,False,L 0-5,10/25/2025,Randolph-Macon,5,away,@ Randolph-Macon,10/25/2025,250,0
+L,False,L 0-2,10/29/2025,Va. Wesleyan,2,home,Va. Wesleyan,10/29/2025,56,0

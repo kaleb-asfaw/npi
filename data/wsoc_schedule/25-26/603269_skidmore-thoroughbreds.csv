@@ -1,0 +1,18 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+T,False,T 1-1,08/29/2025,SUNY Brockport,1,home,SUNY Brockport,08/29/2025,375,1
+L,False,L 0-1,09/06/2025,SUNY Oneonta,1,away,@ SUNY Oneonta,09/06/2025,500,0
+T,False,T 1-1,09/07/2025,Hartwick,1,away,@ Hartwick,09/07/2025,160,1
+W,False,W 3-1,09/10/2025,Plattsburgh St.,1,home,Plattsburgh St.,09/10/2025,125,3
+L,False,L 0-4,09/14/2025,Williams,4,away,@ Williams,09/14/2025,97,0
+W,False,W 2-1,09/20/2025,Gordon,1,away,@ Gordon,09/20/2025,114,2
+W,False,W 3-1,09/24/2025,Clarkson,1,home,Clarkson,09/24/2025,110,3
+W,False,W 2-1,09/27/2025,St. Lawrence,1,away,@ St. Lawrence,09/27/2025,189,2
+T,False,T 1-1,10/04/2025,Ithaca,1,home,Ithaca,10/04/2025,245,1
+T,False,T 0-0,10/08/2025,Rensselaer,0,away,@ Rensselaer,10/08/2025,100,0
+L,False,L 0-2,10/11/2025,William Smith,2,home,William Smith,10/11/2025,320,0
+W,False,W 4-0,10/14/2025,VTSU Castleton,0,home,VTSU Castleton,10/14/2025,134,4
+W,False,W 3-0,10/18/2025,Bard,0,away,@ Bard,10/18/2025,80,3
+W,False,W 1-0,10/22/2025,Union (NY),0,home,Union (NY),10/22/2025,126,1
+L,False,L 2-3,10/25/2025,Vassar,3,home,Vassar,10/25/2025,178,2
+L,False,L 0-4,11/01/2025,RIT,4,away,@ RIT,11/01/2025,252,0
+L,False,L 0-3,11/04/2025,Ithaca,3,home,Ithaca Liberty League WSOC Championship,11/04/2025,125,0

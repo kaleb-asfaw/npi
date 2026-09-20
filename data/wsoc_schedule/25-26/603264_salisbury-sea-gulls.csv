@@ -1,0 +1,24 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 1-4,08/29/2025,TCNJ,4,neutral,"TCNJ @Saint Mary`s City, MD",08/29/2025,56,1
+W,False,W 4-0,08/30/2025,Neumann,0,neutral,"Neumann @Saint Mary`s City, MD",08/30/2025,89,4
+T,False,T 1-1,09/03/2025,Washington Col.,1,home,Washington Col.,09/03/2025,225,1
+L,False,L 0-1,09/06/2025,Rowan,1,home,Rowan,09/06/2025,147,0
+L,False,L 0-3,09/07/2025,William Smith,3,home,William Smith,09/07/2025,60,0
+L,False,L 1-4,09/10/2025,Johns Hopkins,4,away,@ Johns Hopkins,09/10/2025,50,1
+L,False,L 0-1,09/13/2025,Bridgewater (VA),1,away,@ Bridgewater (VA),09/13/2025,106,0
+L,False,L 1-2,09/18/2025,Va. Wesleyan,2,home,Va. Wesleyan,09/18/2025,112,1
+L,False,L 0-1,09/20/2025,Randolph-Macon,1,home,Randolph-Macon,09/20/2025,167,0
+T,False,T 1-1,09/24/2025,York (PA),1,home,York (PA),09/24/2025,152,1
+L,False,L 0-3,09/27/2025,Carnegie Mellon,3,away,@ Carnegie Mellon,09/27/2025,184,0
+T,False,T 0-0,10/01/2025,McDaniel,0,away,@ McDaniel,10/01/2025,127,0
+W,False,W 2-0,10/04/2025,Gettysburg,0,home,Gettysburg,10/04/2025,206,2
+T,False,T 0-0,10/07/2025,Stevenson,0,away,@ Stevenson,10/07/2025,125,0
+W,False,W 4-0,10/10/2025,Regent,0,away,@ Regent,10/10/2025,20,4
+W,False,W 3-0,10/15/2025,Hood,0,away,@ Hood,10/15/2025,118,3
+L,False,L 0-3,10/18/2025,Mary Washington,3,away,@ Mary Washington,10/18/2025,410,0
+L,False,L 2-3,10/21/2025,Haverford,3,away,@ Haverford,10/21/2025,104,2
+W,False,W 1-0,10/28/2025,St. Mary's (MD),0,away,@ St. Mary's (MD),10/28/2025,85,1
+T,False,T 0-0,11/01/2025,Chris. Newport,0,home,Chris. Newport,11/01/2025,307,0
+,,Canceled,11/02/2025,Chris. Newport,,home,Chris. Newport,11/02/2025,,
+W,True,W 1-0 (2 OT),11/06/2025,JWU Charlotte,0,neutral,"JWU Charlotte @Salisbury, MD (C2C WSOC Championship)",11/06/2025,183,1
+L,False,L 0-1,11/07/2025,Chris. Newport,1,home,Chris. Newport C2C WSOC Championship,11/07/2025,124,0

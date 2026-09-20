@@ -1,0 +1,22 @@
+opponent,Result,date_parsed,Attendance,team_score,Opponent,Date,opp_score,outcome,home_away,overtime
+Carnegie Mellon,W 1-0,08/29/2025,133,1,"Carnegie Mellon @Marietta, OH",08/29/2025,0,W,neutral,False
+Marietta,W 2-0,08/30/2025,182,2,@ Marietta,08/30/2025,0,W,away,False
+Catholic,W 2-0,09/03/2025,53,2,Catholic,09/03/2025,0,W,home,False
+Dickinson,L 0-2,09/06/2025,90,0,@ Dickinson,09/06/2025,2,L,away,False
+Mary Washington,W 3-1,09/10/2025,87,3,Mary Washington,09/10/2025,1,W,home,False
+Salisbury,W 1-0,09/13/2025,106,1,Salisbury,09/13/2025,0,W,home,False
+Southern Va.,W 3-1,09/18/2025,271,3,@ Southern Va.,09/18/2025,1,W,away,False
+Hollins,W 12-0,09/24/2025,70,12,Hollins,09/24/2025,0,W,home,False
+Va. Wesleyan,L 1-2,09/27/2025,345,1,@ Va. Wesleyan,09/27/2025,2,L,away,False
+Wash. & Lee,L 0-2,10/01/2025,101,0,Wash. & Lee,10/01/2025,2,L,home,False
+Roanoke,W 4-0,10/04/2025,109,4,Roanoke,10/04/2025,0,W,home,False
+Shenandoah,L 0-2,10/08/2025,287,0,@ Shenandoah,10/08/2025,2,L,away,False
+Guilford,W 5-0,10/11/2025,339,5,Guilford,10/11/2025,0,W,home,False
+East. Mennonite,W 10-0,10/15/2025,97,10,@ East. Mennonite,10/15/2025,0,W,away,False
+Sweet Briar,W 11-0,10/18/2025,80,11,Sweet Briar,10/18/2025,0,W,home,False
+Gettysburg,W 3-0,10/22/2025,100,3,@ Gettysburg,10/22/2025,0,W,away,False
+Lynchburg,W 4-1,10/25/2025,104,4,@ Lynchburg,10/25/2025,1,W,away,False
+Randolph-Macon,W 1-0,10/29/2025,100,1,@ Randolph-Macon,10/29/2025,0,W,away,False
+Randolph-Macon,W 5-1,11/01/2025,83,5,#5 Randolph-Macon ODAC WSOC Championship,11/01/2025,1,W,home,False
+Wash. & Lee,L 2-3 (1 OT),11/05/2025,118,2,@ #2 Wash. & Lee ODAC WSOC Championship,11/05/2025,3,L,away,True
+Swarthmore,L 2-4,11/15/2025,317,2,"Swarthmore @Cleveland, OH (2025 NCAA DIII Women's Soccer Championship)",11/15/2025,4,L,neutral,False

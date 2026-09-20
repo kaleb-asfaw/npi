@@ -1,0 +1,21 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 2-1,08/29/2025,@ Me.-Fort Kent,1,home,@ Me.-Fort Kent,08/29/2025,0,2
+W,False,W 5-0,09/06/2025,Me.-Presque Isle,0,away,@ Me.-Presque Isle,09/06/2025,75,5
+W,False,W 7-0,09/13/2025,SUNY Cobleskill,0,home,SUNY Cobleskill,09/13/2025,115,7
+W,False,W 3-1,09/14/2025,SUNY Delhi,1,home,SUNY Delhi,09/14/2025,75,3
+W,False,W 1-0,09/19/2025,Fisher,0,home,Fisher,09/19/2025,75,1
+W,False,W 10-0,09/21/2025,@ Bay Path,0,home,@ Bay Path,09/21/2025,50,10
+L,False,L 1-4,09/24/2025,Southern Me.,4,home,Southern Me.,09/24/2025,115,1
+W,False,W 2-1,09/27/2025,Thomas (ME),1,away,@ Thomas (ME),09/27/2025,200,2
+L,False,L 0-1,10/01/2025,Me.-Fort Kent,1,home,Me.-Fort Kent,10/01/2025,75,0
+W,False,W 2-1,10/04/2025,Me.-Farmington,1,away,@ Me.-Farmington,10/04/2025,125,2
+L,False,L 0-2,10/07/2025,Bowdoin,2,away,@ Bowdoin,10/07/2025,0,0
+W,False,W 8-0,10/11/2025,VTSU Lyndon,0,away,@ VTSU Lyndon,10/11/2025,0,8
+L,False,L 1-2,10/12/2025,VTSU-Johnson,2,away,@ VTSU-Johnson,10/12/2025,100,1
+L,False,L 1-3,10/15/2025,Colby,3,home,Colby,10/15/2025,75,1
+W,False,W 7-0,10/18/2025,Me.-Presque Isle,0,home,Me.-Presque Isle,10/18/2025,115,7
+L,False,L 1-2,10/19/2025,Lesley,2,away,@ Lesley,10/19/2025,75,1
+T,False,T 1-1,10/25/2025,Husson,1,home,Husson,10/25/2025,215,1
+W,False,W 3-0,10/29/2025,Thomas (ME),0,home,Thomas (ME) North Atlantic Women's Soccer Championship,10/29/2025,75,3
+W,False,W 3-2,11/01/2025,Husson,2,away,@ Husson North Atlantic Women's Soccer Championship,11/01/2025,200,3
+L,False,L 1-3,11/08/2025,Lesley,3,away,@ Lesley North Atlantic Women's Soccer Championship,11/08/2025,185,1

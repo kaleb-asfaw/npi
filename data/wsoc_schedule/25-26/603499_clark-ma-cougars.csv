@@ -1,0 +1,19 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 6-0,08/30/2025,Nichols,0,away,@ Nichols,08/30/2025,243,6
+W,False,W 10-0,09/03/2025,Framingham St.,0,away,@ Framingham St.,09/03/2025,50,10
+T,False,T 1-1,09/06/2025,Western New Eng.,1,home,Western New Eng.,09/06/2025,283,1
+L,False,L 0-5,09/10/2025,Brandeis,5,away,@ Brandeis,09/10/2025,100,0
+W,False,W 3-0,09/16/2025,Worcester St.,0,home,Worcester St.,09/16/2025,158,3
+T,False,T 3-3,09/20/2025,WPI,3,away,@ WPI,09/20/2025,200,3
+T,False,T 0-0,09/21/2025,Williams,0,home,Williams,09/21/2025,195,0
+L,False,L 0-1,09/27/2025,Wheaton (MA),1,home,Wheaton (MA),09/27/2025,243,0
+W,False,W 3-1,10/01/2025,Fitchburg St.,1,away,@ Fitchburg St.,10/01/2025,68,3
+T,False,T 0-0,10/04/2025,Emerson,0,home,Emerson,10/04/2025,101,0
+L,False,L 1-2,10/08/2025,Babson,2,away,@ Babson,10/08/2025,100,1
+W,False,W 5-4,10/11/2025,Smith,4,away,@ Smith,10/11/2025,100,5
+L,False,L 0-5,10/15/2025,MIT,5,home,MIT,10/15/2025,138,0
+L,False,L 1-2,10/18/2025,Coast Guard,2,home,Coast Guard,10/18/2025,128,1
+W,False,W 2-0,10/22/2025,Mount Holyoke,0,away,@ Mount Holyoke,10/22/2025,65,2
+T,False,T 0-0,10/25/2025,Wellesley,0,home,Wellesley,10/25/2025,197,0
+W,False,W 2-1,10/29/2025,Salve Regina,1,home,Salve Regina,10/29/2025,74,2
+L,False,L 2-7,11/01/2025,Springfield,7,away,@ Springfield,11/01/2025,67,2

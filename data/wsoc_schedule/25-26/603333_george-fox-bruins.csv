@@ -1,0 +1,20 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 0-1,08/31/2025,Whittier,1,away,@ Whittier,08/31/2025,75,0
+T,False,T 0-0,09/01/2025,La Verne,0,away,@ La Verne,09/01/2025,100,0
+T,False,T 1-1,09/08/2025,@ Bushnell,1,home,@ Bushnell,09/08/2025,0,1
+T,False,T 0-0,09/12/2025,Willamette,0,home,Willamette,09/12/2025,96,0
+T,False,T 0-0,09/14/2025,Pacific (OR),0,away,@ Pacific (OR),09/14/2025,73,0
+L,False,L 0-1,09/20/2025,Pacific Lutheran,1,away,@ Pacific Lutheran,09/20/2025,280,0
+L,False,L 0-3,09/21/2025,Puget Sound,3,away,@ Puget Sound,09/21/2025,164,0
+L,False,L 0-1,09/27/2025,Lewis & Clark,1,away,@ Lewis & Clark,09/27/2025,104,0
+T,False,T 0-0,10/04/2025,Whitworth,0,home,Whitworth,10/04/2025,108,0
+T,False,T 0-0,10/05/2025,Whitman,0,home,Whitman,10/05/2025,115,0
+L,False,L 0-1,10/08/2025,Pacific (OR),1,home,Pacific (OR),10/08/2025,110,0
+L,False,L 0-2,10/11/2025,Linfield,2,away,@ Linfield,10/11/2025,172,0
+L,False,L 0-3,10/15/2025,Willamette,3,away,@ Willamette,10/15/2025,118,0
+L,False,L 1-4,10/18/2025,Puget Sound,4,home,Puget Sound,10/18/2025,109,1
+L,False,L 0-1,10/19/2025,Pacific Lutheran,1,home,Pacific Lutheran,10/19/2025,120,0
+T,False,T 0-0,10/26/2025,Lewis & Clark,0,home,Lewis & Clark,10/26/2025,95,0
+L,False,L 0-5,11/01/2025,Whitman,5,away,@ Whitman,11/01/2025,200,0
+L,False,L 1-4,11/02/2025,Whitworth,4,away,@ Whitworth,11/02/2025,150,1
+L,False,L 0-1,11/09/2025,Linfield,1,home,Linfield,11/09/2025,252,0

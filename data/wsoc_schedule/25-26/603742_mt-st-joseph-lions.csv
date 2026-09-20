@@ -1,0 +1,22 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 0-6 *,08/24/2025,Northern Ky.,6,away,@ Northern Ky.,08/24/2025,258,0
+W,False,W 2-0,08/29/2025,Ohio Wesleyan,0,home,Ohio Wesleyan,08/29/2025,212,2
+L,False,L 0-2,09/05/2025,Va. Wesleyan,2,away,@ Va. Wesleyan,09/05/2025,259,0
+L,False,L 0-4,09/07/2025,Chris. Newport,4,away,@ Chris. Newport,09/07/2025,273,0
+T,False,T 2-2,09/10/2025,Wittenberg,2,away,@ Wittenberg,09/10/2025,73,2
+L,False,L 0-1,09/14/2025,Centre,1,home,Centre,09/14/2025,200,0
+T,False,T 1-1,09/17/2025,Asbury,1,home,Asbury,09/17/2025,212,1
+W,False,W 2-1,09/20/2025,Marietta,1,home,Marietta,09/20/2025,212,2
+L,False,L 0-3,09/21/2025,John Carroll,3,home,John Carroll,09/21/2025,212,0
+L,False,L 0-1,09/23/2025,Spalding,1,home,Spalding,09/23/2025,212,0
+T,False,T 2-2,09/27/2025,Anderson (IN),2,home,Anderson (IN),09/27/2025,212,2
+L,False,L 0-3,09/28/2025,Heidelberg,3,away,@ Heidelberg,09/28/2025,100,0
+W,False,W 6-0,10/04/2025,Franklin,0,away,@ Franklin,10/04/2025,83,6
+W,False,W 2-1,10/08/2025,Hanover,1,away,@ Hanover,10/08/2025,16,2
+W,False,W 2-0,10/11/2025,Rose-Hulman,0,home,Rose-Hulman,10/11/2025,212,2
+W,False,W 3-1,10/15/2025,Transylvania,1,away,@ Transylvania,10/15/2025,125,3
+W,False,W 3-1,10/18/2025,Earlham,1,home,Earlham,10/18/2025,212,3
+W,False,W 2-0,10/22/2025,Berea,0,home,Berea,10/22/2025,212,2
+W,False,W 6-0,10/25/2025,Manchester,0,away,@ Manchester,10/25/2025,80,6
+W,False,W 8-0,10/28/2025,Bluffton,0,home,Bluffton,10/28/2025,212,8
+T,True,T 1-1 (3 OT),11/04/2025,Hanover,1,home,#4 Hanover HCAC WSOC Championship,11/04/2025,212,1

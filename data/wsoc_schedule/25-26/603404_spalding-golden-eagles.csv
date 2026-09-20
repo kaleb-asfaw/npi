@@ -1,0 +1,22 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 1-3,08/29/2025,Sewanee,3,away,@ Sewanee,08/29/2025,376,1
+L,False,L 0-1,08/30/2025,Maryville (TN),1,neutral,"Maryville (TN) @Sewanee, TN",08/30/2025,264,0
+L,False,L 0-2,09/03/2025,Wilmington (OH),2,away,@ Wilmington (OH),09/03/2025,150,0
+W,False,W 2-1,09/06/2025,Hanover,1,home,Hanover,09/06/2025,150,2
+T,False,T 0-0,09/10/2025,Rose-Hulman,0,home,Rose-Hulman,09/10/2025,89,0
+W,False,W 6-0,09/13/2025,Asbury,0,home,Asbury,09/13/2025,175,6
+W,False,W 4-0,09/17/2025,Franklin,0,home,Franklin,09/17/2025,85,4
+W,False,W 2-0,09/20/2025,Anderson (IN),0,away,@ Anderson (IN),09/20/2025,117,2
+W,False,W 1-0,09/23/2025,Mt. St. Joseph,0,away,@ Mt. St. Joseph,09/23/2025,212,1
+W,False,W 6-0,09/27/2025,Lyon,0,away,@ Lyon,09/27/2025,151,6
+W,False,W 2-0,09/30/2025,Transylvania,0,home,Transylvania,09/30/2025,218,2
+W,False,W 7-0,10/04/2025,MUW,0,home,MUW,10/04/2025,300,7
+W,False,W 7-0,10/08/2025,Blackburn,0,home,Blackburn,10/08/2025,145,7
+W,False,W 10-0,10/11/2025,Eureka,0,away,@ Eureka,10/11/2025,150,10
+W,False,W 5-0,10/14/2025,Principia,0,home,Principia,10/14/2025,135,5
+W,False,W 1-0,10/23/2025,Westminster (MO),0,away,@ Westminster (MO),10/23/2025,76,1
+L,False,L 0-2,10/25/2025,Greenville,2,away,@ Greenville,10/25/2025,200,0
+W,False,W 5-0,10/29/2025,Webster,0,home,Webster,10/29/2025,100,5
+W,False,W 4-0,11/06/2025,Webster,0,home,#3 Webster SLIAC WSOC Tournament,11/06/2025,103,4
+T,True,T 0-0 (3 OT),11/08/2025,Greenville,0,away,@ #1 Greenville SLIAC WSOC Tournament,11/08/2025,175,0
+L,False,L 0-4,11/15/2025,Lake Forest,4,away,@ Lake Forest 2025 NCAA DIII Women's Soccer Championship,11/15/2025,247,0

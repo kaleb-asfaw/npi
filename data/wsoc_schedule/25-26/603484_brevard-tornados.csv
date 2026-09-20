@@ -1,0 +1,24 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 20-0,09/02/2025,Alice Lloyd,0,home,Alice Lloyd,09/02/2025,155,20
+,,Canceled,09/04/2025,Carolina Christian,,home,Carolina Christian,09/04/2025,,
+W,False,W 4-0,09/07/2025,East. Mennonite,0,away,@ East. Mennonite,09/07/2025,93,4
+W,False,W 2-0,09/10/2025,Piedmont,0,home,Piedmont,09/10/2025,205,2
+W,False,W 1-0,09/13/2025,Averett,0,home,Averett,09/13/2025,210,1
+W,False,W 9-0,09/16/2025,CarolinaU,0,home,CarolinaU,09/16/2025,123,9
+W,False,W 2-0,09/19/2025,Meredith,0,home,Meredith,09/19/2025,212,2
+W,False,W 5-1,09/23/2025,Greensboro,1,away,@ Greensboro,09/23/2025,100,5
+,,Canceled,09/29/2025 05:00 PM,Oglethorpe,,home,Oglethorpe,09/29/2025 05:00 PM,,
+W,False,W 2-0,09/30/2025,William Peace,0,away,@ William Peace,09/30/2025,25,2
+W,False,W 2-1,10/04/2025,Methodist,1,away,@ Methodist,10/04/2025,150,2
+W,False,W 4-0,10/08/2025,Warren Wilson,0,away,@ Warren Wilson,10/08/2025,25,4
+W,False,W 4-1,10/11/2025,Mary Baldwin,1,home,Mary Baldwin,10/11/2025,128,4
+,,Canceled,10/13/2025 03:00 PM,@ Alice Lloyd,,home,@ Alice Lloyd,10/13/2025 03:00 PM,,
+W,False,W 4-0,10/15/2025,Salem (NC),0,away,@ Salem (NC),10/15/2025,50,4
+W,False,W 2-0,10/18/2025,N.C. Wesleyan,0,home,N.C. Wesleyan,10/18/2025,291,2
+W,False,W 2-0,10/21/2025,JWU Charlotte,0,home,JWU Charlotte,10/21/2025,196,2
+W,False,W 1-0,10/25/2025,Southern Va.,0,away,@ Southern Va.,10/25/2025,150,1
+W,False,W 4-0,10/29/2025,Pfeiffer,0,home,Pfeiffer,10/29/2025,143,4
+W,False,W 3-1,11/01/2025,Salem (NC),1,home,#8 Salem (NC) USA South WSOC Tournament,11/01/2025,186,3
+W,False,W 4-0,11/05/2025,Mary Baldwin,0,home,#4 Mary Baldwin USA South WSOC Tournament,11/05/2025,213,4
+T,True,T 0-0 (3 OT),11/08/2025,Southern Va.,0,home,#2 Southern Va. USA South WSOC Tournament,11/08/2025,232,0
+L,False,L 0-2,11/15/2025,Rhodes,2,neutral,"Rhodes @Atlanta, GA (2025 NCAA DIII Women's Soccer Championship)",11/15/2025,442,0

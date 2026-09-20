@@ -1,0 +1,20 @@
+team_score,date_parsed,Opponent,outcome,opponent,opp_score,Date,home_away,Result,overtime,Attendance
+1,08/29/2025,@ Plattsburgh St.,L,Plattsburgh St.,2,08/29/2025,away,L 1-2,False,130
+1,09/03/2025,@ Norwich,L,Norwich,2,09/03/2025,away,L 1-2,False,105
+0,09/07/2025,@ Middlebury,L,Middlebury,5,09/07/2025,away,L 0-5,False,237
+0,09/10/2025,Rensselaer,L,Rensselaer,1,09/10/2025,home,L 0-1,False,85
+0,09/13/2025,@ WestConn,L,WestConn,2,09/13/2025,away,L 0-2,False,155
+5,09/17/2025,MCLA,W,MCLA,0,09/17/2025,home,W 5-0,False,100
+0,09/20/2025,Eastern Conn. St.,L,Eastern Conn. St.,2,09/20/2025,home,L 0-2,False,100
+5,09/23/2025,New England Col.,W,New England Col.,0,09/23/2025,home,W 5-0,False,55
+2,09/27/2025,@ Plymouth St.,W,Plymouth St.,0,09/27/2025,away,W 2-0,False,272
+6,09/28/2025,Colby-Sawyer,W,Colby-Sawyer,0,09/28/2025,home,W 6-0,False,100
+2,10/04/2025,UMass Dartmouth,W,UMass Dartmouth,1,10/04/2025,home,W 2-1,False,55
+0,10/07/2025,@ Westfield St.,L,Westfield St.,1,10/07/2025,away,L 0-1,False,124
+1,10/11/2025,@ UMass Boston,L,UMass Boston,2,10/11/2025,away,L 1-2,False,172
+0,10/14/2025,@ Skidmore,L,Skidmore,4,10/14/2025,away,L 0-4,False,134
+1,10/17/2025,Southern Me.,L,Southern Me.,4,10/17/2025,home,L 1-4,False,65
+1,10/22/2025,@ Bard,W,Bard,0,10/22/2025,away,W 1-0,False,150
+1,10/25/2025,@ Rhode Island Col.,W,Rhode Island Col.,0,10/25/2025,away,W 1-0,False,455
+3,10/26/2025,Me.-Farmington,W,Me.-Farmington,0,10/26/2025,home,W 3-0,False,138
+0,10/29/2025,Keene St.,L,Keene St.,1,10/29/2025,home,L 0-1,False,87

@@ -1,0 +1,23 @@
+opponent,Result,date_parsed,Attendance,team_score,Opponent,Date,opp_score,outcome,home_away,overtime
+Wis.-Stevens Point,W 3-0,08/29/2025,174,3,@ Wis.-Stevens Point,08/29/2025,0,W,away,False
+St. Norbert,W 1-0,08/30/2025,217,1,St. Norbert,08/30/2025,0,W,home,False
+Wis.-Stout,W 5-1,09/03/2025,143,5,@ Wis.-Stout,09/03/2025,1,W,away,False
+UW-River Falls,W 4-0,09/06/2025,100,4,UW-River Falls,09/06/2025,0,W,home,False
+Emory,L 0-2,09/08/2025,74,0,Emory,09/08/2025,2,L,home,False
+Macalester,W 4-1,09/17/2025,133,4,Macalester,09/17/2025,1,W,home,False
+Concordia-M'head,W 6-0,09/20/2025,127,6,Concordia-M'head,09/20/2025,0,W,home,False
+Wis.-Eau Claire,W 2-0,09/23/2025,231,2,@ Wis.-Eau Claire,09/23/2025,0,W,away,False
+Augsburg,W 2-0,09/27/2025,250,2,@ Augsburg,09/27/2025,0,W,away,False
+Hamline,W 2-0,10/01/2025,50,2,@ Hamline,10/01/2025,0,W,away,False
+Carleton,L 0-1,10/04/2025,211,0,Carleton,10/04/2025,1,L,home,False
+Saint Mary's (MN),W 2-1,10/11/2025,124,2,@ Saint Mary's (MN),10/11/2025,1,W,away,False
+St. Scholastica,W 3-0,10/14/2025,76,3,St. Scholastica,10/14/2025,0,W,home,False
+Saint Benedict,W 3-0,10/18/2025,143,3,@ Saint Benedict,10/18/2025,0,W,away,False
+Wis.-Superior,W 2-0,10/19/2025,100,2,Wis.-Superior,10/19/2025,0,W,home,False
+Bethel (MN),W 3-0,10/22/2025,80,3,Bethel (MN),10/22/2025,0,W,home,False
+Gustavus Adolphus,W 3-0,10/25/2025,180,3,Gustavus Adolphus,10/25/2025,0,W,home,False
+Simpson,Canceled,10/28/2025,,,Simpson,10/28/2025,,,home,
+St. Olaf,W 2-0,11/01/2025,532,2,@ St. Olaf,11/01/2025,0,W,away,False
+Augsburg,W 2-1,11/06/2025,203,2,Augsburg MIAC WSOC Playoffs,11/06/2025,1,W,home,False
+Carleton,L 0-1,11/08/2025,300,0,Carleton MIAC WSOC Playoffs,11/08/2025,1,L,home,False
+Wis.-La Crosse,L 0-4,11/15/2025,209,0,"Wis.-La Crosse @Chicago, IL (2025 NCAA DIII Women's Soccer Championship)",11/15/2025,4,L,neutral,False

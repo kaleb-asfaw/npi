@@ -1,0 +1,19 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 4-0,08/29/2025,Knox,0,home,Knox,08/29/2025,200,4
+T,False,T 0-0,08/30/2025,Simpson,0,home,Simpson,08/30/2025,200,0
+W,False,W 6-0,09/02/2025,Monmouth (IL),0,home,Monmouth (IL),09/02/2025,200,6
+W,False,W 2-1,09/06/2025,Westminster (MO),1,home,Westminster (MO),09/06/2025,175,2
+L,False,L 0-2,09/10/2025,Webster,2,away,@ Webster,09/10/2025,383,0
+L,False,L 2-6,09/13/2025,Wis.-La Crosse,6,home,Wis.-La Crosse,09/13/2025,150,2
+L,False,L 1-3,09/17/2025,Trine,3,home,Trine,09/17/2025,100,1
+T,False,T 1-1,09/21/2025,Illinois Col.,1,home,Illinois Col.,09/21/2025,125,1
+L,False,L 0-3,09/24/2025,Greenville,3,away,@ Greenville,09/24/2025,100,0
+L,False,L 1-4,09/27/2025,Carthage,4,home,Carthage,09/27/2025,100,1
+L,False,L 0-7,09/30/2025,WashU,7,home,WashU,09/30/2025,120,0
+T,False,T 1-1,10/04/2025,Elmhurst,1,away,@ Elmhurst,10/04/2025,358,1
+L,False,L 0-2,10/11/2025,Carroll (WI),2,home,Carroll (WI),10/11/2025,100,0
+L,False,L 1-4,10/15/2025,North Central (IL),4,away,@ North Central (IL),10/15/2025,154,1
+T,False,T 1-1,10/18/2025,Wheaton (IL),1,away,@ Wheaton (IL),10/18/2025,291,1
+L,False,L 0-2,10/22/2025,North Park,2,away,@ North Park,10/22/2025,50,0
+W,False,W 3-1,10/25/2025,Augustana (IL),1,home,Augustana (IL),10/25/2025,90,3
+L,False,L 0-1,10/29/2025,Ill. Wesleyan,1,home,Ill. Wesleyan,10/29/2025,100,0

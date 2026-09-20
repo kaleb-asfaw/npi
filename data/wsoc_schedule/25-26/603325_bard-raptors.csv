@@ -1,0 +1,17 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 1-0,08/29/2025,Rutgers-Newark,0,home,Rutgers-Newark,08/29/2025,100,1
+L,False,L 1-3,08/31/2025,New Jersey City,3,home,New Jersey City,08/31/2025,100,1
+,,Ppd,09/06/2025,Lehman,,away,@ Lehman,09/06/2025,,
+W,False,W 3-2,09/09/2025,SUNY Poly,2,home,SUNY Poly,09/09/2025,40,3
+W,False,W 2-0,09/13/2025,Brooklyn,0,away,@ Brooklyn,09/13/2025,87,2
+L,False,L 0-2,09/20/2025,Wm. Paterson,2,away,@ Wm. Paterson,09/20/2025,90,0
+L,False,L 0-6,09/24/2025,Vassar,6,home,Vassar,09/24/2025,90,0
+L,False,L 0-4,09/27/2025,William Smith,4,away,@ William Smith,09/27/2025,200,0
+L,False,L 0-2,10/01/2025,Union (NY),2,away,@ Union (NY),10/01/2025,126,0
+L,False,L 0-4,10/04/2025,St. Lawrence,4,home,St. Lawrence,10/04/2025,120,0
+L,False,L 1-3,10/11/2025,Clarkson,3,away,@ Clarkson,10/11/2025,87,1
+L,False,L 0-3,10/18/2025,Skidmore,3,home,Skidmore,10/18/2025,80,0
+L,False,L 0-1,10/22/2025,VTSU Castleton,1,home,VTSU Castleton,10/22/2025,150,0
+L,False,L 0-3,10/25/2025,RIT,3,home,RIT,10/25/2025,80,0
+L,False,L 0-4,10/29/2025,Rensselaer,4,away,@ Rensselaer,10/29/2025,112,0
+L,False,L 0-4,11/01/2025,Ithaca,4,away,@ Ithaca,11/01/2025,148,0

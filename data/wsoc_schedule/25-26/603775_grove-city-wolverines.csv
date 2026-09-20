@@ -1,0 +1,21 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+T,False,T 2-2,08/29/2025,RIT,2,away,@ RIT,08/29/2025,204,2
+L,False,L 0-2,08/30/2025,Nazareth,2,away,@ Nazareth,08/30/2025,234,0
+L,False,L 0-6,09/06/2025,CWRU,6,home,CWRU,09/06/2025,350,0
+W,False,W 1-0,09/13/2025,Dickinson,0,away,@ Dickinson,09/13/2025,100,1
+L,False,L 1-2,09/17/2025,Carnegie Mellon,2,home,Carnegie Mellon,09/17/2025,100,1
+L,False,L 0-3,09/20/2025,Penn St.-Behrend,3,home,Penn St.-Behrend,09/20/2025,200,0
+W,False,W 8-1,09/24/2025,Bethany (WV),1,away,@ Bethany (WV),09/24/2025,63,8
+T,False,T 1-1,09/27/2025,Allegheny,1,home,Allegheny,09/27/2025,250,1
+W,False,W 2-0,09/30/2025,Geneva,0,away,@ Geneva,09/30/2025,188,2
+W,False,W 11-0,10/04/2025,Thiel,0,home,Thiel,10/04/2025,200,11
+W,False,W 4-0,10/08/2025,Hiram,0,away,@ Hiram,10/08/2025,76,4
+W,False,W 1-0,10/10/2025,Westminster (PA),0,away,@ Westminster (PA),10/10/2025,233,1
+W,False,W 2-0,10/15/2025,Franciscan,0,home,Franciscan,10/15/2025,100,2
+W,False,W 6-0,10/18/2025,Chatham,0,away,@ Chatham,10/18/2025,75,6
+W,False,W 3-0,10/22/2025,Saint Vincent,0,home,Saint Vincent,10/22/2025,100,3
+W,False,W 7-0,10/25/2025,Wash. & Jeff.,0,home,Wash. & Jeff.,10/25/2025,300,7
+W,False,W 4-0,10/29/2025,Waynesburg,0,away,@ Waynesburg,10/29/2025,65,4
+W,False,W 1-0,11/05/2025,Franciscan,0,home,#5 Franciscan PAC WSOC Championship,11/05/2025,150,1
+W,False,W 1-0,11/08/2025,Waynesburg,0,home,#2 Waynesburg PAC WSOC Championship,11/08/2025,350,1
+L,False,L 0-1,11/14/2025,Illinois Tech,1,neutral,"Illinois Tech @Grand Rapids, MI (2025 NCAA DIII Women's Soccer Championship)",11/14/2025,102,0

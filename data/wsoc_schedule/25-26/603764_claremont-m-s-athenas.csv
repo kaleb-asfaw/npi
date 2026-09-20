@@ -1,0 +1,21 @@
+opponent,Result,date_parsed,Attendance,team_score,Opponent,Date,opp_score,outcome,home_away,overtime
+Stevens,T 1-1,08/29/2025,373,1,@ Stevens,08/29/2025,1,T,away,False
+NYU,W 2-0,08/31/2025,347,2,@ NYU,08/31/2025,0,W,away,False
+LIFE Pacific,W 2-0,09/05/2025,236,2,LIFE Pacific,09/05/2025,0,W,home,False
+MSOE,W 4-2,09/07/2025,146,4,MSOE,09/07/2025,2,W,home,False
+UC Santa Cruz,W 2-0,09/11/2025,250,2,UC Santa Cruz,09/11/2025,0,W,home,False
+Chapman,W 2-1,09/13/2025,319,2,Chapman,09/13/2025,1,W,home,False
+Whittier,W 2-0,09/17/2025,200,2,Whittier,09/17/2025,0,W,home,False
+Cal Lutheran,L 0-1,09/20/2025,150,0,@ Cal Lutheran,09/20/2025,1,L,away,False
+Pomona-Pitzer,L 0-1,09/24/2025,400,0,Pomona-Pitzer,09/24/2025,1,L,home,False
+Redlands,W 4-0,09/27/2025,126,4,Redlands,09/27/2025,0,W,home,False
+Chapman,W 4-2,10/01/2025,117,4,@ Chapman,10/01/2025,2,W,away,False
+La Verne,W 1-0,10/04/2025,173,1,@ La Verne,10/04/2025,0,W,away,False
+Caltech,W 3-1,10/08/2025,41,3,@ Caltech,10/08/2025,1,W,away,False
+Occidental,W 2-0,10/11/2025,200,2,Occidental,10/11/2025,0,W,home,False
+Redlands,W 5-0,10/18/2025,154,5,@ Redlands,10/18/2025,0,W,away,False
+Pomona-Pitzer,T 0-0,10/22/2025,374,0,@ Pomona-Pitzer,10/22/2025,0,T,away,False
+Cal Lutheran,T 0-0,10/25/2025,200,0,Cal Lutheran,10/25/2025,0,T,home,False
+Caltech,W 5-0,11/01/2025,152,5,Caltech,11/01/2025,0,W,home,False
+Cal Lutheran,L 1-2,11/05/2025,150,1,@ #2 Cal Lutheran SCIAC WSOC Tournament,11/05/2025,2,L,away,False
+Puget Sound,L 0-1 (1 OT),11/15/2025,246,0,"Puget Sound @Claremont, CA (2025 NCAA DIII Women's Soccer Championship)",11/15/2025,1,L,neutral,True

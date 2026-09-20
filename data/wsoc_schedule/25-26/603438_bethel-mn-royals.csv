@@ -1,0 +1,19 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+T,False,T 2-2,08/29/2025,Northwestern-St. Paul,2,home,Northwestern-St. Paul,08/29/2025,215,2
+L,False,L 0-1,09/01/2025,Wis.-Whitewater,1,away,@ Wis.-Whitewater,09/01/2025,274,0
+L,False,L 0-3,09/06/2025,Kalamazoo,3,neutral,"Kalamazoo @Kenosha, WI",09/06/2025,46,0
+L,False,L 1-2,09/07/2025,Carthage,2,away,@ Carthage,09/07/2025,122,1
+L,False,L 0-5,09/11/2025,Macalester,5,away,@ Macalester,09/11/2025,199,0
+L,False,L 1-2,09/14/2025,Wis.-Stout,2,away,@ Wis.-Stout,09/14/2025,170,1
+L,False,L 0-1,09/16/2025,Saint Mary's (MN),1,home,Saint Mary's (MN),09/16/2025,129,0
+L,False,L 0-3,09/20/2025,Saint Benedict,3,away,@ Saint Benedict,09/20/2025,291,0
+W,False,W 4-1,09/27/2025,Concordia-M'head,1,away,@ Concordia-M'head,09/27/2025,100,4
+L,False,L 0-1,10/01/2025,St. Scholastica,1,home,St. Scholastica,10/01/2025,181,0
+L,False,L 0-2,10/04/2025,Gustavus Adolphus,2,home,Gustavus Adolphus,10/04/2025,147,0
+L,False,L 0-8,10/08/2025,Wis.-La Crosse,8,away,@ Wis.-La Crosse,10/08/2025,75,0
+L,False,L 0-2,10/11/2025,St. Olaf,2,away,@ St. Olaf,10/11/2025,224,0
+W,False,W 3-1,10/14/2025,Augsburg,1,away,@ Augsburg,10/14/2025,100,3
+T,False,T 0-0,10/18/2025,Hamline,0,home,Hamline,10/18/2025,128,0
+L,False,L 0-3,10/22/2025,St. Catherine,3,away,@ St. Catherine,10/22/2025,80,0
+W,False,W 2-1,10/25/2025,Carleton,1,home,Carleton,10/25/2025,123,2
+L,False,L 0-4,11/01/2025,Macalester,4,away,@ Macalester,11/01/2025,193,0

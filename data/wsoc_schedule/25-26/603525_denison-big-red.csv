@@ -1,0 +1,20 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 0-1,08/30/2025,Lynchburg,1,neutral,"Lynchburg @Salem, VA",08/30/2025,142,0
+W,False,W 2-0,08/31/2025,Roanoke,0,away,@ Roanoke,08/31/2025,150,2
+W,False,W 5-1,09/05/2025,Baldwin Wallace,1,home,Baldwin Wallace,09/05/2025,378,5
+L,False,L 1-2,09/07/2025,Carnegie Mellon,2,home,Carnegie Mellon,09/07/2025,236,1
+T,False,T 1-1,09/13/2025,Centre,1,home,Centre,09/13/2025,177,1
+T,False,T 0-0,09/14/2025,Mount Union,0,home,Mount Union,09/14/2025,357,0
+W,False,W 1-0,09/20/2025,Rose-Hulman,0,home,Rose-Hulman,09/20/2025,357,1
+W,False,W 2-1,09/23/2025,Ohio Northern,1,away,@ Ohio Northern,09/23/2025,92,2
+W,False,W 3-2,09/27/2025,Capital,2,home,Capital,09/27/2025,512,3
+L,False,L 1-2,10/01/2025,Otterbein,2,away,@ Otterbein,10/01/2025,71,1
+T,False,T 1-1,10/04/2025,Ohio Wesleyan,1,away,@ Ohio Wesleyan,10/04/2025,152,1
+W,False,W 3-0,10/11/2025,Oberlin,0,home,Oberlin,10/11/2025,350,3
+T,False,T 0-0,10/18/2025,Wooster,0,away,@ Wooster,10/18/2025,108,0
+L,False,L 0-1,10/22/2025,DePauw,1,away,@ DePauw,10/22/2025,65,0
+T,False,T 0-0,10/25/2025,Wittenberg,0,home,Wittenberg,10/25/2025,237,0
+W,False,W 1-0,10/29/2025,John Carroll,0,away,@ John Carroll,10/29/2025,200,1
+W,False,W 3-1,11/01/2025,Kenyon,1,home,Kenyon,11/01/2025,271,3
+W,False,W 1-0,11/06/2025,DePauw,0,away,@ #2 DePauw NCAC WSOC Tournament,11/06/2025,230,1
+L,False,L 0-1,11/09/2025,John Carroll,1,away,@ #1 John Carroll NCAC WSOC Tournament,11/09/2025,200,0

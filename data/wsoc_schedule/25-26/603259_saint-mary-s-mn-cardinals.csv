@@ -1,0 +1,20 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 5-0,08/29/2025,Minn.-Morris,0,away,@ Minn.-Morris,08/29/2025,38,5
+W,False,W 2-1,09/01/2025,Wis.-Platteville,1,home,Wis.-Platteville,09/01/2025,"1,000",2
+W,False,W 2-0,09/05/2025,Grinnell,0,home,Grinnell,09/05/2025,115,2
+W,False,W 3-0,09/06/2025,Lawrence,0,home,Lawrence,09/06/2025,104,3
+W,False,W 3-0,09/10/2025,Wartburg,0,home,Wartburg,09/10/2025,67,3
+W,False,W 1-0,09/16/2025,Bethel (MN),0,away,@ Bethel (MN),09/16/2025,129,1
+L,False,L 0-2,09/20/2025,Augsburg,2,home,Augsburg,09/20/2025,76,0
+W,False,W 5-0,09/21/2025,Beloit,0,away,@ Beloit,09/21/2025,0,5
+W,False,W 2-0,09/27/2025,Hamline,0,away,@ Hamline,09/27/2025,198,2
+L,False,L 0-1,09/28/2025,Wis.-Stevens Point,1,away,@ Wis.-Stevens Point,09/28/2025,120,0
+T,False,T 1-1,10/01/2025,Macalester,1,home,Macalester,10/01/2025,67,1
+T,False,T 2-2,10/04/2025,Concordia-M'head,2,away,@ Concordia-M'head,10/04/2025,80,2
+L,False,L 1-2,10/11/2025,St. Catherine,2,home,St. Catherine,10/11/2025,124,1
+L,False,L 0-2,10/14/2025,St. Olaf,2,home,St. Olaf,10/14/2025,77,0
+L,False,L 0-3,10/18/2025,Carleton,3,away,@ Carleton,10/18/2025,521,0
+W,False,W 5-1,10/22/2025,Saint Benedict,1,home,Saint Benedict,10/22/2025,67,5
+W,False,W 2-1,10/25/2025,St. Scholastica,1,away,@ St. Scholastica,10/25/2025,221,2
+T,False,T 0-0,11/01/2025,Gustavus Adolphus,0,home,Gustavus Adolphus,11/01/2025,300,0
+L,False,L 0-1,11/03/2025,St. Olaf,1,away,@ St. Olaf MIAC WSOC Playoffs,11/03/2025,163,0

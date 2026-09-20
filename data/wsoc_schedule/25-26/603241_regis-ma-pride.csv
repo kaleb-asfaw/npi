@@ -1,0 +1,22 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+T,False,T 1-1,08/29/2025,UMass Dartmouth,1,away,@ UMass Dartmouth,08/29/2025,83,1
+L,False,L 0-2,08/31/2025,Wheaton (MA),2,away,@ Wheaton (MA),08/31/2025,323,0
+L,False,L 0-5,09/03/2025,Gordon,5,home,Gordon,09/03/2025,113,0
+L,False,L 2-3,09/06/2025,Rivier,3,away,@ Rivier,09/06/2025,288,2
+L,False,L 0-6,09/10/2025,Tufts,6,home,Tufts,09/10/2025,60,0
+L,False,L 0-1,09/13/2025,Lasell,1,away,@ Lasell,09/13/2025,125,0
+W,False,W 2-1,09/16/2025,Fitchburg St.,1,home,Fitchburg St.,09/16/2025,107,2
+W,False,W 6-0,09/20/2025,New England Col.,0,home,New England Col.,09/20/2025,98,6
+W,False,W 3-0,09/24/2025,Anna Maria,0,away,@ Anna Maria,09/24/2025,115,3
+L,False,L 0-1,09/27/2025,Albertus Magnus,1,home,Albertus Magnus,09/27/2025,163,0
+L,False,L 0-1,09/30/2025,Emmanuel (MA),1,home,Emmanuel (MA),09/30/2025,68,0
+T,False,T 0-0,10/03/2025,Norwich,0,away,@ Norwich,10/03/2025,107,0
+W,False,W 10-0,10/08/2025,Mitchell,0,home,Mitchell,10/08/2025,89,10
+W,False,W 2-0,10/11/2025,Simmons,0,away,@ Simmons,10/11/2025,87,2
+W,False,W 2-1,10/14/2025,Saint Joseph (CT),1,home,Saint Joseph (CT),10/14/2025,64,2
+W,False,W 1-0,10/18/2025,Colby-Sawyer,0,away,@ Colby-Sawyer,10/18/2025,311,1
+W,False,W 5-0,10/22/2025,Dean,0,away,@ Dean,10/22/2025,55,5
+W,False,W 2-1,10/25/2025,Elms,1,away,@ Elms,10/25/2025,97,2
+W,False,W 4-0,10/28/2025,St. Joseph's (ME),0,home,St. Joseph's (ME),10/28/2025,103,4
+W,False,W 2-0,11/01/2025,Albertus Magnus,0,away,@ #4 Albertus Magnus GNAC WSOC Tournament,11/01/2025,0,2
+L,False,L 0-2,11/05/2025,Emmanuel (MA),2,away,@ #1 Emmanuel (MA) GNAC WSOC Tournament,11/05/2025,267,0

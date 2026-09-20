@@ -1,0 +1,23 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+T,False,T 1-1,08/29/2025,Claremont-M-S,1,home,Claremont-M-S,08/29/2025,373,1
+W,False,W 3-2,08/31/2025,Springfield,2,home,Springfield,08/31/2025,339,3
+L,False,L 0-1,09/06/2025,St. Joseph's (L.I.),1,away,@ St. Joseph's (L.I.),09/06/2025,117,0
+L,False,L 0-1,09/10/2025,NYU,1,home,NYU,09/10/2025,268,0
+W,False,W 3-0,09/13/2025,Sarah Lawrence,0,home,Sarah Lawrence,09/13/2025,109,3
+T,False,T 1-1,09/18/2025,Montclair St.,1,away,@ Montclair St.,09/18/2025,81,1
+T,False,T 1-1,09/20/2025,Stockton,1,away,@ Stockton,09/20/2025,143,1
+T,False,T 1-1,09/24/2025,TCNJ,1,away,@ TCNJ,09/24/2025,328,1
+T,False,T 1-1,09/27/2025,York (PA),1,home,York (PA),09/27/2025,237,1
+T,False,T 1-1,09/30/2025,Drew,1,away,@ Drew,09/30/2025,122,1
+W,False,W 1-0,10/04/2025,King's (PA),0,away,@ King's (PA),10/04/2025,102,1
+W,False,W 2-0,10/05/2025,Penn St. Harrisburg,0,away,@ Penn St. Harrisburg,10/05/2025,120,2
+L,False,L 0-1,10/11/2025,Misericordia,1,away,@ Misericordia,10/11/2025,125,0
+W,False,W 6-1,10/18/2025,Arcadia,1,home,Arcadia,10/18/2025,216,6
+W,False,W 1-0,10/21/2025,FDU-Florham,0,away,@ FDU-Florham,10/21/2025,265,1
+W,False,W 1-0,10/25/2025,Lebanon Valley,0,home,Lebanon Valley,10/25/2025,203,1
+W,False,W 4-0,10/29/2025,DeSales,0,home,DeSales,10/29/2025,212,4
+W,False,W 8-0,11/01/2025,Delaware Valley,0,away,@ Delaware Valley,11/01/2025,180,8
+W,False,W 2-1,11/04/2025,Lebanon Valley,1,home,#3 Lebanon Valley MAC Freedom WSOC Championship,11/04/2025,287,2
+W,False,W 3-0,11/08/2025,Misericordia,0,away,@ #1 Misericordia MAC Freedom WSOC Championship,11/08/2025,200,3
+W,False,W 2-0,11/15/2025,Va. Wesleyan,0,neutral,"Va. Wesleyan @Baltimore, MD (2025 NCAA DIII Women's Soccer Championship)",11/15/2025,492,2
+L,False,L 0-2,11/16/2025,Johns Hopkins,2,neutral,"Johns Hopkins @Baltimore, MD (2025 NCAA DIII Women's Soccer Championship)",11/16/2025,186,0

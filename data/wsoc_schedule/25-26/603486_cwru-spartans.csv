@@ -1,0 +1,21 @@
+Date,outcome,opp_score,overtime,Result,date_parsed,opponent,Attendance,home_away,team_score,Opponent
+08/29/2025,W,0,False,W 7-0,08/29/2025,Franciscan,351,home,7,Franciscan
+08/31/2025,W,0,False,W 6-0,08/31/2025,Allegheny,210,home,6,Allegheny
+09/03/2025,W,0,False,W 6-0,09/03/2025,John Carroll,236,away,6,@ John Carroll
+09/06/2025,W,0,False,W 6-0,09/06/2025,Grove City,350,away,6,@ Grove City
+09/09/2025,W,0,False,W 1-0,09/09/2025,Heidelberg,100,away,1,@ Heidelberg
+09/12/2025,T,1,False,T 1-1,09/12/2025,Chris. Newport,173,neutral,1,"Chris. Newport @Delaware, OH"
+09/14/2025,W,0,False,W 6-0,09/14/2025,Ohio Northern,55,neutral,6,"Ohio Northern @Delaware, OH"
+09/20/2025,W,0,False,W 2-0,09/20/2025,Calvin,326,home,2,Calvin
+09/24/2025,W,0,False,W 2-0,09/24/2025,Penn St.-Behrend,120,home,2,Penn St.-Behrend
+09/27/2025,W,1,False,W 4-1,09/27/2025,Mount Union,123,away,4,@ Mount Union
+09/30/2025,W,0,False,W 5-0,09/30/2025,Baldwin Wallace,160,home,5,Baldwin Wallace
+10/04/2025,W,1,False,W 3-1,10/04/2025,Rochester (NY),150,home,3,Rochester (NY)
+10/11/2025,L,2,False,L 1-2,10/11/2025,WashU,365,home,1,WashU
+10/18/2025,T,2,False,T 2-2,10/18/2025,UChicago,300,away,2,@ UChicago
+10/24/2025,W,0,False,W 2-0,10/24/2025,Brandeis,185,away,2,@ Brandeis
+10/26/2025,W,0,False,W 2-0,10/26/2025,NYU,182,away,2,@ NYU
+11/01/2025,L,1,False,L 0-1,11/01/2025,Emory,125,home,0,Emory
+11/08/2025,T,1,False,T 1-1,11/08/2025,Carnegie Mellon,158,away,1,@ Carnegie Mellon
+11/15/2025,W,0,False,W 5-0,11/15/2025,Rose-Hulman,341,home,5,Rose-Hulman 2025 NCAA DIII Women's Soccer Championship
+11/16/2025,T,1,True,T 1-1 (3 OT),11/16/2025,Swarthmore,412,neutral,1,"Swarthmore @Cleveland, OH (2025 NCAA DIII Women's Soccer Championship)"

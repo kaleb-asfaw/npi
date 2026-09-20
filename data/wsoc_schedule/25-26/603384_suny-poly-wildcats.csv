@@ -1,0 +1,19 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 0-4,08/29/2025,Marywood,4,home,Marywood,08/29/2025,87,0
+T,False,T 3-3,08/30/2025,SUNY Morrisville,3,home,SUNY Morrisville,08/30/2025,98,3
+L,False,L 0-1,09/03/2025,SUNY Potsdam,1,home,SUNY Potsdam,09/03/2025,79,0
+L,False,L 1-3,09/06/2025,SUNY Delhi,3,away,@ SUNY Delhi,09/06/2025,200,1
+L,False,L 2-3,09/09/2025,Bard,3,away,@ Bard,09/09/2025,40,2
+W,False,W 2-1,09/13/2025,@ SUNY ESF,1,home,@ SUNY ESF,09/13/2025,,2
+L,False,L 0-2,09/20/2025,Elmira,2,home,Elmira,09/20/2025,113,0
+L,False,L 0-3,09/24/2025,Hartwick,3,away,@ Hartwick,09/24/2025,100,0
+L,False,L 0-9,09/27/2025,St. John Fisher,9,away,@ St. John Fisher,09/27/2025,79,0
+L,False,L 0-7,10/01/2025,Utica,7,away,@ Utica,10/01/2025,154,0
+L,False,L 0-9,10/04/2025,SUNY Brockport,9,away,@ SUNY Brockport,10/04/2025,110,0
+T,False,T 2-2,10/08/2025,MCLA,2,away,@ MCLA,10/08/2025,64,2
+L,False,L 1-3,10/11/2025,Keuka,3,home,Keuka,10/11/2025,89,1
+L,False,L 1-3,10/15/2025,Russell Sage,3,home,Russell Sage,10/15/2025,87,1
+L,False,L 0-3,10/18/2025,Houghton,3,away,@ Houghton,10/18/2025,153,0
+L,False,L 0-5,10/22/2025,Nazareth,5,home,Nazareth,10/22/2025,90,0
+L,False,L 1-2,10/25/2025,SUNY Geneseo,2,home,SUNY Geneseo,10/25/2025,76,1
+L,False,L 0-11,10/29/2025,Alfred,11,away,@ Alfred,10/29/2025,98,0

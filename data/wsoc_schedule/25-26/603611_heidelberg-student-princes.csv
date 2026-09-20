@@ -1,0 +1,18 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+T,False,T 1-1,08/29/2025,SUNY Geneseo,1,away,@ SUNY Geneseo,08/29/2025,321,1
+L,False,L 0-1,08/31/2025,Ithaca,1,away,@ Ithaca,08/31/2025,85,0
+L,False,L 1-3,09/06/2025,Wooster,3,home,Wooster,09/06/2025,88,1
+L,False,L 0-1,09/09/2025,CWRU,1,home,CWRU,09/09/2025,100,0
+L,False,L 1-4,09/13/2025,Albion,4,away,@ Albion,09/13/2025,130,1
+W,False,W 2-1,09/17/2025,Alma,1,home,Alma,09/17/2025,90,2
+T,False,T 0-0,09/20/2025,Geneva,0,away,@ Geneva,09/20/2025,122,0
+W,False,W 2-0,09/24/2025,Oberlin,0,away,@ Oberlin,09/24/2025,198,2
+W,False,W 3-0,09/28/2025,Mt. St. Joseph,0,home,Mt. St. Joseph,09/28/2025,100,3
+L,False,L 2-3,10/04/2025,Wilmington (OH),3,away,@ Wilmington (OH),10/04/2025,200,2
+W,False,W 4-3,10/08/2025,Capital,3,away,@ Capital,10/08/2025,140,4
+T,False,T 0-0,10/11/2025,Marietta,0,home,Marietta,10/11/2025,100,0
+L,False,L 1-2,10/15/2025,Ohio Northern,2,home,Ohio Northern,10/15/2025,35,1
+L,False,L 1-2,10/18/2025,Mount Union,2,away,@ Mount Union,10/18/2025,152,1
+W,False,W 1-0,10/25/2025,Muskingum,0,home,Muskingum,10/25/2025,221,1
+T,False,T 1-1,10/29/2025,Baldwin Wallace,1,home,Baldwin Wallace,10/29/2025,100,1
+T,False,T 1-1,11/01/2025,Otterbein,1,away,@ Otterbein,11/01/2025,147,1

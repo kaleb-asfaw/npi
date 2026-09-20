@@ -1,0 +1,23 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 5-0,08/29/2025,Centenary (LA),0,home,Centenary (LA),08/29/2025,309,5
+T,False,T 0-0,09/03/2025,LeTourneau,0,home,LeTourneau,09/03/2025,162,0
+L,False,L 0-1,09/05/2025,Southwestern (TX),1,neutral,"Southwestern (TX) @Marshall, TX",09/05/2025,101,0
+T,False,T 2-2,09/07/2025,St. Thomas (TX),2,neutral,"St. Thomas (TX) @Marshall, TX",09/07/2025,101,2
+W,False,W 6-0,09/09/2025,Blue Mountain (MS),0,home,Blue Mountain (MS),09/09/2025,159,6
+L,False,L 0-2,09/11/2025,Rhodes,2,home,Rhodes,09/11/2025,110,0
+W,False,W 9-0,09/16/2025,Tougaloo,0,home,Tougaloo,09/16/2025,70,9
+L,False,L 0-4,09/20/2025,Covenant,4,away,@ Covenant,09/20/2025,848,0
+W,False,W 4-0,09/24/2025,Huntingdon,0,away,@ Huntingdon,09/24/2025,75,4
+W,False,W 2-0,09/27/2025,Piedmont,0,home,Piedmont,09/27/2025,132,2
+W,False,W 4-0,10/01/2025,LaGrange,0,away,@ LaGrange,10/01/2025,76,4
+W,False,W 6-0,10/04/2025,Wesleyan (GA),0,home,Wesleyan (GA),10/04/2025,85,6
+W,False,W 2-1,10/07/2025,Faulkner,1,home,Faulkner,10/07/2025,55,2
+W,False,W 4-0,10/11/2025,Maryville (TN),0,home,Maryville (TN),10/11/2025,45,4
+W,False,W 3-0,10/14/2025,Millsaps,0,away,@ Millsaps,10/14/2025,60,3
+T,False,T 2-2,10/18/2025,Asbury,2,away,@ Asbury,10/18/2025,100,2
+L,False,L 0-2,10/21/2025,Sewanee,2,neutral,"Sewanee @Vestavia Hills, AL",10/21/2025,67,0
+W,False,W 9-0,10/24/2025,Agnes Scott,0,home,Agnes Scott,10/24/2025,45,9
+W,False,W 3-0,10/28/2025,Hendrix,0,home,Hendrix,10/28/2025,60,3
+W,False,W 1-0,11/04/2025,Piedmont,0,home,#3 Piedmont CCS WSOC Championship,11/04/2025,134,1
+W,False,W 2-1,11/08/2025,Asbury,1,home,#5 Asbury CCS WSOC Championship,11/08/2025,264,2
+L,False,L 0-6,11/15/2025,Emory,6,away,@ Emory 2025 NCAA DIII Women's Soccer Championship,11/15/2025,350,0

@@ -1,0 +1,20 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+T,False,T 0-0,08/29/2025,Penn St.-Abington,0,home,Penn St.-Abington,08/29/2025,324,0
+L,False,L 0-3,09/03/2025,Rowan,3,home,Rowan,09/03/2025,252,0
+T,False,T 0-0,09/06/2025,Juniata,0,away,@ Juniata,09/06/2025,145,0
+L,False,L 3-4,09/10/2025,Neumann,4,away,@ Neumann,09/10/2025,254,3
+L,False,L 0-2,09/13/2025,Penn St.-Berks,2,away,@ Penn St.-Berks,09/13/2025,148,0
+L,False,L 0-2,09/17/2025,Wilkes,2,home,Wilkes,09/17/2025,213,0
+L,False,L 0-5,09/20/2025,Kean,5,away,@ Kean,09/20/2025,123,0
+L,False,L 0-4,09/23/2025,Arcadia,4,home,Arcadia,09/23/2025,101,0
+L,False,L 2-4,09/27/2025,Gwynedd Mercy,4,home,Gwynedd Mercy,09/27/2025,302,2
+L,False,L 0-3,09/29/2025,Lancaster Bible,3,away,@ Lancaster Bible,09/29/2025,157,0
+L,False,L 0-1,10/01/2025,FDU-Florham,1,home,FDU-Florham,10/01/2025,242,0
+L,False,L 0-1,10/04/2025,York (PA),1,away,@ York (PA),10/04/2025,423,0
+L,False,L 0-2,10/11/2025,Stevenson,2,home,Stevenson,10/11/2025,247,0
+W,False,W 1-0,10/15/2025,Delaware Valley,0,away,@ Delaware Valley,10/15/2025,90,1
+L,False,L 0-5,10/18/2025,Messiah,5,home,Messiah,10/18/2025,301,0
+W,False,W 1-0,10/21/2025,Widener,0,away,@ Widener,10/21/2025,192,1
+L,False,L 0-2,10/25/2025,Hood,2,away,@ Hood,10/25/2025,213,0
+L,False,L 0-1,10/29/2025,Eastern,1,home,Eastern,10/29/2025,165,0
+T,False,T 0-0,11/01/2025,Alvernia,0,home,Alvernia,11/01/2025,306,0

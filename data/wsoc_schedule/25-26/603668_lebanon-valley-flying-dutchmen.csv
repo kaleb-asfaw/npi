@@ -1,0 +1,20 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 1-0,08/29/2025,Moravian,0,home,Moravian,08/29/2025,233,1
+W,False,W 1-0,09/03/2025,Alvernia,0,away,@ Alvernia,09/03/2025,103,1
+W,False,W 2-0,09/06/2025,Elizabethtown,0,away,@ Elizabethtown,09/06/2025,225,2
+W,False,W 2-0,09/10/2025,Immaculata,0,away,@ Immaculata,09/10/2025,101,2
+W,False,W 1-0,09/13/2025,Wilkes,0,away,@ Wilkes,09/13/2025,237,1
+W,False,W 3-0,09/17/2025,Lancaster Bible,0,away,@ Lancaster Bible,09/17/2025,218,3
+L,False,L 2-4,09/20/2025,Stevenson,4,away,@ Stevenson,09/20/2025,129,2
+W,False,W 6-0,09/24/2025,Neumann,0,home,Neumann,09/24/2025,106,6
+T,False,T 1-1,09/27/2025,Widener,1,away,@ Widener,09/27/2025,203,1
+T,False,T 2-2,10/04/2025,Arcadia,2,away,@ Arcadia,10/04/2025,280,2
+W,False,W 3-0,10/08/2025,Hood,0,home,Hood,10/08/2025,132,3
+W,False,W 6-0,10/11/2025,Delaware Valley,0,home,Delaware Valley,10/11/2025,168,6
+W,False,W 6-0,10/15/2025,Manhattanville,0,home,Manhattanville,10/15/2025,65,6
+W,False,W 4-1,10/18/2025,FDU-Florham,1,home,FDU-Florham,10/18/2025,107,4
+W,False,W 2-0,10/21/2025,DeSales,0,away,@ DeSales,10/21/2025,120,2
+L,False,L 0-1,10/25/2025,Stevens,1,away,@ Stevens,10/25/2025,203,0
+W,False,W 4-0,10/29/2025,King's (PA),0,home,King's (PA),10/29/2025,84,4
+L,False,L 0-5,11/01/2025,Misericordia,5,away,@ Misericordia,11/01/2025,125,0
+L,False,L 1-2,11/04/2025,Stevens,2,away,@ #2 Stevens MAC Freedom WSOC Championship,11/04/2025,287,1

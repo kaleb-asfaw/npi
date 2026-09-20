@@ -1,0 +1,22 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 1-0,09/01/2025,Bethel (MN),0,home,Bethel (MN),09/01/2025,274,1
+T,False,T 1-1,09/03/2025,Luther,1,away,@ Luther,09/03/2025,75,1
+T,False,T 1-1,09/06/2025,Marian (WI),1,home,Marian (WI),09/06/2025,167,1
+L,False,L 2-3,09/08/2025,Carroll (WI),3,away,@ Carroll (WI),09/08/2025,173,2
+W,False,W 1-0,09/10/2025,Carthage,0,home,Carthage,09/10/2025,133,1
+W,False,W 4-0,09/13/2025,Coe,0,away,@ Coe,09/13/2025,68,4
+L,False,L 0-1,09/14/2025,Grinnell,1,away,@ Grinnell,09/14/2025,35,0
+T,False,T 1-1,09/17/2025,Lawrence,1,away,@ Lawrence,09/17/2025,195,1
+W,False,W 5-1,09/20/2025,Cornell College,1,home,Cornell College,09/20/2025,217,5
+W,False,W 4-0,09/22/2025,Benedictine (IL),0,home,Benedictine (IL),09/22/2025,197,4
+T,False,T 0-0,09/24/2025,Wheaton (IL),0,away,@ Wheaton (IL),09/24/2025,303,0
+L,False,L 0-3,10/01/2025,Loras,3,away,@ Loras,10/01/2025,110,0
+L,False,L 1-2,10/04/2025,UW-River Falls,2,home,UW-River Falls,10/04/2025,113,1
+L,False,L 0-2,10/08/2025,Wis.-Platteville,2,away,@ Wis.-Platteville,10/08/2025,118,0
+T,False,T 2-2,10/11/2025,Wis.-Stevens Point,2,home,Wis.-Stevens Point,10/11/2025,195,2
+W,False,W 2-1,10/18/2025,Wis.-Eau Claire,1,away,@ Wis.-Eau Claire,10/18/2025,55,2
+W,False,W 2-1,10/22/2025,Wis.-Oshkosh,1,home,Wis.-Oshkosh,10/22/2025,134,2
+W,False,W 3-1,10/25/2025,Wis.-Stout,1,home,Wis.-Stout,10/25/2025,98,3
+,,Canceled,10/28/2025 06:00 PM,Monmouth (IL),,home,Monmouth (IL),10/28/2025 06:00 PM,,
+L,False,L 0-3,11/01/2025,Wis.-La Crosse,3,away,@ Wis.-La Crosse,11/01/2025,271,0
+L,True,L 1-2 (2 OT),11/05/2025,Wis.-Stevens Point,2,away,@ #4 Wis.-Stevens Point WIAC WSOC Tournament,11/05/2025,288,1

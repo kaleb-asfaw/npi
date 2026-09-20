@@ -1,0 +1,19 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 3-0,08/31/2025,Olivet,0,away,@ Olivet,08/31/2025,105,3
+W,False,W 2-0,09/02/2025,St. Mary-Woods,0,home,St. Mary-Woods,09/02/2025,120,2
+L,False,L 0-1,09/06/2025,Huntington,1,home,Huntington,09/06/2025,170,0
+L,False,L 1-2,09/10/2025,@ Ind.-East,2,home,@ Ind.-East,09/10/2025,88,1
+T,False,T 1-1,09/13/2025,Ind.-South Bend,1,home,Ind.-South Bend,09/13/2025,134,1
+T,False,T 1-1,09/17/2025,St. Mary's (IN),1,home,St. Mary's (IN),09/17/2025,187,1
+L,False,L 0-2,09/20/2025,Spalding,2,home,Spalding,09/20/2025,117,0
+T,False,T 2-2,09/27/2025,Mt. St. Joseph,2,away,@ Mt. St. Joseph,09/27/2025,212,2
+W,False,W 1-0,10/01/2025,Muskingum,0,home,Muskingum,10/01/2025,85,1
+W,False,W 1-0,10/04/2025,Earlham,0,home,Earlham,10/04/2025,440,1
+W,False,W 3-0,10/08/2025,Manchester,0,away,@ Manchester,10/08/2025,150,3
+W,False,W 3-1,10/11/2025,Franklin,1,home,Franklin,10/11/2025,272,3
+W,False,W 2-0,10/15/2025,Bluffton,0,away,@ Bluffton,10/15/2025,50,2
+W,False,W 7-0,10/18/2025,Berea,0,away,@ Berea,10/18/2025,125,7
+L,False,L 0-2,10/22/2025,Rose-Hulman,2,home,Rose-Hulman,10/22/2025,70,0
+T,False,T 1-1,10/25/2025,Transylvania,1,home,Transylvania,10/25/2025,147,1
+L,False,L 0-1,10/28/2025,Hanover,1,home,Hanover,10/28/2025,187,0
+L,True,L 0-1 (2 OT),11/01/2025,Hanover,1,away,@ #4 Hanover HCAC WSOC Championship,11/01/2025,15,0

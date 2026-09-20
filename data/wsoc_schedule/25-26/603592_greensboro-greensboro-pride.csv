@@ -1,0 +1,21 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 3-0,08/29/2025,East. Mennonite,0,home,East. Mennonite,08/29/2025,150,3
+T,False,T 0-0,09/03/2025,Bob Jones,0,home,Bob Jones,09/03/2025,100,0
+W,False,W 4-1,09/06/2025,Averett,1,away,@ Averett,09/06/2025,56,4
+W,False,W 1-0,09/10/2025,JWU Charlotte,0,home,JWU Charlotte,09/10/2025,75,1
+L,False,L 0-3,09/12/2025,Roanoke,3,home,Roanoke,09/12/2025,150,0
+L,False,L 0-6,09/14/2025,Berry,6,home,Berry,09/14/2025,100,0
+T,False,T 0-0,09/17/2025,Guilford,0,home,Guilford,09/17/2025,150,0
+W,False,W 1-0,09/20/2025,Regent,0,away,@ Regent,09/20/2025,100,1
+L,False,L 1-5,09/23/2025,Brevard,5,home,Brevard,09/23/2025,100,1
+W,False,W 1-0,09/27/2025,Pfeiffer,0,away,@ Pfeiffer,09/27/2025,104,1
+L,False,L 0-1,10/01/2025,Methodist,1,home,Methodist,10/01/2025,125,0
+W,False,W 1-0,10/04/2025,Warren Wilson,0,away,@ Warren Wilson,10/04/2025,168,1
+W,False,W 2-1,10/07/2025,Mary Baldwin,1,home,Mary Baldwin,10/07/2025,75,2
+W,False,W 4-0,10/11/2025,William Peace,0,away,@ William Peace,10/11/2025,126,4
+L,False,L 0-1,10/15/2025,Southern Va.,1,away,@ Southern Va.,10/15/2025,137,0
+L,False,L 0-1,10/18/2025,Meredith,1,home,Meredith,10/18/2025,150,0
+W,False,W 2-0,10/25/2025,N.C. Wesleyan,0,home,N.C. Wesleyan,10/25/2025,250,2
+W,False,W 4-0,10/29/2025,Salem (NC),0,home,Salem (NC),10/29/2025,100,4
+W,False,W 2-0,11/01/2025,N.C. Wesleyan,0,home,#6 N.C. Wesleyan USA South WSOC Tournament,11/01/2025,200,2
+L,False,L 0-9,11/05/2025,Southern Va.,9,away,@ #2 Southern Va. USA South WSOC Tournament,11/05/2025,749,0

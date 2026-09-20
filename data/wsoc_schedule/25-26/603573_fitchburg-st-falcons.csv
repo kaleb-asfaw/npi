@@ -1,0 +1,20 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 1-0,08/29/2025,Saint Joseph (CT),0,home,Saint Joseph (CT),08/29/2025,75,1
+L,False,L 1-2,09/03/2025,Elms,2,away,@ Elms,09/03/2025,106,1
+L,False,L 0-1,09/06/2025,Worcester St.,1,home,Worcester St.,09/06/2025,80,0
+L,False,L 2-4,09/09/2025,Nichols,4,away,@ Nichols,09/09/2025,102,2
+L,False,L 0-1,09/13/2025,Westfield St.,1,home,Westfield St.,09/13/2025,70,0
+L,False,L 1-2,09/16/2025,Regis (MA),2,away,@ Regis (MA),09/16/2025,107,1
+L,False,L 1-2,09/20/2025,Framingham St.,2,away,@ Framingham St.,09/20/2025,75,1
+L,False,L 0-4,09/24/2025,Wentworth,4,away,@ Wentworth,09/24/2025,114,0
+L,False,L 1-3,10/01/2025,Clark (MA),3,home,Clark (MA),10/01/2025,68,1
+L,False,L 1-2,10/04/2025,Salem St.,2,away,@ Salem St.,10/04/2025,85,1
+T,False,T 1-1,10/08/2025,Lesley,1,home,Lesley,10/08/2025,75,1
+T,False,T 0-0,10/11/2025,MCLA,0,home,MCLA,10/11/2025,80,0
+L,False,L 0-3,10/14/2025,Keene St.,3,home,Keene St.,10/14/2025,35,0
+W,False,W 2-0,10/18/2025,Anna Maria,0,home,Anna Maria,10/18/2025,80,2
+L,False,L 0-3,10/21/2025,Western New Eng.,3,away,@ Western New Eng.,10/21/2025,94,0
+T,False,T 0-0,10/25/2025,Bridgewater St.,0,away,@ Bridgewater St.,10/25/2025,175,0
+L,False,L 2-3,10/28/2025,WestConn,3,home,WestConn,10/28/2025,80,2
+W,False,W 4-1,11/01/2025,Mass. Maritime,1,away,@ Mass. Maritime,11/01/2025,32,4
+T,False,T 0-0,11/05/2025,Bridgewater St.,0,away,@ Bridgewater St. MASCAC WSOC Championship,11/05/2025,,0

@@ -1,0 +1,22 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 0-3,08/30/2025,Messiah,3,home,Messiah,08/30/2025,112,0
+T,False,T 1-1,08/31/2025,John Carroll,1,home,John Carroll,08/31/2025,168,1
+W,False,W 1-0,09/06/2025,St. John Fisher,0,home,St. John Fisher,09/06/2025,75,1
+W,False,W 2-0,09/10/2025,Allegheny,0,home,Allegheny,09/10/2025,147,2
+T,False,T 0-0,09/13/2025,Houghton,0,home,Houghton,09/13/2025,134,0
+W,False,W 1-0,09/16/2025,Fredonia,0,away,@ Fredonia,09/16/2025,200,1
+W,False,W 3-0,09/20/2025,Grove City,0,away,@ Grove City,09/20/2025,200,3
+L,False,L 0-2,09/24/2025,CWRU,2,away,@ CWRU,09/24/2025,120,0
+W,False,W 1-0,09/27/2025,Penn St.-Altoona,0,home,Penn St.-Altoona,09/27/2025,112,1
+L,False,L 0-1,10/01/2025,Carnegie Mellon,1,away,@ Carnegie Mellon,10/01/2025,215,0
+W,False,W 6-0,10/04/2025,Mount Aloysius,0,home,Mount Aloysius,10/04/2025,91,6
+W,False,W 11-0,10/08/2025,Hilbert,0,home,Hilbert,10/08/2025,103,11
+W,False,W 1-0,10/11/2025,Pitt.-Greensburg,0,away,@ Pitt.-Greensburg,10/11/2025,148,1
+W,False,W 12-0,10/14/2025,Pitt.-Bradford,0,away,@ Pitt.-Bradford,10/14/2025,65,12
+W,False,W 6-0,10/18/2025,La Roche,0,home,La Roche,10/18/2025,217,6
+W,False,W 3-0,10/21/2025,SUNY Brockport,0,away,@ SUNY Brockport,10/21/2025,155,3
+W,False,W 12-0,10/24/2025,Carlow,0,away,@ Carlow,10/24/2025,248,12
+W,False,W 6-0,10/28/2025,Alfred St.,0,home,Alfred St.,10/28/2025,97,6
+W,False,W 4-0,11/05/2025,Penn St.-Altoona,0,home,#5 Penn St.-Altoona AMCC WSOC Tournament,11/05/2025,57,4
+W,False,W 7-0,11/08/2025,Pitt.-Greensburg,0,home,#2 Pitt.-Greensburg AMCC WSOC Tournament,11/08/2025,217,7
+L,False,L 0-1,11/14/2025,Calvin,1,away,@ Calvin 2025 NCAA DIII Women's Soccer Championship,11/14/2025,359,0

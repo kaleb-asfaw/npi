@@ -1,0 +1,21 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+W,False,W 5-0,08/29/2025,St. Mary-Woods,0,home,St. Mary-Woods,08/29/2025,138,5
+L,False,L 0-1,08/31/2025,Ohio Northern,1,home,Ohio Northern,08/31/2025,218,0
+L,False,L 0-4,09/07/2025,WashU,4,away,@ WashU,09/07/2025,200,0
+T,False,T 0-0,09/10/2025,Spalding,0,away,@ Spalding,09/10/2025,89,0
+L,False,L 0-3,09/13/2025,Illinois Tech,3,home,Illinois Tech,09/13/2025,237,0
+W,False,W 2-0,09/17/2025,Webster,0,home,Webster,09/17/2025,156,2
+L,False,L 0-1,09/20/2025,Denison,1,away,@ Denison,09/20/2025,357,0
+L,False,L 0-1,09/24/2025,DePauw,1,away,@ DePauw,09/24/2025,64,0
+W,False,W 6-0,09/27/2025,Berea,0,home,Berea,09/27/2025,168,6
+W,False,W 2-0,10/04/2025,Hanover,0,away,@ Hanover,10/04/2025,14,2
+W,False,W 3-0,10/08/2025,Franklin,0,away,@ Franklin,10/08/2025,98,3
+L,False,L 0-2,10/11/2025,Mt. St. Joseph,2,away,@ Mt. St. Joseph,10/11/2025,212,0
+W,False,W 1-0,10/15/2025,Earlham,0,home,Earlham,10/15/2025,300,1
+T,False,T 0-0,10/18/2025,Transylvania,0,away,@ Transylvania,10/18/2025,167,0
+W,False,W 2-0,10/22/2025,Anderson (IN),0,away,@ Anderson (IN),10/22/2025,70,2
+W,False,W 4-0,10/25/2025,Bluffton,0,home,Bluffton,10/25/2025,150,4
+W,False,W 4-0,10/28/2025,Manchester,0,home,Manchester,10/28/2025,281,4
+W,False,W 3-1,11/04/2025,Transylvania,1,home,#3 Transylvania HCAC WSOC Championship,11/04/2025,290,3
+W,False,W 1-0,11/08/2025,Hanover,0,home,#4 Hanover HCAC WSOC Championship,11/08/2025,684,1
+L,False,L 0-5,11/15/2025,CWRU,5,away,@ CWRU 2025 NCAA DIII Women's Soccer Championship,11/15/2025,341,0

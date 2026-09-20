@@ -1,0 +1,21 @@
+Attendance,date_parsed,opp_score,outcome,Date,overtime,Result,opponent,team_score,home_away,Opponent
+259,08/31/2025,1,W,08/31/2025,False,W 2-1,FDU-Florham,2,away,@ FDU-Florham
+,09/06/2025,,,09/06/2025,,Ppd,Montclair St.,,away,@ Montclair St.
+121,09/13/2025,3,L,09/13/2025,False,L 1-3,Vassar,1,away,@ Vassar
+82,09/16/2025,0,T,09/16/2025,False,T 0-0,Rensselaer,0,home,Rensselaer
+47,09/17/2025,0,W,09/17/2025,False,W 4-0,CCNY,4,home,CCNY
+34,09/20/2025,1,W,09/20/2025,False,W 10-1,SUNY Maritime,10,away,@ SUNY Maritime
+60,09/24/2025,2,T,09/24/2025,False,T 2-2,Merchant Marine,2,away,@ Merchant Marine
+95,09/27/2025,0,W,09/27/2025,False,W 3-0,Sarah Lawrence,3,away,@ Sarah Lawrence
+45,10/01/2025,0,W,10/01/2025,False,W 11-0,St. Joseph's (Brkln),11,home,St. Joseph's (Brkln)
+62,10/04/2025,0,W,10/04/2025,False,W 2-0,Farmingdale St.,2,home,Farmingdale St.
+80,10/07/2025,3,L,10/07/2025,False,L 0-3,St. Joseph's (L.I.),0,away,@ St. Joseph's (L.I.)
+77,10/11/2025,0,W,10/11/2025,False,W 4-0,Mt. St. Mary (NY),4,home,Mt. St. Mary (NY)
+43,10/16/2025,0,W,10/16/2025,False,W 11-0,Lehman,11,home,Lehman
+137,10/18/2025,0,W,10/18/2025,False,W 7-0,Old Westbury,7,home,Old Westbury
+88,10/22/2025,1,W,10/22/2025,False,W 4-1,Manhattanville,4,home,Manhattanville
+172,10/25/2025,2,L,10/25/2025,False,L 1-2,Ursinus,1,away,@ Ursinus
+8,10/26/2025,0,W,10/26/2025,False,W 10-0,Yeshiva,10,away,@ Yeshiva
+85,10/28/2025,0,W,10/28/2025,False,W 7-0,Purchase,7,home,Purchase
+336,11/05/2025,2,W,11/05/2025,False,W 4-2,Mt. St. Mary (NY),4,home,#5 Mt. St. Mary (NY) Skyline WSOC Tournament
+576,11/08/2025,2,L,11/08/2025,True,L 1-2 (2 OT),St. Joseph's (L.I.),1,home,#3 St. Joseph's (L.I.) Skyline WSOC Tournament

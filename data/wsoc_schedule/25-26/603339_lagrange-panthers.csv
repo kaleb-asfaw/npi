@@ -1,0 +1,21 @@
+outcome,overtime,Result,date_parsed,opponent,opp_score,home_away,Opponent,Date,Attendance,team_score
+L,False,L 0-4,08/30/2025,Berry,4,home,Berry,08/30/2025,100,0
+L,False,L 1-7,09/03/2025,@ Point U.,7,home,@ Point U.,09/03/2025,0,1
+T,False,T 0-0,09/04/2025,Warren Wilson,0,away,@ Warren Wilson,09/04/2025,48,0
+W,False,W 1-0,09/06/2025,MUW,0,home,MUW,09/06/2025,79,1
+L,False,L 0-1,09/10/2025,Oglethorpe,1,away,@ Oglethorpe,09/10/2025,101,0
+L,False,L 0-4,09/13/2025,LeTourneau,4,away,@ LeTourneau,09/13/2025,63,0
+W,False,W 2-0,09/14/2025,Centenary (LA),0,away,@ Centenary (LA),09/14/2025,58,2
+L,False,L 0-3,09/17/2025,Albany St. (GA),3,away,@ Albany St. (GA),09/17/2025,55,0
+,,Canceled,09/21/2025,Berry,,away,@ Berry,09/21/2025,,
+W,False,W 4-0,09/22/2025,Agnes Scott,0,away,@ Agnes Scott,09/22/2025,50,4
+T,False,T 2-2,09/27/2025,Covenant,2,home,Covenant,09/27/2025,149,2
+L,False,L 0-4,10/01/2025,Belhaven,4,home,Belhaven,10/01/2025,76,0
+L,False,L 0-1,10/04/2025,Asbury,1,away,@ Asbury,10/04/2025,150,0
+L,False,L 1-2,10/08/2025,Piedmont,2,home,Piedmont,10/08/2025,77,1
+W,False,W 5-1,10/11/2025,Wesleyan (GA),1,home,Wesleyan (GA),10/11/2025,93,5
+T,False,T 1-1,10/15/2025,Huntingdon,1,away,@ Huntingdon,10/15/2025,110,1
+L,False,L 0-4,10/18/2025,Maryville (TN),4,away,@ Maryville (TN),10/18/2025,254,0
+L,False,L 0-2,10/20/2025,Middle Georgia,2,home,Middle Georgia,10/20/2025,43,0
+L,False,L 0-1,10/29/2025,Albany St. (GA),1,home,Albany St. (GA),10/29/2025,67,0
+T,True,T 0-0 (3 OT),11/01/2025,Piedmont,0,away,@ #3 Piedmont CCS WSOC Championship,11/01/2025,244,0
