@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,@ Centre,L 1-3,100,08/29/2025,Centre,away,L,1,3,False
+09/02/2025,@ Oglethorpe,L 1-3,161,09/02/2025,Oglethorpe,away,L,1,3,False
+09/05/2025,"Rhodes @Maryville, TN",L 0-5,59,09/05/2025,Rhodes,neutral,L,0,5,False
+09/06/2025,"John Carroll @Maryville, TN",L 0-2,100,09/06/2025,John Carroll,neutral,L,0,2,False
+09/09/2025,@ Berry,T 1-1,250,09/09/2025,Berry,away,T,1,1,False
+09/11/2025,@ Emory,L 0-7,115,09/11/2025,Emory,away,L,0,7,False
+09/16/2025,Sewanee,L 0-3,134,09/16/2025,Sewanee,home,L,0,3,False
+09/18/2025,Greenville,W 2-1,145,09/18/2025,Greenville,home,W,2,1,False
+09/20/2025,Belhaven,W 4-0,848,09/20/2025,Belhaven,home,W,4,0,False
+09/27/2025,@ LaGrange,T 2-2,149,09/27/2025,LaGrange,away,T,2,2,False
+10/01/2025,Maryville (TN),L 0-2,85,10/01/2025,Maryville (TN),home,L,0,2,False
+10/08/2025,@ Agnes Scott,W 2-0,56,10/08/2025,Agnes Scott,away,W,2,0,False
+10/11/2025,@ Piedmont,L 0-3,150,10/11/2025,Piedmont,away,L,0,3,False
+10/15/2025,Asbury,W 2-0,121,10/15/2025,Asbury,home,W,2,0,False
+10/18/2025,Wesleyan (GA),W 8-0,155,10/18/2025,Wesleyan (GA),home,W,8,0,False
+10/25/2025,@ Huntingdon,W 2-1,110,10/25/2025,Huntingdon,away,W,2,1,False
+11/01/2025,#5 Asbury CCS WSOC Championship,L 1-3,287,11/01/2025,Asbury,home,L,1,3,False

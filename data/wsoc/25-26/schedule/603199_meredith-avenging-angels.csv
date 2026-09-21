@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,"Bob Jones @Rocky Mount, NC",T 0-0,60,08/29/2025,"Bob Jones @Rocky Mount, NC",neutral,T,0,0,False
+08/31/2025,"Piedmont @Rocky Mount, NC",L 2-4,50,08/31/2025,Piedmont,neutral,L,2,4,False
+09/05/2025,"Roanoke @Lynchburg, VA",L 0-2,71,09/05/2025,Roanoke,neutral,L,0,2,False
+09/06/2025,@ Lynchburg,L 0-3,105,09/06/2025,Lynchburg,away,L,0,3,False
+09/10/2025,Guilford,L 0-2,149,09/10/2025,Guilford,home,L,0,2,False
+09/12/2025,"Berry @Greensboro, NC",L 1-2,35,09/12/2025,Berry,neutral,L,1,2,False
+09/17/2025,Randolph,T 1-1,188,09/17/2025,Randolph,home,T,1,1,False
+09/19/2025,@ Brevard,L 0-2,212,09/19/2025,Brevard,away,L,0,2,False
+09/23/2025,Methodist,T 1-1,137,09/23/2025,Methodist,home,T,1,1,False
+09/26/2025,Southern Va.,L 0-2,137,09/26/2025,Southern Va.,home,L,0,2,False
+10/01/2025,N.C. Wesleyan,W 1-0,53,10/01/2025,N.C. Wesleyan,home,W,1,0,False
+10/05/2025,@ Mary Baldwin,L 0-6,100,10/05/2025,Mary Baldwin,away,L,0,6,False
+10/11/2025,Pfeiffer,W 3-0,237,10/11/2025,Pfeiffer,home,W,3,0,False
+10/15/2025,@ JWU Charlotte,L 0-1,100,10/15/2025,JWU Charlotte,away,L,0,1,False
+10/18/2025,@ Greensboro,W 1-0,150,10/18/2025,Greensboro,away,W,1,0,False
+10/25/2025,Salem (NC),L 1-2,82,10/25/2025,Salem (NC),home,L,1,2,False
+10/29/2025,@ William Peace,T 0-0,50,10/29/2025,William Peace,away,T,0,0,False
+11/01/2025,@ #2 Southern Va. USA South WSOC Tournament,L 0-2,125,11/01/2025,Southern Va.,away,L,0,2,False

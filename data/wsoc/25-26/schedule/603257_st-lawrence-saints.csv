@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,@ SUNY Potsdam,T 0-0,231,08/29/2025,SUNY Potsdam,away,T,0,0,False
+08/31/2025,Hartford,L 0-1,214,08/31/2025,Hartford,home,L,0,1,False
+09/03/2025,@ Rochester (NY),T 0-0,112,09/03/2025,Rochester (NY),away,T,0,0,False
+09/06/2025,Nazareth,W 2-1,270,09/06/2025,Nazareth,home,W,2,1,False
+09/13/2025,@ Oswego St.,W 2-1,120,09/13/2025,Oswego St.,away,W,2,1,False
+09/16/2025,@ SUNY Canton,W 7-0,350,09/16/2025,SUNY Canton,away,W,7,0,False
+09/20/2025,Cortland,L 0-4,389,09/20/2025,Cortland,home,L,0,4,False
+09/24/2025,@ Plattsburgh St.,W 2-1,186,09/24/2025,Plattsburgh St.,away,W,2,1,False
+09/27/2025,Skidmore,L 1-2,189,09/27/2025,Skidmore,home,L,1,2,False
+09/28/2025,@ Hamilton,T 1-1,187,09/28/2025,Hamilton,away,T,1,1,False
+10/04/2025,@ Bard,W 4-0,120,10/04/2025,Bard,away,W,4,0,False
+10/07/2025,Clarkson,W 2-0,89,10/07/2025,Clarkson,home,W,2,0,False
+10/11/2025,Vassar,L 1-4,105,10/11/2025,Vassar,home,L,1,4,False
+10/18/2025,@ RIT,W 1-0,264,10/18/2025,RIT,away,W,1,0,False
+10/22/2025,William Smith,L 0-4,67,10/22/2025,William Smith,home,L,0,4,False
+10/25/2025,Rensselaer,W 1-0,229,10/25/2025,Rensselaer,home,W,1,0,False
+10/29/2025,@ Ithaca,L 0-2,120,10/29/2025,Ithaca,away,L,0,2,False
+11/01/2025,@ Union (NY),L 0-2,156,11/01/2025,Union (NY),away,L,0,2,False

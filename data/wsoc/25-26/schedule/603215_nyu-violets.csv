@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,@ Mt. St. Mary (NY),W 6-0,112,08/29/2025,Mt. St. Mary (NY),away,W,6,0,False
+08/31/2025,Claremont-M-S,L 0-2,347,08/31/2025,Claremont-M-S,home,L,0,2,False
+09/06/2025,@ TCNJ,W 4-2,295,09/06/2025,TCNJ,away,W,4,2,False
+09/07/2025,@ Arcadia,T 0-0,122,09/07/2025,Arcadia,away,T,0,0,False
+09/10/2025,@ Stevens,W 1-0,268,09/10/2025,Stevens,away,W,1,0,False
+09/17/2025,Wm. Paterson,W 5-0,100,09/17/2025,Wm. Paterson,home,W,5,0,False
+09/20/2025,Vassar,W 2-1,107,09/20/2025,Vassar,home,W,2,1,False
+09/21/2025,Sarah Lawrence,W 2-0,135,09/21/2025,Sarah Lawrence,home,W,2,0,False
+09/24/2025,@ John Jay,W 11-0,55,09/24/2025,John Jay,away,W,11,0,False
+09/27/2025,Farmingdale St.,W 4-0,250,09/27/2025,Farmingdale St.,home,W,4,0,False
+09/30/2025,Scranton,T 0-0,112,09/30/2025,Scranton,home,T,0,0,False
+10/04/2025,@ UChicago,L 2-3,220,10/04/2025,UChicago,away,L,2,3,False
+10/11/2025,Rochester (NY),T 1-1,145,10/11/2025,Rochester (NY),home,T,1,1,False
+10/18/2025,@ Emory,L 0-4,244,10/18/2025,Emory,away,L,0,4,False
+10/24/2025,Carnegie Mellon,W 2-0,188,10/24/2025,Carnegie Mellon,home,W,2,0,False
+10/26/2025,CWRU,L 0-2,182,10/26/2025,CWRU,home,L,0,2,False
+11/01/2025,@ WashU,L 1-3,350,11/01/2025,WashU,away,L,1,3,False
+11/08/2025,Brandeis,L 0-1,212,11/08/2025,Brandeis,home,L,0,1,False
+11/15/2025,"Wesleyan (CT) @Medford, MA (2025 NCAA DIII Women's Soccer Championship)",T 1-1 (3 OT),199,11/15/2025,Wesleyan (CT),neutral,T,1,1,True

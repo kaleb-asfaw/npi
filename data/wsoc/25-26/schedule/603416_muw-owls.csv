@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2025,@ Ozarks (AR),L 1-2,110,08/30/2025,Ozarks (AR),away,L,1,2,False
+08/31/2025,@ Hendrix,L 0-3,150,08/31/2025,Hendrix,away,L,0,3,False
+09/03/2025,Rhodes,L 0-1,97,09/03/2025,Rhodes,home,L,0,1,False
+09/06/2025,@ LaGrange,L 0-1,79,09/06/2025,LaGrange,away,L,0,1,False
+09/10/2025,@ Huntingdon,T 2-2,55,09/10/2025,Huntingdon,away,T,2,2,False
+09/19/2025,@ St. Thomas (TX),L 0-4,100,09/19/2025,St. Thomas (TX),away,L,0,4,False
+09/20/2025,@ LeTourneau,L 0-5,66,09/20/2025,LeTourneau,away,L,0,5,False
+09/27/2025,Principia,L 0-1,100,09/27/2025,Principia,home,L,0,1,False
+09/28/2025,Piedmont,L 0-3,100,09/28/2025,Piedmont,home,L,0,3,False
+10/04/2025,@ Spalding,L 0-7,300,10/04/2025,Spalding,away,L,0,7,False
+10/05/2025,@ Berea,T 1-1,45,10/05/2025,Berea,away,T,1,1,False
+10/11/2025,Greenville,L 0-5,150,10/11/2025,Greenville,home,L,0,5,False
+10/16/2025,@ Webster,L 0-5,209,10/16/2025,Webster,away,L,0,5,False
+10/19/2025,@ Westminster (MO),L 0-3,50,10/19/2025,Westminster (MO),away,L,0,3,False
+10/22/2025,Agnes Scott,W 3-1,125,10/22/2025,Agnes Scott,home,W,3,1,False
+10/24/2025,Blackburn,T 0-0,105,10/24/2025,Blackburn,home,T,0,0,False
+10/26/2025,Eureka,T 0-0,111,10/26/2025,Eureka,home,T,0,0,False
+10/29/2025,@ Lyon,L 0-1,75,10/29/2025,Lyon,away,L,0,1,False

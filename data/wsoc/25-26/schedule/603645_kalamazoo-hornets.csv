@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2025,Beloit,W 4-0,225,08/30/2025,Beloit,home,W,4,0,False
+09/03/2025,@ Oberlin,W 2-0,67,09/03/2025,Oberlin,away,W,2,0,False
+09/06/2025,"Bethel (MN) @Kenosha, WI",W 3-0,46,09/06/2025,Bethel (MN),neutral,W,3,0,False
+09/07/2025,"Concordia Wisconsin @Kenosha, WI",T 0-0,37,09/07/2025,Concordia Wisconsin,neutral,T,0,0,False
+09/09/2025,@ Augustana (IL),W 1-0,24,09/09/2025,Augustana (IL),away,W,1,0,False
+09/13/2025,Concordia Chicago,W 2-0,150,09/13/2025,Concordia Chicago,home,W,2,0,False
+09/14/2025,Illinois Col.,W 4-0,135,09/14/2025,Illinois Col.,home,W,4,0,False
+09/17/2025,@ Elmhurst,L 0-1,115,09/17/2025,Elmhurst,away,L,0,1,False
+09/20/2025,@ Wooster,L 0-4,144,09/20/2025,Wooster,away,L,0,4,False
+09/21/2025,UChicago,L 0-3,175,09/21/2025,UChicago,home,L,0,3,False
+09/30/2025,St. Mary's (IN),W 2-0,150,09/30/2025,St. Mary's (IN),home,W,2,0,False
+10/04/2025,@ Adrian,W 2-1,385,10/04/2025,Adrian,away,W,2,1,False
+10/08/2025,Olivet,W 7-0,125,10/08/2025,Olivet,home,W,7,0,False
+10/11/2025,@ Alma,T 1-1,65,10/11/2025,Alma,away,T,1,1,False
+10/14/2025,Albion,T 1-1,225,10/14/2025,Albion,home,T,1,1,False
+10/20/2025,@ Trine,T 1-1,100,10/20/2025,Trine,away,T,1,1,False
+10/22/2025,Calvin,L 1-4,150,10/22/2025,Calvin,home,L,1,4,False
+10/25/2025,@ Hope,L 2-3,419,10/25/2025,Hope,away,L,2,3,False
+11/01/2025,#5 Albion MIAA WSOC Tournament,W 4-0,250,11/01/2025,Albion,home,W,4,0,False
+11/04/2025,@ #1 Calvin MIAA WSOC Tournament,L 1-3,242,11/04/2025,Calvin,away,L,1,3,False

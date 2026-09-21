@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,@ Stockton,W 1-0,152,08/29/2025,Stockton,away,W,1,0,False
+08/30/2025,"Kean @Galloway, NJ",W 4-0,126,08/30/2025,Kean,neutral,W,4,0,False
+09/06/2025,@ Vassar,L 2-3,133,09/06/2025,Vassar,away,L,2,3,False
+09/10/2025,Dickinson,W 3-1,150,09/10/2025,Dickinson,home,W,3,1,False
+09/13/2025,Haverford,T 0-0,358,09/13/2025,Haverford,home,T,0,0,False
+09/17/2025,Ithaca,W 1-0,158,09/17/2025,Ithaca,home,W,1,0,False
+09/20/2025,Farmingdale St.,W 2-1,214,09/20/2025,Farmingdale St.,home,W,2,1,False
+09/24/2025,@ Misericordia,L 2-3,107,09/24/2025,Misericordia,away,L,2,3,False
+09/27/2025,@ Susquehanna,W 1-0,92,09/27/2025,Susquehanna,away,W,1,0,False
+09/30/2025,@ NYU,T 0-0,112,09/30/2025,NYU,away,T,0,0,False
+10/04/2025,@ Goucher,W 6-0,80,10/04/2025,Goucher,away,W,6,0,False
+10/07/2025,@ Lycoming,W 2-0,160,10/07/2025,Lycoming,away,W,2,0,False
+10/11/2025,Elizabethtown,W 4-0,219,10/11/2025,Elizabethtown,home,W,4,0,False
+10/12/2025,Carlow,Canceled,,10/12/2025,Carlow,home,,,,
+10/14/2025,@ Moravian,W 4-0,124,10/14/2025,Moravian,away,W,4,0,False
+10/18/2025,@ Juniata,W 3-0,95,10/18/2025,Juniata,away,W,3,0,False
+10/21/2025,Wilkes,W 4-0,164,10/21/2025,Wilkes,home,W,4,0,False
+10/25/2025,Catholic,T 0-0,368,10/25/2025,Catholic,home,T,0,0,False
+10/28/2025,Drew,W 2-0,218,10/28/2025,Drew,home,W,2,0,False
+11/05/2025,#5 Susquehanna Landmark WSOC Championship,W 1-0,328,11/05/2025,Susquehanna,home,W,1,0,False
+11/08/2025,#3 Catholic Landmark WSOC Championship,W 1-0,304,11/08/2025,Catholic,home,W,1,0,False
+11/15/2025,"Carnegie Mellon @Lexington, VA (2025 NCAA DIII Women's Soccer Championship)",L 0-1,133,11/15/2025,Carnegie Mellon,neutral,L,0,1,False

@@ -1,0 +1,15 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,@ Illinois Col.,L 0-1,200,08/29/2025,Illinois Col.,away,L,0,1,False
+09/06/2025,@ Mount Mary,W 2-0,67,09/06/2025,@ Mount Mary,home,W,2,0,False
+09/09/2025,UHSP,L 1-2,70,09/09/2025,UHSP,home,L,1,2,False
+09/16/2025,Hannibal-La Grange,L 0-2,80,09/16/2025,Hannibal-La Grange,home,L,0,2,False
+09/27/2025,@ MUW,W 1-0,100,09/27/2025,MUW,away,W,1,0,False
+10/01/2025,@ Spurgeon,W 5-1,0,10/01/2025,@ Spurgeon,home,W,5,1,False
+10/04/2025,Eureka,W 1-0,80,10/04/2025,Eureka,home,W,1,0,False
+10/11/2025,@ Webster,L 0-7,119,10/11/2025,Webster,away,L,0,7,False
+10/14/2025,@ Spalding,L 0-5,135,10/14/2025,Spalding,away,L,0,5,False
+10/17/2025,Greenville,L 0-3,80,10/17/2025,Greenville,home,L,0,3,False
+10/21/2025,Westminster (MO),L 1-2,75,10/21/2025,Westminster (MO),home,L,1,2,False
+10/25/2025,Lyon,T 0-0,75,10/25/2025,Lyon,home,T,0,0,False
+10/28/2025,@ Blackburn,W 1-0,83,10/28/2025,Blackburn,away,W,1,0,False
+11/01/2025,@ #4 Westminster (MO) SLIAC WSOC Tournament,T 0-0 (3 OT),60,11/01/2025,Westminster (MO),away,T,0,0,True

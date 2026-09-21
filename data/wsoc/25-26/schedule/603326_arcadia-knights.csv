@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,Haverford,W 1-0,150,08/29/2025,Haverford,home,W,1,0,False
+08/31/2025,@ Cortland,L 0-1,372,08/31/2025,Cortland,away,L,0,1,False
+09/06/2025,"SUNY New Paltz @Ewing Township, NJ",Canceled,,09/06/2025,SUNY New Paltz,neutral,,,,
+09/07/2025,NYU,T 0-0,122,09/07/2025,NYU,home,T,0,0,False
+09/10/2025,TCNJ,W 1-0,150,09/10/2025,TCNJ,home,W,1,0,False
+09/14/2025,@ Farmingdale St.,W 2-0,107,09/14/2025,Farmingdale St.,away,W,2,0,False
+09/17/2025,Franklin & Marshall,T 0-0,75,09/17/2025,Franklin & Marshall,home,T,0,0,False
+09/20/2025,@ Widener,W 2-0,163,09/20/2025,Widener,away,W,2,0,False
+09/23/2025,@ Albright,W 4-0,101,09/23/2025,Albright,away,W,4,0,False
+09/27/2025,Eastern,W 1-0,349,09/27/2025,Eastern,home,W,1,0,False
+09/30/2025,Muhlenberg,W 4-0,125,09/30/2025,Muhlenberg,home,W,4,0,False
+10/04/2025,Lebanon Valley,T 2-2,280,10/04/2025,Lebanon Valley,home,T,2,2,False
+10/11/2025,DeSales,W 6-1,167,10/11/2025,DeSales,home,W,6,1,False
+10/18/2025,@ Stevens,L 1-6,216,10/18/2025,Stevens,away,L,1,6,False
+10/21/2025,@ Delaware Valley,W 4-0,77,10/21/2025,Delaware Valley,away,W,4,0,False
+10/25/2025,Misericordia,L 0-4,150,10/25/2025,Misericordia,home,L,0,4,False
+10/29/2025,FDU-Florham,W 2-0,167,10/29/2025,FDU-Florham,home,W,2,0,False
+11/01/2025,@ King's (PA),W 4-0,130,11/01/2025,King's (PA),away,W,4,0,False
+11/04/2025,@ #1 Misericordia MAC Freedom WSOC Championship,L 0-3,200,11/04/2025,Misericordia,away,L,0,3,False

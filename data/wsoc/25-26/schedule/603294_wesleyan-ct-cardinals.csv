@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/06/2025,@ JWU (Providence),W 1-0,231,09/06/2025,JWU (Providence),away,W,1,0,False
+09/07/2025,WestConn,W 5-0,143,09/07/2025,WestConn,home,W,5,0,False
+09/10/2025,@ WPI,W 3-0,100,09/10/2025,WPI,away,W,3,0,False
+09/13/2025,Hamilton,T 1-1,173,09/13/2025,Hamilton,home,T,1,1,False
+09/16/2025,Springfield,W 6-0,100,09/16/2025,Springfield,home,W,6,0,False
+09/20/2025,@ Bates,T 0-0,150,09/20/2025,Bates,away,T,0,0,False
+09/23/2025,Trinity (CT),W 4-0,107,09/23/2025,Trinity (CT),home,W,4,0,False
+09/27/2025,@ Tufts,T 0-0,244,09/27/2025,Tufts,away,T,0,0,False
+09/28/2025,@ Middlebury,L 1-2,187,09/28/2025,Middlebury,away,L,1,2,False
+10/04/2025,Amherst,W 3-0,180,10/04/2025,Amherst,home,W,3,0,False
+10/11/2025,@ Williams,L 0-1,76,10/11/2025,Williams,away,L,0,1,False
+10/14/2025,Rhode Island Col.,W 4-1,85,10/14/2025,Rhode Island Col.,home,W,4,1,False
+10/18/2025,Bowdoin,L 0-2,127,10/18/2025,Bowdoin,home,L,0,2,False
+10/25/2025,@ Colby,W 1-0,553,10/25/2025,Colby,away,W,1,0,False
+10/28/2025,Connecticut Col.,W 3-0,101,10/28/2025,Connecticut Col.,home,W,3,0,False
+11/01/2025,@ #1 Tufts NESCAC WSOC Tournament,L 1-2,339,11/01/2025,Tufts,away,L,1,2,False
+11/15/2025,"NYU @Medford, MA (2025 NCAA DIII Women's Soccer Championship)",T 1-1 (3 OT),199,11/15/2025,NYU,neutral,T,1,1,True
+11/16/2025,"Tufts @Medford, MA (2025 NCAA DIII Women's Soccer Championship)",L 0-2,334,11/16/2025,Tufts,neutral,L,0,2,False

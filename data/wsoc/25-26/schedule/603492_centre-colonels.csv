@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,Covenant,W 3-1,100,08/29/2025,Covenant,home,W,3,1,False
+08/31/2025,Ky. Wesleyan,W 4-2,100,08/31/2025,Ky. Wesleyan,home,W,4,2,False
+09/06/2025,Wilmington (OH),W 1-0,400,09/06/2025,Wilmington (OH),home,W,1,0,False
+09/07/2025,@ DePauw,W 2-0,100,09/07/2025,DePauw,away,W,2,0,False
+09/10/2025,Transylvania,W 3-0,371,09/10/2025,Transylvania,home,W,3,0,False
+09/13/2025,@ Denison,T 1-1,177,09/13/2025,Denison,away,T,1,1,False
+09/14/2025,@ Mt. St. Joseph,W 1-0,200,09/14/2025,Mt. St. Joseph,away,W,1,0,False
+09/19/2025,North Central (IL),W 3-2,411,09/19/2025,North Central (IL),home,W,3,2,False
+09/21/2025,@ Roanoke,W 2-0,159,09/21/2025,Roanoke,away,W,2,0,False
+09/24/2025,Asbury,W 5-0,121,09/24/2025,Asbury,home,W,5,0,False
+09/27/2025,WashU,L 1-5,379,09/27/2025,WashU,home,L,1,5,False
+09/30/2025,@ Wittenberg,Canceled,,09/30/2025,Wittenberg,away,,,,
+10/01/2025,@ Wittenberg,Canceled,,10/01/2025,Wittenberg,away,,,,
+10/03/2025,@ Millsaps,W 2-1,75,10/03/2025,Millsaps,away,W,2,1,False
+10/05/2025,@ Rhodes,L 0-1,100,10/05/2025,Rhodes,away,L,0,1,False
+10/11/2025,@ Trinity (TX),L 0-2,137,10/11/2025,Trinity (TX),away,L,0,2,False
+10/18/2025,Southwestern (TX),T 1-1,417,10/18/2025,Southwestern (TX),home,T,1,1,False
+10/24/2025,Berry,W 1-0,227,10/24/2025,Berry,home,W,1,0,False
+10/26/2025,Oglethorpe,L 0-1,372,10/26/2025,Oglethorpe,home,L,0,1,False
+11/01/2025,@ Sewanee,W 1-0,230,11/01/2025,Sewanee,away,W,1,0,False
+11/06/2025,"#4 Oglethorpe @Memphis, TN (SAA WSOC Championship)",W 3-0,77,11/06/2025,Oglethorpe,neutral,W,3,0,False
+11/07/2025,"#1 Trinity (TX) @Memphis, TN (SAA WSOC Championship)",L 0-2,63,11/07/2025,Trinity (TX),neutral,L,0,2,False

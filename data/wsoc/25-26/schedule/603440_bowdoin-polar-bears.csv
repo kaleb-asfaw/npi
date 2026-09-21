@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2025,Thomas (ME),W 9-1,101,09/03/2025,Thomas (ME),home,W,9,1,False
+09/06/2025,@ Colby,L 0-1,317,09/06/2025,Colby,away,L,0,1,False
+09/13/2025,Connecticut Col.,W 2-0,200,09/13/2025,Connecticut Col.,home,W,2,0,False
+09/16/2025,Southern Me.,W 5-2,101,09/16/2025,Southern Me.,home,W,5,2,False
+09/24/2025,Husson,W 2-0,43,09/24/2025,Husson,home,W,2,0,False
+09/27/2025,@ Hamilton,L 0-2,167,09/27/2025,Hamilton,away,L,0,2,False
+09/28/2025,@ Williams,L 1-2,127,09/28/2025,Williams,away,L,1,2,False
+10/01/2025,Emerson,W 2-1,103,10/01/2025,Emerson,home,W,2,1,False
+10/04/2025,@ Middlebury,W 2-1,447,10/04/2025,Middlebury,away,W,2,1,False
+10/07/2025,Maine Maritime,W 2-0,0,10/07/2025,Maine Maritime,home,W,2,0,False
+10/11/2025,Trinity (CT),W 1-0,211,10/11/2025,Trinity (CT),home,W,1,0,False
+10/18/2025,@ Wesleyan (CT),W 2-0,127,10/18/2025,Wesleyan (CT),away,W,2,0,False
+10/21/2025,Bates,W 3-0,132,10/21/2025,Bates,home,W,3,0,False
+10/25/2025,Amherst,L 1-2,322,10/25/2025,Amherst,home,L,1,2,False
+10/28/2025,@ Tufts,L 0-6,168,10/28/2025,Tufts,away,L,0,6,False
+11/01/2025,@ #2 Williams NESCAC WSOC Tournament,L 0-3,55,11/01/2025,Williams,away,L,0,3,False

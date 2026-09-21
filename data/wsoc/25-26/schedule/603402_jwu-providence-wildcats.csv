@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/31/2025,@ Montclair St.,T 1-1,215,08/31/2025,Montclair St.,away,T,1,1,False
+09/03/2025,@ Bridgewater St.,W 5-2,150,09/03/2025,Bridgewater St.,away,W,5,2,False
+09/06/2025,Wesleyan (CT),L 0-1,231,09/06/2025,Wesleyan (CT),home,L,0,1,False
+09/10/2025,@ MIT,L 0-3,105,09/10/2025,MIT,away,L,0,3,False
+09/12/2025,@ Nichols,W 4-0,117,09/12/2025,Nichols,away,W,4,0,False
+09/17/2025,Brandeis,L 1-4,130,09/17/2025,Brandeis,home,L,1,4,False
+09/20/2025,Roger Williams,L 0-3,327,09/20/2025,Roger Williams,home,L,0,3,False
+09/24/2025,"Salve Regina @Providence, R.I.",L 0-1,151,09/24/2025,Salve Regina,neutral,L,0,1,False
+09/27/2025,@ Gordon,W 3-2,412,09/27/2025,Gordon,away,W,3,2,False
+09/28/2025,Babson,W 1-0,173,09/28/2025,Babson,home,W,1,0,False
+10/01/2025,@ Connecticut Col.,L 1-2,137,10/01/2025,Connecticut Col.,away,L,1,2,False
+10/04/2025,Endicott,L 1-2,423,10/04/2025,Endicott,home,L,1,2,False
+10/08/2025,@ Wentworth,W 2-1,152,10/08/2025,Wentworth,away,W,2,1,False
+10/11/2025,@ Curry,W 3-0,0,10/11/2025,Curry,away,W,3,0,False
+10/14/2025,Hartford,W 4-2,200,10/14/2025,Hartford,home,W,4,2,False
+10/18/2025,U New England,W 2-1,195,10/18/2025,U New England,home,W,2,1,False
+10/21/2025,@ Suffolk,T 0-0,73,10/21/2025,Suffolk,away,T,0,0,False
+10/28/2025,Western New Eng.,T 1-1,350,10/28/2025,Western New Eng.,home,T,1,1,False
+11/01/2025,#6 Suffolk CNE WSOC Tournament,L 1-2,445,11/01/2025,Suffolk,home,L,1,2,False

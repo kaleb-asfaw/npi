@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,"St. Thomas (TX) @San Antonio, TX",T 1-1,300,08/29/2025,St. Thomas (TX),neutral,T,1,1,False
+08/31/2025,@ Trinity (TX),T 1-1,135,08/31/2025,Trinity (TX),away,T,1,1,False
+09/05/2025,Cal Lutheran,L 0-1,244,09/05/2025,Cal Lutheran,home,L,0,1,False
+09/07/2025,Pomona-Pitzer,L 0-1,370,09/07/2025,Pomona-Pitzer,home,L,0,1,False
+09/20/2025,George Fox,W 1-0,280,09/20/2025,George Fox,home,W,1,0,False
+09/21/2025,Lewis & Clark,W 2-0,226,09/21/2025,Lewis & Clark,home,W,2,0,False
+09/24/2025,Puget Sound,T 1-1,137,09/24/2025,Puget Sound,home,T,1,1,False
+09/27/2025,@ Willamette,W 3-0,280,09/27/2025,Willamette,away,W,3,0,False
+10/04/2025,Pacific (OR),T 0-0,289,10/04/2025,Pacific (OR),home,T,0,0,False
+10/05/2025,Linfield,W 2-0,349,10/05/2025,Linfield,home,W,2,0,False
+10/11/2025,@ Whitman,W 2-1,100,10/11/2025,Whitman,away,W,2,1,False
+10/12/2025,@ Whitworth,W 1-0,75,10/12/2025,Whitworth,away,W,1,0,False
+10/18/2025,@ Lewis & Clark,W 1-0,94,10/18/2025,Lewis & Clark,away,W,1,0,False
+10/19/2025,@ George Fox,W 1-0,120,10/19/2025,George Fox,away,W,1,0,False
+10/22/2025,@ Puget Sound,T 0-0,326,10/22/2025,Puget Sound,away,T,0,0,False
+10/26/2025,Willamette,W 2-0,124,10/26/2025,Willamette,home,W,2,0,False
+11/01/2025,@ Linfield,W 1-0,103,11/01/2025,Linfield,away,W,1,0,False
+11/02/2025,@ Pacific (OR),T 1-1,75,11/02/2025,Pacific (OR),away,T,1,1,False
+11/08/2025,Whitworth,W 1-0,278,11/08/2025,Whitworth,home,W,1,0,False
+11/09/2025,Whitman,W 3-0,342,11/09/2025,Whitman,home,W,3,0,False

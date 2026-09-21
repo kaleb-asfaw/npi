@@ -1,0 +1,25 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,Westminster (MO),W 8-0,232,08/29/2025,Westminster (MO),home,W,8,0,False
+09/02/2025,@ Ill. Wesleyan,W 6-0,45,09/02/2025,Ill. Wesleyan,away,W,6,0,False
+09/05/2025,Calvin,W 2-0,323,09/05/2025,Calvin,home,W,2,0,False
+09/07/2025,Rose-Hulman,W 4-0,200,09/07/2025,Rose-Hulman,home,W,4,0,False
+09/12/2025,@ North Central (IL),W 1-0,142,09/12/2025,North Central (IL),away,W,1,0,False
+09/14/2025,@ Trine,T 1-1,154,09/14/2025,Trine,away,T,1,1,False
+09/20/2025,"Mary Hardin-Baylor @Memphis, TN",W 6-0,100,09/20/2025,Mary Hardin-Baylor,neutral,W,6,0,False
+09/21/2025,"Rhodes @Memphis, TN",W 3-0,100,09/21/2025,Rhodes,neutral,W,3,0,False
+09/27/2025,@ Centre,W 5-1,379,09/27/2025,Centre,away,W,5,1,False
+09/30/2025,@ Millikin,W 7-0,120,09/30/2025,Millikin,away,W,7,0,False
+10/04/2025,Brandeis,W 4-0,233,10/04/2025,Brandeis,home,W,4,0,False
+10/07/2025,@ Greenville,W 4-0,50,10/07/2025,Greenville,away,W,4,0,False
+10/11/2025,@ CWRU,W 2-1,365,10/11/2025,CWRU,away,W,2,1,False
+10/19/2025,Carnegie Mellon,W 3-0,425,10/19/2025,Carnegie Mellon,home,W,3,0,False
+10/24/2025,@ Rochester (NY),W 5-0,96,10/24/2025,Rochester (NY),away,W,5,0,False
+10/26/2025,@ Emory,W 2-1,305,10/26/2025,Emory,away,W,2,1,False
+11/01/2025,NYU,W 3-1,350,11/01/2025,NYU,home,W,3,1,False
+11/08/2025,UChicago,T 1-1,334,11/08/2025,UChicago,home,T,1,1,False
+11/15/2025,Wilmington (OH) 2025 NCAA DIII Women's Soccer Championship,W 7-0,591,11/15/2025,Wilmington (OH),home,W,7,0,False
+11/16/2025,"North Central (IL) @St. Louis, MO (2025 NCAA DIII Women's Soccer Championship)",W 5-1,418,11/16/2025,North Central (IL),neutral,W,5,1,False
+11/21/2025,"MIT @Mechanicsburg, PA (2025 NCAA DIII Women's Soccer Championship)",W 1-0,112,11/21/2025,MIT,neutral,W,1,0,False
+11/22/2025,"Messiah @Mechanicsburg, PA (2025 NCAA DIII Women's Soccer Championship)",W 1-0 (1 OT),"1,156",11/22/2025,Messiah,neutral,W,1,0,True
+12/04/2025,"UChicago @Salem, VA (2025 NCAA DIII Women's Soccer Championship)",T 1-1 (3 OT),328,12/04/2025,UChicago,neutral,T,1,1,True
+12/06/2025,"Emory @Salem, VA (2025 NCAA DIII Women's Soccer Championship)",W 2-1,486,12/06/2025,Emory,neutral,W,2,1,False

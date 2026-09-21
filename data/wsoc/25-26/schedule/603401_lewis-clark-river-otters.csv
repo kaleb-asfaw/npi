@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,Wis.-Oshkosh,T 1-1,77,08/29/2025,Wis.-Oshkosh,home,T,1,1,False
+08/31/2025,Chapman,L 0-3,64,08/31/2025,Chapman,home,L,0,3,False
+09/06/2025,Northwest (WA),L 2-3,123,09/06/2025,Northwest (WA),home,L,2,3,False
+09/07/2025,UC Santa Cruz,L 1-4,67,09/07/2025,UC Santa Cruz,home,L,1,4,False
+09/20/2025,@ Puget Sound,L 0-2,115,09/20/2025,Puget Sound,away,L,0,2,False
+09/21/2025,@ Pacific Lutheran,L 0-2,226,09/21/2025,Pacific Lutheran,away,L,0,2,False
+09/27/2025,George Fox,W 1-0,104,09/27/2025,George Fox,home,W,1,0,False
+09/28/2025,Pacific (OR),L 1-2,87,09/28/2025,Pacific (OR),home,L,1,2,False
+10/03/2025,Whitman,T 1-1,87,10/03/2025,Whitman,home,T,1,1,False
+10/05/2025,Whitworth,W 2-0,106,10/05/2025,Whitworth,home,W,2,0,False
+10/11/2025,@ Willamette,T 2-2,178,10/11/2025,Willamette,away,T,2,2,False
+10/12/2025,Linfield,L 0-1,179,10/12/2025,Linfield,home,L,0,1,False
+10/18/2025,Pacific Lutheran,L 0-1,94,10/18/2025,Pacific Lutheran,home,L,0,1,False
+10/19/2025,Puget Sound,L 0-2,113,10/19/2025,Puget Sound,home,L,0,2,False
+10/24/2025,@ Pacific (OR),W 2-0,55,10/24/2025,Pacific (OR),away,W,2,0,False
+10/26/2025,@ George Fox,T 0-0,95,10/26/2025,George Fox,away,T,0,0,False
+11/01/2025,@ Whitworth,T 0-0,125,11/01/2025,Whitworth,away,T,0,0,False
+11/02/2025,@ Whitman,L 0-3,67,11/02/2025,Whitman,away,L,0,3,False
+11/08/2025,@ Linfield,L 0-3,247,11/08/2025,Linfield,away,L,0,3,False
+11/09/2025,Willamette,T 1-1,213,11/09/2025,Willamette,home,T,1,1,False

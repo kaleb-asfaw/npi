@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2025,Centenary (NJ),T 2-2,100,09/03/2025,Centenary (NJ),home,T,2,2,False
+09/06/2025,Eastern,L 0-4,103,09/06/2025,Eastern,home,L,0,4,False
+09/10/2025,Bryn Mawr,L 0-6,45,09/10/2025,Bryn Mawr,home,L,0,6,False
+09/13/2025,Penn St.-Mont Alto,W 4-0,115,09/13/2025,Penn St.-Mont Alto,home,W,4,0,False
+09/17/2025,Delaware Valley,L 2-3,115,09/17/2025,Delaware Valley,home,L,2,3,False
+09/20/2025,@ Gwynedd Mercy,L 1-2,111,09/20/2025,Gwynedd Mercy,away,L,1,2,False
+09/24/2025,@ Marywood,L 0-3,117,09/24/2025,Marywood,away,L,0,3,False
+09/27/2025,Penn College,L 0-3,115,09/27/2025,Penn College,home,L,0,3,False
+10/01/2025,Medgar Evers,Canceled,,10/01/2025,Medgar Evers,home,,,,
+10/04/2025,@ Penn St.-Abington,L 0-2,40,10/04/2025,Penn St.-Abington,away,L,0,2,False
+10/07/2025,@ Wilson,L 1-2,75,10/07/2025,Wilson,away,L,1,2,False
+10/11/2025,@ Notre Dame (MD),T 1-1,225,10/11/2025,Notre Dame (MD),away,T,1,1,False
+10/15/2025,Penn St. Harrisburg,L 0-4,50,10/15/2025,Penn St. Harrisburg,home,L,0,4,False
+10/18/2025,@ St. Mary's (MD),L 0-4,243,10/18/2025,St. Mary's (MD),away,L,0,4,False
+10/22/2025,@ Cedar Crest,Ppd,,10/22/2025,Cedar Crest,away,,,,
+10/25/2025,Valley Forge,W 5-0,103,10/25/2025,Valley Forge,home,W,5,0,False
+10/29/2025,@ Wilson United East WSOC Championship,L 1-2 (2 OT),160,10/29/2025,Wilson,away,L,1,2,True

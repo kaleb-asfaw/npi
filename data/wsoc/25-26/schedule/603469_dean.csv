@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,MCLA,Ppd,,08/29/2025,MCLA,home,,,,
+08/31/2025,Rhode Island Col.,L 0-3,132,08/31/2025,Rhode Island Col.,home,L,0,3,False
+09/02/2025,Curry,L 1-6,78,09/02/2025,Curry,home,L,1,6,False
+09/06/2025,Colby-Sawyer,L 2-3,165,09/06/2025,Colby-Sawyer,home,L,2,3,False
+09/10/2025,Framingham St.,L 0-2,83,09/10/2025,Framingham St.,home,L,0,2,False
+09/13/2025,Saint Joseph (CT),L 0-6,86,09/13/2025,Saint Joseph (CT),home,L,0,6,False
+09/20/2025,Elms,L 0-3,178,09/20/2025,Elms,home,L,0,3,False
+09/23/2025,Fisher,W 2-0,0,09/23/2025,Fisher,home,W,2,0,False
+09/27/2025,@ New England Col.,T 2-2,0,09/27/2025,New England Col.,away,T,2,2,False
+09/30/2025,Mitchell,W 2-1,56,09/30/2025,Mitchell,home,W,2,1,False
+10/04/2025,@ Simmons,L 1-2,127,10/04/2025,Simmons,away,L,1,2,False
+10/07/2025,@ Rivier,L 0-9,233,10/07/2025,Rivier,away,L,0,9,False
+10/11/2025,Emmanuel (MA),L 0-12,123,10/11/2025,Emmanuel (MA),home,L,0,12,False
+10/14/2025,St. Joseph's (ME),L 1-4,63,10/14/2025,St. Joseph's (ME),home,L,1,4,False
+10/17/2025,@ Norwich,L 0-6,31,10/17/2025,Norwich,away,L,0,6,False
+10/19/2025,@ MCLA,T 1-1,193,10/19/2025,MCLA,away,T,1,1,False
+10/22/2025,Regis (MA),L 0-5,55,10/22/2025,Regis (MA),home,L,0,5,False
+10/25/2025,@ Lasell,L 0-3,90,10/25/2025,Lasell,away,L,0,3,False
+10/28/2025,@ Albertus Magnus,L 0-4,310,10/28/2025,Albertus Magnus,away,L,0,4,False

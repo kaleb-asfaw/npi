@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2025,@ Roanoke,W 3-1,195,08/30/2025,Roanoke,away,W,3,1,False
+08/31/2025,"Lynchburg @Salem, VA",T 0-0,103,08/31/2025,Lynchburg,neutral,T,0,0,False
+09/03/2025,@ MUW,W 1-0,97,09/03/2025,MUW,away,W,1,0,False
+09/05/2025,"Covenant @Maryville, TN",W 5-0,59,09/05/2025,Covenant,neutral,W,5,0,False
+09/06/2025,@ Maryville (TN),W 2-1,100,09/06/2025,Maryville (TN),away,W,2,1,False
+09/11/2025,@ Belhaven,W 2-0,110,09/11/2025,Belhaven,away,W,2,0,False
+09/14/2025,Hendrix,W 2-1,102,09/14/2025,Hendrix,home,W,2,1,False
+09/20/2025,DePauw,W 3-0,150,09/20/2025,DePauw,home,W,3,0,False
+09/21/2025,"WashU @Memphis, TN",L 0-3,100,09/21/2025,WashU,neutral,L,0,3,False
+10/03/2025,Sewanee,T 1-1,123,10/03/2025,Sewanee,home,T,1,1,False
+10/05/2025,Centre,W 1-0,100,10/05/2025,Centre,home,W,1,0,False
+10/11/2025,Oglethorpe,W 2-1,50,10/11/2025,Oglethorpe,home,W,2,1,False
+10/18/2025,@ Berry,W 1-0,100,10/18/2025,Berry,away,W,1,0,False
+10/24/2025,@ Trinity (TX),L 0-1,249,10/24/2025,Trinity (TX),away,L,0,1,False
+10/26/2025,@ Southwestern (TX),L 0-1,395,10/26/2025,Southwestern (TX),away,L,0,1,False
+10/31/2025,@ Millsaps,W 3-0,31,10/31/2025,Millsaps,away,W,3,0,False
+11/07/2025,#3 Sewanee SAA WSOC Championship,W 1-0,135,11/07/2025,Sewanee,home,W,1,0,False
+11/09/2025,@ #1 Trinity (TX) SAA WSOC Championship,L 0-3,134,11/09/2025,Trinity (TX),away,L,0,3,False
+11/15/2025,"Brevard @Atlanta, GA (2025 NCAA DIII Women's Soccer Championship)",W 2-0,442,11/15/2025,Brevard,neutral,W,2,0,False
+11/16/2025,"Emory @Atlanta, GA (2025 NCAA DIII Women's Soccer Championship)",L 0-2,215,11/16/2025,Emory,neutral,L,0,2,False

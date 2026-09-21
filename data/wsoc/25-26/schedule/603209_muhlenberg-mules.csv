@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,Elizabethtown,L 1-3,75,08/29/2025,Elizabethtown,home,L,1,3,False
+08/30/2025,Coast Guard,W 4-2,209,08/30/2025,Coast Guard,home,W,4,2,False
+09/03/2025,DeSales,W 2-1,117,09/03/2025,DeSales,home,W,2,1,False
+09/06/2025,@ Neumann,W 2-1,215,09/06/2025,Neumann,away,W,2,1,False
+09/09/2025,Moravian,L 0-1,128,09/09/2025,Moravian,home,L,0,1,False
+09/13/2025,@ Rutgers-Camden,T 0-0,215,09/13/2025,Rutgers-Camden,away,T,0,0,False
+09/17/2025,@ Susquehanna,L 0-4,124,09/17/2025,Susquehanna,away,L,0,4,False
+09/20/2025,@ Franklin & Marshall,L 0-3,150,09/20/2025,Franklin & Marshall,away,L,0,3,False
+09/27/2025,Gettysburg,L 2-4,179,09/27/2025,Gettysburg,home,L,2,4,False
+09/30/2025,@ Arcadia,L 0-4,125,09/30/2025,Arcadia,away,L,0,4,False
+10/04/2025,@ Ursinus,L 0-3,143,10/04/2025,Ursinus,away,L,0,3,False
+10/08/2025,Swarthmore,L 0-2,108,10/08/2025,Swarthmore,home,L,0,2,False
+10/11/2025,@ McDaniel,W 1-0,194,10/11/2025,McDaniel,away,W,1,0,False
+10/15/2025,Haverford,W 1-0,65,10/15/2025,Haverford,home,W,1,0,False
+10/18/2025,Washington Col.,T 1-1,115,10/18/2025,Washington Col.,home,T,1,1,False
+10/25/2025,@ Johns Hopkins,L 0-3,200,10/25/2025,Johns Hopkins,away,L,0,3,False
+10/29/2025,@ Bryn Mawr,T 0-0,55,10/29/2025,Bryn Mawr,away,T,0,0,False
+11/01/2025,Dickinson,L 1-4,203,11/01/2025,Dickinson,home,L,1,4,False

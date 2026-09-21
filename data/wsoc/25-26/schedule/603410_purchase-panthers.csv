@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2025,@ Lehman,Canceled,,09/02/2025,Lehman,away,,,,
+09/08/2025,@ Albertus Magnus,L 0-5,200,09/08/2025,Albertus Magnus,away,L,0,5,False
+09/11/2025,Pratt,L 0-4,45,09/11/2025,Pratt,home,L,0,4,False
+09/14/2025,@ Yeshiva,W 10-0,24,09/14/2025,Yeshiva,away,W,10,0,False
+09/17/2025,York (NY),W 4-0,45,09/17/2025,York (NY),home,W,4,0,False
+09/20/2025,@ Merchant Marine,L 0-5,90,09/20/2025,Merchant Marine,away,L,0,5,False
+09/24/2025,Manhattanville,L 0-3,50,09/24/2025,Manhattanville,home,L,0,3,False
+09/27/2025,St. Joseph's (Brkln),W 10-0,45,09/27/2025,St. Joseph's (Brkln),home,W,10,0,False
+09/30/2025,@ SUNY Maritime,L 0-3,142,09/30/2025,SUNY Maritime,away,L,0,3,False
+10/04/2025,@ Mt. St. Mary (NY),L 0-4,99,10/04/2025,Mt. St. Mary (NY),away,L,0,4,False
+10/07/2025,@ Farmingdale St.,L 0-4,83,10/07/2025,Farmingdale St.,away,L,0,4,False
+10/09/2025,@ Lehman,W 3-0,11,10/09/2025,Lehman,away,W,3,0,False
+10/11/2025,CCNY,T 0-0,80,10/11/2025,CCNY,home,T,0,0,False
+10/14/2025,Centenary (NJ),T 2-2,30,10/14/2025,Centenary (NJ),home,T,2,2,False
+10/18/2025,Sarah Lawrence,L 0-7,45,10/18/2025,Sarah Lawrence,home,L,0,7,False
+10/22/2025,St. Joseph's (L.I.),L 0-3,45,10/22/2025,St. Joseph's (L.I.),home,L,0,3,False
+10/25/2025,Old Westbury,L 0-1,75,10/25/2025,Old Westbury,home,L,0,1,False
+10/28/2025,@ UMSV,L 0-7,85,10/28/2025,UMSV,away,L,0,7,False

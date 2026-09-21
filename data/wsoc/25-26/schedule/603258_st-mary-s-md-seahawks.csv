@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,Neumann,W 3-1,68,08/29/2025,Neumann,home,W,3,1,False
+08/30/2025,TCNJ,T 0-0,133,08/30/2025,TCNJ,home,T,0,0,False
+09/03/2025,@ Hood,W 1-0,128,09/03/2025,Hood,away,W,1,0,False
+09/06/2025,"William Smith @Salisbury, MD",T 0-0,152,09/06/2025,William Smith,neutral,T,0,0,False
+09/07/2025,"Rowan @Salisbury, MD",L 0-4,60,09/07/2025,Rowan,neutral,L,0,4,False
+09/10/2025,@ Stevenson,L 0-1,103,09/10/2025,Stevenson,away,L,0,1,False
+09/13/2025,@ Randolph-Macon,L 0-2,168,09/13/2025,Randolph-Macon,away,L,0,2,False
+09/17/2025,Catholic,W 2-1,222,09/17/2025,Catholic,home,W,2,1,False
+09/20/2025,Va. Wesleyan,L 0-4,161,09/20/2025,Va. Wesleyan,home,L,0,4,False
+09/27/2025,Valley Forge,W 11-0,57,09/27/2025,Valley Forge,home,W,11,0,False
+10/01/2025,Penn St. Brandywine,W 4-0,73,10/01/2025,Penn St. Brandywine,home,W,4,0,False
+10/04/2025,Keystone,W 10-0,178,10/04/2025,Keystone,home,W,10,0,False
+10/07/2025,@ Notre Dame (MD),W 7-1,215,10/07/2025,Notre Dame (MD),away,W,7,1,False
+10/11/2025,@ Lancaster Bible,W 2-0,186,10/11/2025,Lancaster Bible,away,W,2,0,False
+10/15/2025,@ Penn St.-Berks,W 2-1,107,10/15/2025,Penn St.-Berks,away,W,2,1,False
+10/18/2025,Cairn,W 4-0,243,10/18/2025,Cairn,home,W,4,0,False
+10/21/2025,@ Penn St.-Abington,W 1-0,105,10/21/2025,Penn St.-Abington,away,W,1,0,False
+10/25/2025,@ Mary Washington,L 0-4,517,10/25/2025,Mary Washington,away,L,0,4,False
+10/28/2025,Salisbury,L 0-1,85,10/28/2025,Salisbury,home,L,0,1,False
+11/01/2025,Notre Dame (MD) United East WSOC Championship,W 3-1,76,11/01/2025,Notre Dame (MD),home,W,3,1,False
+11/04/2025,Penn College United East WSOC Championship,W 2-0,267,11/04/2025,Penn College,home,W,2,0,False
+11/08/2025,@ Penn St. Harrisburg United East WSOC Championship,T 2-2 (2 OT),465,11/08/2025,Penn St. Harrisburg,away,T,2,2,True

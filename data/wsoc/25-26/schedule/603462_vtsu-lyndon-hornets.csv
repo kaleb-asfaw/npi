@@ -1,0 +1,14 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2025,Paul Smiths,L 0-8,89,09/01/2025,Paul Smiths,home,L,0,8,False
+09/16/2025,@ Me.-Farmington,L 0-10,50,09/16/2025,Me.-Farmington,away,L,0,10,False
+09/21/2025,VTSU-Johnson,L 0-14,103,09/21/2025,VTSU-Johnson,home,L,0,14,False
+09/27/2025,@ Husson,L 0-18,200,09/27/2025,Husson,away,L,0,18,False
+09/28/2025,@ Me.-Presque Isle,L 0-10,90,09/28/2025,Me.-Presque Isle,away,L,0,10,False
+10/11/2025,Maine Maritime,L 0-8,0,10/11/2025,Maine Maritime,home,L,0,8,False
+10/12/2025,Thomas (ME),L 0-12,66,10/12/2025,Thomas (ME),home,L,0,12,False
+10/18/2025,@ SUNY Cobleskill,L 0-7,81,10/18/2025,SUNY Cobleskill,away,L,0,7,False
+10/19/2025,@ SUNY Delhi,L 0-14,135,10/19/2025,SUNY Delhi,away,L,0,14,False
+10/22/2025,@ VTSU Randolph,L 0-5,32,10/22/2025,@ VTSU Randolph,home,L,0,5,False
+10/25/2025,Lesley,L 0-8,92,10/25/2025,Lesley,home,L,0,8,False
+10/26/2025,VTSU Randolph,W 2-0,45,10/26/2025,VTSU Randolph,home,W,2,0,False
+10/29/2025,@ SUNY Canton,L 0-9,56,10/29/2025,SUNY Canton,away,L,0,9,False

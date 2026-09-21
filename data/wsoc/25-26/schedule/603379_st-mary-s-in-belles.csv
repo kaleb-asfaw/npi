@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,Alverno,Canceled,,08/29/2025,Alverno,home,,,,
+08/29/2025,@ Franklin,W 2-0,175,08/29/2025,Franklin,away,W,2,0,False
+08/31/2025,Governors St.,W 3-1,114,08/31/2025,Governors St.,home,W,3,1,False
+09/04/2025,North Central (MN),W 5-1,57,09/04/2025,North Central (MN),home,W,5,1,False
+09/06/2025,Bluffton,W 5-0,131,09/06/2025,Bluffton,home,W,5,0,False
+09/11/2025,Concordia Chicago,W 3-0,71,09/11/2025,Concordia Chicago,home,W,3,0,False
+09/17/2025,@ Anderson (IN),T 1-1,187,09/17/2025,Anderson (IN),away,T,1,1,False
+09/19/2025,Wheaton (IL),T 0-0,128,09/19/2025,Wheaton (IL),home,T,0,0,False
+09/24/2025,Earlham,W 3-0,53,09/24/2025,Earlham,home,W,3,0,False
+09/30/2025,@ Kalamazoo,L 0-2,150,09/30/2025,Kalamazoo,away,L,0,2,False
+10/04/2025,Calvin,L 0-5,96,10/04/2025,Calvin,home,L,0,5,False
+10/11/2025,Adrian,L 0-4,127,10/11/2025,Adrian,home,L,0,4,False
+10/14/2025,Olivet,W 5-1,87,10/14/2025,Olivet,home,W,5,1,False
+10/18/2025,@ Alma,W 1-0,63,10/18/2025,Alma,away,W,1,0,False
+10/22/2025,Albion,T 2-2,52,10/22/2025,Albion,home,T,2,2,False
+10/25/2025,@ Trine,L 1-4,137,10/25/2025,Trine,away,L,1,4,False
+10/28/2025,@ Hope,L 0-4,243,10/28/2025,Hope,away,L,0,4,False

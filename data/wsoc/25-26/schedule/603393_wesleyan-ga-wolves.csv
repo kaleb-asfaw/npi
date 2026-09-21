@@ -1,0 +1,13 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/06/2025,@ Salem (NC),L 0-7,40,09/06/2025,Salem (NC),away,L,0,7,False
+09/07/2025,Berea,L 0-5,75,09/07/2025,Berea,home,L,0,5,False
+09/11/2025,"Regent @Decatur, GA",L 0-2,15,09/11/2025,Regent,neutral,L,0,2,False
+09/17/2025,@ Agnes Scott,L 0-1,100,09/17/2025,Agnes Scott,away,L,0,1,False
+09/24/2025,Agnes Scott,L 0-2,45,09/24/2025,Agnes Scott,home,L,0,2,False
+09/27/2025,Asbury,L 0-5,85,09/27/2025,Asbury,home,L,0,5,False
+10/01/2025,@ Piedmont,L 0-4,107,10/01/2025,Piedmont,away,L,0,4,False
+10/04/2025,@ Belhaven,L 0-6,85,10/04/2025,Belhaven,away,L,0,6,False
+10/08/2025,Huntingdon,L 0-5,30,10/08/2025,Huntingdon,home,L,0,5,False
+10/11/2025,@ LaGrange,L 1-5,93,10/11/2025,LaGrange,away,L,1,5,False
+10/18/2025,@ Covenant,L 0-8,155,10/18/2025,Covenant,away,L,0,8,False
+10/27/2025,Maryville (TN),L 0-12,10,10/27/2025,Maryville (TN),home,L,0,12,False

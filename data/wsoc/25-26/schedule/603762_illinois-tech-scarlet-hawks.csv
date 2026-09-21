@@ -1,0 +1,24 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/31/2025,North Park,W 3-0,70,08/31/2025,North Park,home,W,3,0,False
+09/03/2025,North Central (IL),W 1-0,50,09/03/2025,North Central (IL),home,W,1,0,False
+09/06/2025,Elmhurst,W 4-0,50,09/06/2025,Elmhurst,home,W,4,0,False
+09/10/2025,Hope,T 2-2,35,09/10/2025,Hope,home,T,2,2,False
+09/13/2025,@ Rose-Hulman,W 3-0,237,09/13/2025,Rose-Hulman,away,W,3,0,False
+09/17/2025,Aurora,W 4-0,50,09/17/2025,Aurora,home,W,4,0,False
+09/20/2025,St. Norbert,W 3-0,45,09/20/2025,St. Norbert,home,W,3,0,False
+09/24/2025,@ Concordia Chicago,W 1-0,78,09/24/2025,Concordia Chicago,away,W,1,0,False
+09/27/2025,@ Edgewood,W 4-0,175,09/27/2025,Edgewood,away,W,4,0,False
+10/01/2025,@ Benedictine (IL),W 5-0,100,10/01/2025,Benedictine (IL),away,W,5,0,False
+10/04/2025,Marian (WI),W 7-0,121,10/04/2025,Marian (WI),home,W,7,0,False
+10/06/2025,@ UChicago,L 1-5,100,10/06/2025,UChicago,away,L,1,5,False
+10/08/2025,Lakeland,W 13-0,30,10/08/2025,Lakeland,home,W,13,0,False
+10/11/2025,@ Wis. Lutheran,W 2-0,106,10/11/2025,Wis. Lutheran,away,W,2,0,False
+10/15/2025,Dominican (IL),W 5-1,75,10/15/2025,Dominican (IL),home,W,5,1,False
+10/18/2025,MSOE,W 1-0,87,10/18/2025,MSOE,home,W,1,0,False
+10/22/2025,@ Concordia Wisconsin,W 5-0,72,10/22/2025,Concordia Wisconsin,away,W,5,0,False
+10/29/2025,@ Rockford,W 17-0,12,10/29/2025,Rockford,away,W,17,0,False
+11/02/2025,Wis. Lutheran NACC WSOC Tournament,W 5-1,27,11/02/2025,Wis. Lutheran,home,W,5,1,False
+11/05/2025,Dominican (IL) NACC WSOC Tournament,W 4-0,142,11/05/2025,Dominican (IL),home,W,4,0,False
+11/08/2025,MSOE NACC WSOC Tournament,W 3-1,137,11/08/2025,MSOE,home,W,3,1,False
+11/14/2025,"Grove City @Grand Rapids, MI (2025 NCAA DIII Women's Soccer Championship)",W 1-0,102,11/14/2025,Grove City,neutral,W,1,0,False
+11/16/2025,"Calvin @Grand Rapids, MI (2025 NCAA DIII Women's Soccer Championship)",L 1-2 (1 OT),862,11/16/2025,Calvin,neutral,L,1,2,True

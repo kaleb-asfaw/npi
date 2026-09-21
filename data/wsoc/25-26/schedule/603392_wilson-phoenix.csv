@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,Penn St.-Altoona,T 3-3,110,08/29/2025,Penn St.-Altoona,home,T,3,3,False
+09/01/2025,Gwynedd Mercy,W 1-0,150,09/01/2025,Gwynedd Mercy,home,W,1,0,False
+09/08/2025,@ Neumann,L 0-2,187,09/08/2025,Neumann,away,L,0,2,False
+09/10/2025,Penn St.-Mont Alto,W 5-0,200,09/10/2025,Penn St.-Mont Alto,home,W,5,0,False
+09/13/2025,Mount Aloysius,L 0-2,75,09/13/2025,Mount Aloysius,home,L,0,2,False
+09/17/2025,@ Mary Baldwin,T 2-2,50,09/17/2025,Mary Baldwin,away,T,2,2,False
+09/20/2025,@ King's (PA),L 0-3,125,09/20/2025,King's (PA),away,L,0,3,False
+09/23/2025,Hood,L 0-1,80,09/23/2025,Hood,home,L,0,1,False
+09/27/2025,@ Lancaster Bible,L 0-5,268,09/27/2025,Lancaster Bible,away,L,0,5,False
+10/01/2025,@ Penn St.-Berks,L 0-3,123,10/01/2025,Penn St.-Berks,away,L,0,3,False
+10/04/2025,Cedar Crest,W 3-1,75,10/04/2025,Cedar Crest,home,W,3,1,False
+10/07/2025,Cairn,W 2-1,75,10/07/2025,Cairn,home,W,2,1,False
+10/09/2025,@ Penn St.-Schuylkill,W 3-0,0,10/09/2025,@ Penn St.-Schuylkill,home,W,3,0,False
+10/13/2025,Marywood,Canceled,,10/13/2025,Marywood,home,,,,
+10/15/2025,@ Penn St. Brandywine,W 1-0,100,10/15/2025,Penn St. Brandywine,away,W,1,0,False
+10/18/2025,@ Penn St. Harrisburg,L 0-4,225,10/18/2025,Penn St. Harrisburg,away,L,0,4,False
+10/21/2025,Notre Dame (MD),T 1-1,100,10/21/2025,Notre Dame (MD),home,T,1,1,False
+10/22/2025,@ Franklin & Marshall,L 0-9,163,10/22/2025,Franklin & Marshall,away,L,0,9,False
+10/25/2025,Penn St.-Abington,L 0-1,150,10/25/2025,Penn St.-Abington,home,L,0,1,False
+10/29/2025,Cairn United East WSOC Championship,W 2-1 (2 OT),160,10/29/2025,Cairn,home,W,2,1,True
+11/01/2025,@ Penn St. Harrisburg United East WSOC Championship,L 0-5,175,11/01/2025,Penn St. Harrisburg,away,L,0,5,False

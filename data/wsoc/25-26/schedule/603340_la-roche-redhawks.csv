@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,Thiel,W 4-0,75,08/29/2025,Thiel,home,W,4,0,False
+09/03/2025,@ Waynesburg,L 0-8,67,09/03/2025,Waynesburg,away,L,0,8,False
+09/05/2025,Wash. & Jeff.,L 0-2,150,09/05/2025,Wash. & Jeff.,home,L,0,2,False
+09/10/2025,Penn St.-New Kens.,W 3-1,75,09/10/2025,Penn St.-New Kens.,home,W,3,1,False
+09/16/2025,@ Saint Vincent,L 0-7,111,09/16/2025,Saint Vincent,away,L,0,7,False
+09/20/2025,@ Penn College,L 0-6,317,09/20/2025,Penn College,away,L,0,6,False
+09/27/2025,Pitt.-Bradford,W 3-1,115,09/27/2025,Pitt.-Bradford,home,W,3,1,False
+09/30/2025,Carlow,W 3-1,72,09/30/2025,Carlow,home,W,3,1,False
+10/04/2025,@ Alfred St.,L 0-1,76,10/04/2025,Alfred St.,away,L,0,1,False
+10/11/2025,Hilbert,T 1-1,175,10/11/2025,Hilbert,home,T,1,1,False
+10/14/2025,Pitt.-Greensburg,L 0-6,100,10/14/2025,Pitt.-Greensburg,home,L,0,6,False
+10/18/2025,@ Penn St.-Behrend,L 0-6,217,10/18/2025,Penn St.-Behrend,away,L,0,6,False
+10/22/2025,@ Mount Aloysius,T 0-0,72,10/22/2025,Mount Aloysius,away,T,0,0,False
+10/28/2025,Penn St.-Altoona,T 1-1,105,10/28/2025,Penn St.-Altoona,home,T,1,1,False
+11/01/2025,@ #3 Alfred St. AMCC WSOC Tournament,L 0-3,120,11/01/2025,Alfred St.,away,L,0,3,False

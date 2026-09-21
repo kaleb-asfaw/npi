@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,Merchant Marine,W 3-0,482,08/29/2025,Merchant Marine,home,W,3,0,False
+08/31/2025,Saint Benedict,W 2-0,173,08/31/2025,Saint Benedict,home,W,2,0,False
+09/05/2025,Mary Hardin-Baylor,W 1-0,242,09/05/2025,Mary Hardin-Baylor,home,W,1,0,False
+09/07/2025,Mt. St. Joseph,W 4-0,273,09/07/2025,Mt. St. Joseph,home,W,4,0,False
+09/12/2025,"CWRU @Delaware, OH",T 1-1,173,09/12/2025,CWRU,neutral,T,1,1,False
+09/14/2025,@ Ohio Wesleyan,W 2-1,293,09/14/2025,Ohio Wesleyan,away,W,2,1,False
+09/17/2025,Roanoke,W 2-0,162,09/17/2025,Roanoke,home,W,2,0,False
+09/20/2025,@ Wash. & Lee,T 1-1,327,09/20/2025,Wash. & Lee,away,T,1,1,False
+09/24/2025,Catholic,W 1-0,171,09/24/2025,Catholic,home,W,1,0,False
+10/01/2025,@ Marymount (VA),W 3-0,109,10/01/2025,Marymount (VA),away,W,3,0,False
+10/04/2025,Mary Washington,L 0-1,352,10/04/2025,Mary Washington,home,L,0,1,False
+10/07/2025,@ Southern Va.,W 1-0,189,10/07/2025,Southern Va.,away,W,1,0,False
+10/15/2025,Va. Wesleyan,W 2-0,628,10/15/2025,Va. Wesleyan,home,W,2,0,False
+10/18/2025,Swarthmore,W 2-1,618,10/18/2025,Swarthmore,home,W,2,1,False
+10/21/2025,@ Methodist,W 3-0,155,10/21/2025,Methodist,away,W,3,0,False
+11/01/2025,@ Salisbury,T 0-0,307,11/01/2025,Salisbury,away,T,0,0,False
+11/02/2025,@ Salisbury,Canceled,,11/02/2025,Salisbury,away,,,,
+11/07/2025,@ Salisbury C2C WSOC Championship,W 1-0,124,11/07/2025,Salisbury,away,W,1,0,False
+11/09/2025,"UC Santa Cruz @Salisbury, MD (C2C WSOC Championship)",W 1-0 (1 OT),132,11/09/2025,UC Santa Cruz,neutral,W,1,0,True
+11/15/2025,Penn St. Harrisburg 2025 NCAA DIII Women's Soccer Championship,L 1-2,543,11/15/2025,Penn St. Harrisburg,home,L,1,2,False

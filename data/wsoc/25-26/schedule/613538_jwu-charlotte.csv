@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,Salem (NC),W 2-1,150,08/29/2025,Salem (NC),home,W,2,1,False
+09/05/2025,@ East. Mennonite,L 0-3,171,09/05/2025,East. Mennonite,away,L,0,3,False
+09/07/2025,@ Hollins,W 2-0,85,09/07/2025,Hollins,away,W,2,0,False
+09/10/2025,@ Greensboro,L 0-1,75,09/10/2025,Greensboro,away,L,0,1,False
+09/14/2025,@ N.C. Wesleyan,W 1-0,85,09/14/2025,N.C. Wesleyan,away,W,1,0,False
+09/17/2025,Pfeiffer,W 3-1,120,09/17/2025,Pfeiffer,home,W,3,1,False
+09/20/2025,Berry,L 0-5,100,09/20/2025,Berry,home,L,0,5,False
+09/22/2025,Guilford,L 1-2,100,09/22/2025,Guilford,home,L,1,2,False
+09/27/2025,@ Regent,W 3-0,50,09/27/2025,Regent,away,W,3,0,False
+09/30/2025,William Peace,Canceled,,09/30/2025,William Peace,home,,,,
+10/03/2025,Trinity Washington,Canceled,,10/03/2025,Trinity Washington,home,,,,
+10/05/2025,@ Piedmont,L 0-3,204,10/05/2025,Piedmont,away,L,0,3,False
+10/11/2025,@ Christendom,W 3-0,50,10/11/2025,@ Christendom,home,W,3,0,False
+10/15/2025,Meredith,W 1-0,100,10/15/2025,Meredith,home,W,1,0,False
+10/17/2025,UC Clermont,L 1-2,85,10/17/2025,UC Clermont,home,L,1,2,False
+10/21/2025,@ Brevard,L 0-2,196,10/21/2025,Brevard,away,L,0,2,False
+10/27/2025,Trinity Baptist,T 0-0,25,10/27/2025,Trinity Baptist,home,T,0,0,False
+10/31/2025,Warren Wilson,W 5-0,119,10/31/2025,Warren Wilson,home,W,5,0,False
+11/06/2025,"Salisbury @Salisbury, MD (C2C WSOC Championship)",L 0-1 (2 OT),183,11/06/2025,Salisbury,neutral,L,0,1,True

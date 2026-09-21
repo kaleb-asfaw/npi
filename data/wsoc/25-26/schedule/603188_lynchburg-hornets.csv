@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2025,"Denison @Salem, VA",W 1-0,142,08/30/2025,Denison,neutral,W,1,0,False
+08/31/2025,"Rhodes @Salem, VA",T 0-0,103,08/31/2025,Rhodes,neutral,T,0,0,False
+09/05/2025,New Jersey City,W 2-0,143,09/05/2025,New Jersey City,home,W,2,0,False
+09/06/2025,Meredith,W 3-0,105,09/06/2025,Meredith,home,W,3,0,False
+09/13/2025,@ Maryville (TN),W 4-1,155,09/13/2025,Maryville (TN),away,W,4,1,False
+09/21/2025,@ Emory,L 1-6,45,09/21/2025,Emory,away,L,1,6,False
+09/24/2025,Randolph,W 5-0,113,09/24/2025,Randolph,home,W,5,0,False
+09/27/2025,@ Marymount (VA),W 3-1,239,09/27/2025,Marymount (VA),away,W,3,1,False
+10/01/2025,Sweet Briar,Canceled,,10/01/2025,Sweet Briar,home,,,,
+10/01/2025,@ Roanoke,W 2-0,150,10/01/2025,Roanoke,away,W,2,0,False
+10/04/2025,@ Averett,W 9-0,150,10/04/2025,Averett,away,W,9,0,False
+10/08/2025,Va. Wesleyan,T 0-0,126,10/08/2025,Va. Wesleyan,home,T,0,0,False
+10/11/2025,@ Randolph-Macon,L 1-2,200,10/11/2025,Randolph-Macon,away,L,1,2,False
+10/14/2025,Shenandoah,L 0-1,267,10/14/2025,Shenandoah,home,L,0,1,False
+10/18/2025,Wash. & Lee,L 0-1,204,10/18/2025,Wash. & Lee,home,L,0,1,False
+10/22/2025,@ Guilford,W 2-0,104,10/22/2025,Guilford,away,W,2,0,False
+10/25/2025,Bridgewater (VA),L 1-4,104,10/25/2025,Bridgewater (VA),home,L,1,4,False
+10/28/2025,Mary Washington,T 0-0,105,10/28/2025,Mary Washington,home,T,0,0,False
+10/30/2025,@ Hollins,W 9-0,155,10/30/2025,Hollins,away,W,9,0,False
+11/01/2025,@ #2 Va. Wesleyan ODAC WSOC Championship,L 0-1 (1 OT),234,11/01/2025,Va. Wesleyan,away,L,0,1,True

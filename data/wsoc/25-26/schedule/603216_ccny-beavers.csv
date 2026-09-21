@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2025,@ Sarah Lawrence,L 1-5,55,09/03/2025,Sarah Lawrence,away,L,1,5,False
+09/10/2025,@ St. Joseph's (Brkln),Ppd,,09/10/2025,St. Joseph's (Brkln),away,,,,
+09/13/2025,@ Old Westbury,L 0-1,64,09/13/2025,Old Westbury,away,L,0,1,False
+09/17/2025,@ UMSV,L 0-4,47,09/17/2025,UMSV,away,L,0,4,False
+09/20/2025,@ Saint Elizabeth,W 3-0,75,09/20/2025,Saint Elizabeth,away,W,3,0,False
+09/22/2025,@ Rutgers-Newark,L 0-3,220,09/22/2025,Rutgers-Newark,away,L,0,3,False
+09/27/2025,@ Pratt,T 0-0,30,09/27/2025,Pratt,away,T,0,0,False
+10/03/2025,@ Merchant Marine,L 0-3,100,10/03/2025,Merchant Marine,away,L,0,3,False
+10/06/2025,@ Ramapo,L 0-4,50,10/06/2025,Ramapo,away,L,0,4,False
+10/11/2025,@ Purchase,T 0-0,80,10/11/2025,Purchase,away,T,0,0,False
+10/15/2025,York (NY),W 5-0,100,10/15/2025,York (NY),home,W,5,0,False
+10/18/2025,@ John Jay,L 0-4,75,10/18/2025,John Jay,away,L,0,4,False
+10/22/2025,@ Lehman,W 1-0,74,10/22/2025,Lehman,away,W,1,0,False
+10/25/2025,Brooklyn,T 1-1,105,10/25/2025,Brooklyn,home,T,1,1,False
+11/01/2025,@ #2 Brooklyn CUNYAC WSOC Championship,W 2-0,110,11/01/2025,Brooklyn,away,W,2,0,False
+11/08/2025,"#1 John Jay @Jamaica, NY (CUNYAC WSOC Championship)",L 0-3,167,11/08/2025,John Jay,neutral,L,0,3,False

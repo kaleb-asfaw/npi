@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2025,Lasell,T 2-2,150,08/30/2025,Lasell,home,T,2,2,False
+09/03/2025,Clark (MA),L 0-10,50,09/03/2025,Clark (MA),home,L,0,10,False
+09/06/2025,@ MCLA,L 1-4,148,09/06/2025,MCLA,away,L,1,4,False
+09/10/2025,@ Dean,W 2-0,83,09/10/2025,Dean,away,W,2,0,False
+09/13/2025,@ Worcester St.,L 0-1,242,09/13/2025,Worcester St.,away,L,0,1,False
+09/17/2025,@ Springfield,L 0-2,185,09/17/2025,Springfield,away,L,0,2,False
+09/20/2025,Fitchburg St.,W 2-1,75,09/20/2025,Fitchburg St.,home,W,2,1,False
+09/24/2025,Curry,T 3-3,150,09/24/2025,Curry,home,T,3,3,False
+09/26/2025,Salem St.,W 2-0,220,09/26/2025,Salem St.,home,W,2,0,False
+10/01/2025,Keene St.,L 0-1,50,10/01/2025,Keene St.,home,L,0,1,False
+10/04/2025,Me.-Fort Kent,W 2-0,150,10/04/2025,Me.-Fort Kent,home,W,2,0,False
+10/08/2025,UMass Dartmouth,L 0-3,50,10/08/2025,UMass Dartmouth,home,L,0,3,False
+10/11/2025,@ Anna Maria,W 2-0,709,10/11/2025,Anna Maria,away,W,2,0,False
+10/15/2025,Lesley,L 0-1,70,10/15/2025,Lesley,home,L,0,1,False
+10/18/2025,@ Westfield St.,T 1-1,187,10/18/2025,Westfield St.,away,T,1,1,False
+10/25/2025,Mass. Maritime,T 1-1,300,10/25/2025,Mass. Maritime,home,T,1,1,False
+10/29/2025,@ Fisher,W 3-0,0,10/29/2025,@ Fisher,home,W,3,0,False
+11/01/2025,Bridgewater St.,L 2-3,200,11/01/2025,Bridgewater St.,home,L,2,3,False
+11/05/2025,@ Salem St. MASCAC WSOC Championship,T 1-1 (2 OT),125,11/05/2025,Salem St.,away,T,1,1,True
+11/07/2025,@ Worcester St. MASCAC WSOC Championship,L 0-1,134,11/07/2025,Worcester St.,away,L,0,1,False

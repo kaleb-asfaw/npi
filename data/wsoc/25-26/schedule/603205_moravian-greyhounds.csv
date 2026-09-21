@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,@ Lebanon Valley,L 0-1,233,08/29/2025,Lebanon Valley,away,L,0,1,False
+09/03/2025,@ Misericordia,L 0-4,139,09/03/2025,Misericordia,away,L,0,4,False
+09/06/2025,Marywood,L 0-2,187,09/06/2025,Marywood,home,L,0,2,False
+09/09/2025,@ Muhlenberg,W 1-0,128,09/09/2025,Muhlenberg,away,W,1,0,False
+09/12/2025,@ Eastern,T 1-1,150,09/12/2025,Eastern,away,T,1,1,False
+09/17/2025,Stockton,L 0-2,123,09/17/2025,Stockton,home,L,0,2,False
+09/20/2025,@ Rutgers-Newark,L 0-1,214,09/20/2025,Rutgers-Newark,away,L,0,1,False
+09/24/2025,Montclair St.,L 0-4,137,09/24/2025,Montclair St.,home,L,0,4,False
+09/27/2025,Juniata,T 1-1,147,09/27/2025,Juniata,home,T,1,1,False
+10/04/2025,Catholic,L 0-5,237,10/04/2025,Catholic,home,L,0,5,False
+10/07/2025,@ Drew,W 3-2,100,10/07/2025,Drew,away,W,3,2,False
+10/11/2025,@ Lycoming,L 0-4,174,10/11/2025,Lycoming,away,L,0,4,False
+10/14/2025,Scranton,L 0-4,124,10/14/2025,Scranton,home,L,0,4,False
+10/18/2025,@ Susquehanna,L 0-1,211,10/18/2025,Susquehanna,away,L,0,1,False
+10/21/2025,Goucher,W 3-1,124,10/21/2025,Goucher,home,W,3,1,False
+10/25/2025,Wilkes,L 2-3,143,10/25/2025,Wilkes,home,L,2,3,False
+10/28/2025,@ Elizabethtown,L 0-1,133,10/28/2025,Elizabethtown,away,L,0,1,False

@@ -37,7 +37,7 @@ from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright, Page
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-DEFAULT_OUT_DIR = REPO_ROOT / "data" / "wsoc_schedule" / "25-26"
+DEFAULT_OUT_DIR = REPO_ROOT / "data" / "wsoc_schedule" / "25-26" / "schedule"
 DEFAULT_RAW_HTML_DIR = REPO_ROOT / "data" / "wsoc_schedule" / "raw_html"
 DEFAULT_NITTY_GRITTY_URL = "https://stats.ncaa.org/selection_rankings/nitty_gritties/47443"
 WASHU_TEAM_ID = "603722"
@@ -188,7 +188,10 @@ def save_csv(rows: list[dict], out_path: Path) -> None:
     if not rows:
         out_path.write_text("")
         return
-    fieldnames = list({k for row in rows for k in row.keys()})
+    # dict.fromkeys instead of a set -- a set's iteration order is randomized
+    # per-process, which would give every CSV a different, arbitrary column
+    # order. This preserves first-seen (i.e. natural table) order instead.
+    fieldnames = list(dict.fromkeys(k for row in rows for k in row.keys()))
     with out_path.open("w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
@@ -226,6 +229,66 @@ def scrape_one_team(
     print(f"[{team_id}] {team_name}: {len(rows)} games -> {out_path.relative_to(REPO_ROOT)}")
 
 
+def launch_browser(p, headless: bool):
+    browser = p.chromium.launch(
+        headless=headless,
+        args=["--disable-blink-features=AutomationControlled"],
+    )
+    context = browser.new_context(
+        user_agent=(
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+            "(KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        ),
+        viewport={"width": 1280, "height": 900},
+    )
+    context.add_init_script(
+        "Object.defineProperty(navigator, 'webdriver', {get: () => undefined});"
+    )
+    return browser, context, context.new_page()
+
+
+def run_with_resilience(p, headless, items, process_item, label_fn=str, delay=4.0):
+    """Call process_item(page, item) for each item. On failure, relaunch a
+    fresh browser (clears a dead browser *and* can shake loose an Akamai
+    rate-limit flag on the old session) and retry once before giving up.
+    After 3 failures in a row, cool down for 2 minutes before continuing.
+    Returns the list of items that failed both attempts.
+    """
+    browser, context, page = launch_browser(p, headless)
+    failures = []
+    consecutive_failures = 0
+    for i, item in enumerate(items, 1):
+        label = label_fn(item)
+        for attempt in (1, 2):
+            try:
+                process_item(page, item)
+                consecutive_failures = 0
+                break
+            except Exception as e:
+                if attempt == 2:
+                    print(f"{label}: FAILED - {e}")
+                    failures.append(item)
+                    consecutive_failures += 1
+                    break
+                cooldown = 8 if "closed" in str(e).lower() else 25
+                print(f"{label}: {e} - relaunching (cooldown {cooldown}s) and retrying")
+                for obj in (context, browser):
+                    try:
+                        obj.close()
+                    except Exception:
+                        pass
+                time.sleep(cooldown)
+                browser, context, page = launch_browser(p, headless)
+        if consecutive_failures >= 3:
+            print(f"{consecutive_failures} failures in a row -- cooling down 120s before continuing")
+            time.sleep(120)
+            consecutive_failures = 0
+        if i < len(items):
+            time.sleep(delay + random.uniform(0, 1.5))
+    browser.close()
+    return failures
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--team-id", default=WASHU_TEAM_ID, help="Single NCAA team id to scrape (default: WashU)")
@@ -243,70 +306,30 @@ def main() -> None:
 
     raw_html_dir = DEFAULT_RAW_HTML_DIR if args.dump_html else None
 
-    def launch(p):
-        browser = p.chromium.launch(
-            headless=args.headless,
-            args=["--disable-blink-features=AutomationControlled"],
-        )
-        context = browser.new_context(
-            user_agent=(
-                "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
-                "(KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-            ),
-            viewport={"width": 1280, "height": 900},
-        )
-        context.add_init_script(
-            "Object.defineProperty(navigator, 'webdriver', {get: () => undefined});"
-        )
-        return browser, context, context.new_page()
-
     with sync_playwright() as p:
-        browser, context, page = launch(p)
-
         if args.all:
+            browser, _, page = launch_browser(p, args.headless)
             teams = get_team_list(page, args.nitty_gritty_url)
+            browser.close()
             print(f"Found {len(teams)} teams on nitty gritties report")
-            failures = []
-            consecutive_failures = 0
-            for i, (team_id, name) in enumerate(teams, 1):
-                if any(args.out_dir.glob(f"{team_id}_*.csv")):
-                    print(f"[{team_id}] {name}: already scraped, skipping")
-                    continue
-                for attempt in (1, 2):
-                    try:
-                        scrape_one_team(page, team_id, args.out_dir, raw_html_dir)
-                        consecutive_failures = 0
-                        break
-                    except Exception as e:
-                        if attempt == 2:
-                            print(f"[{team_id}] {name}: FAILED - {e}")
-                            failures.append((team_id, name))
-                            consecutive_failures += 1
-                            break
-                        # Relaunch on ANY failure, not just "browser closed" -- a
-                        # fresh context/fingerprint can also clear an Akamai
-                        # rate-limit flag on the old session.
-                        cooldown = 8 if "closed" in str(e).lower() else 25
-                        print(f"[{team_id}] {name}: {e} - relaunching (cooldown {cooldown}s) and retrying")
-                        for obj in (context, browser):
-                            try:
-                                obj.close()
-                            except Exception:
-                                pass
-                        time.sleep(cooldown)
-                        browser, context, page = launch(p)
-                if consecutive_failures >= 3:
-                    print(f"{consecutive_failures} failures in a row -- cooling down 120s before continuing")
-                    time.sleep(120)
-                    consecutive_failures = 0
-                if i < len(teams):
-                    time.sleep(args.delay + random.uniform(0, 1.5))
+
+            pending = [(tid, name) for tid, name in teams if not any(args.out_dir.glob(f"{tid}_*.csv"))]
+            if len(pending) < len(teams):
+                print(f"{len(teams) - len(pending)} teams already scraped, skipping")
+
+            def process(page, item):
+                scrape_one_team(page, item[0], args.out_dir, raw_html_dir)
+
+            failures = run_with_resilience(
+                p, args.headless, pending, process,
+                label_fn=lambda it: f"[{it[0]}] {it[1]}", delay=args.delay,
+            )
             if failures:
                 print(f"\n{len(failures)} teams failed: {failures}")
         else:
+            browser, _, page = launch_browser(p, args.headless)
             scrape_one_team(page, args.team_id, args.out_dir, raw_html_dir)
-
-        browser.close()
+            browser.close()
 
 
 if __name__ == "__main__":

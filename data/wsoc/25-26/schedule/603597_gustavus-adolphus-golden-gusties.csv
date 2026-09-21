@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,@ Wis.-Superior,W 4-0,215,08/29/2025,Wis.-Superior,away,W,4,0,False
+08/31/2025,@ Wis.-Stout,T 1-1,269,08/31/2025,Wis.-Stout,away,T,1,1,False
+09/03/2025,@ Bethany Lutheran,W 3-0,173,09/03/2025,Bethany Lutheran,away,W,3,0,False
+09/06/2025,Wis.-Oshkosh,T 1-1,139,09/06/2025,Wis.-Oshkosh,home,T,1,1,False
+09/10/2025,@ UW-River Falls,L 0-3,175,09/10/2025,UW-River Falls,away,L,0,3,False
+09/13/2025,Luther,W 1-0,111,09/13/2025,Luther,home,W,1,0,False
+09/16/2025,@ Augsburg,W 4-3,250,09/16/2025,Augsburg,away,W,4,3,False
+09/20/2025,St. Scholastica,T 1-1,120,09/20/2025,St. Scholastica,home,T,1,1,False
+09/21/2025,Neb. Wesleyan,T 1-1,100,09/21/2025,Neb. Wesleyan,home,T,1,1,False
+09/27/2025,Saint Benedict,L 0-2,180,09/27/2025,Saint Benedict,home,L,0,2,False
+10/01/2025,@ St. Olaf,L 0-3,236,10/01/2025,St. Olaf,away,L,0,3,False
+10/04/2025,@ Bethel (MN),W 2-0,147,10/04/2025,Bethel (MN),away,W,2,0,False
+10/11/2025,Carleton,L 0-3,150,10/11/2025,Carleton,home,L,0,3,False
+10/14/2025,@ Hamline,W 1-0,50,10/14/2025,Hamline,away,W,1,0,False
+10/18/2025,Macalester,L 1-2,127,10/18/2025,Macalester,home,L,1,2,False
+10/22/2025,Concordia-M'head,W 1-0,112,10/22/2025,Concordia-M'head,home,W,1,0,False
+10/25/2025,@ St. Catherine,L 0-3,180,10/25/2025,St. Catherine,away,L,0,3,False
+11/01/2025,@ Saint Mary's (MN),T 0-0,300,11/01/2025,Saint Mary's (MN),away,T,0,0,False

@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/31/2025,@ U New England,W 2-1,129,08/31/2025,U New England,away,W,2,1,False
+09/03/2025,Wheaton (MA),W 2-0,98,09/03/2025,Wheaton (MA),home,W,2,0,False
+09/06/2025,@ Fitchburg St.,W 1-0,80,09/06/2025,Fitchburg St.,away,W,1,0,False
+09/13/2025,Framingham St.,W 1-0,242,09/13/2025,Framingham St.,home,W,1,0,False
+09/16/2025,@ Clark (MA),L 0-3,158,09/16/2025,Clark (MA),away,L,0,3,False
+09/18/2025,Keene St.,T 0-0,110,09/18/2025,Keene St.,home,T,0,0,False
+09/20/2025,Mass. Maritime,W 8-0,78,09/20/2025,Mass. Maritime,home,W,8,0,False
+09/24/2025,Suffolk,L 1-2,500,09/24/2025,Suffolk,home,L,1,2,False
+09/26/2025,@ MCLA,W 9-1,142,09/26/2025,MCLA,away,W,9,1,False
+09/30/2025,@ WestConn,L 0-1,158,09/30/2025,WestConn,away,L,0,1,False
+10/04/2025,Bridgewater St.,W 1-0,96,10/04/2025,Bridgewater St.,home,W,1,0,False
+10/08/2025,@ Roger Williams,L 1-3,117,10/08/2025,Roger Williams,away,L,1,3,False
+10/11/2025,Westfield St.,L 0-1,96,10/11/2025,Westfield St.,home,L,0,1,False
+10/15/2025,Eastern Conn. St.,L 0-2,114,10/15/2025,Eastern Conn. St.,home,L,0,2,False
+10/18/2025,@ Salem St.,W 2-1,100,10/18/2025,Salem St.,away,W,2,1,False
+10/25/2025,UMass Dartmouth,L 0-2,115,10/25/2025,UMass Dartmouth,home,L,0,2,False
+11/01/2025,@ Anna Maria,W 2-0,125,11/01/2025,Anna Maria,away,W,2,0,False
+11/07/2025,Framingham St. MASCAC WSOC Championship,W 1-0,134,11/07/2025,Framingham St.,home,W,1,0,False
+11/09/2025,Westfield St. MASCAC WSOC Championship,L 0-1,170,11/09/2025,Westfield St.,home,L,0,1,False

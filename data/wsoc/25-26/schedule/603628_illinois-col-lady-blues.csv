@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,Principia,W 1-0,200,08/29/2025,Principia,home,W,1,0,False
+08/31/2025,@ Neb. Wesleyan,W 5-4,140,08/31/2025,Neb. Wesleyan,away,W,5,4,False
+09/03/2025,@ Augustana (IL),T 0-0,168,09/03/2025,Augustana (IL),away,T,0,0,False
+09/06/2025,Ill. Wesleyan,L 0-3,210,09/06/2025,Ill. Wesleyan,home,L,0,3,False
+09/10/2025,Central (IA),L 0-2,210,09/10/2025,Central (IA),home,L,0,2,False
+09/13/2025,@ Manchester,W 4-1,25,09/13/2025,Manchester,away,W,4,1,False
+09/14/2025,@ Kalamazoo,L 0-4,135,09/14/2025,Kalamazoo,away,L,0,4,False
+09/16/2025,Greenville,L 1-2,185,09/16/2025,Greenville,home,L,1,2,False
+09/18/2025,@ UHSP,W 4-2,183,09/18/2025,@ UHSP,home,W,4,2,False
+09/21/2025,@ Millikin,T 1-1,125,09/21/2025,Millikin,away,T,1,1,False
+09/24/2025,@ Webster,L 0-3,156,09/24/2025,Webster,away,L,0,3,False
+09/27/2025,Ripon,W 1-0,145,09/27/2025,Ripon,home,W,1,0,False
+09/30/2025,@ Knox,W 5-1,78,09/30/2025,Knox,away,W,5,1,False
+10/04/2025,@ Lake Forest,L 2-4,90,10/04/2025,Lake Forest,away,L,2,4,False
+10/08/2025,Beloit,W 3-0,227,10/08/2025,Beloit,home,W,3,0,False
+10/11/2025,Cornell College,W 5-0,315,10/11/2025,Cornell College,home,W,5,0,False
+10/14/2025,@ Monmouth (IL),W 5-1,80,10/14/2025,Monmouth (IL),away,W,5,1,False
+10/18/2025,@ Grinnell,W 2-0,70,10/18/2025,Grinnell,away,W,2,0,False
+10/25/2025,Lawrence,L 0-3,145,10/25/2025,Lawrence,home,L,0,3,False
+11/07/2025,"#3 Lawrence @Lake Forest, IL (Midwest Conference WSOC Tournament)",L 0-1,123,11/07/2025,Lawrence,neutral,L,0,1,False

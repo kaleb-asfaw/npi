@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2025,"Me.-Augusta @CASC, CASC",W 11-0,0,09/03/2025,"Me.-Augusta @CASC, CASC",neutral,W,11,0,False
+09/06/2025,Wentworth,L 1-5,0,09/06/2025,Wentworth,home,L,1,5,False
+09/07/2025,New England Col.,W 5-1,75,09/07/2025,New England Col.,home,W,5,1,False
+09/13/2025,@ Wellesley,L 0-4,70,09/13/2025,Wellesley,away,L,0,4,False
+09/16/2025,VTSU Lyndon,W 10-0,50,09/16/2025,VTSU Lyndon,home,W,10,0,False
+09/20/2025,@ Me.-Presque Isle,W 7-0,100,09/20/2025,Me.-Presque Isle,away,W,7,0,False
+09/23/2025,Thomas (ME),W 4-1,127,09/23/2025,Thomas (ME),home,W,4,1,False
+09/27/2025,SUNY Cobleskill,W 6-0,125,09/27/2025,SUNY Cobleskill,home,W,6,0,False
+09/28/2025,SUNY Delhi,T 2-2,200,09/28/2025,SUNY Delhi,home,T,2,2,False
+10/04/2025,Maine Maritime,L 1-2,125,10/04/2025,Maine Maritime,home,L,1,2,False
+10/05/2025,Fisher,W 3-0,78,10/05/2025,Fisher,home,W,3,0,False
+10/08/2025,@ Southern Me.,L 0-5,144,10/08/2025,Southern Me.,away,L,0,5,False
+10/11/2025,@ Lesley,L 0-4,90,10/11/2025,Lesley,away,L,0,4,False
+10/15/2025,Salem St.,W 2-1,65,10/15/2025,Salem St.,home,W,2,1,False
+10/18/2025,@ Husson,L 0-3,350,10/18/2025,Husson,away,L,0,3,False
+10/25/2025,@ VTSU-Johnson,T 0-0,182,10/25/2025,VTSU-Johnson,away,T,0,0,False
+10/26/2025,@ VTSU Castleton,L 0-3,138,10/26/2025,VTSU Castleton,away,L,0,3,False
+10/29/2025,@ VTSU-Johnson North Atlantic Women's Soccer Championship,T 1-1 (3 OT),150,10/29/2025,VTSU-Johnson,away,T,1,1,True
+11/01/2025,@ Lesley North Atlantic Women's Soccer Championship,L 0-4,105,11/01/2025,Lesley,away,L,0,4,False

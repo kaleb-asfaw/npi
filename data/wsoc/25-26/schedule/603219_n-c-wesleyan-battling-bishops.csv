@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2025,Bob Jones,T 0-0,80,08/30/2025,Bob Jones,home,T,0,0,False
+09/01/2025,Piedmont,L 0-1,200,09/01/2025,Piedmont,home,L,0,1,False
+09/06/2025,@ Mary Washington,L 0-4,368,09/06/2025,Mary Washington,away,L,0,4,False
+09/10/2025,Randolph,W 2-1,50,09/10/2025,Randolph,home,W,2,1,False
+09/14/2025,JWU Charlotte,L 0-1,85,09/14/2025,JWU Charlotte,home,L,0,1,False
+09/20/2025,Southern Va.,L 3-6,80,09/20/2025,Southern Va.,home,L,3,6,False
+09/24/2025,@ Guilford,L 0-3,562,09/24/2025,Guilford,away,L,0,3,False
+09/27/2025,@ Mary Baldwin,L 0-1,100,09/27/2025,Mary Baldwin,away,L,0,1,False
+10/01/2025,@ Meredith,L 0-1,53,10/01/2025,Meredith,away,L,0,1,False
+10/04/2025,Pfeiffer,W 3-1,85,10/04/2025,Pfeiffer,home,W,3,1,False
+10/07/2025,@ William Peace,W 3-1,45,10/07/2025,William Peace,away,W,3,1,False
+10/11/2025,Salem (NC),W 5-0,78,10/11/2025,Salem (NC),home,W,5,0,False
+10/13/2025,@ Regent,W 5-0,100,10/13/2025,Regent,away,W,5,0,False
+10/18/2025,@ Brevard,L 0-2,291,10/18/2025,Brevard,away,L,0,2,False
+10/25/2025,@ Greensboro,L 0-2,250,10/25/2025,Greensboro,away,L,0,2,False
+10/26/2025,@ Warren Wilson,W 3-1,156,10/26/2025,Warren Wilson,away,W,3,1,False
+10/29/2025,Methodist,W 2-1,74,10/29/2025,Methodist,home,W,2,1,False
+11/01/2025,@ #3 Greensboro USA South WSOC Tournament,L 0-2,200,11/01/2025,Greensboro,away,L,0,2,False

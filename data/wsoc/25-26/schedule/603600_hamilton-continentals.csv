@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2025,Williams,L 0-2,97,09/02/2025,Williams,home,L,0,2,False
+09/06/2025,Middlebury,L 0-1,117,09/06/2025,Middlebury,home,L,0,1,False
+09/09/2025,@ Oswego St.,W 3-1,94,09/09/2025,Oswego St.,away,W,3,1,False
+09/13/2025,@ Wesleyan (CT),T 1-1,173,09/13/2025,Wesleyan (CT),away,T,1,1,False
+09/17/2025,@ Utica,W 1-0,68,09/17/2025,Utica,away,W,1,0,False
+09/20/2025,@ Tufts,L 1-2,266,09/20/2025,Tufts,away,L,1,2,False
+09/21/2025,@ Babson,T 2-2,610,09/21/2025,Babson,away,T,2,2,False
+09/27/2025,Bowdoin,W 2-0,167,09/27/2025,Bowdoin,home,W,2,0,False
+09/28/2025,St. Lawrence,T 1-1,187,09/28/2025,St. Lawrence,home,T,1,1,False
+10/04/2025,@ Colby,L 0-2,256,10/04/2025,Colby,away,L,0,2,False
+10/05/2025,@ Bates,W 3-2,150,10/05/2025,Bates,away,W,3,2,False
+10/11/2025,Connecticut Col.,W 3-1,112,10/11/2025,Connecticut Col.,home,W,3,1,False
+10/14/2025,Union (NY),W 2-0,89,10/14/2025,Union (NY),home,W,2,0,False
+10/18/2025,@ Amherst,W 1-0,220,10/18/2025,Amherst,away,W,1,0,False
+10/25/2025,Trinity (CT),W 1-0,104,10/25/2025,Trinity (CT),home,W,1,0,False
+11/01/2025,@ #3 Middlebury NESCAC WSOC Tournament,L 0-2,267,11/01/2025,Middlebury,away,L,0,2,False

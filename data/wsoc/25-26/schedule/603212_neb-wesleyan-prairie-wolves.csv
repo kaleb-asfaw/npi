@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2025,@ Concordia (NE),L 0-4,225,08/30/2025,@ Concordia (NE),home,L,0,4,False
+08/31/2025,Illinois Col.,L 4-5,140,08/31/2025,Illinois Col.,home,L,4,5,False
+09/06/2025,"Northwestern-St. Paul @Moorhead, MN",W 5-2,57,09/06/2025,Northwestern-St. Paul,neutral,W,5,2,False
+09/07/2025,@ Concordia-M'head,T 0-0,82,09/07/2025,Concordia-M'head,away,T,0,0,False
+09/10/2025,Dakota Wesleyan,T 1-1,99,09/10/2025,Dakota Wesleyan,home,T,1,1,False
+09/13/2025,"Augustana (IL) @Mt. Vernon, IA",L 0-1,42,09/13/2025,Augustana (IL),neutral,L,0,1,False
+09/14/2025,@ Cornell College,W 7-1,79,09/14/2025,Cornell College,away,W,7,1,False
+09/21/2025,@ Gustavus Adolphus,T 1-1,100,09/21/2025,Gustavus Adolphus,away,T,1,1,False
+09/27/2025,Loras,L 0-6,142,09/27/2025,Loras,home,L,0,6,False
+10/04/2025,@ Simpson,L 0-5,244,10/04/2025,Simpson,away,L,0,5,False
+10/11/2025,@ Dubuque,T 1-1,150,10/11/2025,Dubuque,away,T,1,1,False
+10/14/2025,Wartburg,T 1-1,109,10/14/2025,Wartburg,home,T,1,1,False
+10/18/2025,Central (IA),L 0-2,133,10/18/2025,Central (IA),home,L,0,2,False
+10/22/2025,Buena Vista,W 4-0,214,10/22/2025,Buena Vista,home,W,4,0,False
+10/25/2025,@ Luther,L 0-1,77,10/25/2025,Luther,away,L,0,1,False
+10/28/2025,@ Coe,W 3-1,34,10/28/2025,Coe,away,W,3,1,False

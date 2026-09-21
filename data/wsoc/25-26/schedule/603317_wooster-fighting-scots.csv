@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2025,Alma,W 3-0,92,08/30/2025,Alma,home,W,3,0,False
+08/31/2025,Earlham,W 3-0,127,08/31/2025,Earlham,home,W,3,0,False
+09/03/2025,Bluffton,W 3-0,276,09/03/2025,Bluffton,home,W,3,0,False
+09/06/2025,@ Heidelberg,W 3-1,88,09/06/2025,Heidelberg,away,W,3,1,False
+09/10/2025,@ Franciscan,W 1-0,100,09/10/2025,Franciscan,away,W,1,0,False
+09/13/2025,@ RIT,L 0-4,264,09/13/2025,RIT,away,L,0,4,False
+09/14/2025,@ Buffalo St.,T 0-0,100,09/14/2025,Buffalo St.,away,T,0,0,False
+09/20/2025,Kalamazoo,W 4-0,144,09/20/2025,Kalamazoo,home,W,4,0,False
+09/24/2025,Marietta,W 1-0,100,09/24/2025,Marietta,home,W,1,0,False
+09/27/2025,Muskingum,W 2-0,170,09/27/2025,Muskingum,home,W,2,0,False
+10/04/2025,@ Kenyon,L 0-1,155,10/04/2025,Kenyon,away,L,0,1,False
+10/11/2025,@ John Carroll,L 1-2,168,10/11/2025,John Carroll,away,L,1,2,False
+10/18/2025,Denison,T 0-0,108,10/18/2025,Denison,home,T,0,0,False
+10/22/2025,Wittenberg,W 2-0,52,10/22/2025,Wittenberg,home,W,2,0,False
+10/25/2025,@ DePauw,W 3-1,129,10/25/2025,DePauw,away,W,3,1,False
+10/28/2025,@ Oberlin,W 2-0,187,10/28/2025,Oberlin,away,W,2,0,False
+11/01/2025,Ohio Wesleyan,T 1-1,112,11/01/2025,Ohio Wesleyan,home,T,1,1,False

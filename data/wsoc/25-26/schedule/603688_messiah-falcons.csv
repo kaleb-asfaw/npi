@@ -1,0 +1,26 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2025,@ Penn St.-Behrend,W 3-0,112,08/30/2025,Penn St.-Behrend,away,W,3,0,False
+08/31/2025,"Otterbein @Erie, PA",W 1-0,89,08/31/2025,Otterbein,neutral,W,1,0,False
+09/03/2025,@ Johns Hopkins,W 1-0,250,09/03/2025,Johns Hopkins,away,W,1,0,False
+09/06/2025,Ursinus,W 3-0,713,09/06/2025,Ursinus,home,W,3,0,False
+09/10/2025,@ McDaniel,W 1-0,176,09/10/2025,McDaniel,away,W,1,0,False
+09/13/2025,William Smith,W 3-0,312,09/13/2025,William Smith,home,W,3,0,False
+09/17/2025,Penn St.-Berks,W 7-0,110,09/17/2025,Penn St.-Berks,home,W,7,0,False
+09/20/2025,Misericordia,W 3-1,627,09/20/2025,Misericordia,home,W,3,1,False
+09/23/2025,Shenandoah,W 1-0,164,09/23/2025,Shenandoah,home,W,1,0,False
+09/30/2025,Penn St.-Abington,W 5-0,267,09/30/2025,Penn St.-Abington,home,W,5,0,False
+10/04/2025,Widener,W 3-0,"1,345",10/04/2025,Widener,home,W,3,0,False
+10/08/2025,@ Rowan,L 1-2,257,10/08/2025,Rowan,away,L,1,2,False
+10/10/2025,@ Eastern,W 5-1,267,10/10/2025,Eastern,away,W,5,1,False
+10/14/2025,Penn St. Harrisburg,L 0-1,376,10/14/2025,Penn St. Harrisburg,home,L,0,1,False
+10/18/2025,@ Albright,W 5-0,301,10/18/2025,Albright,away,W,5,0,False
+10/21/2025,Alvernia,W 4-0,153,10/21/2025,Alvernia,home,W,4,0,False
+10/25/2025,@ Stevenson,W 3-0,100,10/25/2025,Stevenson,away,W,3,0,False
+10/29/2025,@ York (PA),W 1-0,208,10/29/2025,York (PA),away,W,1,0,False
+11/01/2025,Hood,W 3-0,267,11/01/2025,Hood,home,W,3,0,False
+11/04/2025,Eastern MAC Commonwealth WSOC Championship,W 3-0,204,11/04/2025,Eastern,home,W,3,0,False
+11/08/2025,Stevenson MAC Commonwealth WSOC Championship,W 4-0,776,11/08/2025,Stevenson,home,W,4,0,False
+11/15/2025,Southern Me. 2025 NCAA DIII Women's Soccer Championship,W 6-1,367,11/15/2025,Southern Me.,home,W,6,1,False
+11/16/2025,"Amherst @Mechanicsburg, PA (2025 NCAA DIII Women's Soccer Championship)",W 1-0,376,11/16/2025,Amherst,neutral,W,1,0,False
+11/21/2025,Calvin 2025 NCAA DIII Women's Soccer Championship,W 1-0,777,11/21/2025,Calvin,home,W,1,0,False
+11/22/2025,"WashU @Mechanicsburg, PA (2025 NCAA DIII Women's Soccer Championship)",L 0-1 (1 OT),"1,156",11/22/2025,WashU,neutral,L,0,1,True

@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,@ Dominican (IL),W 1-0,200,08/29/2025,Dominican (IL),away,W,1,0,False
+08/30/2025,@ Aurora,W 2-0,463,08/30/2025,Aurora,away,W,2,0,False
+09/05/2025,Wis.-Eau Claire,T 1-1,607,09/05/2025,Wis.-Eau Claire,home,T,1,1,False
+09/06/2025,Trine,W 1-0,347,09/06/2025,Trine,home,W,1,0,False
+09/10/2025,@ UChicago,L 0-7,88,09/10/2025,UChicago,away,L,0,7,False
+09/13/2025,@ DePauw,L 0-3,0,09/13/2025,DePauw,away,L,0,3,False
+09/16/2025,Hope,L 0-3,179,09/16/2025,Hope,home,L,0,3,False
+09/19/2025,@ St. Mary's (IN),T 0-0,128,09/19/2025,St. Mary's (IN),away,T,0,0,False
+09/24/2025,Wis.-Whitewater,T 0-0,303,09/24/2025,Wis.-Whitewater,home,T,0,0,False
+09/27/2025,Elmhurst,W 1-0,611,09/27/2025,Elmhurst,home,W,1,0,False
+10/04/2025,@ North Park,L 1-5,175,10/04/2025,North Park,away,L,1,5,False
+10/08/2025,Ill. Wesleyan,T 0-0,135,10/08/2025,Ill. Wesleyan,home,T,0,0,False
+10/11/2025,@ Augustana (IL),W 4-1,56,10/11/2025,Augustana (IL),away,W,4,1,False
+10/15/2025,@ Carthage,T 1-1,147,10/15/2025,Carthage,away,T,1,1,False
+10/18/2025,Millikin,T 1-1,291,10/18/2025,Millikin,home,T,1,1,False
+10/22/2025,Carroll (WI),W 3-1,134,10/22/2025,Carroll (WI),home,W,3,1,False
+10/29/2025,@ North Central (IL),L 0-2,83,10/29/2025,North Central (IL),away,L,0,2,False
+11/01/2025,@ #4 Ill. Wesleyan CCIW WSOC Tournament,T 1-1 (3 OT),143,11/01/2025,Ill. Wesleyan,away,T,1,1,True
+11/05/2025,@ #1 North Central (IL) CCIW WSOC Tournament,L 0-4,137,11/05/2025,North Central (IL),away,L,0,4,False

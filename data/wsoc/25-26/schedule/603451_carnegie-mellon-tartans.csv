@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,"Bridgewater (VA) @Marietta, OH",L 0-1,133,08/29/2025,Bridgewater (VA),neutral,L,0,1,False
+08/30/2025,"Wittenberg @Marietta, OH",W 3-0,104,08/30/2025,Wittenberg,neutral,W,3,0,False
+09/06/2025,Ohio Northern,W 1-0,148,09/06/2025,Ohio Northern,home,W,1,0,False
+09/07/2025,@ Denison,W 2-1,236,09/07/2025,Denison,away,W,2,1,False
+09/10/2025,Wash. & Jeff.,W 10-0,95,09/10/2025,Wash. & Jeff.,home,W,10,0,False
+09/12/2025,@ Shenandoah,T 1-1,175,09/12/2025,Shenandoah,away,T,1,1,False
+09/14/2025,@ Cortland,W 2-0,183,09/14/2025,Cortland,away,W,2,0,False
+09/17/2025,@ Grove City,W 2-1,100,09/17/2025,Grove City,away,W,2,1,False
+09/21/2025,@ Baldwin Wallace,W 3-1,43,09/21/2025,Baldwin Wallace,away,W,3,1,False
+09/27/2025,Salisbury,W 3-0,184,09/27/2025,Salisbury,home,W,3,0,False
+10/01/2025,Penn St.-Behrend,W 1-0,215,10/01/2025,Penn St.-Behrend,home,W,1,0,False
+10/05/2025,Emory,T 0-0,158,10/05/2025,Emory,home,T,0,0,False
+10/11/2025,UChicago,L 1-2,147,10/11/2025,UChicago,home,L,1,2,False
+10/19/2025,@ WashU,L 0-3,425,10/19/2025,WashU,away,L,0,3,False
+10/24/2025,@ NYU,L 0-2,188,10/24/2025,NYU,away,L,0,2,False
+10/26/2025,@ Brandeis,T 1-1,300,10/26/2025,Brandeis,away,T,1,1,False
+11/01/2025,Rochester (NY),T 0-0,110,11/01/2025,Rochester (NY),home,T,0,0,False
+11/08/2025,CWRU,T 1-1,158,11/08/2025,CWRU,home,T,1,1,False
+11/15/2025,"Scranton @Lexington, VA (2025 NCAA DIII Women's Soccer Championship)",W 1-0,133,11/15/2025,Scranton,neutral,W,1,0,False
+11/16/2025,"Wash. & Lee @Lexington, VA (2025 NCAA DIII Women's Soccer Championship)",L 0-2,362,11/16/2025,Wash. & Lee,neutral,L,0,2,False

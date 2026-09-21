@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2025,"Loras @Duluth, MN",Canceled,,08/30/2025,Loras,neutral,,,,
+09/01/2025,@ Minn.-Morris,T 0-0,73,09/01/2025,Minn.-Morris,away,T,0,0,False
+09/05/2025,Northwestern-St. Paul,L 0-1,73,09/05/2025,Northwestern-St. Paul,home,L,0,1,False
+09/07/2025,Neb. Wesleyan,T 0-0,82,09/07/2025,Neb. Wesleyan,home,T,0,0,False
+09/10/2025,Wis.-Superior,T 0-0,105,09/10/2025,Wis.-Superior,home,T,0,0,False
+09/16/2025,@ Hamline,L 0-2,100,09/16/2025,Hamline,away,L,0,2,False
+09/20/2025,@ St. Catherine,L 0-6,127,09/20/2025,St. Catherine,away,L,0,6,False
+09/21/2025,@ Wis.-La Crosse,L 0-5,153,09/21/2025,Wis.-La Crosse,away,L,0,5,False
+09/27/2025,Bethel (MN),L 1-4,100,09/27/2025,Bethel (MN),home,L,1,4,False
+10/01/2025,@ Carleton,L 0-5,116,10/01/2025,Carleton,away,L,0,5,False
+10/04/2025,Saint Mary's (MN),T 2-2,80,10/04/2025,Saint Mary's (MN),home,T,2,2,False
+10/11/2025,@ St. Scholastica,L 0-2,112,10/11/2025,St. Scholastica,away,L,0,2,False
+10/14/2025,Macalester,T 1-1,123,10/14/2025,Macalester,home,T,1,1,False
+10/18/2025,St. Olaf,L 0-5,262,10/18/2025,St. Olaf,home,L,0,5,False
+10/22/2025,@ Gustavus Adolphus,L 0-1,112,10/22/2025,Gustavus Adolphus,away,L,0,1,False
+10/25/2025,@ Saint Benedict,L 0-1,123,10/25/2025,Saint Benedict,away,L,0,1,False
+10/26/2025,@ Wis.-Eau Claire,L 1-2,105,10/26/2025,Wis.-Eau Claire,away,L,1,2,False
+11/01/2025,Augsburg,L 0-2,121,11/01/2025,Augsburg,home,L,0,2,False

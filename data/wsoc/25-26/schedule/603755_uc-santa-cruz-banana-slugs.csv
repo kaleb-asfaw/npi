@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,Linfield,T 0-0,129,08/29/2025,Linfield,home,T,0,0,False
+08/31/2025,UChicago,L 0-1,250,08/31/2025,UChicago,home,L,0,1,False
+09/05/2025,@ Pacific (OR),W 3-0,85,09/05/2025,Pacific (OR),away,W,3,0,False
+09/07/2025,@ Lewis & Clark,W 4-1,67,09/07/2025,Lewis & Clark,away,W,4,1,False
+09/11/2025,@ Claremont-M-S,L 0-2,250,09/11/2025,Claremont-M-S,away,L,0,2,False
+09/13/2025,@ Pomona-Pitzer,L 0-3,120,09/13/2025,Pomona-Pitzer,away,L,0,3,False
+09/18/2025,@ Loras,L 0-1,85,09/18/2025,Loras,away,L,0,1,False
+09/20/2025,@ Wis.-Platteville,W 1-0,203,09/20/2025,Wis.-Platteville,away,W,1,0,False
+09/24/2025,@ Caltech,Canceled,,09/24/2025,Caltech,away,,,,
+10/04/2025,@ Chapman,L 0-1,123,10/04/2025,Chapman,away,L,0,1,False
+10/11/2025,Cal Lutheran,L 0-4,262,10/11/2025,Cal Lutheran,home,L,0,4,False
+10/14/2025,Dominican (CA),L 0-1,126,10/14/2025,Dominican (CA),home,L,0,1,False
+10/16/2025,Menlo,T 1-1,129,10/16/2025,Menlo,home,T,1,1,False
+10/25/2025,La Verne,W 2-0,200,10/25/2025,La Verne,home,W,2,0,False
+10/29/2025,@ Fresno Pacific,L 1-3,52,10/29/2025,Fresno Pacific,away,L,1,3,False
+11/06/2025,"Regent @Salisbury, MD (C2C WSOC Championship)",W 6-0,203,11/06/2025,Regent,neutral,W,6,0,False
+11/07/2025,"Mary Washington @Salisbury, MD (C2C WSOC Championship)",W 1-0,113,11/07/2025,Mary Washington,neutral,W,1,0,False
+11/09/2025,"Chris. Newport @Salisbury, MD (C2C WSOC Championship)",L 0-1 (1 OT),132,11/09/2025,Chris. Newport,neutral,L,0,1,True

@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,@ Allegheny,W 4-1,150,08/29/2025,Allegheny,away,W,4,1,False
+09/01/2025,Trine,L 0-3,406,09/01/2025,Trine,home,L,0,3,False
+09/03/2025,@ Albion,W 1-0,35,09/03/2025,Albion,away,W,1,0,False
+09/07/2025,Hardin-Simmons,T 1-1,303,09/07/2025,Hardin-Simmons,home,T,1,1,False
+09/12/2025,@ Hope,L 0-2,306,09/12/2025,Hope,away,L,0,2,False
+09/14/2025,@ Hanover,W 2-0,8,09/14/2025,Hanover,away,W,2,0,False
+09/17/2025,Ohio Wesleyan,W 3-0,202,09/17/2025,Ohio Wesleyan,home,W,3,0,False
+09/21/2025,Kenyon,W 1-0,188,09/21/2025,Kenyon,home,W,1,0,False
+09/27/2025,@ Denison,L 2-3,512,09/27/2025,Denison,away,L,2,3,False
+10/04/2025,@ Baldwin Wallace,W 2-1,123,10/04/2025,Baldwin Wallace,away,W,2,1,False
+10/08/2025,Heidelberg,L 3-4,140,10/08/2025,Heidelberg,home,L,3,4,False
+10/15/2025,@ Marietta,T 0-0,160,10/15/2025,Marietta,away,T,0,0,False
+10/18/2025,Ohio Northern,W 3-0,125,10/18/2025,Ohio Northern,home,W,3,0,False
+10/22/2025,Wilmington (OH),W 1-0,103,10/22/2025,Wilmington (OH),home,W,1,0,False
+10/25/2025,@ Otterbein,L 0-1,145,10/25/2025,Otterbein,away,L,0,1,False
+10/29/2025,@ Muskingum,W 4-1,67,10/29/2025,Muskingum,away,W,4,1,False
+11/01/2025,Mount Union,T 0-0,220,11/01/2025,Mount Union,home,T,0,0,False
+11/06/2025,#3 Wilmington (OH) OAC WSOC Tournament,L 2-3 (2 OT),245,11/06/2025,Wilmington (OH),home,L,2,3,True

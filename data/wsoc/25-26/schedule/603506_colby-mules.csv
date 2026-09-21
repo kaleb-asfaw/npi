@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/06/2025,Bowdoin,W 1-0,317,09/06/2025,Bowdoin,home,W,1,0,False
+09/07/2025,@ Emmanuel (MA),T 2-2,254,09/07/2025,Emmanuel (MA),away,T,2,2,False
+09/09/2025,Southern Me.,W 5-0,118,09/09/2025,Southern Me.,home,W,5,0,False
+09/13/2025,Tufts,L 0-2,364,09/13/2025,Tufts,home,L,0,2,False
+09/16/2025,@ U New England,W 3-0,124,09/16/2025,U New England,away,W,3,0,False
+09/20/2025,@ Connecticut Col.,W 2-0,317,09/20/2025,Connecticut Col.,away,W,2,0,False
+09/27/2025,@ Williams,T 1-1,103,09/27/2025,Williams,away,T,1,1,False
+09/28/2025,@ Amherst,T 1-1,0,09/28/2025,Amherst,away,T,1,1,False
+10/04/2025,Hamilton,W 2-0,256,10/04/2025,Hamilton,home,W,2,0,False
+10/07/2025,@ Husson,W 3-0,200,10/07/2025,Husson,away,W,3,0,False
+10/11/2025,Middlebury,L 0-1,137,10/11/2025,Middlebury,home,L,0,1,False
+10/15/2025,@ Maine Maritime,W 3-1,75,10/15/2025,Maine Maritime,away,W,3,1,False
+10/18/2025,@ Trinity (CT),W 4-1,420,10/18/2025,Trinity (CT),away,W,4,1,False
+10/25/2025,Wesleyan (CT),L 0-1,553,10/25/2025,Wesleyan (CT),home,L,0,1,False
+10/28/2025,@ Bates,W 4-2,150,10/28/2025,Bates,away,W,4,2,False
+11/01/2025,@ #4 Amherst NESCAC WSOC Tournament,W 2-0,0,11/01/2025,Amherst,away,W,2,0,False
+11/08/2025,@ #1 Tufts NESCAC WSOC Tournament,L 2-3,622,11/08/2025,Tufts,away,L,2,3,False
+11/15/2025,"Montclair St. @Cambridge, MA (2025 NCAA DIII Women's Soccer Championship)",W 2-0,116,11/15/2025,Montclair St.,neutral,W,2,0,False
+11/16/2025,@ MIT 2025 NCAA DIII Women's Soccer Championship,L 0-1,200,11/16/2025,MIT,away,L,0,1,False
