@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,"UChicago @Santa Cruz, CA",L 0-6,76,08/29/2025,UChicago,neutral,L,0,6,False
+08/31/2025,"Linfield @Santa Cruz, CA",T 2-2,50,08/31/2025,Linfield,neutral,T,2,2,False
+09/05/2025,St. Thomas (TX),W 1-0,101,09/05/2025,St. Thomas (TX),home,W,1,0,False
+09/07/2025,Southwestern (TX),T 0-0,101,09/07/2025,Southwestern (TX),home,T,0,0,False
+09/11/2025,@ Texas Lutheran,Canceled,,09/11/2025,Texas Lutheran,away,,,,
+09/13/2025,@ Schreiner,W 3-0,130,09/13/2025,Schreiner,away,W,3,0,False
+09/17/2025,Hendrix,T 0-0,101,09/17/2025,Hendrix,home,T,0,0,False
+09/18/2025,@ Texas Lutheran,Canceled,,09/18/2025,Texas Lutheran,away,,,,
+09/20/2025,Ozarks (AR),W 4-0,101,09/20/2025,Ozarks (AR),home,W,4,0,False
+09/23/2025,@ Centenary (LA),W 4-0,106,09/23/2025,Centenary (LA),away,W,4,0,False
+09/27/2025,@ Hardin-Simmons,L 0-6,408,09/27/2025,Hardin-Simmons,away,L,0,6,False
+10/01/2025,Wiley,Ppd,,10/01/2025,Wiley,home,,,,
+10/04/2025,Mary Hardin-Baylor,L 0-1,101,10/04/2025,Mary Hardin-Baylor,home,L,0,1,False
+10/11/2025,@ Howard Payne,W 1-0,271,10/11/2025,Howard Payne,away,W,1,0,False
+10/14/2025,Arlington Baptist,Canceled,,10/14/2025,Arlington Baptist,home,,,,
+10/18/2025,Hardin-Simmons,L 1-3,105,10/18/2025,Hardin-Simmons,home,L,1,3,False
+10/26/2025,@ Mary Hardin-Baylor,L 0-4,258,10/26/2025,Mary Hardin-Baylor,away,L,0,4,False
+11/01/2025,Howard Payne,L 0-1,105,11/01/2025,Howard Payne,home,L,0,1,False
+11/06/2025,"Mary Hardin-Baylor @Belton, TX (ASC WSOC Tournament)",L 0-3,278,11/06/2025,Mary Hardin-Baylor,neutral,L,0,3,False

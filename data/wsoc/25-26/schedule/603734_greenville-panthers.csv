@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,Lake Forest,L 1-4,100,08/29/2025,Lake Forest,home,L,1,4,False
+09/01/2025,@ DePauw,L 1-2,145,09/01/2025,DePauw,away,L,1,2,False
+09/05/2025,Harris-Stowe,W 2-0,100,09/05/2025,Harris-Stowe,home,W,2,0,False
+09/06/2025,Calvin,L 0-1,100,09/06/2025,Calvin,home,L,0,1,False
+09/10/2025,@ Stephens College,Canceled,,09/10/2025,@ Stephens College,home,,,,
+09/13/2025,Central (IA),L 1-3,94,09/13/2025,Central (IA),home,L,1,3,False
+09/16/2025,@ Illinois Col.,W 2-1,185,09/16/2025,Illinois Col.,away,W,2,1,False
+09/18/2025,@ Covenant,L 1-2,145,09/18/2025,Covenant,away,L,1,2,False
+09/20/2025,@ Sewanee,L 0-3,253,09/20/2025,Sewanee,away,L,0,3,False
+09/24/2025,Millikin,W 3-0,100,09/24/2025,Millikin,home,W,3,0,False
+09/27/2025,@ Blackburn,W 10-0,110,09/27/2025,Blackburn,away,W,10,0,False
+10/04/2025,Webster,W 5-1,150,10/04/2025,Webster,home,W,5,1,False
+10/07/2025,WashU,L 0-4,50,10/07/2025,WashU,home,L,0,4,False
+10/11/2025,@ MUW,W 5-0,150,10/11/2025,MUW,away,W,5,0,False
+10/15/2025,Eureka,W 12-0,50,10/15/2025,Eureka,home,W,12,0,False
+10/17/2025,@ Principia,W 3-0,80,10/17/2025,Principia,away,W,3,0,False
+10/23/2025,Lyon,W 5-0,150,10/23/2025,Lyon,home,W,5,0,False
+10/25/2025,Spalding,W 2-0,200,10/25/2025,Spalding,home,W,2,0,False
+10/29/2025,@ Westminster (MO),T 1-1,50,10/29/2025,Westminster (MO),away,T,1,1,False
+11/06/2025,#4 Westminster (MO) SLIAC WSOC Tournament,W 1-0,142,11/06/2025,Westminster (MO),home,W,1,0,False
+11/08/2025,#2 Spalding SLIAC WSOC Tournament,T 0-0 (3 OT),175,11/08/2025,Spalding,home,T,0,0,True

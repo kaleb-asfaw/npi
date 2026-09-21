@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,@ Misericordia,L 0-2,186,08/29/2025,Misericordia,away,L,0,2,False
+08/31/2025,Haverford,L 0-1,218,08/31/2025,Haverford,home,L,0,1,False
+09/03/2025,@ Penn St. Harrisburg,L 1-4,425,09/03/2025,Penn St. Harrisburg,away,L,1,4,False
+09/06/2025,Delaware Valley,W 4-0,225,09/06/2025,Delaware Valley,home,W,4,0,False
+09/10/2025,Notre Dame (MD),W 4-0,185,09/10/2025,Notre Dame (MD),home,W,4,0,False
+09/12/2025,DeSales,L 1-2,118,09/12/2025,DeSales,home,L,1,2,False
+09/17/2025,Muhlenberg,W 4-0,124,09/17/2025,Muhlenberg,home,W,4,0,False
+09/20/2025,@ Marymount (VA),W 1-0,102,09/20/2025,Marymount (VA),away,W,1,0,False
+09/24/2025,Stevenson,W 1-0,121,09/24/2025,Stevenson,home,W,1,0,False
+09/27/2025,Scranton,L 0-1,92,09/27/2025,Scranton,home,L,0,1,False
+10/01/2025,@ Dickinson,L 2-4,35,10/01/2025,Dickinson,away,L,2,4,False
+10/04/2025,@ Elizabethtown,L 1-2,225,10/04/2025,Elizabethtown,away,L,1,2,False
+10/07/2025,Wilkes,T 2-2,76,10/07/2025,Wilkes,home,T,2,2,False
+10/11/2025,@ Drew,W 2-0,150,10/11/2025,Drew,away,W,2,0,False
+10/14/2025,@ Juniata,W 1-0,67,10/14/2025,Juniata,away,W,1,0,False
+10/18/2025,Moravian,W 1-0,211,10/18/2025,Moravian,home,W,1,0,False
+10/21/2025,Catholic,L 0-1,125,10/21/2025,Catholic,home,L,0,1,False
+10/25/2025,@ Lycoming,T 1-1,318,10/25/2025,Lycoming,away,T,1,1,False
+10/28/2025,@ Goucher,W 1-0,72,10/28/2025,Goucher,away,W,1,0,False
+11/01/2025,@ #4 Elizabethtown Landmark WSOC Championship,T 0-0 (3 OT),224,11/01/2025,Elizabethtown,away,T,0,0,True
+11/05/2025,@ #1 Scranton Landmark WSOC Championship,L 0-1,328,11/05/2025,Scranton,away,L,0,1,False

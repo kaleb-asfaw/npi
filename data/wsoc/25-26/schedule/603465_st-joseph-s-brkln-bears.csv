@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/08/2025,@ John Jay,L 0-3,50,09/08/2025,John Jay,away,L,0,3,False
+09/10/2025,CCNY,Ppd,,09/10/2025,CCNY,home,,,,
+09/13/2025,@ Rutgers-Newark,L 0-11,160,09/13/2025,Rutgers-Newark,away,L,0,11,False
+09/16/2025,@ Pratt,L 0-14,21,09/16/2025,Pratt,away,L,0,14,False
+09/20/2025,St. Joseph's (L.I.),L 0-9,67,09/20/2025,St. Joseph's (L.I.),home,L,0,9,False
+09/24/2025,Farmingdale St.,L 0-8,44,09/24/2025,Farmingdale St.,home,L,0,8,False
+09/27/2025,@ Purchase,L 0-10,45,09/27/2025,Purchase,away,L,0,10,False
+10/01/2025,@ UMSV,L 0-11,45,10/01/2025,UMSV,away,L,0,11,False
+10/04/2025,Sarah Lawrence,L 0-10,75,10/04/2025,Sarah Lawrence,home,L,0,10,False
+10/07/2025,@ Old Westbury,L 0-2,26,10/07/2025,Old Westbury,away,L,0,2,False
+10/11/2025,@ Manhattanville,L 0-6,28,10/11/2025,Manhattanville,away,L,0,6,False
+10/18/2025,Merchant Marine,L 0-9,83,10/18/2025,Merchant Marine,home,L,0,9,False
+10/22/2025,@ Yeshiva,W 4-0,5,10/22/2025,Yeshiva,away,W,4,0,False
+10/25/2025,@ SUNY Maritime,L 0-3,109,10/25/2025,SUNY Maritime,away,L,0,3,False
+10/29/2025,Mt. St. Mary (NY),L 0-10,46,10/29/2025,Mt. St. Mary (NY),home,L,0,10,False

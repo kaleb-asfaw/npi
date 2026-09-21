@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,@ Colby-Sawyer,T 1-1,108,08/29/2025,Colby-Sawyer,away,T,1,1,False
+08/31/2025,"Emerson @New London, NH",L 1-6,70,08/31/2025,Emerson,neutral,L,1,6,False
+09/03/2025,U New England,L 0-1,150,09/03/2025,U New England,home,L,0,1,False
+09/10/2025,@ Keene St.,L 0-1,260,09/10/2025,Keene St.,away,L,0,1,False
+09/13/2025,@ Fitchburg St.,W 1-0,70,09/13/2025,Fitchburg St.,away,W,1,0,False
+09/17/2025,@ Eastern Conn. St.,L 0-1,200,09/17/2025,Eastern Conn. St.,away,L,0,1,False
+09/20/2025,Salem St.,W 3-0,222,09/20/2025,Salem St.,home,W,3,0,False
+09/24/2025,Mount Holyoke,T 0-0,84,09/24/2025,Mount Holyoke,home,T,0,0,False
+09/26/2025,Mount Holyoke,Canceled,,09/26/2025,Mount Holyoke,home,,,,
+09/27/2025,@ Bridgewater St.,T 1-1,125,09/27/2025,Bridgewater St.,away,T,1,1,False
+10/01/2025,Western New Eng.,T 1-1,187,10/01/2025,Western New Eng.,home,T,1,1,False
+10/03/2025,Mass. Maritime,W 3-0,200,10/03/2025,Mass. Maritime,home,W,3,0,False
+10/07/2025,VTSU Castleton,W 1-0,124,10/07/2025,VTSU Castleton,home,W,1,0,False
+10/11/2025,@ Worcester St.,W 1-0,96,10/11/2025,Worcester St.,away,W,1,0,False
+10/15/2025,@ UMass Boston,T 2-2,158,10/15/2025,UMass Boston,away,T,2,2,False
+10/18/2025,Framingham St.,T 1-1,187,10/18/2025,Framingham St.,home,T,1,1,False
+10/21/2025,Williams,L 0-4,106,10/21/2025,Williams,home,L,0,4,False
+10/24/2025,@ Anna Maria,W 3-0,95,10/24/2025,Anna Maria,away,W,3,0,False
+10/31/2025,MCLA,W 4-0,177,10/31/2025,MCLA,home,W,4,0,False
+11/07/2025,Bridgewater St. MASCAC WSOC Championship,W 2-0,153,11/07/2025,Bridgewater St.,home,W,2,0,False
+11/09/2025,@ Worcester St. MASCAC WSOC Championship,W 1-0,170,11/09/2025,Worcester St.,away,W,1,0,False
+11/15/2025,@ Middlebury 2025 NCAA DIII Women's Soccer Championship,L 0-3,467,11/15/2025,Middlebury,away,L,0,3,False

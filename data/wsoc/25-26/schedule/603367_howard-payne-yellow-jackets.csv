@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,@ Ozarks (AR),W 5-1,110,08/29/2025,Ozarks (AR),away,W,5,1,False
+08/31/2025,@ Centenary (LA),W 4-0,84,08/31/2025,Centenary (LA),away,W,4,0,False
+09/04/2025,Concordia (TX),W 4-0,189,09/04/2025,Concordia (TX),home,W,4,0,False
+09/06/2025,Texas Lutheran,L 1-3,217,09/06/2025,Texas Lutheran,home,L,1,3,False
+09/11/2025,Schreiner,W 2-1,230,09/11/2025,Schreiner,home,W,2,1,False
+09/13/2025,St. Thomas (TX),L 0-1,257,09/13/2025,St. Thomas (TX),home,L,0,1,False
+09/16/2025,LeTourneau,W 2-0,257,09/16/2025,LeTourneau,home,W,2,0,False
+09/18/2025,McMurry,L 1-2,205,09/18/2025,McMurry,home,L,1,2,False
+09/25/2025,@ Mary Hardin-Baylor,L 0-1,309,09/25/2025,Mary Hardin-Baylor,away,L,0,1,False
+10/04/2025,@ Hardin-Simmons,L 0-3,419,10/04/2025,Hardin-Simmons,away,L,0,3,False
+10/11/2025,East Tex. Baptist,L 0-1,271,10/11/2025,East Tex. Baptist,home,L,0,1,False
+10/18/2025,Mary Hardin-Baylor,L 0-2,187,10/18/2025,Mary Hardin-Baylor,home,L,0,2,False
+10/21/2025,Southwestern (TX),L 1-3,167,10/21/2025,Southwestern (TX),home,L,1,3,False
+10/25/2025,Hardin-Simmons,W 1-0,187,10/25/2025,Hardin-Simmons,home,W,1,0,False
+11/01/2025,@ East Tex. Baptist,W 1-0,105,11/01/2025,East Tex. Baptist,away,W,1,0,False
+11/06/2025,"Hardin-Simmons @Belton, TX (ASC WSOC Tournament)",L 1-5,304,11/06/2025,Hardin-Simmons,neutral,L,1,5,False

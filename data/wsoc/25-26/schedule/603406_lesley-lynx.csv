@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,Wentworth,T 0-0,55,08/29/2025,Wentworth,home,T,0,0,False
+09/02/2025,MIT,L 0-6,35,09/02/2025,MIT,home,L,0,6,False
+09/09/2025,@ Mass. Maritime,W 4-0,78,09/09/2025,Mass. Maritime,away,W,4,0,False
+09/17/2025,@ Suffolk,T 1-1,103,09/17/2025,Suffolk,away,T,1,1,False
+09/20/2025,@ Husson,T 1-1,200,09/20/2025,Husson,away,T,1,1,False
+09/21/2025,@ Me.-Presque Isle,W 5-0,90,09/21/2025,Me.-Presque Isle,away,W,5,0,False
+09/24/2025,@ Brandeis,T 1-1,75,09/24/2025,Brandeis,away,T,1,1,False
+09/27/2025,SUNY Delhi,W 1-0,105,09/27/2025,SUNY Delhi,home,W,1,0,False
+09/28/2025,SUNY Cobleskill,W 5-0,45,09/28/2025,SUNY Cobleskill,home,W,5,0,False
+10/01/2025,@ Curry,L 0-1,140,10/01/2025,Curry,away,L,0,1,False
+10/04/2025,@ VTSU-Johnson,T 1-1,60,10/04/2025,VTSU-Johnson,away,T,1,1,False
+10/06/2025,@ Rhode Island Col.,L 1-2,255,10/06/2025,Rhode Island Col.,away,L,1,2,False
+10/08/2025,@ Fitchburg St.,T 1-1,75,10/08/2025,Fitchburg St.,away,T,1,1,False
+10/11/2025,Me.-Farmington,W 4-0,90,10/11/2025,Me.-Farmington,home,W,4,0,False
+10/15/2025,@ Framingham St.,W 1-0,70,10/15/2025,Framingham St.,away,W,1,0,False
+10/18/2025,Thomas (ME),W 5-0,105,10/18/2025,Thomas (ME),home,W,5,0,False
+10/19/2025,Maine Maritime,W 2-1,75,10/19/2025,Maine Maritime,home,W,2,1,False
+10/25/2025,@ VTSU Lyndon,W 8-0,92,10/25/2025,VTSU Lyndon,away,W,8,0,False
+11/01/2025,Me.-Farmington North Atlantic Women's Soccer Championship,W 4-0,105,11/01/2025,Me.-Farmington,home,W,4,0,False
+11/08/2025,Maine Maritime North Atlantic Women's Soccer Championship,W 3-1,185,11/08/2025,Maine Maritime,home,W,3,1,False
+11/15/2025,@ Tufts 2025 NCAA DIII Women's Soccer Championship,L 0-7,367,11/15/2025,Tufts,away,L,0,7,False

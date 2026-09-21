@@ -1,0 +1,24 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/06/2025,Williams,W 2-1,347,09/06/2025,Williams,home,W,2,1,False
+09/10/2025,@ Regis (MA),W 6-0,60,09/10/2025,Regis (MA),away,W,6,0,False
+09/13/2025,@ Colby,W 2-0,364,09/13/2025,Colby,away,W,2,0,False
+09/16/2025,@ Gordon,W 2-1,148,09/16/2025,Gordon,away,W,2,1,False
+09/20/2025,Hamilton,W 2-1,266,09/20/2025,Hamilton,home,W,2,1,False
+09/21/2025,@ Connecticut Col.,W 4-0,157,09/21/2025,Connecticut Col.,away,W,4,0,False
+09/27/2025,Wesleyan (CT),T 0-0,244,09/27/2025,Wesleyan (CT),home,T,0,0,False
+10/01/2025,MIT,W 1-0,211,10/01/2025,MIT,home,W,1,0,False
+10/04/2025,@ Trinity (CT),W 2-0,0,10/04/2025,Trinity (CT),away,W,2,0,False
+10/07/2025,Endicott,W 2-0,122,10/07/2025,Endicott,home,W,2,0,False
+10/11/2025,Bates,W 2-1,315,10/11/2025,Bates,home,W,2,1,False
+10/14/2025,Amherst,L 1-2,188,10/14/2025,Amherst,home,L,1,2,False
+10/18/2025,@ Middlebury,T 0-0,267,10/18/2025,Middlebury,away,T,0,0,False
+10/22/2025,@ Bridgewater St.,W 3-0,70,10/22/2025,Bridgewater St.,away,W,3,0,False
+10/28/2025,Bowdoin,W 6-0,168,10/28/2025,Bowdoin,home,W,6,0,False
+11/01/2025,#8 Wesleyan (CT) NESCAC WSOC Tournament,W 2-1,339,11/01/2025,Wesleyan (CT),home,W,2,1,False
+11/08/2025,#5 Colby NESCAC WSOC Tournament,W 3-2,622,11/08/2025,Colby,home,W,3,2,False
+11/09/2025,#2 Williams NESCAC WSOC Tournament,T 1-1 (3 OT),0,11/09/2025,Williams,home,T,1,1,True
+11/15/2025,Lesley 2025 NCAA DIII Women's Soccer Championship,W 7-0,367,11/15/2025,Lesley,home,W,7,0,False
+11/16/2025,"Wesleyan (CT) @Medford, MA (2025 NCAA DIII Women's Soccer Championship)",W 2-0,334,11/16/2025,Wesleyan (CT),neutral,W,2,0,False
+11/22/2025,@ Middlebury 2025 NCAA DIII Women's Soccer Championship,W 2-0,398,11/22/2025,Middlebury,away,W,2,0,False
+11/23/2025,"Mary Washington @Middlebury, VT (2025 NCAA DIII Women's Soccer Championship)",W 1-0 (1 OT),237,11/23/2025,Mary Washington,neutral,W,1,0,True
+12/04/2025,"Emory @Salem, VA (2025 NCAA DIII Women's Soccer Championship)",L 0-3,506,12/04/2025,Emory,neutral,L,0,3,False

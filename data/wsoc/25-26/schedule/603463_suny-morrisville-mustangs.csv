@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2025,@ SUNY Poly,T 3-3,98,08/30/2025,SUNY Poly,away,T,3,3,False
+09/02/2025,@ Hartwick,L 0-3,145,09/02/2025,Hartwick,away,L,0,3,False
+09/05/2025,SUNY Cobleskill,W 5-2,87,09/05/2025,SUNY Cobleskill,home,W,5,2,False
+09/12/2025,Utica,L 0-5,70,09/12/2025,Utica,home,L,0,5,False
+09/18/2025,@ SUNY Delhi,L 2-3,124,09/18/2025,SUNY Delhi,away,L,2,3,False
+09/23/2025,@ SUNY ESF,W 6-3,0,09/23/2025,@ SUNY ESF,home,W,6,3,False
+09/27/2025,@ Plattsburgh St.,L 0-2,250,09/27/2025,Plattsburgh St.,away,L,0,2,False
+10/01/2025,@ Buffalo St.,L 1-8,125,10/01/2025,Buffalo St.,away,L,1,8,False
+10/04/2025,Oswego St.,L 3-9,101,10/04/2025,Oswego St.,home,L,3,9,False
+10/08/2025,@ SUNY New Paltz,L 0-4,32,10/08/2025,SUNY New Paltz,away,L,0,4,False
+10/11/2025,SUNY Potsdam,L 1-4,123,10/11/2025,SUNY Potsdam,home,L,1,4,False
+10/15/2025,@ SUNY Canton,W 2-0,52,10/15/2025,SUNY Canton,away,W,2,0,False
+10/18/2025,Cortland,L 0-5,87,10/18/2025,Cortland,home,L,0,5,False
+10/22/2025,Fredonia,L 0-5,61,10/22/2025,Fredonia,home,L,0,5,False
+10/25/2025,SUNY Oneonta,L 1-7,73,10/25/2025,SUNY Oneonta,home,L,1,7,False

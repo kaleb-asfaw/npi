@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,@ Albright,T 0-0,324,08/29/2025,Albright,away,T,0,0,False
+08/30/2025,@ Eastern,L 0-2,225,08/30/2025,Eastern,away,L,0,2,False
+09/03/2025,Gwynedd Mercy,W 1-0,153,09/03/2025,Gwynedd Mercy,home,W,1,0,False
+09/06/2025,John Jay,Canceled,,09/06/2025,John Jay,home,,,,
+09/10/2025,@ Ramapo,L 1-2,100,09/10/2025,Ramapo,away,L,1,2,False
+09/13/2025,@ Wm. Paterson,L 1-2,73,09/13/2025,Wm. Paterson,away,L,1,2,False
+09/17/2025,Alvernia,W 1-0,64,09/17/2025,Alvernia,home,W,1,0,False
+09/20/2025,@ Pratt,T 3-3,47,09/20/2025,Pratt,away,T,3,3,False
+09/24/2025,Lycoming,L 2-5,73,09/24/2025,Lycoming,home,L,2,5,False
+09/27/2025,@ Notre Dame (MD),L 1-2,155,09/27/2025,Notre Dame (MD),away,L,1,2,False
+09/30/2025,@ Messiah,L 0-5,267,09/30/2025,Messiah,away,L,0,5,False
+10/04/2025,Cairn,W 2-0,40,10/04/2025,Cairn,home,W,2,0,False
+10/07/2025,@ Cedar Crest,W 2-0,45,10/07/2025,Cedar Crest,away,W,2,0,False
+10/11/2025,Valley Forge,W 10-0,175,10/11/2025,Valley Forge,home,W,10,0,False
+10/15/2025,@ Lancaster Bible,L 2-5,184,10/15/2025,Lancaster Bible,away,L,2,5,False
+10/18/2025,Penn St.-Berks,L 0-2,102,10/18/2025,Penn St.-Berks,home,L,0,2,False
+10/18/2025,Mount Aloysius,Canceled,,10/18/2025,Mount Aloysius,home,,,,
+10/21/2025,St. Mary's (MD),L 0-1,105,10/21/2025,St. Mary's (MD),home,L,0,1,False
+10/25/2025,@ Wilson,W 1-0,150,10/25/2025,Wilson,away,W,1,0,False
+11/01/2025,@ Penn College United East WSOC Championship,L 0-6,217,11/01/2025,Penn College,away,L,0,6,False

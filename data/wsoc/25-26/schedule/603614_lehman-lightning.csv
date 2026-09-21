@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2025,Purchase,Canceled,,09/02/2025,Purchase,home,,,,
+09/06/2025,Bard,Ppd,,09/06/2025,Bard,home,,,,
+09/13/2025,Valley Forge,L 1-2,35,09/13/2025,Valley Forge,home,L,1,2,False
+09/16/2025,@ Old Westbury,L 1-2,68,09/16/2025,Old Westbury,away,L,1,2,False
+09/20/2025,New Jersey City,L 0-6,31,09/20/2025,New Jersey City,home,L,0,6,False
+09/23/2025,@ Wm. Paterson,L 0-4,40,09/23/2025,Wm. Paterson,away,L,0,4,False
+09/27/2025,Centenary (NJ),L 0-7,25,09/27/2025,Centenary (NJ),home,L,0,7,False
+09/30/2025,Pratt,L 0-6,49,09/30/2025,Pratt,home,L,0,6,False
+10/07/2025,@ SUNY Maritime,L 0-1,42,10/07/2025,SUNY Maritime,away,L,0,1,False
+10/09/2025,Purchase,L 0-3,11,10/09/2025,Purchase,home,L,0,3,False
+10/11/2025,John Jay,L 0-4,22,10/11/2025,John Jay,home,L,0,4,False
+10/15/2025,@ Medgar Evers,Canceled,,10/15/2025,Medgar Evers,away,,,,
+10/16/2025,@ UMSV,L 0-11,43,10/16/2025,UMSV,away,L,0,11,False
+10/18/2025,@ Brooklyn,L 1-4,65,10/18/2025,Brooklyn,away,L,1,4,False
+10/22/2025,CCNY,L 0-1,74,10/22/2025,CCNY,home,L,0,1,False
+10/25/2025,York (NY),W 4-0,45,10/25/2025,York (NY),home,W,4,0,False
+10/27/2025 04:00 PM,Medgar Evers,Canceled,,10/27/2025 04:00 PM,Medgar Evers,home,,,,
+11/01/2025,@ #1 John Jay CUNYAC WSOC Championship,L 0-9,75,11/01/2025,John Jay,away,L,0,9,False

@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,"Whittier @Thousand Oaks, CA",L 0-1,75,08/29/2025,Whittier,neutral,L,0,1,False
+08/31/2025,@ Cal Lutheran,T 1-1,210,08/31/2025,Cal Lutheran,away,T,1,1,False
+09/13/2025,Carroll (MT),T 1-1,275,09/13/2025,Carroll (MT),home,T,1,1,False
+09/20/2025,Willamette,L 1-2,200,09/20/2025,Willamette,home,L,1,2,False
+09/21/2025,Pacific (OR),T 0-0,75,09/21/2025,Pacific (OR),home,T,0,0,False
+09/24/2025,@ Whitman,L 0-1,283,09/24/2025,Whitman,away,L,0,1,False
+09/28/2025,@ Linfield,L 0-2,107,09/28/2025,Linfield,away,L,0,2,False
+10/04/2025,@ George Fox,T 0-0,108,10/04/2025,George Fox,away,T,0,0,False
+10/05/2025,@ Lewis & Clark,L 0-2,106,10/05/2025,Lewis & Clark,away,L,0,2,False
+10/11/2025,Puget Sound,T 0-0,125,10/11/2025,Puget Sound,home,T,0,0,False
+10/12/2025,Pacific Lutheran,L 0-1,75,10/12/2025,Pacific Lutheran,home,L,0,1,False
+10/18/2025,@ Pacific (OR),W 1-0,75,10/18/2025,Pacific (OR),away,W,1,0,False
+10/19/2025,@ Willamette,T 1-1,189,10/19/2025,Willamette,away,T,1,1,False
+10/22/2025,Whitman,T 1-1,75,10/22/2025,Whitman,home,T,1,1,False
+10/25/2025,Linfield,W 2-1,125,10/25/2025,Linfield,home,W,2,1,False
+11/01/2025,Lewis & Clark,T 0-0,125,11/01/2025,Lewis & Clark,home,T,0,0,False
+11/02/2025,George Fox,W 4-1,150,11/02/2025,George Fox,home,W,4,1,False
+11/08/2025,@ Pacific Lutheran,L 0-1,278,11/08/2025,Pacific Lutheran,away,L,0,1,False
+11/09/2025,@ Puget Sound,L 0-1,242,11/09/2025,Puget Sound,away,L,0,1,False

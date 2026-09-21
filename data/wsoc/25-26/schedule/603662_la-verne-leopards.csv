@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/25/2025,Arizona Christian,W 2-0 *,113,08/25/2025,Arizona Christian,home,W,2,0,False
+08/29/2025,CSUSB,L 0-2,165,08/29/2025,CSUSB,home,L,0,2,False
+09/01/2025,George Fox,T 0-0,100,09/01/2025,George Fox,home,T,0,0,False
+09/06/2025,@ Master's,L 0-3,250,09/06/2025,@ Master's,home,L,0,3,False
+09/09/2025,@ Soka,L 0-2,0,09/09/2025,@ Soka,home,L,0,2,False
+09/13/2025,LIFE Pacific,L 0-2,150,09/13/2025,LIFE Pacific,home,L,0,2,False
+09/17/2025,@ Occidental,L 0-1,144,09/17/2025,Occidental,away,L,0,1,False
+09/20/2025,Chapman,T 0-0,211,09/20/2025,Chapman,home,T,0,0,False
+09/24/2025,@ Redlands,T 0-0,82,09/24/2025,Redlands,away,T,0,0,False
+09/27/2025,@ Cal Lutheran,L 0-3,150,09/27/2025,Cal Lutheran,away,L,0,3,False
+10/01/2025,Whittier,T 0-0,93,10/01/2025,Whittier,home,T,0,0,False
+10/04/2025,Claremont-M-S,L 0-1,173,10/04/2025,Claremont-M-S,home,L,0,1,False
+10/11/2025,Caltech,W 2-0,247,10/11/2025,Caltech,home,W,2,0,False
+10/15/2025,@ Pomona-Pitzer,L 0-2,90,10/15/2025,Pomona-Pitzer,away,L,0,2,False
+10/18/2025,Cal Lutheran,L 1-2,129,10/18/2025,Cal Lutheran,home,L,1,2,False
+10/22/2025,@ Whittier,L 1-2,134,10/22/2025,Whittier,away,L,1,2,False
+10/25/2025,@ UC Santa Cruz,L 0-2,200,10/25/2025,UC Santa Cruz,away,L,0,2,False
+10/29/2025,Redlands,W 1-0,87,10/29/2025,Redlands,home,W,1,0,False
+11/01/2025,@ Chapman,T 2-2,151,11/01/2025,Chapman,away,T,2,2,False

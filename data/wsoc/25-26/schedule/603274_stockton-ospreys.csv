@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,Scranton,L 0-1,152,08/29/2025,Scranton,home,L,0,1,False
+08/30/2025,King's (PA),W 3-0,105,08/30/2025,King's (PA),home,W,3,0,False
+09/03/2025,Drew,T 1-1,103,09/03/2025,Drew,home,T,1,1,False
+09/06/2025,"Ithaca @Madison, NJ",W 1-0,70,09/06/2025,Ithaca,neutral,W,1,0,False
+09/07/2025,"Farmingdale St. @Madison, NJ",T 1-1,87,09/07/2025,Farmingdale St.,neutral,T,1,1,False
+09/10/2025,@ Centenary (NJ),W 5-0,50,09/10/2025,Centenary (NJ),away,W,5,0,False
+09/13/2025,@ Marywood,L 0-2,129,09/13/2025,Marywood,away,L,0,2,False
+09/17/2025,@ Moravian,W 2-0,123,09/17/2025,Moravian,away,W,2,0,False
+09/20/2025,Stevens,T 1-1,143,09/20/2025,Stevens,home,T,1,1,False
+09/27/2025,Wm. Paterson,T 1-1,87,09/27/2025,Wm. Paterson,home,T,1,1,False
+10/01/2025,@ TCNJ,W 3-2,188,10/01/2025,TCNJ,away,W,3,2,False
+10/04/2025,@ New Jersey City,T 2-2,174,10/04/2025,New Jersey City,away,T,2,2,False
+10/07/2025,Eastern,W 2-1,135,10/07/2025,Eastern,home,W,2,1,False
+10/11/2025,Rutgers-Camden,L 0-1,181,10/11/2025,Rutgers-Camden,home,L,0,1,False
+10/15/2025,Rowan,L 0-5,135,10/15/2025,Rowan,home,L,0,5,False
+10/18/2025,@ Ramapo,W 1-0,300,10/18/2025,Ramapo,away,W,1,0,False
+10/22/2025,@ Rutgers-Newark,T 1-1,237,10/22/2025,Rutgers-Newark,away,T,1,1,False
+10/25/2025,Montclair St.,L 1-4,125,10/25/2025,Montclair St.,home,L,1,4,False
+10/29/2025,@ Kean,T 1-1,145,10/29/2025,Kean,away,T,1,1,False
+11/01/2025,@ #3 TCNJ NJAC WSOC Championship,L 0-3,258,11/01/2025,TCNJ,away,L,0,3,False

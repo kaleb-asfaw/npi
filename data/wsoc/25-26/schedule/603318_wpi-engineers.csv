@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,@ Union (NY),W 1-0,120,08/29/2025,Union (NY),away,W,1,0,False
+08/30/2025,@ Western New Eng.,W 2-0,170,08/30/2025,Western New Eng.,away,W,2,0,False
+09/02/2025,@ Amherst,L 0-1,150,09/02/2025,Amherst,away,L,0,1,False
+09/05/2025,Cortland,T 1-1,200,09/05/2025,Cortland,home,T,1,1,False
+09/10/2025,Wesleyan (CT),L 0-3,100,09/10/2025,Wesleyan (CT),home,L,0,3,False
+09/13/2025,Clarkson,W 2-0,500,09/13/2025,Clarkson,home,W,2,0,False
+09/17/2025,@ UMass Dartmouth,W 2-0,57,09/17/2025,UMass Dartmouth,away,W,2,0,False
+09/20/2025,Clark (MA),T 3-3,200,09/20/2025,Clark (MA),home,T,3,3,False
+09/24/2025,UMass Boston,W 3-0,100,09/24/2025,UMass Boston,home,W,3,0,False
+09/27/2025,@ Mount Holyoke,W 3-0,200,09/27/2025,Mount Holyoke,away,W,3,0,False
+10/01/2025,@ Wheaton (MA),W 2-1,134,10/01/2025,Wheaton (MA),away,W,2,1,False
+10/04/2025,Babson,L 0-1,200,10/04/2025,Babson,home,L,0,1,False
+10/11/2025,Salve Regina,W 1-0,300,10/11/2025,Salve Regina,home,W,1,0,False
+10/15/2025,Wellesley,W 1-0,200,10/15/2025,Wellesley,home,W,1,0,False
+10/18/2025,@ Springfield,L 2-4,200,10/18/2025,Springfield,away,L,2,4,False
+10/22/2025,Emerson,L 1-2,200,10/22/2025,Emerson,home,L,1,2,False
+10/25/2025,Coast Guard,T 0-0,200,10/25/2025,Coast Guard,home,T,0,0,False
+10/29/2025,@ Smith,W 2-0,75,10/29/2025,Smith,away,W,2,0,False
+11/01/2025,@ MIT,L 0-4,187,11/01/2025,MIT,away,L,0,4,False
+11/04/2025,@ #3 Emerson NEWMAC WSOC Tournament,W 2-1,103,11/04/2025,Emerson,away,W,2,1,False
+11/06/2025,@ #2 Springfield NEWMAC WSOC Tournament,L 2-3,95,11/06/2025,Springfield,away,L,2,3,False

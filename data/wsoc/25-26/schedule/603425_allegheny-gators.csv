@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,Capital,L 1-4,150,08/29/2025,Capital,home,L,1,4,False
+08/31/2025,@ CWRU,L 0-6,210,08/31/2025,CWRU,away,L,0,6,False
+09/03/2025,@ Baldwin Wallace,T 1-1,86,09/03/2025,Baldwin Wallace,away,T,1,1,False
+09/06/2025,Marietta,T 1-1,185,09/06/2025,Marietta,home,T,1,1,False
+09/10/2025,@ Penn St.-Behrend,L 0-2,147,09/10/2025,Penn St.-Behrend,away,L,0,2,False
+09/13/2025,Fredonia,L 0-1,125,09/13/2025,Fredonia,home,L,0,1,False
+09/17/2025,SUNY Brockport,L 0-1,95,09/17/2025,SUNY Brockport,home,L,0,1,False
+09/20/2025,Carlow,W 6-0,203,09/20/2025,Carlow,home,W,6,0,False
+09/24/2025,Chatham,W 2-0,55,09/24/2025,Chatham,home,W,2,0,False
+09/27/2025,@ Grove City,T 1-1,250,09/27/2025,Grove City,away,T,1,1,False
+10/01/2025,Waynesburg,L 0-1,71,10/01/2025,Waynesburg,home,L,0,1,False
+10/04/2025,@ Geneva,T 2-2,142,10/04/2025,Geneva,away,T,2,2,False
+10/08/2025,Wash. & Jeff.,W 5-1,135,10/08/2025,Wash. & Jeff.,home,W,5,1,False
+10/11/2025,Hiram,W 2-0,156,10/11/2025,Hiram,home,W,2,0,False
+10/15/2025,@ Westminster (PA),T 1-1,187,10/15/2025,Westminster (PA),away,T,1,1,False
+10/18/2025,Bethany (WV),W 4-0,154,10/18/2025,Bethany (WV),home,W,4,0,False
+10/22/2025,@ Franciscan,L 0-1,150,10/22/2025,Franciscan,away,L,0,1,False
+10/25/2025,@ Thiel,W 6-0,77,10/25/2025,Thiel,away,W,6,0,False
+10/28/2025,Saint Vincent,L 0-2,79,10/28/2025,Saint Vincent,home,L,0,2,False
+11/01/2025,@ #3 Saint Vincent PAC WSOC Championship,L 0-1 (2 OT),511,11/01/2025,Saint Vincent,away,L,0,1,True

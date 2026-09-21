@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2025,@ Saint Elizabeth,Ppd,,08/30/2025,Saint Elizabeth,away,,,,
+09/02/2025,John Jay,L 0-2,43,09/02/2025,John Jay,home,L,0,2,False
+09/06/2025,@ Rutgers-Newark,Canceled,,09/06/2025,Rutgers-Newark,away,,,,
+09/08/2025,@ Old Westbury,Canceled,,09/08/2025,Old Westbury,away,,,,
+09/11/2025,@ Purchase,W 4-0,45,09/11/2025,Purchase,away,W,4,0,False
+09/13/2025,@ Penn St. Brandywine,L 1-2,150,09/13/2025,Penn St. Brandywine,away,L,1,2,False
+09/16/2025,St. Joseph's (Brkln),W 14-0,21,09/16/2025,St. Joseph's (Brkln),home,W,14,0,False
+09/20/2025,Penn St.-Abington,T 3-3,47,09/20/2025,Penn St.-Abington,home,T,3,3,False
+09/22/2025,@ York (NY),W 9-0,14,09/22/2025,York (NY),away,W,9,0,False
+09/27/2025,CCNY,T 0-0,30,09/27/2025,CCNY,home,T,0,0,False
+09/30/2025,@ Lehman,W 6-0,49,09/30/2025,Lehman,away,W,6,0,False
+10/04/2025,@ Marymount (VA),L 1-3,106,10/04/2025,Marymount (VA),away,L,1,3,False
+10/08/2025,Gwynedd Mercy,W 5-0,41,10/08/2025,Gwynedd Mercy,home,W,5,0,False
+10/11/2025,@ Neumann,L 2-3,190,10/11/2025,Neumann,away,L,2,3,False
+10/18/2025,Immaculata,W 4-2,40,10/18/2025,Immaculata,home,W,4,2,False
+10/22/2025,@ Centenary (NJ),W 7-3,20,10/22/2025,Centenary (NJ),away,W,7,3,False
+10/25/2025,Marywood,L 1-5,0,10/25/2025,Marywood,home,L,1,5,False
+10/29/2025,Saint Elizabeth,W 13-0,31,10/29/2025,Saint Elizabeth,home,W,13,0,False
+11/01/2025,#5 Gwynedd Mercy AEC WSOC Tournament,L 2-4,93,11/01/2025,Gwynedd Mercy,home,L,2,4,False

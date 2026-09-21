@@ -1,0 +1,24 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2025,Emmanuel (MA),L 0-5,212,08/30/2025,Emmanuel (MA),home,L,0,5,False
+09/02/2025,@ Rivier,T 2-2,311,09/02/2025,Rivier,away,T,2,2,False
+09/06/2025,@ Merchant Marine,W 1-0,0,09/06/2025,Merchant Marine,away,W,1,0,False
+09/07/2025,@ Wesleyan (CT),L 0-5,143,09/07/2025,Wesleyan (CT),away,L,0,5,False
+09/10/2025,Vassar,L 0-5,196,09/10/2025,Vassar,home,L,0,5,False
+09/13/2025,VTSU Castleton,W 2-0,155,09/13/2025,VTSU Castleton,home,W,2,0,False
+09/15/2025,@ Saint Joseph (CT),W 4-1,94,09/15/2025,Saint Joseph (CT),away,W,4,1,False
+09/17/2025,@ Russell Sage,W 1-0,332,09/17/2025,Russell Sage,away,W,1,0,False
+09/20/2025,Plymouth St.,W 4-1,174,09/20/2025,Plymouth St.,home,W,4,1,False
+09/22/2025,Brooklyn,W 5-0,115,09/22/2025,Brooklyn,home,W,5,0,False
+09/27/2025,@ UMass Dartmouth,L 1-3,113,09/27/2025,UMass Dartmouth,away,L,1,3,False
+09/30/2025,Worcester St.,W 1-0,158,09/30/2025,Worcester St.,home,W,1,0,False
+10/04/2025,UMass Boston,W 4-1,257,10/04/2025,UMass Boston,home,W,4,1,False
+10/08/2025,Montclair St.,L 0-2,74,10/08/2025,Montclair St.,home,L,0,2,False
+10/11/2025,@ Southern Me.,T 2-2,224,10/11/2025,Southern Me.,away,T,2,2,False
+10/14/2025,St. Joseph's (L.I.),W 2-0,257,10/14/2025,St. Joseph's (L.I.),home,W,2,0,False
+10/17/2025,Rhode Island Col.,W 2-0,188,10/17/2025,Rhode Island Col.,home,W,2,0,False
+10/22/2025,@ Eastern Conn. St.,L 0-1,100,10/22/2025,Eastern Conn. St.,away,L,0,1,False
+10/25/2025,@ Keene St.,L 1-2,314,10/25/2025,Keene St.,away,L,1,2,False
+10/28/2025,@ Fitchburg St.,W 3-2,80,10/28/2025,Fitchburg St.,away,W,3,2,False
+11/01/2025,Rhode Island Col. LEC WSOC Tournament,W 4-1,368,11/01/2025,Rhode Island Col.,home,W,4,1,False
+11/05/2025,@ Eastern Conn. St. LEC WSOC Tournament,W 2-0,200,11/05/2025,Eastern Conn. St.,away,W,2,0,False
+11/08/2025,@ Southern Me. LEC WSOC Tournament,L 0-3,544,11/08/2025,Southern Me.,away,L,0,3,False

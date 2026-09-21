@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,Grinnell,T 0-0,85,08/29/2025,Grinnell,home,T,0,0,False
+09/02/2025,@ Carroll (WI),T 1-1,211,09/02/2025,Carroll (WI),away,T,1,1,False
+09/05/2025,@ Concordia Chicago,W 4-0,108,09/05/2025,Concordia Chicago,away,W,4,0,False
+09/07/2025,St. Scholastica,W 2-1,350,09/07/2025,St. Scholastica,home,W,2,1,False
+09/13/2025,@ Dominican (IL),T 1-1,246,09/13/2025,Dominican (IL),away,T,1,1,False
+09/16/2025,Wis.-Stevens Point,T 2-2,110,09/16/2025,Wis.-Stevens Point,home,T,2,2,False
+09/20/2025,Wis.-Oshkosh,T 1-1,115,09/20/2025,Wis.-Oshkosh,home,T,1,1,False
+09/27/2025,@ Central (IA),W 2-0,150,09/27/2025,Central (IA),away,W,2,0,False
+10/01/2025,@ Wis.-Platteville,L 0-1,187,10/01/2025,Wis.-Platteville,away,L,0,1,False
+10/04/2025,Luther,W 2-1,275,10/04/2025,Luther,home,W,2,1,False
+10/08/2025,@ Wartburg,W 2-0,210,10/08/2025,Wartburg,away,W,2,0,False
+10/11/2025,Neb. Wesleyan,T 1-1,150,10/11/2025,Neb. Wesleyan,home,T,1,1,False
+10/14/2025,Simpson,W 2-0,155,10/14/2025,Simpson,home,W,2,0,False
+10/18/2025,Augustana (IL),W 5-1,150,10/18/2025,Augustana (IL),home,W,5,1,False
+10/22/2025,@ Loras,W 2-1,250,10/22/2025,Loras,away,W,2,1,False
+10/25/2025,Coe,W 7-0,200,10/25/2025,Coe,home,W,7,0,False
+10/28/2025,@ Buena Vista,W 3-0,35,10/28/2025,Buena Vista,away,W,3,0,False
+11/05/2025,#5 Central (IA) American Rivers WSOC Tournament,W 4-0,285,11/05/2025,Central (IA),home,W,4,0,False
+11/08/2025,#2 Loras American Rivers WSOC Tournament,L 0-1,480,11/08/2025,Loras,home,L,0,1,False

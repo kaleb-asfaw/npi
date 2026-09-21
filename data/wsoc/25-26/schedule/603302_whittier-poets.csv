@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,"Whitworth @Thousand Oaks, CA",W 1-0,75,08/29/2025,Whitworth,neutral,W,1,0,False
+08/31/2025,George Fox,W 1-0,75,08/31/2025,George Fox,home,W,1,0,False
+09/04/2025,Stanton,W 2-0,,09/04/2025,Stanton,home,W,2,0,False
+09/07/2025,La Sierra,Canceled,,09/07/2025,La Sierra,home,,,,
+09/17/2025,@ Claremont-M-S,L 0-2,200,09/17/2025,Claremont-M-S,away,L,0,2,False
+09/24/2025,@ Occidental,L 0-2,144,09/24/2025,Occidental,away,L,0,2,False
+09/27/2025,Chapman,T 0-0,80,09/27/2025,Chapman,home,T,0,0,False
+10/01/2025,@ La Verne,T 0-0,93,10/01/2025,La Verne,away,T,0,0,False
+10/04/2025,Pomona-Pitzer,T 0-0,116,10/04/2025,Pomona-Pitzer,home,T,0,0,False
+10/08/2025,Cal Lutheran,W 2-1,87,10/08/2025,Cal Lutheran,home,W,2,1,False
+10/11/2025,Redlands,W 3-0,0,10/11/2025,Redlands,home,W,3,0,False
+10/15/2025,@ Caltech,T 0-0,49,10/15/2025,Caltech,away,T,0,0,False
+10/22/2025,La Verne,W 2-1,134,10/22/2025,La Verne,home,W,2,1,False
+10/25/2025,@ Chapman,L 0-1,198,10/25/2025,Chapman,away,L,0,1,False
+10/29/2025,Occidental,L 0-2,68,10/29/2025,Occidental,home,L,0,2,False
+11/01/2025,@ Cal Lutheran,L 0-2,125,11/01/2025,Cal Lutheran,away,L,0,2,False

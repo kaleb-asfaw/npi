@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,@ Agnes Scott,W 4-0,75,08/29/2025,Agnes Scott,away,W,4,0,False
+08/30/2025,@ LaGrange,W 4-0,100,08/30/2025,LaGrange,away,W,4,0,False
+09/03/2025,@ Emory,L 1-2,386,09/03/2025,Emory,away,L,1,2,False
+09/09/2025,Covenant,T 1-1,250,09/09/2025,Covenant,home,T,1,1,False
+09/12/2025,"Meredith @Greensboro, NC",W 2-1,35,09/12/2025,Meredith,neutral,W,2,1,False
+09/14/2025,@ Greensboro,W 6-0,100,09/14/2025,Greensboro,away,W,6,0,False
+09/16/2025,@ Huntingdon,W 4-1,60,09/16/2025,Huntingdon,away,W,4,1,False
+09/20/2025,@ JWU Charlotte,W 5-0,100,09/20/2025,JWU Charlotte,away,W,5,0,False
+09/21/2025,LaGrange,Canceled,,09/21/2025,LaGrange,home,,,,
+09/24/2025,@ Maryville (TN),L 0-1,201,09/24/2025,Maryville (TN),away,L,0,1,False
+10/03/2025,Southwestern (TX),T 0-0,100,10/03/2025,Southwestern (TX),home,T,0,0,False
+10/05/2025,Trinity (TX),T 0-0,200,10/05/2025,Trinity (TX),home,T,0,0,False
+10/11/2025,@ Millsaps,W 5-1,50,10/11/2025,Millsaps,away,W,5,1,False
+10/18/2025,Rhodes,L 0-1,100,10/18/2025,Rhodes,home,L,0,1,False
+10/24/2025,@ Centre,L 0-1,227,10/24/2025,Centre,away,L,0,1,False
+10/26/2025,@ Sewanee,T 1-1,314,10/26/2025,Sewanee,away,T,1,1,False
+11/01/2025,Oglethorpe,T 0-0,200,11/01/2025,Oglethorpe,home,T,0,0,False

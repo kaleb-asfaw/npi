@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,@ Manchester,W 3-1,55,08/29/2025,Manchester,away,W,3,1,False
+09/01/2025,Greenville,W 2-1,145,09/01/2025,Greenville,home,W,2,1,False
+09/03/2025,Franklin,W 2-0,127,09/03/2025,Franklin,home,W,2,0,False
+09/07/2025,Centre,L 0-2,100,09/07/2025,Centre,home,L,0,2,False
+09/13/2025,Wheaton (IL),W 3-0,0,09/13/2025,Wheaton (IL),home,W,3,0,False
+09/16/2025,Hanover,T 2-2,85,09/16/2025,Hanover,home,T,2,2,False
+09/20/2025,@ Rhodes,L 0-3,150,09/20/2025,Rhodes,away,L,0,3,False
+09/21/2025,"Mary Hardin-Baylor @Memphis, TN",W 1-0,50,09/21/2025,Mary Hardin-Baylor,neutral,W,1,0,False
+09/24/2025,Rose-Hulman,W 1-0,64,09/24/2025,Rose-Hulman,home,W,1,0,False
+09/27/2025,@ Wilmington (OH),L 0-1,200,09/27/2025,Wilmington (OH),away,L,0,1,False
+10/04/2025,@ John Carroll,L 0-5,126,10/04/2025,John Carroll,away,L,0,5,False
+10/08/2025,@ Wittenberg,L 0-4,153,10/08/2025,Wittenberg,away,L,0,4,False
+10/11/2025,Kenyon,W 1-0,74,10/11/2025,Kenyon,home,W,1,0,False
+10/18/2025,@ Ohio Wesleyan,W 1-0,205,10/18/2025,Ohio Wesleyan,away,W,1,0,False
+10/22/2025,Denison,W 1-0,65,10/22/2025,Denison,home,W,1,0,False
+10/25/2025,Wooster,L 1-3,129,10/25/2025,Wooster,home,L,1,3,False
+11/01/2025,@ Oberlin,W 1-0,218,11/01/2025,Oberlin,away,W,1,0,False
+11/06/2025,#3 Denison NCAC WSOC Tournament,L 0-1,230,11/06/2025,Denison,home,L,0,1,False

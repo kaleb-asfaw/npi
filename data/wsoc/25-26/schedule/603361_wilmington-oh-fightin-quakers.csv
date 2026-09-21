@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,Oberlin,T 1-1,350,08/29/2025,Oberlin,home,T,1,1,False
+08/31/2025,@ Hanover,L 0-6,9,08/31/2025,Hanover,away,L,0,6,False
+09/03/2025,Spalding,W 2-0,150,09/03/2025,Spalding,home,W,2,0,False
+09/06/2025,@ Centre,L 0-1,400,09/06/2025,Centre,away,L,0,1,False
+09/10/2025,@ Earlham,W 3-0,132,09/10/2025,Earlham,away,W,3,0,False
+09/12/2025,@ Westminster (PA),T 0-0,262,09/12/2025,Westminster (PA),away,T,0,0,False
+09/13/2025,@ Saint Vincent,L 0-2,111,09/13/2025,Saint Vincent,away,L,0,2,False
+09/16/2025,Adrian,W 3-2,450,09/16/2025,Adrian,home,W,3,2,False
+09/24/2025,Franklin,W 3-1,400,09/24/2025,Franklin,home,W,3,1,False
+09/27/2025,DePauw,W 1-0,200,09/27/2025,DePauw,home,W,1,0,False
+10/04/2025,Heidelberg,W 3-2,200,10/04/2025,Heidelberg,home,W,3,2,False
+10/08/2025,Muskingum,W 4-1,200,10/08/2025,Muskingum,home,W,4,1,False
+10/11/2025,@ Mount Union,W 3-1,154,10/11/2025,Mount Union,away,W,3,1,False
+10/15/2025,@ Otterbein,T 0-0,117,10/15/2025,Otterbein,away,T,0,0,False
+10/18/2025,Baldwin Wallace,W 3-1,250,10/18/2025,Baldwin Wallace,home,W,3,1,False
+10/22/2025,@ Capital,L 0-1,103,10/22/2025,Capital,away,L,0,1,False
+10/29/2025,Ohio Northern,L 0-1,150,10/29/2025,Ohio Northern,home,L,0,1,False
+11/01/2025,@ Marietta,T 1-1,170,11/01/2025,Marietta,away,T,1,1,False
+11/04/2025,#6 Baldwin Wallace OAC WSOC Tournament,W 3-1,400,11/04/2025,Baldwin Wallace,home,W,3,1,False
+11/06/2025,@ #2 Capital OAC WSOC Tournament,W 3-2 (2 OT),245,11/06/2025,Capital,away,W,3,2,True
+11/09/2025,#5 Ohio Northern OAC WSOC Tournament,W 3-2,500,11/09/2025,Ohio Northern,home,W,3,2,False
+11/15/2025,@ WashU 2025 NCAA DIII Women's Soccer Championship,L 0-7,591,11/15/2025,WashU,away,L,0,7,False

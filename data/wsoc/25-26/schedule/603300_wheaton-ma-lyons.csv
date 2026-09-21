@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/31/2025,Regis (MA),W 2-0,323,08/31/2025,Regis (MA),home,W,2,0,False
+09/03/2025,@ Worcester St.,L 0-2,98,09/03/2025,Worcester St.,away,L,0,2,False
+09/06/2025,@ Keene St.,W 4-0,0,09/06/2025,Keene St.,away,W,4,0,False
+09/10/2025,Bridgewater St.,W 3-0,82,09/10/2025,Bridgewater St.,home,W,3,0,False
+09/17/2025,Roger Williams,W 3-2,110,09/17/2025,Roger Williams,home,W,3,2,False
+09/20/2025,@ Emerson,L 0-1,104,09/20/2025,Emerson,away,L,0,1,False
+09/24/2025,@ Endicott,L 1-2,133,09/24/2025,Endicott,away,L,1,2,False
+09/27/2025,@ Clark (MA),W 1-0,243,09/27/2025,Clark (MA),away,W,1,0,False
+10/01/2025,WPI,L 1-2,134,10/01/2025,WPI,home,L,1,2,False
+10/04/2025,Mount Holyoke,W 3-0,212,10/04/2025,Mount Holyoke,home,W,3,0,False
+10/11/2025,@ Wellesley,L 0-3,105,10/11/2025,Wellesley,away,L,0,3,False
+10/15/2025,Springfield,W 5-2,111,10/15/2025,Springfield,home,W,5,2,False
+10/18/2025,Smith,L 0-3,0,10/18/2025,Smith,home,L,0,3,False
+10/22/2025,@ MIT,L 0-3,57,10/22/2025,MIT,away,L,0,3,False
+10/25/2025,Babson,W 1-0,119,10/25/2025,Babson,home,W,1,0,False
+10/29/2025,@ Coast Guard,W 1-0,115,10/29/2025,Coast Guard,away,W,1,0,False
+11/01/2025,@ Salve Regina,W 2-1,131,11/01/2025,Salve Regina,away,W,2,1,False
+11/04/2025,@ #4 Babson NEWMAC WSOC Tournament,W 3-1,150,11/04/2025,Babson,away,W,3,1,False
+11/06/2025,@ #1 MIT NEWMAC WSOC Tournament,L 0-3,78,11/06/2025,MIT,away,L,0,3,False

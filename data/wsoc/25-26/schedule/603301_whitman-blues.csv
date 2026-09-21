@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2025,Evergreen St.,W 5-0,183,08/30/2025,Evergreen St.,home,W,5,0,False
+08/31/2025,Col. of Idaho,L 2-3,100,08/31/2025,Col. of Idaho,home,L,2,3,False
+09/07/2025,@ Eastern Ore.,T 2-2,50,09/07/2025,@ Eastern Ore.,home,T,2,2,False
+09/14/2025,Carroll (MT),T 1-1,279,09/14/2025,Carroll (MT),home,T,1,1,False
+09/20/2025,Pacific (OR),T 1-1,312,09/20/2025,Pacific (OR),home,T,1,1,False
+09/21/2025,Willamette,W 1-0,100,09/21/2025,Willamette,home,W,1,0,False
+09/24/2025,Whitworth,W 1-0,283,09/24/2025,Whitworth,home,W,1,0,False
+09/27/2025,@ Linfield,T 1-1,163,09/27/2025,Linfield,away,T,1,1,False
+10/03/2025,@ Lewis & Clark,T 1-1,87,10/03/2025,Lewis & Clark,away,T,1,1,False
+10/05/2025,@ George Fox,T 0-0,115,10/05/2025,George Fox,away,T,0,0,False
+10/11/2025,Pacific Lutheran,L 1-2,100,10/11/2025,Pacific Lutheran,home,L,1,2,False
+10/12/2025,Puget Sound,L 0-1,100,10/12/2025,Puget Sound,home,L,0,1,False
+10/18/2025,@ Willamette,T 1-1,218,10/18/2025,Willamette,away,T,1,1,False
+10/19/2025,@ Pacific (OR),L 1-2,75,10/19/2025,Pacific (OR),away,L,1,2,False
+10/22/2025,@ Whitworth,T 1-1,75,10/22/2025,Whitworth,away,T,1,1,False
+10/26/2025,Linfield,T 0-0,100,10/26/2025,Linfield,home,T,0,0,False
+11/01/2025,George Fox,W 5-0,200,11/01/2025,George Fox,home,W,5,0,False
+11/02/2025,Lewis & Clark,W 3-0,67,11/02/2025,Lewis & Clark,home,W,3,0,False
+11/08/2025,@ Puget Sound,L 0-2,229,11/08/2025,Puget Sound,away,L,0,2,False
+11/09/2025,@ Pacific Lutheran,L 0-3,342,11/09/2025,Pacific Lutheran,away,L,0,3,False

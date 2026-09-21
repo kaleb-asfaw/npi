@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,@ Central (IA),L 0-1,150,08/29/2025,Central (IA),away,L,0,1,False
+08/30/2025,@ Grinnell,W 1-0,70,08/30/2025,Grinnell,away,W,1,0,False
+09/03/2025,Cornell College,W 2-0,143,09/03/2025,Cornell College,home,W,2,0,False
+09/06/2025,@ Carroll (WI),T 0-0,313,09/06/2025,Carroll (WI),away,T,0,0,False
+09/10/2025,Wis.-Stout,W 3-2,127,09/10/2025,Wis.-Stout,home,W,3,2,False
+09/12/2025,@ Beloit,W 1-0,0,09/12/2025,Beloit,away,W,1,0,False
+09/14/2025,Wis.-La Crosse,L 0-4,216,09/14/2025,Wis.-La Crosse,home,L,0,4,False
+09/17/2025,Lakeland,W 6-0,97,09/17/2025,Lakeland,home,W,6,0,False
+09/20/2025,@ Aurora,W 1-0,257,09/20/2025,Aurora,away,W,1,0,False
+09/24/2025,@ MSOE,L 1-3,119,09/24/2025,MSOE,away,L,1,3,False
+09/27/2025,Illinois Tech,L 0-4,175,09/27/2025,Illinois Tech,home,L,0,4,False
+10/04/2025,@ Concordia Wisconsin,W 3-0,176,10/04/2025,Concordia Wisconsin,away,W,3,0,False
+10/08/2025,@ St. Norbert,W 2-0,131,10/08/2025,St. Norbert,away,W,2,0,False
+10/11/2025,Dominican (IL),W 3-1,156,10/11/2025,Dominican (IL),home,W,3,1,False
+10/15/2025,@ Marian (WI),W 2-1,274,10/15/2025,Marian (WI),away,W,2,1,False
+10/17/2025,@ Rockford,W 7-0,76,10/17/2025,Rockford,away,W,7,0,False
+10/22/2025,Concordia Chicago,W 2-0,96,10/22/2025,Concordia Chicago,home,W,2,0,False
+10/25/2025,Benedictine (IL),W 2-0,176,10/25/2025,Benedictine (IL),home,W,2,0,False
+10/29/2025,Wis. Lutheran,W 3-0,117,10/29/2025,Wis. Lutheran,home,W,3,0,False
+11/02/2025,Marian (WI) NACC WSOC Tournament,W 1-0,143,11/02/2025,Marian (WI),home,W,1,0,False
+11/05/2025,@ MSOE NACC WSOC Tournament,L 0-3,158,11/05/2025,MSOE,away,L,0,3,False

@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,@ Cal Lutheran,L 0-1,210,08/29/2025,Cal Lutheran,away,L,0,1,False
+08/31/2025,@ Occidental,L 2-3,"1,324",08/31/2025,Occidental,away,L,2,3,False
+09/05/2025,Utica,T 2-2,20,09/05/2025,Utica,home,T,2,2,False
+09/06/2025,Keuka,T 1-1,20,09/06/2025,Keuka,home,T,1,1,False
+09/10/2025,SUNY Geneseo,W 2-1,139,09/10/2025,SUNY Geneseo,home,W,2,1,False
+09/13/2025,@ Allegheny,W 1-0,125,09/13/2025,Allegheny,away,W,1,0,False
+09/16/2025,Penn St.-Behrend,L 0-1,200,09/16/2025,Penn St.-Behrend,home,L,0,1,False
+09/20/2025,@ Plattsburgh St.,L 0-5,150,09/20/2025,Plattsburgh St.,away,L,0,5,False
+09/23/2025,@ SUNY Brockport,T 0-0,55,09/23/2025,SUNY Brockport,away,T,0,0,False
+09/27/2025,SUNY Canton,W 6-0,100,09/27/2025,SUNY Canton,home,W,6,0,False
+09/30/2025,Nazareth,W 2-1,85,09/30/2025,Nazareth,home,W,2,1,False
+10/04/2025,SUNY New Paltz,W 3-2,60,10/04/2025,SUNY New Paltz,home,W,3,2,False
+10/08/2025,Buffalo St.,T 1-1,50,10/08/2025,Buffalo St.,home,T,1,1,False
+10/11/2025,@ SUNY Oneonta,W 4-2,146,10/11/2025,SUNY Oneonta,away,W,4,2,False
+10/15/2025,@ Cortland,L 0-2,129,10/15/2025,Cortland,away,L,0,2,False
+10/18/2025,SUNY Potsdam,W 4-0,80,10/18/2025,SUNY Potsdam,home,W,4,0,False
+10/22/2025,@ SUNY Morrisville,W 5-0,61,10/22/2025,SUNY Morrisville,away,W,5,0,False
+10/25/2025,@ Oswego St.,W 2-1,126,10/25/2025,Oswego St.,away,W,2,1,False
+11/01/2025,Oswego St. SUNYAC WSOC Tournament,W 1-0 (2 OT),150,11/01/2025,Oswego St.,home,W,1,0,True
+11/05/2025,@ Plattsburgh St. SUNYAC WSOC Tournament,L 1-2,250,11/05/2025,Plattsburgh St.,away,L,1,2,False

@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,@ Trinity Washington,W 12-0,46,08/29/2025,Trinity Washington,away,W,12,0,False
+08/30/2025,@ Regent,W 4-0,125,08/30/2025,Regent,away,W,4,0,False
+08/31/2025,"Meredith @Rocky Mount, NC",W 4-2,50,08/31/2025,Meredith,neutral,W,4,2,False
+09/01/2025,@ N.C. Wesleyan,W 1-0,200,09/01/2025,N.C. Wesleyan,away,W,1,0,False
+09/05/2025,Oglethorpe,L 0-2,432,09/05/2025,Oglethorpe,home,L,0,2,False
+09/06/2025,Pfeiffer,Canceled,,09/06/2025,Pfeiffer,home,,,,
+09/10/2025,@ Brevard,L 0-2,205,09/10/2025,Brevard,away,L,0,2,False
+09/21/2025,@ Maryville (TN),L 1-2,187,09/21/2025,Maryville (TN),away,L,1,2,False
+09/23/2025,@ Warren Wilson,W 3-0,67,09/23/2025,Warren Wilson,away,W,3,0,False
+09/27/2025,@ Belhaven,L 0-2,132,09/27/2025,Belhaven,away,L,0,2,False
+09/28/2025,@ Millsaps,W 4-0,50,09/28/2025,Millsaps,away,W,4,0,False
+09/28/2025,@ MUW,W 3-0,100,09/28/2025,MUW,away,W,3,0,False
+10/01/2025,Wesleyan (GA),W 4-0,107,10/01/2025,Wesleyan (GA),home,W,4,0,False
+10/03/2025,@ Huntingdon,W 2-0,98,10/03/2025,Huntingdon,away,W,2,0,False
+10/05/2025,JWU Charlotte,W 3-0,204,10/05/2025,JWU Charlotte,home,W,3,0,False
+10/08/2025,@ LaGrange,W 2-1,77,10/08/2025,LaGrange,away,W,2,1,False
+10/11/2025,Covenant,W 3-0,150,10/11/2025,Covenant,home,W,3,0,False
+10/15/2025,Agnes Scott,W 6-0,213,10/15/2025,Agnes Scott,home,W,6,0,False
+10/26/2025,Asbury,W 1-0,432,10/26/2025,Asbury,home,W,1,0,False
+10/28/2025,Toccoa Falls,W 5-0,154,10/28/2025,Toccoa Falls,home,W,5,0,False
+11/01/2025,#6 LaGrange CCS WSOC Championship,T 0-0 (3 OT),244,11/01/2025,LaGrange,home,T,0,0,True
+11/04/2025,@ #2 Belhaven CCS WSOC Championship,L 0-1,134,11/04/2025,Belhaven,away,L,0,1,False

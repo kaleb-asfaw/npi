@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,Cortland,W 2-0,213,08/29/2025,Cortland,home,W,2,0,False
+09/03/2025,St. Lawrence,T 0-0,112,09/03/2025,St. Lawrence,home,T,0,0,False
+09/06/2025,Clarkson,T 1-1,183,09/06/2025,Clarkson,home,T,1,1,False
+09/10/2025,@ Nazareth,W 4-1,106,09/10/2025,Nazareth,away,W,4,1,False
+09/16/2025,St. John Fisher,W 3-2,151,09/16/2025,St. John Fisher,home,W,3,2,False
+09/20/2025,@ William Smith,T 0-0,235,09/20/2025,William Smith,away,T,0,0,False
+09/24/2025,SUNY Geneseo,W 1-0,65,09/24/2025,SUNY Geneseo,home,W,1,0,False
+09/27/2025,@ Misericordia,W 1-0,187,09/27/2025,Misericordia,away,W,1,0,False
+09/30/2025,@ RIT,T 1-1,312,09/30/2025,RIT,away,T,1,1,False
+10/04/2025,@ CWRU,L 1-3,150,10/04/2025,CWRU,away,L,1,3,False
+10/07/2025,@ Alfred,W 1-0,95,10/07/2025,Alfred,away,W,1,0,False
+10/11/2025,@ NYU,T 1-1,145,10/11/2025,NYU,away,T,1,1,False
+10/18/2025,Brandeis,W 1-0,105,10/18/2025,Brandeis,home,W,1,0,False
+10/24/2025,WashU,L 0-5,96,10/24/2025,WashU,home,L,0,5,False
+10/26/2025,UChicago,W 1-0,143,10/26/2025,UChicago,home,W,1,0,False
+11/01/2025,@ Carnegie Mellon,T 0-0,110,11/01/2025,Carnegie Mellon,away,T,0,0,False
+11/08/2025,Emory,L 0-1,123,11/08/2025,Emory,home,L,0,1,False
+11/15/2025,"Hartford @Middlebury, VT (2025 NCAA DIII Women's Soccer Championship)",W 2-0,279,11/15/2025,Hartford,neutral,W,2,0,False
+11/16/2025,"Middlebury @Middlebury, VT (2025 NCAA DIII Women's Soccer Championship)",L 1-2,407,11/16/2025,Middlebury,neutral,L,1,2,False

@@ -1,0 +1,24 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,Gustavus Adolphus,L 0-4,215,08/29/2025,Gustavus Adolphus,home,L,0,4,False
+09/02/2025,@ Wis.-La Crosse,L 0-6,135,09/02/2025,Wis.-La Crosse,away,L,0,6,False
+09/06/2025,Wis.-Stout,L 0-1,127,09/06/2025,Wis.-Stout,home,L,0,1,False
+09/10/2025,@ Concordia-M'head,T 0-0,105,09/10/2025,Concordia-M'head,away,T,0,0,False
+09/13/2025,@ UW-River Falls,L 2-4,200,09/13/2025,UW-River Falls,away,L,2,4,False
+09/17/2025,North Central (MN),W 6-0,138,09/17/2025,North Central (MN),home,W,6,0,False
+09/20/2025,@ Crown (MN),W 3-0,200,09/20/2025,Crown (MN),away,W,3,0,False
+09/23/2025,Northwestern-St. Paul,T 1-1,350,09/23/2025,Northwestern-St. Paul,home,T,1,1,False
+09/27/2025,Minn.-Morris,W 5-1,401,09/27/2025,Minn.-Morris,home,W,5,1,False
+10/03/2025,@ Martin Luther,W 6-0,67,10/03/2025,Martin Luther,away,W,6,0,False
+10/04/2025,@ Bethany Lutheran,W 4-0,300,10/04/2025,Bethany Lutheran,away,W,4,0,False
+10/08/2025,@ St. Scholastica,W 2-0,141,10/08/2025,St. Scholastica,away,W,2,0,False
+10/11/2025,@ Northwestern-St. Paul,T 0-0,214,10/11/2025,Northwestern-St. Paul,away,T,0,0,False
+10/18/2025,Crown (MN),T 0-0,700,10/18/2025,Crown (MN),home,T,0,0,False
+10/19/2025,@ St. Catherine,L 0-2,100,10/19/2025,St. Catherine,away,L,0,2,False
+10/21/2025,@ North Central (MN),W 12-0,25,10/21/2025,North Central (MN),away,W,12,0,False
+10/25/2025,@ Minn.-Morris,W 4-1,54,10/25/2025,Minn.-Morris,away,W,4,1,False
+10/28/2025,Macalester,L 1-3,167,10/28/2025,Macalester,home,L,1,3,False
+10/31/2025,Bethany Lutheran,L 1-2,205,10/31/2025,Bethany Lutheran,home,L,1,2,False
+11/01/2025,Martin Luther,W 2-0,200,11/01/2025,Martin Luther,home,W,2,0,False
+11/05/2025,@ #2 Bethany Lutheran UMAC WSOC Championship,W 3-0,133,11/05/2025,Bethany Lutheran,away,W,3,0,False
+11/08/2025,@ #1 Northwestern-St. Paul UMAC WSOC Championship,W 1-0,410,11/08/2025,Northwestern-St. Paul,away,W,1,0,False
+11/15/2025,@ UChicago 2025 NCAA DIII Women's Soccer Championship,L 0-5,250,11/15/2025,UChicago,away,L,0,5,False

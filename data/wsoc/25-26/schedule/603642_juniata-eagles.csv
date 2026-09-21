@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,Geneva,L 0-1,125,08/29/2025,Geneva,home,L,0,1,False
+08/30/2025,Westminster (PA),W 1-0,122,08/30/2025,Westminster (PA),home,W,1,0,False
+09/03/2025,Dickinson,L 0-4,97,09/03/2025,Dickinson,home,L,0,4,False
+09/06/2025,Albright,T 0-0,145,09/06/2025,Albright,home,T,0,0,False
+09/10/2025,@ Alvernia,T 0-0,141,09/10/2025,Alvernia,away,T,0,0,False
+09/13/2025,@ Wash. & Jeff.,W 2-1,523,09/13/2025,Wash. & Jeff.,away,W,2,1,False
+09/14/2025,@ Penn St.-Altoona,W 1-0,184,09/14/2025,Penn St.-Altoona,away,W,1,0,False
+09/17/2025,@ Notre Dame (MD),W 3-1,110,09/17/2025,Notre Dame (MD),away,W,3,1,False
+09/20/2025,Keystone,Canceled,,09/20/2025,Keystone,home,,,,
+09/23/2025,@ Cedar Crest,Canceled,,09/23/2025,Cedar Crest,away,,,,
+09/27/2025,@ Moravian,T 1-1,147,09/27/2025,Moravian,away,T,1,1,False
+10/04/2025,Wilkes,T 1-1,215,10/04/2025,Wilkes,home,T,1,1,False
+10/07/2025,Elizabethtown,L 0-1,78,10/07/2025,Elizabethtown,home,L,0,1,False
+10/11/2025,@ Goucher,W 3-0,67,10/11/2025,Goucher,away,W,3,0,False
+10/14/2025,Susquehanna,L 0-1,67,10/14/2025,Susquehanna,home,L,0,1,False
+10/18/2025,Scranton,L 0-3,95,10/18/2025,Scranton,home,L,0,3,False
+10/21/2025,@ Lycoming,L 0-2,177,10/21/2025,Lycoming,away,L,0,2,False
+10/25/2025,@ Drew,L 0-1,95,10/25/2025,Drew,away,L,0,1,False
+10/28/2025,@ Catholic,L 0-3,122,10/28/2025,Catholic,away,L,0,3,False

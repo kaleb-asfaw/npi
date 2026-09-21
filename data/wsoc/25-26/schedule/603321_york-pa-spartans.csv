@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,Wash. & Lee,L 0-3,210,08/29/2025,Wash. & Lee,home,L,0,3,False
+08/31/2025,Penn St.-Berks,W 4-0,212,08/31/2025,Penn St.-Berks,home,W,4,0,False
+09/03/2025,Gettysburg,W 1-0,223,09/03/2025,Gettysburg,home,W,1,0,False
+09/06/2025,@ McDaniel,W 2-0,204,09/06/2025,McDaniel,away,W,2,0,False
+09/09/2025,Franklin & Marshall,L 1-2,178,09/09/2025,Franklin & Marshall,home,L,1,2,False
+09/11/2025,@ Lancaster Bible,W 3-0,231,09/11/2025,Lancaster Bible,away,W,3,0,False
+09/13/2025,Bryn Mawr,W 4-0,0,09/13/2025,Bryn Mawr,home,W,4,0,False
+09/17/2025,@ Dickinson,L 0-2,55,09/17/2025,Dickinson,away,L,0,2,False
+09/24/2025,@ Salisbury,T 1-1,152,09/24/2025,Salisbury,away,T,1,1,False
+09/27/2025,@ Stevens,T 1-1,237,09/27/2025,Stevens,away,T,1,1,False
+10/01/2025,Goucher,W 9-0,128,10/01/2025,Goucher,home,W,9,0,False
+10/04/2025,Albright,W 1-0,423,10/04/2025,Albright,home,W,1,0,False
+10/11/2025,@ Alvernia,W 3-0,93,10/11/2025,Alvernia,away,W,3,0,False
+10/15/2025,@ Misericordia,W 2-1,125,10/15/2025,Misericordia,away,W,2,1,False
+10/18/2025,Eastern,W 1-0,289,10/18/2025,Eastern,home,W,1,0,False
+10/21/2025,@ Hood,W 5-0,103,10/21/2025,Hood,away,W,5,0,False
+10/25/2025,@ Widener,W 2-0,213,10/25/2025,Widener,away,W,2,0,False
+10/29/2025,Messiah,L 0-1,208,10/29/2025,Messiah,home,L,0,1,False
+11/01/2025,Stevenson,W 1-0,237,11/01/2025,Stevenson,home,W,1,0,False
+11/04/2025,Stevenson MAC Commonwealth WSOC Championship,L 1-2,196,11/04/2025,Stevenson,home,L,1,2,False

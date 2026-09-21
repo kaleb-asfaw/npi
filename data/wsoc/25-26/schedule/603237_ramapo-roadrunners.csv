@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,@ FDU-Florham,T 0-0,269,08/29/2025,FDU-Florham,away,T,0,0,False
+09/02/2025,St. Joseph's (L.I.),W 2-1,75,09/02/2025,St. Joseph's (L.I.),home,W,2,1,False
+09/06/2025,Manhattanville,W 1-0,75,09/06/2025,Manhattanville,home,W,1,0,False
+09/10/2025,Penn St.-Abington,W 2-1,100,09/10/2025,Penn St.-Abington,home,W,2,1,False
+09/13/2025,Clarkson,Canceled,,09/13/2025,Clarkson,home,,,,
+09/17/2025,@ Drew,L 0-3,100,09/17/2025,Drew,away,L,0,3,False
+09/20/2025,@ Marywood,L 0-1,196,09/20/2025,Marywood,away,L,0,1,False
+09/24/2025,@ Penn College,T 1-1,113,09/24/2025,Penn College,away,T,1,1,False
+09/27/2025,Rutgers-Camden,W 1-0,77,09/27/2025,Rutgers-Camden,home,W,1,0,False
+10/01/2025,@ Wm. Paterson,L 0-2,93,10/01/2025,Wm. Paterson,away,L,0,2,False
+10/04/2025,Kean,L 1-2,125,10/04/2025,Kean,home,L,1,2,False
+10/06/2025,CCNY,W 4-0,50,10/06/2025,CCNY,home,W,4,0,False
+10/11/2025,@ TCNJ,L 0-7,437,10/11/2025,TCNJ,away,L,0,7,False
+10/15/2025,New Jersey City,L 0-1,150,10/15/2025,New Jersey City,home,L,0,1,False
+10/18/2025,Stockton,L 0-1,300,10/18/2025,Stockton,home,L,0,1,False
+10/22/2025,@ Montclair St.,L 0-3,102,10/22/2025,Montclair St.,away,L,0,3,False
+10/25/2025,@ Rowan,L 0-6,276,10/25/2025,Rowan,away,L,0,6,False
+10/29/2025,Rutgers-Newark,W 2-0,150,10/29/2025,Rutgers-Newark,home,W,2,0,False

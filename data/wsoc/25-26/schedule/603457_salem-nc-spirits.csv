@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,@ JWU Charlotte,L 1-2,150,08/29/2025,JWU Charlotte,away,L,1,2,False
+09/01/2025,@ Averett,T 3-3,34,09/01/2025,Averett,away,T,3,3,False
+09/06/2025,Wesleyan (GA),W 7-0,40,09/06/2025,Wesleyan (GA),home,W,7,0,False
+09/07/2025,Agnes Scott,T 0-0 (1 OT),40,09/07/2025,Agnes Scott,home,T,0,0,True
+09/12/2025,@ Hollins,W 4-2,109,09/12/2025,Hollins,away,W,4,2,False
+09/14/2025,Berea,W 3-2,40,09/14/2025,Berea,home,W,3,2,False
+09/20/2025,@ Randolph,L 1-2,60,09/20/2025,Randolph,away,L,1,2,False
+09/23/2025,@ Southern Va.,L 0-10,149,09/23/2025,Southern Va.,away,L,0,10,False
+09/27/2025,Methodist,T 0-0,50,09/27/2025,Methodist,home,T,0,0,False
+10/01/2025,Mary Baldwin,L 1-3,50,10/01/2025,Mary Baldwin,home,L,1,3,False
+10/07/2025,@ Pfeiffer,T 3-3,175,10/07/2025,Pfeiffer,away,T,3,3,False
+10/11/2025,@ N.C. Wesleyan,L 0-5,78,10/11/2025,N.C. Wesleyan,away,L,0,5,False
+10/15/2025,Brevard,L 0-4,50,10/15/2025,Brevard,home,L,0,4,False
+10/18/2025,William Peace,W 4-0,124,10/18/2025,William Peace,home,W,4,0,False
+10/25/2025,@ Meredith,W 2-1,82,10/25/2025,Meredith,away,W,2,1,False
+10/29/2025,@ Greensboro,L 0-4,100,10/29/2025,Greensboro,away,L,0,4,False
+11/01/2025,@ #1 Brevard USA South WSOC Tournament,L 1-3,186,11/01/2025,Brevard,away,L,1,3,False

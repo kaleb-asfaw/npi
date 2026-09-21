@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,"Emerson @New London, NH",L 1-4,31,08/29/2025,Emerson,neutral,L,1,4,False
+08/30/2025,@ Colby-Sawyer,W 5-0,145,08/30/2025,Colby-Sawyer,away,W,5,0,False
+09/03/2025,Bates,L 1-2,200,09/03/2025,Bates,home,L,1,2,False
+09/10/2025,St. Joseph's (ME),W 4-1,285,09/10/2025,St. Joseph's (ME),home,W,4,1,False
+09/13/2025,Me.-Fort Kent,W 4-2,200,09/13/2025,Me.-Fort Kent,home,W,4,2,False
+09/20/2025,Lesley,T 1-1,200,09/20/2025,Lesley,home,T,1,1,False
+09/24/2025,@ Bowdoin,L 0-2,43,09/24/2025,Bowdoin,away,L,0,2,False
+09/27/2025,VTSU Lyndon,W 18-0,200,09/27/2025,VTSU Lyndon,home,W,18,0,False
+09/28/2025,VTSU-Johnson,W 1-0,100,09/28/2025,VTSU-Johnson,home,W,1,0,False
+10/04/2025,Me.-Presque Isle,W 6-0,200,10/04/2025,Me.-Presque Isle,home,W,6,0,False
+10/07/2025,Colby,L 0-3,200,10/07/2025,Colby,home,L,0,3,False
+10/11/2025,@ SUNY Cobleskill,W 6-1,83,10/11/2025,SUNY Cobleskill,away,W,6,1,False
+10/12/2025,@ SUNY Delhi,W 2-1,0,10/12/2025,SUNY Delhi,away,W,2,1,False
+10/15/2025,Plymouth St.,W 2-1,150,10/15/2025,Plymouth St.,home,W,2,1,False
+10/18/2025,Me.-Farmington,W 3-0,350,10/18/2025,Me.-Farmington,home,W,3,0,False
+10/19/2025,@ Keene St.,L 2-4,285,10/19/2025,Keene St.,away,L,2,4,False
+10/22/2025,@ Thomas (ME),W 7-0,100,10/22/2025,Thomas (ME),away,W,7,0,False
+10/25/2025,@ Maine Maritime,T 1-1,215,10/25/2025,Maine Maritime,away,T,1,1,False
+11/01/2025,Maine Maritime North Atlantic Women's Soccer Championship,L 2-3,200,11/01/2025,Maine Maritime,home,L,2,3,False

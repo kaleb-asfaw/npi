@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,@ Wis.-La Crosse,L 0-7,450,08/29/2025,Wis.-La Crosse,away,L,0,7,False
+09/02/2025,Dubuque,T 1-1,211,09/02/2025,Dubuque,home,T,1,1,False
+09/06/2025,Edgewood,T 0-0,313,09/06/2025,Edgewood,home,T,0,0,False
+09/08/2025,Wis.-Whitewater,W 3-2,173,09/08/2025,Wis.-Whitewater,home,W,3,2,False
+09/13/2025,@ Marian (WI),T 1-1,224,09/13/2025,Marian (WI),away,T,1,1,False
+09/15/2025,@ Beloit,W 3-0,57,09/15/2025,Beloit,away,W,3,0,False
+09/23/2025,Wis.-Platteville,W 2-1,111,09/23/2025,Wis.-Platteville,home,W,2,1,False
+09/27/2025,@ North Central (IL),L 1-5,158,09/27/2025,North Central (IL),away,L,1,5,False
+10/01/2025,@ Elmhurst,L 0-2,328,10/01/2025,Elmhurst,away,L,0,2,False
+10/04/2025,Augustana (IL),W 2-1,111,10/04/2025,Augustana (IL),home,W,2,1,False
+10/08/2025,Carthage,T 0-0,233,10/08/2025,Carthage,home,T,0,0,False
+10/11/2025,@ Millikin,W 2-0,100,10/11/2025,Millikin,away,W,2,0,False
+10/15/2025,@ Wis.-Oshkosh,T 0-0,117,10/15/2025,Wis.-Oshkosh,away,T,0,0,False
+10/18/2025,North Park,L 0-3,104,10/18/2025,North Park,home,L,0,3,False
+10/22/2025,@ Wheaton (IL),L 1-3,134,10/22/2025,Wheaton (IL),away,L,1,3,False
+10/25/2025,Ill. Wesleyan,L 0-1,133,10/25/2025,Ill. Wesleyan,home,L,0,1,False

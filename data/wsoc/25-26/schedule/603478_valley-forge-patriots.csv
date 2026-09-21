@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,Gwynedd Mercy,L 0-4,30,08/29/2025,Gwynedd Mercy,home,L,0,4,False
+09/03/2025,Penn St.-Schuylkill,W 3-1,50,09/03/2025,Penn St.-Schuylkill,home,W,3,1,False
+09/06/2025,Brooklyn,L 0-1,30,09/06/2025,Brooklyn,home,L,0,1,False
+09/09/2025,Penn St. Brandywine,L 0-4,40,09/09/2025,Penn St. Brandywine,home,L,0,4,False
+09/13/2025,@ Lehman,W 2-1,35,09/13/2025,Lehman,away,W,2,1,False
+09/20/2025,@ York (NY),L 1-2,21,09/20/2025,York (NY),away,L,1,2,False
+09/27/2025,@ St. Mary's (MD),L 0-11,57,09/27/2025,St. Mary's (MD),away,L,0,11,False
+10/01/2025,Cedar Crest,L 0-2,45,10/01/2025,Cedar Crest,home,L,0,2,False
+10/04/2025,Penn St. Harrisburg,L 0-11,30,10/04/2025,Penn St. Harrisburg,home,L,0,11,False
+10/09/2025,Penn St.-Scranton,W 4-2,22,10/09/2025,Penn St.-Scranton,home,W,4,2,False
+10/11/2025,@ Penn St.-Abington,L 0-10,175,10/11/2025,Penn St.-Abington,away,L,0,10,False
+10/15/2025,Keystone,W 5-4,30,10/15/2025,Keystone,home,W,5,4,False
+10/18/2025,Lancaster Bible,L 0-7,65,10/18/2025,Lancaster Bible,home,L,0,7,False
+10/21/2025,@ Penn College,L 0-8,97,10/21/2025,Penn College,away,L,0,8,False
+10/25/2025,@ Cairn,L 0-5,103,10/25/2025,Cairn,away,L,0,5,False

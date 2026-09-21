@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,Berry,L 0-4,75,08/29/2025,Berry,home,L,0,4,False
+08/31/2025,@ Oglethorpe,L 1-4,170,08/31/2025,Oglethorpe,away,L,1,4,False
+09/05/2025,@ Warren Wilson,W 4-2,126,09/05/2025,Warren Wilson,away,W,4,2,False
+09/07/2025,@ Salem (NC),T 0-0 (1 OT),40,09/07/2025,Salem (NC),away,T,0,0,True
+09/11/2025,Regent,W 2-1,78,09/11/2025,Regent,home,W,2,1,False
+09/17/2025,Wesleyan (GA),W 1-0,100,09/17/2025,Wesleyan (GA),home,W,1,0,False
+09/22/2025,LaGrange,L 0-4,50,09/22/2025,LaGrange,home,L,0,4,False
+09/24/2025,@ Wesleyan (GA),W 2-0,45,09/24/2025,Wesleyan (GA),away,W,2,0,False
+09/27/2025,Allen,T 2-2,45,09/27/2025,Allen,home,T,2,2,False
+10/01/2025,@ Toccoa Falls,Ppd,,10/01/2025,@ Toccoa Falls,home,,,,
+10/04/2025,@ Maryville (TN),L 0-13,103,10/04/2025,Maryville (TN),away,L,0,13,False
+10/08/2025,Covenant,L 0-2,56,10/08/2025,Covenant,home,L,0,2,False
+10/11/2025,Asbury,L 0-3,45,10/11/2025,Asbury,home,L,0,3,False
+10/15/2025,@ Piedmont,L 0-6,213,10/15/2025,Piedmont,away,L,0,6,False
+10/18/2025,Huntingdon,L 0-4,70,10/18/2025,Huntingdon,home,L,0,4,False
+10/22/2025,@ MUW,L 1-3,125,10/22/2025,MUW,away,L,1,3,False
+10/24/2025,@ Belhaven,L 0-9,45,10/24/2025,Belhaven,away,L,0,9,False
+10/29/2025,Trinity Baptist,L 0-5,10,10/29/2025,Trinity Baptist,home,L,0,5,False

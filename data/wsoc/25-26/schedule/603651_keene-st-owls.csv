@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2025,@ Rivier,W 4-2,437,08/30/2025,Rivier,away,W,4,2,False
+09/01/2025,Roger Williams,L 1-6,361,09/01/2025,Roger Williams,home,L,1,6,False
+09/03/2025,@ Salem St.,L 0-1,150,09/03/2025,Salem St.,away,L,0,1,False
+09/06/2025,Wheaton (MA),L 0-4,0,09/06/2025,Wheaton (MA),home,L,0,4,False
+09/10/2025,Westfield St.,W 1-0,260,09/10/2025,Westfield St.,home,W,1,0,False
+09/13/2025,Eastern Conn. St.,T 1-1,154,09/13/2025,Eastern Conn. St.,home,T,1,1,False
+09/16/2025,@ Colby-Sawyer,T 1-1,235,09/16/2025,Colby-Sawyer,away,T,1,1,False
+09/18/2025,@ Worcester St.,T 0-0,110,09/18/2025,Worcester St.,away,T,0,0,False
+09/20/2025,UMass Dartmouth,T 1-1,380,09/20/2025,UMass Dartmouth,home,T,1,1,False
+09/23/2025,@ Western New Eng.,L 0-2,120,09/23/2025,Western New Eng.,away,L,0,2,False
+09/27/2025,@ UMass Boston,T 1-1,208,09/27/2025,UMass Boston,away,T,1,1,False
+10/01/2025,@ Framingham St.,W 1-0,50,10/01/2025,Framingham St.,away,W,1,0,False
+10/04/2025,Southern Me.,T 2-2,236,10/04/2025,Southern Me.,home,T,2,2,False
+10/11/2025,@ Rhode Island Col.,W 2-0,255,10/11/2025,Rhode Island Col.,away,W,2,0,False
+10/14/2025,@ Fitchburg St.,W 3-0,35,10/14/2025,Fitchburg St.,away,W,3,0,False
+10/19/2025,Husson,W 4-2,285,10/19/2025,Husson,home,W,4,2,False
+10/22/2025,@ Plymouth St.,W 2-1,297,10/22/2025,Plymouth St.,away,W,2,1,False
+10/25/2025,WestConn,W 2-1,314,10/25/2025,WestConn,home,W,2,1,False
+10/29/2025,@ VTSU Castleton,W 1-0,87,10/29/2025,VTSU Castleton,away,W,1,0,False
+11/05/2025,Southern Me. LEC WSOC Tournament,L 2-3 (1 OT),611,11/05/2025,Southern Me.,home,L,2,3,True
+11/14/2025,New Jersey City ECAC WSOC Championship,W 1-0 (1 OT),138,11/14/2025,New Jersey City,home,W,1,0,True
+11/22/2025,@ Waynesburg ECAC WSOC Championship,L 0-1,112,11/22/2025,Waynesburg,away,L,0,1,False

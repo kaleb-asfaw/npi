@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,SUNY Canton,W 6-0,163,08/29/2025,SUNY Canton,home,W,6,0,False
+08/30/2025,Lancaster Bible,W 4-0,184,08/30/2025,Lancaster Bible,home,W,4,0,False
+09/02/2025,@ Hilbert,W 4-0,103,09/02/2025,Hilbert,away,W,4,0,False
+09/09/2025,@ Pitt.-Bradford,W 6-0,0,09/09/2025,Pitt.-Bradford,away,W,6,0,False
+09/13/2025,@ Penn St.-Behrend,T 0-0,134,09/13/2025,Penn St.-Behrend,away,T,0,0,False
+09/17/2025,Buffalo St.,W 4-1,115,09/17/2025,Buffalo St.,home,W,4,1,False
+09/20/2025,@ Utica,L 1-3,174,09/20/2025,Utica,away,L,1,3,False
+09/23/2025,@ Alfred St.,W 3-0,126,09/23/2025,Alfred St.,away,W,3,0,False
+09/27/2025,Alfred,L 0-1,225,09/27/2025,Alfred,home,L,0,1,False
+10/01/2025,@ SUNY Brockport,L 0-4,55,10/01/2025,SUNY Brockport,away,L,0,4,False
+10/04/2025,Nazareth,W 2-1,200,10/04/2025,Nazareth,home,W,2,1,False
+10/08/2025,Keuka,W 1-0,65,10/08/2025,Keuka,home,W,1,0,False
+10/11/2025,@ Hartwick,T 0-0,217,10/11/2025,Hartwick,away,T,0,0,False
+10/15/2025,@ St. John Fisher,L 0-4,68,10/15/2025,St. John Fisher,away,L,0,4,False
+10/18/2025,SUNY Poly,W 3-0,153,10/18/2025,SUNY Poly,home,W,3,0,False
+10/22/2025,@ SUNY Geneseo,T 1-1,177,10/22/2025,SUNY Geneseo,away,T,1,1,False
+10/25/2025,Russell Sage,W 1-0,100,10/25/2025,Russell Sage,home,W,1,0,False
+10/29/2025,Elmira,W 1-0,110,10/29/2025,Elmira,home,W,1,0,False
+11/01/2025,@ #2 St. John Fisher Empire 8 WSOC Championship,L 0-1,0,11/01/2025,St. John Fisher,away,L,0,1,False
+12/01/2025,"Redeemer Ancas. (CAN) @Kissimmee, Fla.",W 4-0,21,12/01/2025,"Redeemer Ancas. (CAN) @Kissimmee, Fla.",neutral,W,4,0,False
+12/02/2025,"Wayland Baptist @Kissimmee, Fla.",T 0-0,28,12/02/2025,"Wayland Baptist @Kissimmee, Fla.",neutral,T,0,0,False
+12/04/2025,"Southwestern Christ. @Kissimmee, Fla.",L 0-2,67,12/04/2025,"Southwestern Christ. @Kissimmee, Fla.",neutral,L,0,2,False

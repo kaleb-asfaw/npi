@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,@ Nazareth,L 0-2,212,08/29/2025,Nazareth,away,L,0,2,False
+08/30/2025,@ RIT,L 1-2,228,08/30/2025,RIT,away,L,1,2,False
+09/03/2025,@ Wellesley,L 0-1,105,09/03/2025,Wellesley,away,L,0,1,False
+09/06/2025,Roger Williams,L 0-1,156,09/06/2025,Roger Williams,home,L,0,1,False
+09/10/2025,Emerson,W 1-0,211,09/10/2025,Emerson,home,W,1,0,False
+09/13/2025,@ Wentworth,W 2-1,283,09/13/2025,Wentworth,away,W,2,1,False
+09/16/2025,@ Babson,T 0-0,175,09/16/2025,Babson,away,T,0,0,False
+09/20/2025,Suffolk,W 1-0,217,09/20/2025,Suffolk,home,W,1,0,False
+09/24/2025,Wheaton (MA),W 2-1,133,09/24/2025,Wheaton (MA),home,W,2,1,False
+09/27/2025,Hartford,L 0-1,147,09/27/2025,Hartford,home,L,0,1,False
+09/30/2025,Southern Me.,W 3-1,183,09/30/2025,Southern Me.,home,W,3,1,False
+10/04/2025,@ JWU (Providence),W 2-1,423,10/04/2025,JWU (Providence),away,W,2,1,False
+10/07/2025,@ Tufts,L 0-2,122,10/07/2025,Tufts,away,L,0,2,False
+10/11/2025,U New England,L 0-1,317,10/11/2025,U New England,home,L,0,1,False
+10/15/2025,@ Western New Eng.,W 1-0,147,10/15/2025,Western New Eng.,away,W,1,0,False
+10/18/2025,@ Nichols,W 6-1,120,10/18/2025,Nichols,away,W,6,1,False
+10/22/2025,Curry,W 1-0,167,10/22/2025,Curry,home,W,1,0,False
+10/25/2025,@ Gordon,W 2-0,219,10/25/2025,Gordon,away,W,2,0,False
+11/05/2025,#6 Suffolk CNE WSOC Tournament,T 0-0 (3 OT),285,11/05/2025,Suffolk,home,T,0,0,True
+11/08/2025,@ #1 Hartford CNE WSOC Tournament,L 0-2,612,11/08/2025,Hartford,away,L,0,2,False

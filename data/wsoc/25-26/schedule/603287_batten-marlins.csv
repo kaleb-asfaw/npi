@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,Saint Benedict,W 3-0,256,08/29/2025,Saint Benedict,home,W,3,0,False
+08/31/2025,Merchant Marine,W 4-0,288,08/31/2025,Merchant Marine,home,W,4,0,False
+09/05/2025,Mt. St. Joseph,W 2-0,259,09/05/2025,Mt. St. Joseph,home,W,2,0,False
+09/07/2025,Mary Hardin-Baylor,T 1-1,214,09/07/2025,Mary Hardin-Baylor,home,T,1,1,False
+09/13/2025,Mary Washington,L 0-2,356,09/13/2025,Mary Washington,home,L,0,2,False
+09/18/2025,@ Salisbury,W 2-1,112,09/18/2025,Salisbury,away,W,2,1,False
+09/20/2025,@ St. Mary's (MD),W 4-0,161,09/20/2025,St. Mary's (MD),away,W,4,0,False
+09/24/2025,Wash. & Lee,L 0-4,235,09/24/2025,Wash. & Lee,home,L,0,4,False
+09/27/2025,Bridgewater (VA),W 2-1,345,09/27/2025,Bridgewater (VA),home,W,2,1,False
+09/30/2025,@ East. Mennonite,W 3-0,71,09/30/2025,East. Mennonite,away,W,3,0,False
+10/04/2025,Shenandoah,W 4-0,256,10/04/2025,Shenandoah,home,W,4,0,False
+10/08/2025,@ Lynchburg,T 0-0,126,10/08/2025,Lynchburg,away,T,0,0,False
+10/11/2025,Averett,W 6-0,132,10/11/2025,Averett,home,W,6,0,False
+10/15/2025,@ Chris. Newport,L 0-2,628,10/15/2025,Chris. Newport,away,L,0,2,False
+10/18/2025,@ Guilford,W 1-0,208,10/18/2025,Guilford,away,W,1,0,False
+10/22/2025,Randolph-Macon,W 5-0,234,10/22/2025,Randolph-Macon,home,W,5,0,False
+10/25/2025,@ Roanoke,W 1-0,123,10/25/2025,Roanoke,away,W,1,0,False
+10/29/2025,@ Randolph,W 2-0,56,10/29/2025,Randolph,away,W,2,0,False
+11/01/2025,#7 Lynchburg ODAC WSOC Championship,W 1-0 (1 OT),234,11/01/2025,Lynchburg,home,W,1,0,True
+11/05/2025,#3 Shenandoah ODAC WSOC Championship,W 2-1,322,11/05/2025,Shenandoah,home,W,2,1,False
+11/08/2025,@ #2 Wash. & Lee ODAC WSOC Championship,T 1-1 (3 OT),377,11/08/2025,Wash. & Lee,away,T,1,1,True
+11/15/2025,"Stevens @Baltimore, MD (2025 NCAA DIII Women's Soccer Championship)",L 0-2,492,11/15/2025,Stevens,neutral,L,0,2,False

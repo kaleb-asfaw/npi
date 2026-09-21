@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,@ Va. Wesleyan,L 0-3,256,08/29/2025,Va. Wesleyan,away,L,0,3,False
+08/31/2025,@ Chris. Newport,L 0-2,173,08/31/2025,Chris. Newport,away,L,0,2,False
+09/06/2025,Wartburg,L 1-2,200,09/06/2025,Wartburg,home,L,1,2,False
+09/07/2025,Emory,L 0-4,250,09/07/2025,Emory,home,L,0,4,False
+09/13/2025,@ Wis.-Eau Claire,W 1-0,137,09/13/2025,Wis.-Eau Claire,away,W,1,0,False
+09/14/2025,@ Wis.-Oshkosh,L 1-2,168,09/14/2025,Wis.-Oshkosh,away,L,1,2,False
+09/20/2025,Bethel (MN),W 3-0,291,09/20/2025,Bethel (MN),home,W,3,0,False
+09/21/2025,Wis.-Stout,W 5-2,126,09/21/2025,Wis.-Stout,home,W,5,2,False
+09/24/2025,St. Scholastica,W 4-0,100,09/24/2025,St. Scholastica,home,W,4,0,False
+09/27/2025,@ Gustavus Adolphus,W 2-0,180,09/27/2025,Gustavus Adolphus,away,W,2,0,False
+10/01/2025,Augsburg,L 0-2,125,10/01/2025,Augsburg,home,L,0,2,False
+10/04/2025,St. Olaf,L 0-1,143,10/04/2025,St. Olaf,home,L,0,1,False
+10/11/2025,@ Macalester,L 2-3,428,10/11/2025,Macalester,away,L,2,3,False
+10/14/2025,@ Carleton,L 0-3,114,10/14/2025,Carleton,away,L,0,3,False
+10/18/2025,St. Catherine,L 0-3,143,10/18/2025,St. Catherine,home,L,0,3,False
+10/22/2025,@ Saint Mary's (MN),L 1-5,67,10/22/2025,Saint Mary's (MN),away,L,1,5,False
+10/25/2025,Concordia-M'head,W 1-0,123,10/25/2025,Concordia-M'head,home,W,1,0,False
+11/01/2025,@ Hamline,W 1-0,100,11/01/2025,Hamline,away,W,1,0,False

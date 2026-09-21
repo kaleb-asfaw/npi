@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/31/2025,Agnes Scott,W 4-1,170,08/31/2025,Agnes Scott,home,W,4,1,False
+09/02/2025,Covenant,W 3-1,161,09/02/2025,Covenant,home,W,3,1,False
+09/05/2025,@ Piedmont,W 2-0,432,09/05/2025,Piedmont,away,W,2,0,False
+09/10/2025,LaGrange,W 1-0,101,09/10/2025,LaGrange,home,W,1,0,False
+09/14/2025,Huntingdon,W 6-0,152,09/14/2025,Huntingdon,home,W,6,0,False
+09/23/2025,@ Emory,L 0-3,57,09/23/2025,Emory,away,L,0,3,False
+09/26/2025,Talladega,W 6-0,139,09/26/2025,Talladega,home,W,6,0,False
+09/29/2025 05:00 PM,@ Brevard,Canceled,,09/29/2025 05:00 PM,Brevard,away,,,,
+10/03/2025,Trinity (TX),L 0-3,96,10/03/2025,Trinity (TX),home,L,0,3,False
+10/05/2025,Southwestern (TX),W 2-0,159,10/05/2025,Southwestern (TX),home,W,2,0,False
+10/11/2025,@ Rhodes,L 1-2,50,10/11/2025,Rhodes,away,L,1,2,False
+10/18/2025,Millsaps,W 3-1,177,10/18/2025,Millsaps,home,W,3,1,False
+10/24/2025,@ Sewanee,L 0-2,203,10/24/2025,Sewanee,away,L,0,2,False
+10/26/2025,@ Centre,W 1-0,372,10/26/2025,Centre,away,W,1,0,False
+11/01/2025,@ Berry,T 0-0,200,11/01/2025,Berry,away,T,0,0,False
+11/06/2025,"#5 Centre @Memphis, TN (SAA WSOC Championship)",L 0-3,77,11/06/2025,Centre,neutral,L,0,3,False

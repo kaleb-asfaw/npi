@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2025,Patrick Henry,W 1-0,0,08/30/2025,Patrick Henry,home,W,1,0,False
+09/03/2025,Regent,W 3-1,100,09/03/2025,Regent,home,W,3,1,False
+09/13/2025,@ Warren Wilson,L 1-2,61,09/13/2025,Warren Wilson,away,L,1,2,False
+09/17/2025,Trinity Washington,W 10-0,75,09/17/2025,Trinity Washington,home,W,10,0,False
+09/19/2025,@ Trinity Washington,W 10-0,34,09/19/2025,Trinity Washington,away,W,10,0,False
+09/24/2025,@ Shenandoah,L 0-8,35,09/24/2025,Shenandoah,away,L,0,8,False
+09/27/2025,Hollins,L 1-5,100,09/27/2025,Hollins,home,L,1,5,False
+10/01/2025,@ Lynchburg,Canceled,,10/01/2025,Lynchburg,away,,,,
+10/01/2025,@ Randolph,L 0-3,50,10/01/2025,Randolph,away,L,0,3,False
+10/04/2025,Randolph-Macon,L 0-16,100,10/04/2025,Randolph-Macon,home,L,0,16,False
+10/07/2025,@ Wash. & Lee,L 0-12,49,10/07/2025,Wash. & Lee,away,L,0,12,False
+10/11/2025,@ East. Mennonite,L 0-2,187,10/11/2025,East. Mennonite,away,L,0,2,False
+10/15/2025,Guilford,L 2-6,50,10/15/2025,Guilford,home,L,2,6,False
+10/18/2025,@ Bridgewater (VA),L 0-11,80,10/18/2025,Bridgewater (VA),away,L,0,11,False
+10/22/2025,Averett,L 0-2,200,10/22/2025,Averett,home,L,0,2,False
+10/29/2025,Roanoke,L 0-11,50,10/29/2025,Roanoke,home,L,0,11,False

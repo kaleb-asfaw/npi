@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,@ DeSales,W 8-1,150,08/29/2025,DeSales,away,W,8,1,False
+08/31/2025,SUNY New Paltz,W 3-0,173,08/31/2025,SUNY New Paltz,home,W,3,0,False
+09/06/2025,"St. Mary's (MD) @Salisbury, MD",T 0-0,152,09/06/2025,St. Mary's (MD),neutral,T,0,0,False
+09/07/2025,@ Salisbury,W 3-0,60,09/07/2025,Salisbury,away,W,3,0,False
+09/13/2025,@ Messiah,L 0-3,312,09/13/2025,Messiah,away,L,0,3,False
+09/17/2025,SUNY Geneseo,W 1-0,135,09/17/2025,SUNY Geneseo,home,W,1,0,False
+09/20/2025,Rochester (NY),T 0-0,235,09/20/2025,Rochester (NY),home,T,0,0,False
+09/24/2025,@ RIT,L 2-3,204,09/24/2025,RIT,away,L,2,3,False
+09/27/2025,Bard,W 4-0,200,09/27/2025,Bard,home,W,4,0,False
+10/01/2025,Ithaca,W 1-0,135,10/01/2025,Ithaca,home,W,1,0,False
+10/04/2025,Clarkson,W 4-2,425,10/04/2025,Clarkson,home,W,4,2,False
+10/11/2025,@ Skidmore,W 2-0,320,10/11/2025,Skidmore,away,W,2,0,False
+10/18/2025,@ Vassar,W 3-1,138,10/18/2025,Vassar,away,W,3,1,False
+10/22/2025,@ St. Lawrence,W 4-0,67,10/22/2025,St. Lawrence,away,W,4,0,False
+10/25/2025,Union (NY),W 2-1,155,10/25/2025,Union (NY),home,W,2,1,False
+11/01/2025,@ Rensselaer,T 0-0,120,11/01/2025,Rensselaer,away,T,0,0,False
+11/07/2025,RIT Liberty League WSOC Championship,L 1-2 (1 OT),235,11/07/2025,RIT,home,L,1,2,True

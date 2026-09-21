@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2025,@ Hamilton,W 2-0,97,09/02/2025,Hamilton,away,W,2,0,False
+09/06/2025,@ Tufts,L 1-2,347,09/06/2025,Tufts,away,L,1,2,False
+09/13/2025,@ Amherst,W 1-0,212,09/13/2025,Amherst,away,W,1,0,False
+09/14/2025,Skidmore,W 4-0,97,09/14/2025,Skidmore,home,W,4,0,False
+09/20/2025,Trinity (CT),W 2-0,62,09/20/2025,Trinity (CT),home,W,2,0,False
+09/21/2025,@ Clark (MA),T 0-0,195,09/21/2025,Clark (MA),away,T,0,0,False
+09/27/2025,Colby,T 1-1,103,09/27/2025,Colby,home,T,1,1,False
+09/28/2025,Bowdoin,W 2-1,127,09/28/2025,Bowdoin,home,W,2,1,False
+10/04/2025,@ Bates,T 0-0,200,10/04/2025,Bates,away,T,0,0,False
+10/05/2025,@ Southern Me.,W 4-1,144,10/05/2025,Southern Me.,away,W,4,1,False
+10/11/2025,Wesleyan (CT),W 1-0,76,10/11/2025,Wesleyan (CT),home,W,1,0,False
+10/12/2025,MIT,L 0-1,113,10/12/2025,MIT,home,L,0,1,False
+10/21/2025,@ Westfield St.,W 4-0,106,10/21/2025,Westfield St.,away,W,4,0,False
+10/25/2025,@ Connecticut Col.,W 3-0,172,10/25/2025,Connecticut Col.,away,W,3,0,False
+10/28/2025,Middlebury,W 1-0,99,10/28/2025,Middlebury,home,W,1,0,False
+11/01/2025,#7 Bowdoin NESCAC WSOC Tournament,W 3-0,55,11/01/2025,Bowdoin,home,W,3,0,False
+11/08/2025,#3 Middlebury NESCAC WSOC Tournament,W 2-1,213,11/08/2025,Middlebury,home,W,2,1,False
+11/09/2025,@ #1 Tufts NESCAC WSOC Tournament,T 1-1 (3 OT),0,11/09/2025,Tufts,away,T,1,1,True
+11/15/2025,John Jay 2025 NCAA DIII Women's Soccer Championship,W 5-0,177,11/15/2025,John Jay,home,W,5,0,False
+11/16/2025,"Mary Washington @Williamstown, MA (2025 NCAA DIII Women's Soccer Championship)",T 2-2 (3 OT),112,11/16/2025,Mary Washington,neutral,T,2,2,True

@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,Fredonia,W 1-0,210,08/29/2025,Fredonia,home,W,1,0,False
+08/31/2025,Whitworth,T 1-1,210,08/31/2025,Whitworth,home,T,1,1,False
+09/05/2025,@ Pacific Lutheran,W 1-0,244,09/05/2025,Pacific Lutheran,away,W,1,0,False
+09/07/2025,@ Puget Sound,W 2-1,133,09/07/2025,Puget Sound,away,W,2,1,False
+09/17/2025,Pomona-Pitzer,L 1-2,150,09/17/2025,Pomona-Pitzer,home,L,1,2,False
+09/20/2025,Claremont-M-S,W 1-0,150,09/20/2025,Claremont-M-S,home,W,1,0,False
+09/24/2025,@ Chapman,W 3-1,120,09/24/2025,Chapman,away,W,3,1,False
+09/27/2025,La Verne,W 3-0,150,09/27/2025,La Verne,home,W,3,0,False
+10/01/2025,@ Redlands,W 4-1,127,10/01/2025,Redlands,away,W,4,1,False
+10/04/2025,Caltech,W 3-0,150,10/04/2025,Caltech,home,W,3,0,False
+10/08/2025,@ Whittier,L 1-2,87,10/08/2025,Whittier,away,L,1,2,False
+10/11/2025,@ UC Santa Cruz,W 4-0,262,10/11/2025,UC Santa Cruz,away,W,4,0,False
+10/15/2025,@ Occidental,W 1-0,104,10/15/2025,Occidental,away,W,1,0,False
+10/18/2025,@ La Verne,W 2-1,129,10/18/2025,La Verne,away,W,2,1,False
+10/22/2025,Chapman,W 2-0,125,10/22/2025,Chapman,home,W,2,0,False
+10/25/2025,@ Claremont-M-S,T 0-0,200,10/25/2025,Claremont-M-S,away,T,0,0,False
+11/01/2025,Whittier,W 2-0,125,11/01/2025,Whittier,home,W,2,0,False
+11/05/2025,#3 Claremont-M-S SCIAC WSOC Tournament,W 2-1,150,11/05/2025,Claremont-M-S,home,W,2,1,False
+11/08/2025,@ #1 Pomona-Pitzer SCIAC WSOC Tournament,W 2-1,132,11/08/2025,Pomona-Pitzer,away,W,2,1,False
+11/15/2025,"McMurry @San Antonio, TX (2025 NCAA DIII Women's Soccer Championship)",W 3-0,114,11/15/2025,McMurry,neutral,W,3,0,False
+11/16/2025,"Trinity (TX) @San Antonio, TX (2025 NCAA DIII Women's Soccer Championship)",W 2-1 (1 OT),250,11/16/2025,Trinity (TX),neutral,W,2,1,True
+11/22/2025,@ UChicago 2025 NCAA DIII Women's Soccer Championship,L 0-1,378,11/22/2025,UChicago,away,L,0,1,False

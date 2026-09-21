@@ -1,0 +1,25 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/29/2025,Rivier,W 5-4,224,08/29/2025,Rivier,home,W,5,4,False
+09/03/2025,Me.-Fort Kent,W 5-0,0,09/03/2025,Me.-Fort Kent,home,W,5,0,False
+09/06/2025,@ U New England,L 1-2,145,09/06/2025,U New England,away,L,1,2,False
+09/09/2025,@ Colby,L 0-5,118,09/09/2025,Colby,away,L,0,5,False
+09/13/2025,@ UMass Dartmouth,W 3-0,113,09/13/2025,UMass Dartmouth,away,W,3,0,False
+09/16/2025,@ Bowdoin,L 2-5,101,09/16/2025,Bowdoin,away,L,2,5,False
+09/21/2025,@ New Hampshire,L 1-4,301,09/21/2025,New Hampshire,away,L,1,4,False
+09/24/2025,@ Maine Maritime,W 4-1,115,09/24/2025,Maine Maritime,away,W,4,1,False
+09/27/2025,Rhode Island Col.,L 1-2,224,09/27/2025,Rhode Island Col.,home,L,1,2,False
+09/30/2025,@ Endicott,L 1-3,183,09/30/2025,Endicott,away,L,1,3,False
+10/04/2025,@ Keene St.,T 2-2,236,10/04/2025,Keene St.,away,T,2,2,False
+10/05/2025,Williams,L 1-4,144,10/05/2025,Williams,home,L,1,4,False
+10/08/2025,Me.-Farmington,W 5-0,144,10/08/2025,Me.-Farmington,home,W,5,0,False
+10/11/2025,WestConn,T 2-2,224,10/11/2025,WestConn,home,T,2,2,False
+10/12/2025,Middlebury,L 1-2,124,10/12/2025,Middlebury,home,L,1,2,False
+10/15/2025,@ Bates,L 0-3,100,10/15/2025,Bates,away,L,0,3,False
+10/17/2025,@ VTSU Castleton,W 4-1,65,10/17/2025,VTSU Castleton,away,W,4,1,False
+10/22/2025,UMass Boston,L 1-4,175,10/22/2025,UMass Boston,home,L,1,4,False
+10/25/2025,Eastern Conn. St.,W 3-0,244,10/25/2025,Eastern Conn. St.,home,W,3,0,False
+10/29/2025,Plymouth St.,W 5-1,144,10/29/2025,Plymouth St.,home,W,5,1,False
+11/01/2025,UMass Boston LEC WSOC Tournament,W 4-2,244,11/01/2025,UMass Boston,home,W,4,2,False
+11/05/2025,@ Keene St. LEC WSOC Tournament,W 3-2 (1 OT),611,11/05/2025,Keene St.,away,W,3,2,True
+11/08/2025,WestConn LEC WSOC Tournament,W 3-0,544,11/08/2025,WestConn,home,W,3,0,False
+11/15/2025,@ Messiah 2025 NCAA DIII Women's Soccer Championship,L 1-6,367,11/15/2025,Messiah,away,L,1,6,False

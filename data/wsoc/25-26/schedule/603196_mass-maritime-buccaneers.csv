@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2025,@ Curry,L 0-6,250,08/30/2025,Curry,away,L,0,6,False
+09/03/2025,Simmons,L 0-3,84,09/03/2025,Simmons,home,L,0,3,False
+09/06/2025,@ Salem St.,L 0-4,65,09/06/2025,Salem St.,away,L,0,4,False
+09/09/2025,Lesley,L 0-4,78,09/09/2025,Lesley,home,L,0,4,False
+09/12/2025,Bridgewater St.,L 0-7,76,09/12/2025,Bridgewater St.,home,L,0,7,False
+09/16/2025,@ New England Col.,L 0-2,0,09/16/2025,New England Col.,away,L,0,2,False
+09/20/2025,@ Worcester St.,L 0-8,78,09/20/2025,Worcester St.,away,L,0,8,False
+09/24/2025,Colby-Sawyer,L 0-1,43,09/24/2025,Colby-Sawyer,home,L,0,1,False
+09/27/2025,Anna Maria,L 0-1,75,09/27/2025,Anna Maria,home,L,0,1,False
+10/01/2025,@ Rhode Island Col.,L 0-5,175,10/01/2025,Rhode Island Col.,away,L,0,5,False
+10/03/2025,@ Westfield St.,L 0-3,200,10/03/2025,Westfield St.,away,L,0,3,False
+10/08/2025,Suffolk,Canceled,,10/08/2025,Suffolk,home,,,,
+10/11/2025,@ Bay Path,W 9-0,30,10/11/2025,@ Bay Path,home,W,9,0,False
+10/14/2025,@ UMass Dartmouth,L 0-3,89,10/14/2025,UMass Dartmouth,away,L,0,3,False
+10/17/2025,MCLA,T 0-0,76,10/17/2025,MCLA,home,T,0,0,False
+10/22/2025,Fisher,W 4-2,46,10/22/2025,Fisher,home,W,4,2,False
+10/25/2025,@ Framingham St.,T 1-1,300,10/25/2025,Framingham St.,away,T,1,1,False
+11/01/2025,Fitchburg St.,L 1-4,32,11/01/2025,Fitchburg St.,home,L,1,4,False

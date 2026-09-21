@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2025,WPI,W 1-0,150,09/02/2025,WPI,home,W,1,0,False
+09/06/2025,@ Connecticut Col.,W 3-0,117,09/06/2025,Connecticut Col.,away,W,3,0,False
+09/07/2025,Smith,W 2-1,100,09/07/2025,Smith,home,W,2,1,False
+09/13/2025,Williams,L 0-1,212,09/13/2025,Williams,home,L,0,1,False
+09/17/2025,@ Emerson,W 2-0,201,09/17/2025,Emerson,away,W,2,0,False
+09/20/2025,@ Middlebury,T 0-0,201,09/20/2025,Middlebury,away,T,0,0,False
+09/23/2025,@ Springfield,W 3-0,95,09/23/2025,Springfield,away,W,3,0,False
+09/27/2025,Bates,W 2-0,0,09/27/2025,Bates,home,W,2,0,False
+09/28/2025,Colby,T 1-1,0,09/28/2025,Colby,home,T,1,1,False
+10/04/2025,@ Wesleyan (CT),L 0-3,180,10/04/2025,Wesleyan (CT),away,L,0,3,False
+10/06/2025,@ Emmanuel (MA),W 3-1,106,10/06/2025,Emmanuel (MA),away,W,3,1,False
+10/14/2025,@ Tufts,W 2-1,188,10/14/2025,Tufts,away,W,2,1,False
+10/18/2025,Hamilton,L 0-1,220,10/18/2025,Hamilton,home,L,0,1,False
+10/25/2025,@ Bowdoin,W 2-1,322,10/25/2025,Bowdoin,away,W,2,1,False
+10/28/2025,Trinity (CT),W 3-0,131,10/28/2025,Trinity (CT),home,W,3,0,False
+11/01/2025,#5 Colby NESCAC WSOC Tournament,L 0-2,0,11/01/2025,Colby,home,L,0,2,False
+11/15/2025,"Cortland @Mechanicsburg, PA (2025 NCAA DIII Women's Soccer Championship)",W 2-0,79,11/15/2025,Cortland,neutral,W,2,0,False
+11/16/2025,"Messiah @Mechanicsburg, PA (2025 NCAA DIII Women's Soccer Championship)",L 0-1,376,11/16/2025,Messiah,neutral,L,0,1,False
