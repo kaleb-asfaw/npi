@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Worcester St.,W 4-1,170,09/01/2022,Worcester St.,home,W,4,1,False
+09/04/2022,@ SUNY Geneseo,L 0-2,127,09/04/2022,SUNY Geneseo,away,L,0,2,False
+09/07/2022,Curry,W 2-0,138,09/07/2022,Curry,home,W,2,0,False
+09/09/2022,Rhode Island Col.,W 2-0,122,09/09/2022,Rhode Island Col.,home,W,2,0,False
+09/11/2022,@ Middlebury,L 1-3,179,09/11/2022,Middlebury,away,L,1,3,False
+09/17/2022,@ Babson,L 0-2,185,09/17/2022,Babson,away,L,0,2,False
+09/21/2022,UMass Boston,L 0-2,146,09/21/2022,UMass Boston,home,L,0,2,False
+09/24/2022,@ Smith,W 3-1,100,09/24/2022,Smith,away,W,3,1,False
+09/28/2022,Endicott,T 2-2,162,09/28/2022,Endicott,home,T,2,2,False
+10/01/2022,MIT,L 0-4,100,10/01/2022,MIT,home,L,0,4,False
+10/05/2022,@ WPI,W 3-1,100,10/05/2022,WPI,away,W,3,1,False
+10/08/2022,@ Mount Holyoke,W 6-1,75,10/08/2022,Mount Holyoke,away,W,6,1,False
+10/12/2022,Emerson,L 1-3,73,10/12/2022,Emerson,home,L,1,3,False
+10/15/2022,Coast Guard,W 5-2,150,10/15/2022,Coast Guard,home,W,5,2,False
+10/19/2022,@ Springfield,L 1-3,200,10/19/2022,Springfield,away,L,1,3,False
+10/22/2022,Clark (MA),L 0-1,130,10/22/2022,Clark (MA),home,L,0,1,False
+10/26/2022,Wellesley,T 1-1,50,10/26/2022,Wellesley,home,T,1,1,False
+11/01/2022,@ #3 Emerson NEWMAC WSOC Championship,L 2-3 (2 OT),200,11/01/2022,Emerson,away,L,2,3,True

@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Manhattanville,L 0-1,77,09/01/2023,Manhattanville,away,L,0,1,False
+09/03/2023,King's (PA),W 3-1,130,09/03/2023,King's (PA),home,W,3,1,False
+09/06/2023,@ Stockton,L 1-5,125,09/06/2023,Stockton,away,L,1,5,False
+09/09/2023,Coast Guard,W 3-1,90,09/09/2023,Coast Guard,home,W,3,1,False
+09/10/2023,SUNY New Paltz,L 2-3,72,09/10/2023,SUNY New Paltz,home,L,2,3,False
+09/13/2023,Merchant Marine,W 3-1,55,09/13/2023,Merchant Marine,home,W,3,1,False
+09/16/2023,@ Rensselaer,L 0-4,241,09/16/2023,Rensselaer,away,L,0,4,False
+09/19/2023,Delaware Valley,W 7-0,80,09/19/2023,Delaware Valley,home,W,7,0,False
+09/24/2023,Juniata,W 1-0,52,09/24/2023,Juniata,home,W,1,0,False
+09/27/2023,@ FDU-Florham,W 2-1,105,09/27/2023,FDU-Florham,away,W,2,1,False
+09/30/2023,Elizabethtown,W 2-1,134,09/30/2023,Elizabethtown,home,W,2,1,False
+10/03/2023,@ Wilkes,W 3-0,132,10/03/2023,Wilkes,away,W,3,0,False
+10/07/2023,@ Catholic,L 1-4,250,10/07/2023,Catholic,away,L,1,4,False
+10/10/2023,Moravian,W 1-0,63,10/10/2023,Moravian,home,W,1,0,False
+10/14/2023,Goucher,T 0-0,77,10/14/2023,Goucher,home,T,0,0,False
+10/17/2023,Scranton,W 3-2,128,10/17/2023,Scranton,home,W,3,2,False
+10/21/2023,@ Lycoming,W 1-0,128,10/21/2023,Lycoming,away,W,1,0,False
+10/28/2023,@ Susquehanna,L 0-2,323,10/28/2023,Susquehanna,away,L,0,2,False
+10/31/2023,#6 Susquehanna Landmark Women's Soccer Championship,W 1-0,118,10/31/2023,Susquehanna,home,W,1,0,False
+11/02/2023,@ #2 Catholic Landmark Women's Soccer Championship,L 0-1 (2 OT),387,11/02/2023,Catholic,away,L,0,1,True

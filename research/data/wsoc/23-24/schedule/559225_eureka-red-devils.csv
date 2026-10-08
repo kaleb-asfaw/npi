@@ -1,0 +1,15 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Defiance,L 0-8,50,09/01/2023,Defiance,away,L,0,8,False
+09/02/2023,"Mich.-Dearborn @Defiance, Ohio",L 0-14,30,09/02/2023,"Mich.-Dearborn @Defiance, Ohio",neutral,L,0,14,False
+09/06/2023,@ Rockford,L 0-13,23,09/06/2023,Rockford,away,L,0,13,False
+09/17/2023,Mount Mary,L 1-3,100,09/17/2023,Mount Mary,home,L,1,3,False
+09/20/2023,Elmhurst,L 0-10,100,09/20/2023,Elmhurst,home,L,0,10,False
+09/27/2023,@ Principia,L 0-8,15,09/27/2023,Principia,away,L,0,8,False
+10/01/2023,@ MUW,L 0-10,100,10/01/2023,MUW,away,L,0,10,False
+10/06/2023,Webster,Canceled,,10/06/2023,Webster,home,,,,
+10/11/2023,Fontbonne,L 0-14,80,10/11/2023,Fontbonne,home,L,0,14,False
+10/14/2023,Lyon,L 0-7,100,10/14/2023,Lyon,home,L,0,7,False
+10/18/2023,@ Greenville,L 0-18,150,10/18/2023,Greenville,away,L,0,18,False
+10/21/2023,Spalding,L 0-14,65,10/21/2023,Spalding,home,L,0,14,False
+10/25/2023,@ Blackburn,L 0-4,70,10/25/2023,Blackburn,away,L,0,4,False
+10/27/2023,Westminster (MO),L 0-10,30,10/27/2023,Westminster (MO),home,L,0,10,False

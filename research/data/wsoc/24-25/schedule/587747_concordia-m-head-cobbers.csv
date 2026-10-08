@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Luther,W 1-0,40,08/30/2024,Luther,away,W,1,0,False
+08/31/2024,@ Simpson,L 0-2,257,08/31/2024,Simpson,away,L,0,2,False
+09/07/2024,"Cornell College @Lincoln, NE",W 7-0,26,09/07/2024,Cornell College,neutral,W,7,0,False
+09/08/2024,@ Neb. Wesleyan,W 2-1,100,09/08/2024,Neb. Wesleyan,away,W,2,1,False
+09/14/2024,Wis.-Superior,W 3-0,277,09/14/2024,Wis.-Superior,home,W,3,0,False
+09/18/2024,St. Scholastica,W 2-0,184,09/18/2024,St. Scholastica,home,W,2,0,False
+09/21/2024,@ Carleton,L 0-2,197,09/21/2024,Carleton,away,L,0,2,False
+09/28/2024,@ Macalester,W 2-1,471,09/28/2024,Macalester,away,W,2,1,False
+10/01/2024,Hamline,W 1-0,142,10/01/2024,Hamline,home,W,1,0,False
+10/05/2024,Saint Mary's (MN),L 0-1,205,10/05/2024,Saint Mary's (MN),home,L,0,1,False
+10/12/2024,@ Augsburg,L 1-2,200,10/12/2024,Augsburg,away,L,1,2,False
+10/16/2024,Saint Benedict,W 2-1,174,10/16/2024,Saint Benedict,home,W,2,1,False
+10/19/2024,@ Gustavus Adolphus,L 0-1,253,10/19/2024,Gustavus Adolphus,away,L,0,1,False
+10/22/2024,Bethel (MN),T 1-1,236,10/22/2024,Bethel (MN),home,T,1,1,False
+10/26/2024,@ St. Catherine,L 0-3,217,10/26/2024,St. Catherine,away,L,0,3,False
+11/02/2024,@ St. Olaf,L 0-2,204,11/02/2024,St. Olaf,away,L,0,2,False

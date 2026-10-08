@@ -1,0 +1,24 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Susquehanna,Ppd,,09/01/2021,Susquehanna,home,,,,
+09/04/2021,@ Chatham,W 5-0,100,09/04/2021,Chatham,away,W,5,0,False
+09/08/2021,@ Lebanon Valley,W 2-1,55,09/08/2021,Lebanon Valley,away,W,2,1,False
+09/11/2021,Shenandoah,W 4-0,200,09/11/2021,Shenandoah,home,W,4,0,False
+09/12/2021,Carnegie Mellon,W 1-0 (1 OT),80,09/12/2021,Carnegie Mellon,home,W,1,0,True
+09/15/2021,@ Cortland,W 7-1,51,09/15/2021,Cortland,away,W,7,1,False
+09/18/2021,Moravian,W 5-0,130,09/18/2021,Moravian,home,W,5,0,False
+09/22/2021,@ Nazareth,W 3-0,100,09/22/2021,Nazareth,away,W,3,0,False
+09/25/2021,@ Messiah,W 3-1,840,09/25/2021,Messiah,away,W,3,1,False
+09/29/2021,Scranton,L 0-1,150,09/29/2021,Scranton,home,L,0,1,False
+10/02/2021,Delaware Valley,W 8-0,125,10/02/2021,Delaware Valley,home,W,8,0,False
+10/09/2021,@ Arcadia,W 1-0,205,10/09/2021,Arcadia,away,W,1,0,False
+10/12/2021,Wilkes,W 9-2,100,10/12/2021,Wilkes,home,W,9,2,False
+10/16/2021,Stevens,W 2-1,200,10/16/2021,Stevens,home,W,2,1,False
+10/20/2021,@ Lycoming,W 2-0,70,10/20/2021,Lycoming,away,W,2,0,False
+10/23/2021,@ FDU-Florham,W 2-0,125,10/23/2021,FDU-Florham,away,W,2,0,False
+10/26/2021,DeSales,W 10-2,75,10/26/2021,DeSales,home,W,10,2,False
+10/30/2021,@ King's (PA),W 5-0,135,10/30/2021,King's (PA),away,W,5,0,False
+11/04/2021,#5 Wilkes MAC Freedom WSOC Championship,W 5-0,125,11/04/2021,Wilkes,home,W,5,0,False
+11/06/2021,#3 Stevens MAC Freedom WSOC Championship,W 1-0,200,11/06/2021,Stevens,home,W,1,0,False
+11/13/2021,Bryn Athyn NCAA Division III Women's Soccer Championship,W 11-0,200,11/13/2021,Bryn Athyn,home,W,11,0,False
+11/14/2021,Middlebury NCAA Division III Women's Soccer Championship,W 3-0,140,11/14/2021,Middlebury,home,W,3,0,False
+11/20/2021,@ William Smith NCAA Division III Women's Soccer Championship,L 4-5 (2 OT),387,11/20/2021,William Smith,away,L,4,5,True

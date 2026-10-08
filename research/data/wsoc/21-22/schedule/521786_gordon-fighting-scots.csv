@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/07/2021,@ New England Col.,W 1-0,103,09/07/2021,New England Col.,away,W,1,0,False
+09/11/2021,Eastern Nazarene,W 7-0,109,09/11/2021,Eastern Nazarene,home,W,7,0,False
+09/14/2021,@ Worcester St.,L 0-2,173,09/14/2021,Worcester St.,away,L,0,2,False
+09/18/2021,@ Suffolk,W 2-0,250,09/18/2021,Suffolk,away,W,2,0,False
+09/21/2021,@ Thomas (ME),W 5-0,47,09/21/2021,Thomas (ME),away,W,5,0,False
+09/22/2021,Framingham St.,W 4-0,87,09/22/2021,Framingham St.,home,W,4,0,False
+09/25/2021,@ U New England,L 0-1 (1 OT),128,09/25/2021,U New England,away,L,0,1,True
+09/29/2021,Salem St.,W 5-0,78,09/29/2021,Salem St.,home,W,5,0,False
+10/02/2021,Nichols,W 6-0,347,10/02/2021,Nichols,home,W,6,0,False
+10/06/2021,Maine Maritime,W 3-0,56,10/06/2021,Maine Maritime,home,W,3,0,False
+10/09/2021,Endicott,W 1-0,217,10/09/2021,Endicott,home,W,1,0,False
+10/13/2021,@ Western New Eng.,L 2-3,124,10/13/2021,Western New Eng.,away,L,2,3,False
+10/17/2021,@ Salve Regina,W 2-1,123,10/17/2021,Salve Regina,away,W,2,1,False
+10/20/2021,Roger Williams,W 2-1,68,10/20/2021,Roger Williams,home,W,2,1,False
+10/23/2021,Wentworth,W 2-0,139,10/23/2021,Wentworth,home,W,2,0,False
+10/27/2021,@ Curry,T 0-0 (2 OT),45,10/27/2021,Curry,away,T,0,0,True
+10/30/2021,#5 Suffolk CCC WSOC Championship,W 2-1,102,10/30/2021,Suffolk,home,W,2,1,False
+11/03/2021,@ #1 Endicott CCC WSOC Championship,W 3-1,450,11/03/2021,Endicott,away,W,3,1,False
+11/06/2021,#6 Roger Williams CCC WSOC Championship,W 1-0,642,11/06/2021,Roger Williams,home,W,1,0,False
+11/13/2021,"Johns Hopkins @Amherst, MA (NCAA Division III Women's Soccer Championship)",L 0-3,,11/13/2021,Johns Hopkins,neutral,L,0,3,False

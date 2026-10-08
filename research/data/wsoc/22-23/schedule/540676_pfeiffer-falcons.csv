@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Averett,L 0-1,150,09/01/2022,Averett,home,L,0,1,False
+09/06/2022,@ Bob Jones,L 1-5,0,09/06/2022,Bob Jones,away,L,1,5,False
+09/10/2022,@ Sweet Briar,W 6-1,50,09/10/2022,Sweet Briar,away,W,6,1,False
+09/13/2022,Guilford,T 0-0,235,09/13/2022,Guilford,home,T,0,0,False
+09/17/2022,Roanoke,L 0-5,175,09/17/2022,Roanoke,home,L,0,5,False
+09/21/2022,@ CarolinaU,L 2-3,0,09/21/2022,@ CarolinaU,home,L,2,3,False
+09/24/2022,@ Mary Baldwin,L 0-2,77,09/24/2022,Mary Baldwin,away,L,0,2,False
+09/29/2022,@ Greensboro,L 0-4,99,09/29/2022,Greensboro,away,L,0,4,False
+10/08/2022,N.C. Wesleyan,L 0-4,185,10/08/2022,N.C. Wesleyan,home,L,0,4,False
+10/11/2022,@ William Peace,L 1-2,67,10/11/2022,William Peace,away,L,1,2,False
+10/14/2022,@ Southern Va.,L 0-4,53,10/14/2022,Southern Va.,away,L,0,4,False
+10/19/2022,Meredith,W 3-1,105,10/19/2022,Meredith,home,W,3,1,False
+10/22/2022,@ Salem (NC),L 1-2,128,10/22/2022,Salem (NC),away,L,1,2,False
+10/25/2022,Brevard,L 0-2,115,10/25/2022,Brevard,home,L,0,2,False
+10/29/2022,Methodist,L 1-2,175,10/29/2022,Methodist,home,L,1,2,False

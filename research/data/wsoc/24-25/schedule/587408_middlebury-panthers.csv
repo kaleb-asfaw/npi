@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/04/2024,@ Clark (MA),W 1-0,184,09/04/2024,Clark (MA),away,W,1,0,False
+09/07/2024,Hamilton,W 1-0,198,09/07/2024,Hamilton,home,W,1,0,False
+09/14/2024,Trinity (CT),W 2-0,154,09/14/2024,Trinity (CT),home,W,2,0,False
+09/15/2024,MIT,T 2-2,127,09/15/2024,MIT,home,T,2,2,False
+09/21/2024,@ Amherst,T 0-0,253,09/21/2024,Amherst,away,T,0,0,False
+09/22/2024,@ Wesleyan (CT),T 2-2,105,09/22/2024,Wesleyan (CT),away,T,2,2,False
+09/25/2024,@ VTSU Castleton,W 5-0,48,09/25/2024,VTSU Castleton,away,W,5,0,False
+09/28/2024,Connecticut Col.,W 2-0,467,09/28/2024,Connecticut Col.,home,W,2,0,False
+10/05/2024,@ Bowdoin,W 2-0,209,10/05/2024,Bowdoin,away,W,2,0,False
+10/09/2024,Plymouth St.,W 6-1,127,10/09/2024,Plymouth St.,home,W,6,1,False
+10/12/2024,Colby,T 0-0,204,10/12/2024,Colby,home,T,0,0,False
+10/13/2024,Babson,T 0-0,176,10/13/2024,Babson,home,T,0,0,False
+10/19/2024,@ Tufts,L 0-3,513,10/19/2024,Tufts,away,L,0,3,False
+10/26/2024,@ Bates,W 2-0,100,10/26/2024,Bates,away,W,2,0,False
+10/29/2024,Williams,T 0-0,234,10/29/2024,Williams,home,T,0,0,False
+11/02/2024,@ #4 Amherst NESCAC Women's Soccer Championship,L 0-1,220,11/02/2024,Amherst,away,L,0,1,False

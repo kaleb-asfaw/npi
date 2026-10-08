@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Geneva,T 2-2,145,08/30/2024,Geneva,away,T,2,2,False
+08/31/2024,@ Westminster (PA),L 1-5,88,08/31/2024,Westminster (PA),away,L,1,5,False
+09/04/2024,Penn St.-Altoona,W 2-0,177,09/04/2024,Penn St.-Altoona,home,W,2,0,False
+09/07/2024,Notre Dame (MD),W 8-0,183,09/07/2024,Notre Dame (MD),home,W,8,0,False
+09/11/2024,Alvernia,W 2-1,121,09/11/2024,Alvernia,home,W,2,1,False
+09/14/2024,Wash. & Jeff.,W 2-0,203,09/14/2024,Wash. & Jeff.,home,W,2,0,False
+09/15/2024,Franciscan,W 1-0,187,09/15/2024,Franciscan,home,W,1,0,False
+09/21/2024,@ Albright,W 2-1,141,09/21/2024,Albright,away,W,2,1,False
+09/28/2024,Drew,W 1-0,307,09/28/2024,Drew,home,W,1,0,False
+10/02/2024,Pitt.-Greensburg,T 0-0,105,10/02/2024,Pitt.-Greensburg,home,T,0,0,False
+10/05/2024,Goucher,W 1-0,157,10/05/2024,Goucher,home,W,1,0,False
+10/09/2024,Elizabethtown,L 0-2,116,10/09/2024,Elizabethtown,home,L,0,2,False
+10/12/2024,@ Wilkes,L 1-2,202,10/12/2024,Wilkes,away,L,1,2,False
+10/16/2024,@ Lycoming,L 0-1,142,10/16/2024,Lycoming,away,L,0,1,False
+10/19/2024,@ Scranton,L 0-4,314,10/19/2024,Scranton,away,L,0,4,False
+10/23/2024,Susquehanna,T 1-1,177,10/23/2024,Susquehanna,home,T,1,1,False
+10/26/2024,Moravian,L 0-1,187,10/26/2024,Moravian,home,L,0,1,False
+11/02/2024,@ Catholic,L 0-1,324,11/02/2024,Catholic,away,L,0,1,False
+11/16/2024,"#4 New Jersey City @Madison, NJ (2024 ECAC Women's Soccer Championship)",L 1-2,102,11/16/2024,New Jersey City,neutral,L,1,2,False

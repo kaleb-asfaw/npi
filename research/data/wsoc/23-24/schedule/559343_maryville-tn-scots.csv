@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Webster,W 3-1,100,09/01/2023,Webster,away,W,3,1,False
+09/02/2023,@ Principia,W 4-0,50,09/02/2023,Principia,away,W,4,0,False
+09/07/2023,@ Transylvania,T 0-0,126,09/07/2023,Transylvania,away,T,0,0,False
+09/08/2023,"Meredith @Demorest, GA",W 7-1,115,09/08/2023,Meredith,neutral,W,7,1,False
+09/10/2023,"Guilford @Demorest, GA",T 0-0,53,09/10/2023,Guilford,neutral,T,0,0,False
+09/12/2023,Berry,W 2-0,295,09/12/2023,Berry,home,W,2,0,False
+09/16/2023,@ Wilmington (OH),L 0-1,124,09/16/2023,Wilmington (OH),away,L,0,1,False
+09/20/2023,@ Covenant,T 1-1,234,09/20/2023,Covenant,away,T,1,1,False
+09/24/2023,LaGrange,W 7-0,349,09/24/2023,LaGrange,home,W,7,0,False
+10/03/2023,@ Sewanee,L 0-2,114,10/03/2023,Sewanee,away,L,0,2,False
+10/05/2023,@ Wesleyan (GA),W 8-0,0,10/05/2023,Wesleyan (GA),away,W,8,0,False
+10/07/2023,Huntingdon,W 8-1,103,10/07/2023,Huntingdon,home,W,8,1,False
+10/10/2023,@ Berea,W 5-0,76,10/10/2023,Berea,away,W,5,0,False
+10/14/2023,@ Belhaven,W 1-0,237,10/14/2023,Belhaven,away,W,1,0,False
+10/18/2023,Piedmont,W 3-0,310,10/18/2023,Piedmont,home,W,3,0,False
+10/19/2023,Asbury,W 4-0,138,10/19/2023,Asbury,home,W,4,0,False
+10/21/2023,Agnes Scott,W 9-0,290,10/21/2023,Agnes Scott,home,W,9,0,False
+10/24/2023,@ Emory,L 0-5,47,10/24/2023,Emory,away,L,0,5,False
+10/28/2023,#8 Agnes Scott CCS Women's Soccer Championship,W 8-0,112,10/28/2023,Agnes Scott,home,W,8,0,False
+11/01/2023,#4 Piedmont CCS Women's Soccer Championship,W 4-0,365,11/01/2023,Piedmont,home,W,4,0,False
+11/04/2023,#3 Covenant CCS Women's Soccer Championship,W 2-1 (2 OT),589,11/04/2023,Covenant,home,W,2,1,True
+11/11/2023,@ WashU NCAA Division III Women's Soccer Championship,L 0-2,423,11/11/2023,WashU,away,L,0,2,False

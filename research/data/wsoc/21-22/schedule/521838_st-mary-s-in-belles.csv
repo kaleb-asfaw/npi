@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Concordia Chicago,W 3-0,177,09/01/2021,Concordia Chicago,home,W,3,0,False
+09/04/2021,@ Lake Forest,W 3-2 (1 OT),80,09/04/2021,Lake Forest,away,W,3,2,True
+09/08/2021,Aurora,W 2-0,117,09/08/2021,Aurora,home,W,2,0,False
+09/10/2021,Goshen,W 4-3,143,09/10/2021,Goshen,home,W,4,3,False
+09/12/2021,@ Franklin,L 0-1,75,09/12/2021,Franklin,away,L,0,1,False
+09/18/2021,@ Anderson (IN),W 1-0,110,09/18/2021,Anderson (IN),away,W,1,0,False
+09/20/2021,@ Bluffton,W 2-1,50,09/20/2021,Bluffton,away,W,2,1,False
+09/22/2021,Manchester,W 3-0,67,09/22/2021,Manchester,home,W,3,0,False
+09/25/2021,@ Heidelberg,L 1-2,54,09/25/2021,Heidelberg,away,L,1,2,False
+09/28/2021,@ Trine,L 0-4,260,09/28/2021,Trine,away,L,0,4,False
+10/02/2021,Hope,L 0-3,97,10/02/2021,Hope,home,L,0,3,False
+10/06/2021,@ Adrian,L 0-2,75,10/06/2021,Adrian,away,L,0,2,False
+10/09/2021,Calvin,L 0-6,153,10/09/2021,Calvin,home,L,0,6,False
+10/12/2021,@ Kalamazoo,L 0-2,108,10/12/2021,Kalamazoo,away,L,0,2,False
+10/16/2021,Albion,L 0-1,79,10/16/2021,Albion,home,L,0,1,False
+10/20/2021,@ Olivet,W 2-0,185,10/20/2021,Olivet,away,W,2,0,False
+10/23/2021,Alma,L 0-1 (2 OT),104,10/23/2021,Alma,home,L,0,1,True

@@ -1,0 +1,15 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/08/2021,@ Husson,W 3-0,200,09/08/2021,Husson,away,W,3,0,False
+09/18/2021,@ Trinity (CT),T 0-0 (2 OT),120,09/18/2021,Trinity (CT),away,T,0,0,True
+09/19/2021,@ Connecticut Col.,L 0-2,75,09/19/2021,Connecticut Col.,away,L,0,2,False
+09/21/2021,@ Me.-Farmington,W 3-0,120,09/21/2021,Me.-Farmington,away,W,3,0,False
+09/25/2021,Tufts,L 0-6,75,09/25/2021,Tufts,home,L,0,6,False
+09/26/2021,Me.-Fort Kent,W 1-0,75,09/26/2021,Me.-Fort Kent,home,W,1,0,False
+10/02/2021,Hamilton,L 0-1,250,10/02/2021,Hamilton,home,L,0,1,False
+10/03/2021,Bowdoin,T 0-0 (2 OT),0,10/03/2021,Bowdoin,home,T,0,0,True
+10/09/2021,@ Williams,L 0-3,0,10/09/2021,Williams,away,L,0,3,False
+10/16/2021,Middlebury,L 1-2 (2 OT),0,10/16/2021,Middlebury,home,L,1,2,True
+10/17/2021,Wesleyan (CT),L 0-5,75,10/17/2021,Wesleyan (CT),home,L,0,5,False
+10/20/2021,@ Thomas (ME),W 4-0,95,10/20/2021,Thomas (ME),away,W,4,0,False
+10/23/2021,@ Amherst,L 0-5,150,10/23/2021,Amherst,away,L,0,5,False
+10/26/2021,@ Bates,L 1-4,75,10/26/2021,Bates,away,L,1,4,False

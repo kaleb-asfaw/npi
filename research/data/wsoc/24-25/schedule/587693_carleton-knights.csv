@@ -1,0 +1,24 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Kalamazoo,W 1-0,200,08/30/2024,Kalamazoo,away,W,1,0,False
+09/01/2024,@ Albion,W 8-1,98,09/01/2024,Albion,away,W,8,1,False
+09/02/2024,@ Hope,W 1-0,438,09/02/2024,Hope,away,W,1,0,False
+09/11/2024,Wartburg,W 3-1,457,09/11/2024,Wartburg,home,W,3,1,False
+09/14/2024,Wis.-Whitewater,W 3-1,183,09/14/2024,Wis.-Whitewater,home,W,3,1,False
+09/15/2024,Simpson,T 3-3,344,09/15/2024,Simpson,home,T,3,3,False
+09/18/2024,@ Gustavus Adolphus,W 1-0,101,09/18/2024,Gustavus Adolphus,away,W,1,0,False
+09/21/2024,Concordia-M'head,W 2-0,197,09/21/2024,Concordia-M'head,home,W,2,0,False
+09/23/2024,@ Loras,L 0-1,75,09/23/2024,Loras,away,L,0,1,False
+09/28/2024,Bethel (MN),W 6-0,104,09/28/2024,Bethel (MN),home,W,6,0,False
+10/01/2024,@ St. Olaf,T 2-2,187,10/01/2024,St. Olaf,away,T,2,2,False
+10/05/2024,St. Scholastica,W 6-0,314,10/05/2024,St. Scholastica,home,W,6,0,False
+10/08/2024,@ Augsburg,W 3-0,150,10/08/2024,Augsburg,away,W,3,0,False
+10/12/2024,@ St. Catherine,T 1-1,120,10/12/2024,St. Catherine,away,T,1,1,False
+10/16/2024,@ Macalester,W 1-0,134,10/16/2024,Macalester,away,W,1,0,False
+10/19/2024,Hamline,W 4-0,278,10/19/2024,Hamline,home,W,4,0,False
+10/20/2024,@ Wis.-La Crosse,T 2-2,140,10/20/2024,Wis.-La Crosse,away,T,2,2,False
+10/23/2024,@ UW-River Falls,W 2-0,127,10/23/2024,UW-River Falls,away,W,2,0,False
+10/26/2024,@ Saint Mary's (MN),T 0-0,114,10/26/2024,Saint Mary's (MN),away,T,0,0,False
+11/02/2024,Saint Benedict,W 2-1,348,11/02/2024,Saint Benedict,home,W,2,1,False
+11/07/2024,#3 Saint Mary's (MN) MIAC Women's Soccer Championship,L 0-1,212,11/07/2024,Saint Mary's (MN),home,L,0,1,False
+11/16/2024,"Wis.-Superior @Dubuque, IA (NCAA Division III Women's Soccer Championship)",T 0-0 (3 OT),75,11/16/2024,Wis.-Superior,neutral,T,0,0,True
+11/17/2024,"Loras @Dubuque, IA (NCAA Division III Women's Soccer Championship)",T 0-0 (3 OT),365,11/17/2024,Loras,neutral,T,0,0,True

@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,DePauw,T 2-2,100,08/30/2024,DePauw,home,T,2,2,False
+09/02/2024,Kalamazoo,L 3-4,100,09/02/2024,Kalamazoo,home,L,3,4,False
+09/06/2024,Rhodes,L 0-4,50,09/06/2024,Rhodes,home,L,0,4,False
+09/10/2024,@ Harris-Stowe,L 1-2,0,09/10/2024,@ Harris-Stowe,home,L,1,2,False
+09/13/2024,@ North Central (IL),L 0-3,73,09/13/2024,North Central (IL),away,L,0,3,False
+09/14/2024,"Albion @Naperville, IL",W 2-1,44,09/14/2024,Albion,neutral,W,2,1,False
+09/18/2024,@ Rose-Hulman,L 1-3,70,09/18/2024,Rose-Hulman,away,L,1,3,False
+09/21/2024,Stephens College,W 4-0,100,09/21/2024,Stephens College,home,W,4,0,False
+09/25/2024,@ Millikin,L 0-2,120,09/25/2024,Millikin,away,L,0,2,False
+10/01/2024,@ WashU,L 0-7,171,10/01/2024,WashU,away,L,0,7,False
+10/05/2024,@ Webster,T 1-1,80,10/05/2024,Webster,away,T,1,1,False
+10/09/2024,@ Eureka,W 6-0,50,10/09/2024,Eureka,away,W,6,0,False
+10/12/2024,Westminster (MO),W 1-0,150,10/12/2024,Westminster (MO),home,W,1,0,False
+10/16/2024,@ Spalding,W 2-1,132,10/16/2024,Spalding,away,W,2,1,False
+10/19/2024,MUW,W 5-0,100,10/19/2024,MUW,home,W,5,0,False
+10/23/2024,@ Lyon,W 5-0,100,10/23/2024,Lyon,away,W,5,0,False
+10/26/2024,Blackburn,W 8-0,150,10/26/2024,Blackburn,home,W,8,0,False
+10/29/2024,Principia,W 3-0,200,10/29/2024,Principia,home,W,3,0,False
+11/06/2024,#4 Spalding SLIAC Women's Soccer Tournament,W 2-1,150,11/06/2024,Spalding,home,W,2,1,False
+11/09/2024,#2 Webster SLIAC Women's Soccer Tournament,W 2-1,150,11/09/2024,Webster,home,W,2,1,False
+11/15/2024,@ Calvin NCAA Division III Women's Soccer Championship,L 0-4,227,11/15/2024,Calvin,away,L,0,4,False

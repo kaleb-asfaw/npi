@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,"Saint Joseph (CT) @Colonie, NY",W 8-0,125,09/01/2022,Saint Joseph (CT),neutral,W,8,0,False
+09/04/2022,Carnegie Mellon,W 2-0,225,09/04/2022,Carnegie Mellon,home,W,2,0,False
+09/10/2022,Messiah,L 1-2,225,09/10/2022,Messiah,home,L,1,2,False
+09/14/2022,@ SUNY Geneseo,W 1-0,210,09/14/2022,SUNY Geneseo,away,W,1,0,False
+09/17/2022,@ Rochester (NY),T 0-0,175,09/17/2022,Rochester (NY),away,T,0,0,False
+09/21/2022,RIT,W 4-1,175,09/21/2022,RIT,home,W,4,1,False
+09/24/2022,@ Skidmore,T 1-1,360,09/24/2022,Skidmore,away,T,1,1,False
+09/28/2022,@ Ithaca,W 3-0,65,09/28/2022,Ithaca,away,W,3,0,False
+10/01/2022,Bard,W 5-0,355,10/01/2022,Bard,home,W,5,0,False
+10/02/2022,Penn St.-Behrend,W 6-0,125,10/02/2022,Penn St.-Behrend,home,W,6,0,False
+10/08/2022,@ Clarkson,W 2-0,45,10/08/2022,Clarkson,away,W,2,0,False
+10/09/2022,@ Plattsburgh St.,W 6-2,187,10/09/2022,Plattsburgh St.,away,W,6,2,False
+10/14/2022,@ Union (NY),W 5-0,213,10/14/2022,Union (NY),away,W,5,0,False
+10/15/2022,@ Rensselaer,W 1-0,45,10/15/2022,Rensselaer,away,W,1,0,False
+10/22/2022,Vassar,T 0-0,215,10/22/2022,Vassar,home,T,0,0,False
+10/29/2022,St. Lawrence,T 0-0,147,10/29/2022,St. Lawrence,home,T,0,0,False
+11/04/2022,#4 RIT Liberty WSOC Championship,T 0-0 (3 OT),225,11/04/2022,RIT,home,T,0,0,True
+11/06/2022,#2 Ithaca Liberty WSOC Championship,T 0-0 (3 OT),575,11/06/2022,Ithaca,home,T,0,0,True
+11/12/2022,SUNY Delhi NCAA Division III Women's Soccer Championship,W 12-0,201,11/12/2022,SUNY Delhi,home,W,12,0,False
+11/13/2022,"Tufts @Geneva, NY (NCAA Division III Women's Soccer Championship)",W 1-0,148,11/13/2022,Tufts,neutral,W,1,0,False
+11/19/2022,"Amherst @Cleveland, OH (NCAA Division III Women's Soccer Championship)",W 2-1,367,11/19/2022,Amherst,neutral,W,2,1,False
+11/20/2022,@ CWRU NCAA Division III Women's Soccer Championship,L 2-4,626,11/20/2022,CWRU,away,L,2,4,False

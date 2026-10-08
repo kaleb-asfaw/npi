@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/31/2024,@ William Peace,L 0-2,60,08/31/2024,William Peace,away,L,0,2,False
+09/03/2024,Pfeiffer,L 1-4,88,09/03/2024,Pfeiffer,home,L,1,4,False
+09/07/2024,Asbury,L 0-6,75,09/07/2024,Asbury,home,L,0,6,False
+09/13/2024,Salem (NC),L 1-7,22,09/13/2024,Salem (NC),home,L,1,7,False
+09/15/2024,"Penn St.-Mont Alto @Charlotte, NC",Canceled,,09/15/2024,"Penn St.-Mont Alto @Charlotte, NC",neutral,,,,
+09/17/2024,@ Toccoa Falls,L 0-4,0,09/17/2024,@ Toccoa Falls,home,L,0,4,False
+09/21/2024,Berea,L 2-5,42,09/21/2024,Berea,home,L,2,5,False
+09/25/2024,Guilford,Canceled,,09/25/2024,Guilford,home,,,,
+09/30/2024,@ Brevard,Canceled,,09/30/2024,Brevard,away,,,,
+10/09/2024,Brevard,Canceled,,10/09/2024,Brevard,home,,,,
+10/13/2024,@ Methodist,Canceled,,10/13/2024,Methodist,away,,,,
+10/17/2024,Toccoa Falls,Canceled,,10/17/2024,Toccoa Falls,home,,,,
+10/20/2024,@ LaGrange,Canceled,,10/20/2024,LaGrange,away,,,,
+10/29/2024,Piedmont,Canceled,,10/29/2024,Piedmont,home,,,,
+10/31/2024,@ Bob Jones,Canceled,,10/31/2024,@ Bob Jones,home,,,,

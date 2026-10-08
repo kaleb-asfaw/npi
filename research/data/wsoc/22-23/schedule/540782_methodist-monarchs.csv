@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2022,@ East. Mennonite,W 2-0,340,09/03/2022,East. Mennonite,away,W,2,0,False
+09/04/2022,@ Averett,T 2-2,125,09/04/2022,Averett,away,T,2,2,False
+09/07/2022,St. Andrews,W 5-0,130,09/07/2022,St. Andrews,home,W,5,0,False
+09/10/2022,@ Batten,L 0-4,283,09/10/2022,Batten,away,L,0,4,False
+09/11/2022,@ Chris. Newport,L 0-6,102,09/11/2022,Chris. Newport,away,L,0,6,False
+09/14/2022,JWU (Charlotte),W 6-0,148,09/14/2022,JWU (Charlotte),home,W,6,0,False
+09/17/2022,Bob Jones,W 5-0,141,09/17/2022,Bob Jones,home,W,5,0,False
+09/24/2022,Southern Va.,W 1-0,147,09/24/2022,Southern Va.,home,W,1,0,False
+09/27/2022,Meredith,W 2-0,80,09/27/2022,Meredith,home,W,2,0,False
+09/29/2022,@ Salem (NC),W 9-0,102,09/29/2022,Salem (NC),away,W,9,0,False
+10/05/2022,@ William Peace,W 4-2,102,10/05/2022,William Peace,away,W,4,2,False
+10/08/2022,Mary Baldwin,W 3-0,180,10/08/2022,Mary Baldwin,home,W,3,0,False
+10/15/2022,@ Brevard,W 2-0,200,10/15/2022,Brevard,away,W,2,0,False
+10/22/2022,N.C. Wesleyan,W 5-1,250,10/22/2022,N.C. Wesleyan,home,W,5,1,False
+10/25/2022,Greensboro,W 3-1,50,10/25/2022,Greensboro,home,W,3,1,False
+10/29/2022,@ Pfeiffer,W 2-1,175,10/29/2022,Pfeiffer,away,W,2,1,False
+11/01/2022,#8 Salem (NC) USA South WSOC Championship,W 5-2,167,11/01/2022,Salem (NC),home,W,5,2,False
+11/03/2022,#5 Greensboro USA South WSOC Championship,W 2-1 (2 OT),231,11/03/2022,Greensboro,home,W,2,1,True
+11/05/2022,#2 Southern Va. USA South WSOC Championship,W 3-1,390,11/05/2022,Southern Va.,home,W,3,1,False
+11/12/2022,"Rowan @Virginia Beach, VA (NCAA Division III Women's Soccer Championship)",L 1-5,253,11/12/2022,Rowan,neutral,L,1,5,False

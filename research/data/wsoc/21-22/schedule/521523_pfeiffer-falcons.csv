@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/04/2021,@ Wash. & Lee,L 0-3,138,09/04/2021,Wash. & Lee,away,L,0,3,False
+09/05/2021,"Bridgewater (VA) @Lexington, VA",L 0-4,42,09/05/2021,Bridgewater (VA),neutral,L,0,4,False
+09/11/2021,"Batten @Newport News, VA",L 0-3,132,09/11/2021,Batten,neutral,L,0,3,False
+09/12/2021,@ Chris. Newport,L 0-6,241,09/12/2021,Chris. Newport,away,L,0,6,False
+09/18/2021,@ Roanoke,L 0-2,150,09/18/2021,Roanoke,away,L,0,2,False
+09/22/2021,@ Ferrum,Ppd,,09/22/2021,Ferrum,away,,,,
+09/25/2021,Greensboro,L 0-1 (1 OT),425,09/25/2021,Greensboro,home,L,0,1,True
+09/28/2021,@ Methodist,L 1-2,136,09/28/2021,Methodist,away,L,1,2,False
+10/02/2021,@ N.C. Wesleyan,L 0-1,76,10/02/2021,N.C. Wesleyan,away,L,0,1,False
+10/06/2021,Salem (NC),L 0-1,109,10/06/2021,Salem (NC),home,L,0,1,False
+10/09/2021,Southern Va.,W 2-1,122,10/09/2021,Southern Va.,home,W,2,1,False
+10/12/2021,@ Meredith,L 0-1,112,10/12/2021,Meredith,away,L,0,1,False
+10/16/2021,@ Averett,T 1-1 (2 OT),350,10/16/2021,Averett,away,T,1,1,True
+10/20/2021,William Peace,T 1-1 (2 OT),101,10/20/2021,William Peace,home,T,1,1,True
+10/23/2021,Mary Baldwin,W 3-0,175,10/23/2021,Mary Baldwin,home,W,3,0,False

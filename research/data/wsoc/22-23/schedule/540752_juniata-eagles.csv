@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Chatham,L 1-2,120,09/01/2022,Chatham,home,L,1,2,False
+09/03/2022,@ Westminster (PA),L 0-2,111,09/03/2022,Westminster (PA),away,L,0,2,False
+09/04/2022,Penn St.-Altoona,T 0-0,134,09/04/2022,Penn St.-Altoona,home,T,0,0,False
+09/07/2022,@ Albright,T 2-2,76,09/07/2022,Albright,away,T,2,2,False
+09/10/2022,@ Cabrini,L 0-1,92,09/10/2022,Cabrini,away,L,0,1,False
+09/14/2022,@ King's (PA),L 0-2,100,09/14/2022,King's (PA),away,L,0,2,False
+09/17/2022,@ Hood,L 0-1,150,09/17/2022,Hood,away,L,0,1,False
+09/20/2022,Pitt.-Bradford,W 2-1,178,09/20/2022,Pitt.-Bradford,home,W,2,1,False
+09/24/2022,Moravian,L 0-1,257,09/24/2022,Moravian,home,L,0,1,False
+09/28/2022,Penn College,W 1-0,215,09/28/2022,Penn College,home,W,1,0,False
+10/01/2022,@ Elizabethtown,L 0-3,110,10/01/2022,Elizabethtown,away,L,0,3,False
+10/05/2022,@ Pitt.-Greensburg,T 0-0,103,10/05/2022,Pitt.-Greensburg,away,T,0,0,False
+10/08/2022,@ Catholic,L 0-4,155,10/08/2022,Catholic,away,L,0,4,False
+10/12/2022,Susquehanna,L 0-4,197,10/12/2022,Susquehanna,home,L,0,4,False
+10/15/2022,Goucher,T 0-0,179,10/15/2022,Goucher,home,T,0,0,False
+10/22/2022,Drew,L 1-2,249,10/22/2022,Drew,home,L,1,2,False
+10/26/2022,Lycoming,L 1-2,101,10/26/2022,Lycoming,home,L,1,2,False
+10/29/2022,@ Scranton,L 0-3,317,10/29/2022,Scranton,away,L,0,3,False

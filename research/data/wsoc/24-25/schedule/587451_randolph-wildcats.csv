@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Salem (NC),Canceled,,08/30/2024,Salem (NC),away,,,,
+09/04/2024,Virginia St.,W 2-1,250,09/04/2024,Virginia St.,home,W,2,1,False
+09/07/2024,@ William Peace,T 1-1,30,09/07/2024,William Peace,away,T,1,1,False
+09/11/2024,Mary Baldwin,W 1-0,150,09/11/2024,Mary Baldwin,home,W,1,0,False
+09/14/2024,@ Regent,W 3-0,0,09/14/2024,@ Regent,home,W,3,0,False
+09/18/2024,Meredith,T 1-1,30,09/18/2024,Meredith,home,T,1,1,False
+09/20/2024,Agnes Scott,W 5-0,130,09/20/2024,Agnes Scott,home,W,5,0,False
+09/25/2024,N.C. Wesleyan,W 3-2,30,09/25/2024,N.C. Wesleyan,home,W,3,2,False
+10/02/2024,@ East. Mennonite,L 0-2,108,10/02/2024,East. Mennonite,away,L,0,2,False
+10/05/2024,@ Sweet Briar,W 3-1,50,10/05/2024,Sweet Briar,away,W,3,1,False
+10/09/2024,Roanoke,L 1-2,100,10/09/2024,Roanoke,home,L,1,2,False
+10/12/2024,Lynchburg,L 0-4,120,10/12/2024,Lynchburg,home,L,0,4,False
+10/14/2024,@ Averett,L 1-2,47,10/14/2024,Averett,away,L,1,2,False
+10/16/2024,@ Guilford,L 0-2,89,10/16/2024,Guilford,away,L,0,2,False
+10/18/2024,@ Ferrum,L 0-4,91,10/18/2024,Ferrum,away,L,0,4,False
+10/23/2024,Randolph-Macon,L 1-2,120,10/23/2024,Randolph-Macon,home,L,1,2,False
+10/26/2024,Hollins,W 6-0,100,10/26/2024,Hollins,home,W,6,0,False
+10/30/2024,@ Shenandoah,L 0-8,76,10/30/2024,Shenandoah,away,L,0,8,False
+11/02/2024,Bridgewater (VA),L 2-4,200,11/02/2024,Bridgewater (VA),home,L,2,4,False

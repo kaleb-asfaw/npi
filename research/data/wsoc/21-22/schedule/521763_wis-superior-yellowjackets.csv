@@ -1,0 +1,25 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Saint Mary's (MN),L 0-2,88,09/01/2021,Saint Mary's (MN),home,L,0,2,False
+09/05/2021,Lakeland,Canceled,,09/05/2021,Lakeland,home,,,,
+09/05/2021,UW-River Falls,W 3-2,86,09/05/2021,UW-River Falls,home,W,3,2,False
+09/10/2021,@ Augsburg,L 1-2 (2 OT),174,09/10/2021,Augsburg,away,L,1,2,True
+09/12/2021,Edgewood,W 2-1 (2 OT),34,09/12/2021,Edgewood,home,W,2,1,True
+09/15/2021,@ Wis.-Stout,L 0-2,100,09/15/2021,Wis.-Stout,away,L,0,2,False
+09/18/2021,@ Northland,W 4-0,215,09/18/2021,Northland,away,W,4,0,False
+09/24/2021,Bethany Lutheran,W 2-0,92,09/24/2021,Bethany Lutheran,home,W,2,0,False
+09/25/2021,Martin Luther,W 3-0,22,09/25/2021,Martin Luther,home,W,3,0,False
+10/01/2021,Crown (MN),W 5-0,62,10/01/2021,Crown (MN),home,W,5,0,False
+10/02/2021,Minn.-Morris,W 6-1,48,10/02/2021,Minn.-Morris,home,W,6,1,False
+10/08/2021,@ Northwestern-St. Paul,W 3-0,182,10/08/2021,Northwestern-St. Paul,away,W,3,0,False
+10/12/2021,Northland,W 3-0,37,10/12/2021,Northland,home,W,3,0,False
+10/15/2021,@ Martin Luther,W 4-1,67,10/15/2021,Martin Luther,away,W,4,1,False
+10/16/2021,@ Bethany Lutheran,W 2-0,100,10/16/2021,Bethany Lutheran,away,W,2,0,False
+10/19/2021,@ St. Scholastica,W 2-1,134,10/19/2021,St. Scholastica,away,W,2,1,False
+10/22/2021,North Central (MN),W 5-0,73,10/22/2021,North Central (MN),home,W,5,0,False
+10/23/2021,Northwestern-St. Paul,T 1-1 (2 OT),148,10/23/2021,Northwestern-St. Paul,home,T,1,1,True
+10/25/2021,@ North Central (MN),W 6-0,30,10/25/2021,North Central (MN),away,W,6,0,False
+10/29/2021,@ Minn.-Morris,W 4-1,70,10/29/2021,Minn.-Morris,away,W,4,1,False
+10/30/2021,@ Crown (MN),W 4-0,110,10/30/2021,Crown (MN),away,W,4,0,False
+11/03/2021,#4 Minn.-Morris UMAC WSOC Championship,W 6-0,136,11/03/2021,Minn.-Morris,home,W,6,0,False
+11/06/2021,#2 Northwestern-St. Paul UMAC WSOC Championship,W 3-2,131,11/06/2021,Northwestern-St. Paul,home,W,3,2,False
+11/13/2021,@ St. Catherine NCAA Division III Women's Soccer Championship,L 0-4,376,11/13/2021,St. Catherine,away,L,0,4,False

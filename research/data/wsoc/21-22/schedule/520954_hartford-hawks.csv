@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/19/2021,@ Delaware St.,W 5-0,25,08/19/2021,Delaware St.,away,W,5,0,False
+08/21/2021,St. Francis Brooklyn,W 1-0,250,08/21/2021,St. Francis Brooklyn,home,W,1,0,False
+08/26/2021,@ Texas Tech,L 0-1,555,08/26/2021,Texas Tech,away,L,0,1,False
+09/02/2021,Merrimack,W 2-0,281,09/02/2021,Merrimack,home,W,2,0,False
+09/05/2021,@ Lafayette,W 2-1 (1 OT),0,09/05/2021,Lafayette,away,W,2,1,True
+09/09/2021,@ Fairfield,T 1-1 (2 OT),246,09/09/2021,Fairfield,away,T,1,1,True
+09/12/2021,Siena,W 3-0,382,09/12/2021,Siena,home,W,3,0,False
+09/19/2021,New Hampshire,W 2-0,243,09/19/2021,New Hampshire,home,W,2,0,False
+09/26/2021,@ UMBC,W 2-0,461,09/26/2021,UMBC,away,W,2,0,False
+09/30/2021,UAlbany,T 1-1 (2 OT),249,09/30/2021,UAlbany,home,T,1,1,True
+10/03/2021,@ Binghamton,L 0-1,234,10/03/2021,Binghamton,away,L,0,1,False
+10/10/2021,Vermont,L 0-2,453,10/10/2021,Vermont,home,L,0,2,False
+10/14/2021,@ UMass Lowell,T 2-2 (2 OT),123,10/14/2021,UMass Lowell,away,T,2,2,True
+10/17/2021,Stony Brook,W 2-0,308,10/17/2021,Stony Brook,home,W,2,0,False
+10/24/2021,@ Maine,T 1-1 (2 OT),142,10/24/2021,Maine,away,T,1,1,True
+10/28/2021,NJIT,L 0-1,334,10/28/2021,NJIT,home,L,0,1,False

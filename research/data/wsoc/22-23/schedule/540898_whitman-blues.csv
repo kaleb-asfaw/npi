@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/04/2022,Doane,W 2-0,50,09/04/2022,Doane,home,W,2,0,False
+09/05/2022,Evergreen St.,W 1-0,0,09/05/2022,Evergreen St.,home,W,1,0,False
+09/09/2022,"Hamline @Denver, CO",W 1-0,141,09/09/2022,Hamline,neutral,W,1,0,False
+09/12/2022,@ Eastern Ore.,Canceled,,09/12/2022,@ Eastern Ore.,home,,,,
+09/17/2022,Lewis & Clark,L 0-2,0,09/17/2022,Lewis & Clark,home,L,0,2,False
+09/18/2022,Willamette,L 0-3,0,09/18/2022,Willamette,home,L,0,3,False
+09/24/2022,@ Pacific (OR),W 3-1,54,09/24/2022,Pacific (OR),away,W,3,1,False
+09/25/2022,@ George Fox,L 1-6,1,09/25/2022,George Fox,away,L,1,6,False
+10/01/2022,Pacific Lutheran,L 2-4,0,10/01/2022,Pacific Lutheran,home,L,2,4,False
+10/02/2022,Puget Sound,L 0-1,0,10/02/2022,Puget Sound,home,L,0,1,False
+10/05/2022,@ Whitworth,L 0-6,70,10/05/2022,Whitworth,away,L,0,6,False
+10/09/2022,@ Linfield,L 1-2,104,10/09/2022,Linfield,away,L,1,2,False
+10/15/2022,@ Lewis & Clark,L 0-1,267,10/15/2022,Lewis & Clark,away,L,0,1,False
+10/16/2022,@ Willamette,L 0-3,100,10/16/2022,Willamette,away,L,0,3,False
+10/22/2022,Pacific (OR),W 3-0,0,10/22/2022,Pacific (OR),home,W,3,0,False
+10/23/2022,George Fox,L 0-2,0,10/23/2022,George Fox,home,L,0,2,False
+10/29/2022,@ Pacific Lutheran,L 0-2,79,10/29/2022,Pacific Lutheran,away,L,0,2,False
+10/30/2022,@ Puget Sound,L 1-2,250,10/30/2022,Puget Sound,away,L,1,2,False
+11/02/2022,Whitworth,T 1-1,13,11/02/2022,Whitworth,home,T,1,1,False
+11/06/2022,Linfield,W 1-0,200,11/06/2022,Linfield,home,W,1,0,False

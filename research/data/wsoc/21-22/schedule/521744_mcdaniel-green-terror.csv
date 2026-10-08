@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2021,@ Catholic,W 3-0,134,09/02/2021,Catholic,away,W,3,0,False
+09/04/2021,Lebanon Valley,W 3-0,308,09/04/2021,Lebanon Valley,home,W,3,0,False
+09/08/2021,@ York (PA),W 1-0,367,09/08/2021,York (PA),away,W,1,0,False
+09/11/2021,Randolph-Macon,W 2-0,233,09/11/2021,Randolph-Macon,home,W,2,0,False
+09/15/2021,Messiah,W 1-0,208,09/15/2021,Messiah,home,W,1,0,False
+09/18/2021,Muhlenberg,W 2-0,208,09/18/2021,Muhlenberg,home,W,2,0,False
+09/22/2021,@ Gettysburg,W 1-0,89,09/22/2021,Gettysburg,away,W,1,0,False
+09/25/2021,@ Bryn Mawr,W 4-0,50,09/25/2021,Bryn Mawr,away,W,4,0,False
+09/28/2021,Batten,W 2-0,0,09/28/2021,Batten,home,W,2,0,False
+10/02/2021,@ Swarthmore,W 2-1,303,10/02/2021,Swarthmore,away,W,2,1,False
+10/06/2021,Franklin & Marshall,W 2-0,150,10/06/2021,Franklin & Marshall,home,W,2,0,False
+10/09/2021,@ Dickinson,W 1-0,367,10/09/2021,Dickinson,away,W,1,0,False
+10/13/2021,Johns Hopkins,L 1-2 (1 OT),400,10/13/2021,Johns Hopkins,home,L,1,2,True
+10/16/2021,Haverford,W 2-0,500,10/16/2021,Haverford,home,W,2,0,False
+10/19/2021,@ Elizabethtown,W 3-1,172,10/19/2021,Elizabethtown,away,W,3,1,False
+10/27/2021,@ Washington Col.,W 2-0,133,10/27/2021,Washington Col.,away,W,2,0,False
+10/30/2021,Ursinus,W 4-0,350,10/30/2021,Ursinus,home,W,4,0,False
+11/05/2021,#3 Swarthmore Centennial WSOC Championship,W 3-0,650,11/05/2021,Swarthmore,home,W,3,0,False
+11/07/2021,#5 Franklin & Marshall Centennial WSOC Championship,T 0-0 (3 OT),0,11/07/2021,Franklin & Marshall,home,T,0,0,True
+11/13/2021,Penn St. Harrisburg NCAA Division III Women's Soccer Championship,W 2-0,500,11/13/2021,Penn St. Harrisburg,home,W,2,0,False
+11/14/2021,Carnegie Mellon NCAA Division III Women's Soccer Championship,L 0-2,600,11/14/2021,Carnegie Mellon,home,L,0,2,False

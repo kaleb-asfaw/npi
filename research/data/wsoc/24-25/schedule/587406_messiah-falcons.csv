@@ -1,0 +1,24 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Carnegie Mellon,T 0-0,964,08/30/2024,Carnegie Mellon,home,T,0,0,False
+09/04/2024,Johns Hopkins,T 3-3,352,09/04/2024,Johns Hopkins,home,T,3,3,False
+09/07/2024,@ Swarthmore,T 1-1,146,09/07/2024,Swarthmore,away,T,1,1,False
+09/11/2024,McDaniel,W 2-0,116,09/11/2024,McDaniel,home,W,2,0,False
+09/14/2024,@ William Smith,L 0-1,232,09/14/2024,William Smith,away,L,0,1,False
+09/18/2024,@ Penn St.-Berks,W 4-0,0,09/18/2024,Penn St.-Berks,away,W,4,0,False
+09/20/2024,@ Misericordia,W 2-0,211,09/20/2024,Misericordia,away,W,2,0,False
+09/28/2024,@ Arcadia,W 7-0,150,09/28/2024,Arcadia,away,W,7,0,False
+10/02/2024,@ Shenandoah,W 4-1,89,10/02/2024,Shenandoah,away,W,4,1,False
+10/05/2024,Eastern,W 5-0,957,10/05/2024,Eastern,home,W,5,0,False
+10/09/2024,DeSales,W 8-1,117,10/09/2024,DeSales,home,W,8,1,False
+10/12/2024,@ Hood,W 3-0,112,10/12/2024,Hood,away,W,3,0,False
+10/16/2024,Gettysburg,W 2-0,487,10/16/2024,Gettysburg,home,W,2,0,False
+10/19/2024,York (PA),W 3-0,520,10/19/2024,York (PA),home,W,3,0,False
+10/22/2024,@ Alvernia,W 5-0,113,10/22/2024,Alvernia,away,W,5,0,False
+10/26/2024,Stevenson,W 3-0,271,10/26/2024,Stevenson,home,W,3,0,False
+10/30/2024,@ Widener,W 2-0,103,10/30/2024,Widener,away,W,2,0,False
+11/02/2024,Albright,W 7-0,250,11/02/2024,Albright,home,W,7,0,False
+11/06/2024,#4 Stevenson MAC Commonwealth Women's Soccer Championship,W 9-0,538,11/06/2024,Stevenson,home,W,9,0,False
+11/09/2024,#2 York (PA) MAC Commonwealth Women's Soccer Championship,W 4-0,475,11/09/2024,York (PA),home,W,4,0,False
+11/16/2024,Gordon NCAA Division III Women's Soccer Championship,W 6-1,373,11/16/2024,Gordon,home,W,6,1,False
+11/17/2024,"CWRU @Mechanicsburg, PA (NCAA Division III Women's Soccer Championship)",W 1-0,249,11/17/2024,CWRU,neutral,W,1,0,False
+11/23/2024,"UChicago @St. Louis, MO (NCAA Division III Women's Soccer Championship)",L 2-3 (1 OT),227,11/23/2024,UChicago,neutral,L,2,3,True

@@ -1,0 +1,26 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Calvin,L 0-4,267,08/30/2024,Calvin,away,L,0,4,False
+09/05/2024,Carroll (WI),W 6-0,78,09/05/2024,Carroll (WI),home,W,6,0,False
+09/07/2024,Rose-Hulman,W 2-0,68,09/07/2024,Rose-Hulman,home,W,2,0,False
+09/11/2024,@ North Park,W 3-1,28,09/11/2024,North Park,away,W,3,1,False
+09/14/2024,@ Hope,L 1-2,314,09/14/2024,Hope,away,L,1,2,False
+09/18/2024,@ Edgewood,W 6-0,127,09/18/2024,Edgewood,away,W,6,0,False
+09/21/2024,@ Marian (WI),W 5-0,146,09/21/2024,Marian (WI),away,W,5,0,False
+09/28/2024,MSOE,W 1-0,0,09/28/2024,MSOE,home,W,1,0,False
+10/02/2024,@ Concordia Chicago,W 3-0,112,10/02/2024,Concordia Chicago,away,W,3,0,False
+10/05/2024,@ Concordia Wisconsin,T 1-1,260,10/05/2024,Concordia Wisconsin,away,T,1,1,False
+10/09/2024,Dominican (IL),W 4-2,0,10/09/2024,Dominican (IL),home,W,4,2,False
+10/12/2024,Lakeland,W 5-0,78,10/12/2024,Lakeland,home,W,5,0,False
+10/16/2024,Aurora,W 3-0,47,10/16/2024,Aurora,home,W,3,0,False
+10/19/2024,@ St. Norbert,W 4-0,117,10/19/2024,St. Norbert,away,W,4,0,False
+10/21/2024,UChicago,T 0-0,67,10/21/2024,UChicago,home,T,0,0,False
+10/23/2024,@ Benedictine (IL),W 6-1,45,10/23/2024,Benedictine (IL),away,W,6,1,False
+10/26/2024,Wis. Lutheran,W 9-0,60,10/26/2024,Wis. Lutheran,home,W,9,0,False
+10/28/2024,@ Wis.-Whitewater,W 6-0,143,10/28/2024,Wis.-Whitewater,away,W,6,0,False
+10/30/2024,Rockford,W 10-0,47,10/30/2024,Rockford,home,W,10,0,False
+11/02/2024,#8 Wis. Lutheran NACC Women's Championship,W 9-0,45,11/02/2024,Wis. Lutheran,home,W,9,0,False
+11/05/2024,#5 St. Norbert NACC Women's Championship,W 8-0,74,11/05/2024,St. Norbert,home,W,8,0,False
+11/09/2024,#2 MSOE NACC Women's Championship,W 6-1,125,11/09/2024,MSOE,home,W,6,1,False
+11/16/2024,"North Central (IL) @Pittsburgh, PA (NCAA Division III Women's Soccer Championship)",W 3-1,162,11/16/2024,North Central (IL),neutral,W,3,1,False
+11/17/2024,"Carnegie Mellon @Pittsburgh, PA (NCAA Division III Women's Soccer Championship)",T 2-2 (3 OT),159,11/17/2024,Carnegie Mellon,neutral,T,2,2,True
+11/23/2024,"Amherst @Dubuque, IA (NCAA Division III Women's Soccer Championship)",L 0-3,200,11/23/2024,Amherst,neutral,L,0,3,False

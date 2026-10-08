@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ WashU,L 0-2,300,09/01/2022,WashU,away,L,0,2,False
+09/03/2022,Augustana (IL),W 1-0,100,09/03/2022,Augustana (IL),home,W,1,0,False
+09/07/2022,@ Rose-Hulman,L 1-3,100,09/07/2022,Rose-Hulman,away,L,1,3,False
+09/10/2022,@ Carthage,T 3-3,35,09/10/2022,Carthage,away,T,3,3,False
+09/14/2022,Webster,W 5-2,100,09/14/2022,Webster,home,W,5,2,False
+09/17/2022,@ Principia,W 5-0,35,09/17/2022,Principia,away,W,5,0,False
+09/21/2022,@ Spalding,W 2-0,50,09/21/2022,Spalding,away,W,2,0,False
+09/24/2022,@ Fontbonne,L 0-2,125,09/24/2022,Fontbonne,away,L,0,2,False
+09/28/2022,Westminster (MO),T 1-1,100,09/28/2022,Westminster (MO),home,T,1,1,False
+10/01/2022,Blackburn,W 12-0,100,10/01/2022,Blackburn,home,W,12,0,False
+10/05/2022,@ Eureka,W 10-0,50,10/05/2022,Eureka,away,W,10,0,False
+10/08/2022,Principia,W 2-0,100,10/08/2022,Principia,home,W,2,0,False
+10/12/2022,@ Webster,L 0-1,100,10/12/2022,Webster,away,L,0,1,False
+10/15/2022,Fontbonne,L 0-1,200,10/15/2022,Fontbonne,home,L,0,1,False
+10/19/2022,@ Westminster (MO),L 0-1,75,10/19/2022,Westminster (MO),away,L,0,1,False
+10/22/2022,@ Blackburn,W 9-0,100,10/22/2022,Blackburn,away,W,9,0,False
+10/26/2022,Eureka,W 9-0,100,10/26/2022,Eureka,home,W,9,0,False
+10/29/2022,Spalding,W 2-1,200,10/29/2022,Spalding,home,W,2,1,False
+11/01/2022,#6 Principia SLIAC WSOC Tournament,W 6-0,100,11/01/2022,Principia,home,W,6,0,False
+11/03/2022,@ #2 Webster SLIAC WSOC Tournament,W 3-1,150,11/03/2022,Webster,away,W,3,1,False
+11/05/2022,@ #4 Westminster (MO) SLIAC WSOC Tournament,W 1-0,250,11/05/2022,Westminster (MO),away,W,1,0,False
+11/11/2022,@ Wis.-La Crosse NCAA Division III Women's Soccer Championship,L 0-3,204,11/11/2022,Wis.-La Crosse,away,L,0,3,False

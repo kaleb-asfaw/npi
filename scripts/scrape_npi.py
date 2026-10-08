@@ -12,8 +12,8 @@ schedule data (scripts/scrape_ncaa.py) and NPI-over-time data can be joined
 on team_id later.
 
 Usage:
-    # discover + scrape every snapshot date for the current season
-    .venv/bin/python scripts/scrape_npi.py
+    # discover + scrape every snapshot date for a season (default 25-26)
+    .venv/bin/python scripts/scrape_npi.py --season 24-25
 
     # just one date, for a quick sanity check
     .venv/bin/python scripts/scrape_npi.py --report-id 46696
@@ -30,14 +30,14 @@ from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright, Page
 
 from scrape_ncaa import (
+    DEFAULT_SEASON,
     REPO_ROOT,
+    season_paths,
     fetch,
     launch_browser,
     run_with_resilience,
 )
 
-DEFAULT_OUT_DIR = REPO_ROOT / "data" / "wsoc_schedule" / "25-26" / "npi"
-DEFAULT_NITTY_GRITTY_URL = "https://stats.ncaa.org/selection_rankings/nitty_gritties/47443"
 TABLE_ID = "selection_rankings_nitty_gritty_data_table"
 
 
@@ -117,15 +117,19 @@ def scrape_one_snapshot(page: Page, report_id: str, iso_date: str, label: str, o
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument("--nitty-gritty-url", default=DEFAULT_NITTY_GRITTY_URL,
-                         help="Any single nitty-gritties report URL for this season -- used to discover all snapshot dates")
+    parser.add_argument("--season", default=DEFAULT_SEASON, help="Season like 25-26 or 24-25 (sets default URL and output dir)")
+    parser.add_argument("--nitty-gritty-url", default=None,
+                         help="Any single nitty-gritties report URL for this season -- used to discover all snapshot dates (default: the season's seed report)")
     parser.add_argument("--report-id", default=None, help="Scrape only this one report id (skips date discovery)")
-    parser.add_argument("--out-dir", type=Path, default=DEFAULT_OUT_DIR)
+    parser.add_argument("--out-dir", type=Path, default=None)
     parser.add_argument("--delay", type=float, default=4.0, help="Base seconds to sleep between requests")
     parser.add_argument("--headless", action="store_true", default=True)
     parser.add_argument("--headful", dest="headless", action="store_false",
                          help="Show the browser window (needed -- headless gets blocked by Akamai)")
     args = parser.parse_args()
+    paths = season_paths(args.season)
+    args.nitty_gritty_url = args.nitty_gritty_url or paths["url"]
+    args.out_dir = args.out_dir or paths["npi"]
 
     with sync_playwright() as p:
         if args.report_id:

@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,"Salisbury @Saint Mary's City, MD",T 1-1,56,08/30/2024,Salisbury,neutral,T,1,1,False
+08/31/2024,@ St. Mary's (MD),L 0-1,234,08/31/2024,St. Mary's (MD),away,L,0,1,False
+09/04/2024,Swarthmore,L 1-2,86,09/04/2024,Swarthmore,home,L,1,2,False
+09/07/2024,Mary Washington,L 0-1,103,09/07/2024,Mary Washington,home,L,0,1,False
+09/11/2024,@ Washington Col.,T 0-0,77,09/11/2024,Washington Col.,away,T,0,0,False
+09/15/2024,@ King's (PA),W 3-0,100,09/15/2024,King's (PA),away,W,3,0,False
+09/18/2024,Bryn Athyn,W 4-0,85,09/18/2024,Bryn Athyn,home,W,4,0,False
+09/21/2024,John Jay,W 5-2,76,09/21/2024,John Jay,home,W,5,2,False
+09/24/2024,Arcadia,W 2-0,127,09/24/2024,Arcadia,home,W,2,0,False
+09/27/2024,Ramapo,W 1-0,95,09/27/2024,Ramapo,home,W,1,0,False
+10/02/2024,@ Rutgers-Newark,L 0-1,211,10/02/2024,Rutgers-Newark,away,L,0,1,False
+10/05/2024,Rowan,L 1-3,516,10/05/2024,Rowan,home,L,1,3,False
+10/09/2024,@ FDU-Florham,W 2-0,125,10/09/2024,FDU-Florham,away,W,2,0,False
+10/12/2024,Stockton,L 0-2,174,10/12/2024,Stockton,home,L,0,2,False
+10/16/2024,@ TCNJ,L 0-4,244,10/16/2024,TCNJ,away,L,0,4,False
+10/19/2024,@ New Jersey City,W 3-1,178,10/19/2024,New Jersey City,away,W,3,1,False
+10/23/2024,@ Wm. Paterson,T 1-1,65,10/23/2024,Wm. Paterson,away,T,1,1,False
+10/26/2024,@ Kean,T 2-2,187,10/26/2024,Kean,away,T,2,2,False
+10/30/2024,Montclair St.,L 0-3,112,10/30/2024,Montclair St.,home,L,0,3,False

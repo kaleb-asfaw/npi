@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Northwestern-St. Paul,W 4-1,212,09/01/2022,Northwestern-St. Paul,home,W,4,1,False
+09/03/2022,Wis.-Oshkosh,L 0-6,153,09/03/2022,Wis.-Oshkosh,home,L,0,6,False
+09/05/2022,@ Dubuque,T 1-1,145,09/05/2022,Dubuque,away,T,1,1,False
+09/14/2022,@ St. Olaf,L 1-2,91,09/14/2022,St. Olaf,away,L,1,2,False
+09/17/2022,Northland,Ppd,,09/17/2022,Northland,home,,,,
+09/20/2022,Wis.-Stout,W 2-0,172,09/20/2022,Wis.-Stout,home,W,2,0,False
+09/22/2022,@ Wis.-Eau Claire,L 0-2,60,09/22/2022,Wis.-Eau Claire,away,L,0,2,False
+09/24/2022,@ Hamline,W 2-1,107,09/24/2022,Hamline,away,W,2,1,False
+09/27/2022,Macalester,T 2-2,110,09/27/2022,Macalester,home,T,2,2,False
+10/01/2022,@ St. Scholastica,T 1-1,63,10/01/2022,St. Scholastica,away,T,1,1,False
+10/05/2022,St. Catherine,L 0-1,200,10/05/2022,St. Catherine,home,L,0,1,False
+10/08/2022,Carleton,L 0-1,201,10/08/2022,Carleton,home,L,0,1,False
+10/12/2022,@ Saint Benedict,L 1-4,78,10/12/2022,Saint Benedict,away,L,1,4,False
+10/15/2022,Saint Mary's (MN),L 1-2,212,10/15/2022,Saint Mary's (MN),home,L,1,2,False
+10/22/2022,Gustavus Adolphus,L 0-1,250,10/22/2022,Gustavus Adolphus,home,L,0,1,False
+10/25/2022,@ Concordia-M'head,W 2-0,163,10/25/2022,Concordia-M'head,away,W,2,0,False
+10/29/2022,Augsburg,W 3-2,253,10/29/2022,Augsburg,home,W,3,2,False

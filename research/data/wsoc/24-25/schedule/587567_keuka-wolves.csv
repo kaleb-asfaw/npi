@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Buffalo St.,L 0-3,235,08/30/2024,Buffalo St.,home,L,0,3,False
+09/03/2024,@ Hilbert,W 4-0,55,09/03/2024,Hilbert,away,W,4,0,False
+09/07/2024,@ Lycoming,L 0-2,134,09/07/2024,Lycoming,away,L,0,2,False
+09/10/2024,Fredonia,L 1-4,100,09/10/2024,Fredonia,home,L,1,4,False
+09/14/2024,@ Alfred,L 1-3,278,09/14/2024,Alfred,away,L,1,3,False
+09/17/2024,@ Oswego St.,L 0-1,129,09/17/2024,Oswego St.,away,L,0,1,False
+09/21/2024,@ SUNY Brockport,L 0-4,155,09/21/2024,SUNY Brockport,away,L,0,4,False
+09/27/2024,Nazareth,L 1-3,125,09/27/2024,Nazareth,home,L,1,3,False
+10/02/2024,@ SUNY Geneseo,L 0-5,298,10/02/2024,SUNY Geneseo,away,L,0,5,False
+10/05/2024,@ Hartwick,T 0-0,105,10/05/2024,Hartwick,away,T,0,0,False
+10/09/2024,Houghton,L 1-2,120,10/09/2024,Houghton,home,L,1,2,False
+10/12/2024,SUNY Poly,T 3-3,124,10/12/2024,SUNY Poly,home,T,3,3,False
+10/16/2024,Elmira,L 1-3,137,10/16/2024,Elmira,home,L,1,3,False
+10/19/2024,Russell Sage,L 1-2,125,10/19/2024,Russell Sage,home,L,1,2,False
+10/26/2024,St. John Fisher,L 1-3,178,10/26/2024,St. John Fisher,home,L,1,3,False
+10/30/2024,@ Utica,L 0-2,56,10/30/2024,Utica,away,L,0,2,False

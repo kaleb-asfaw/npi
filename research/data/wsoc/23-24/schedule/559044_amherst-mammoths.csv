@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/06/2023,@ Lesley,W 6-0,60,09/06/2023,Lesley,away,W,6,0,False
+09/09/2023,@ Middlebury,T 2-2,170,09/09/2023,Middlebury,away,T,2,2,False
+09/10/2023,Smith,W 1-0,60,09/10/2023,Smith,home,W,1,0,False
+09/14/2023,Lasell,W 9-0,72,09/14/2023,Lasell,home,W,9,0,False
+09/17/2023,@ Tufts,W 4-1,150,09/17/2023,Tufts,away,W,4,1,False
+09/19/2023,@ Connecticut Col.,W 4-3,225,09/19/2023,Connecticut Col.,away,W,4,3,False
+09/23/2023,Bates,W 1-0,30,09/23/2023,Bates,home,W,1,0,False
+09/24/2023,Colby,W 3-0,85,09/24/2023,Colby,home,W,3,0,False
+09/30/2023,Williams,L 0-1,60,09/30/2023,Williams,home,L,0,1,False
+10/07/2023,@ Wesleyan (CT),W 1-0,84,10/07/2023,Wesleyan (CT),away,W,1,0,False
+10/08/2023,@ Bowdoin,W 1-0,101,10/08/2023,Bowdoin,away,W,1,0,False
+10/14/2023,Rhode Island Col.,W 8-0,50,10/14/2023,Rhode Island Col.,home,W,8,0,False
+10/15/2023,VTSU Castleton,W 8-0,51,10/15/2023,VTSU Castleton,home,W,8,0,False
+10/21/2023,Hamilton,W 3-0,0,10/21/2023,Hamilton,home,W,3,0,False
+10/24/2023,Trinity (CT),W 1-0,67,10/24/2023,Trinity (CT),home,W,1,0,False
+10/28/2023,#8 Tufts NESCAC Women's Soccer Championship,W 3-1,100,10/28/2023,Tufts,home,W,3,1,False
+11/04/2023,#4 Wesleyan (CT) NESCAC Women's Soccer Championship,W 1-0,100,11/04/2023,Wesleyan (CT),home,W,1,0,False
+11/05/2023,#3 Bowdoin NESCAC Women's Soccer Championship,W 2-1,247,11/05/2023,Bowdoin,home,W,2,1,False
+11/11/2023,Maine Maritime NCAA Division III Women's Soccer Championship,W 5-0,750,11/11/2023,Maine Maritime,home,W,5,0,False
+11/12/2023,RIT NCAA Division III Women's Soccer Championship,W 3-1,650,11/12/2023,RIT,home,W,3,1,False
+11/18/2023,@ Messiah NCAA Division III Women's Soccer Championship,L 1-3,537,11/18/2023,Messiah,away,L,1,3,False

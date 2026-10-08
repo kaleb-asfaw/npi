@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Alfred,L 0-1,125,09/01/2022,Alfred,away,L,0,1,False
+09/04/2022,St. John Fisher,T 0-0,115,09/04/2022,St. John Fisher,home,T,0,0,False
+09/07/2022,Rochester (NY),L 1-7,0,09/07/2022,Rochester (NY),home,L,1,7,False
+09/10/2022,@ Houghton,W 2-1,0,09/10/2022,Houghton,away,W,2,1,False
+09/14/2022,@ Keuka,T 0-0,189,09/14/2022,Keuka,away,T,0,0,False
+09/17/2022,@ RIT,L 0-3,128,09/17/2022,RIT,away,L,0,3,False
+09/21/2022,@ Oswego St.,L 0-1,140,09/21/2022,Oswego St.,away,L,0,1,False
+09/24/2022,@ SUNY Potsdam,W 1-0,65,09/24/2022,SUNY Potsdam,away,W,1,0,False
+09/28/2022,Buffalo St.,W 1-0,0,09/28/2022,Buffalo St.,home,W,1,0,False
+10/01/2022,Plattsburgh St.,L 0-2,47,10/01/2022,Plattsburgh St.,home,L,0,2,False
+10/05/2022,@ Fredonia,T 1-1,62,10/05/2022,Fredonia,away,T,1,1,False
+10/08/2022,@ SUNY Oneonta,W 2-1,200,10/08/2022,SUNY Oneonta,away,W,2,1,False
+10/12/2022,SUNY Geneseo,L 0-2,0,10/12/2022,SUNY Geneseo,home,L,0,2,False
+10/15/2022,SUNY New Paltz,L 0-2,0,10/15/2022,SUNY New Paltz,home,L,0,2,False
+10/22/2022,@ Cortland,L 0-2,147,10/22/2022,Cortland,away,L,0,2,False
+10/26/2022,@ Nazareth,W 2-1,124,10/26/2022,Nazareth,away,W,2,1,False
+10/29/2022,@ #3 SUNY New Paltz SUNYAC WSOC Championship,L 2-5,150,10/29/2022,SUNY New Paltz,away,L,2,5,False

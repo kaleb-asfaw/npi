@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2024,UMass Boston,L 0-1,100,09/03/2024,UMass Boston,home,L,0,1,False
+09/07/2024,@ DeSales,L 1-3,100,09/07/2024,DeSales,away,L,1,3,False
+09/08/2024,@ Moravian,L 0-1,163,09/08/2024,Moravian,away,L,0,1,False
+09/11/2024,@ Connecticut Col.,L 1-4,111,09/11/2024,Connecticut Col.,away,L,1,4,False
+09/14/2024,@ Eastern Conn. St.,L 0-3,100,09/14/2024,Eastern Conn. St.,away,L,0,3,False
+09/18/2024,Wentworth,T 2-2,50,09/18/2024,Wentworth,home,T,2,2,False
+09/21/2024,Clark (MA),W 1-0,100,09/21/2024,Clark (MA),home,W,1,0,False
+09/27/2024,Babson,T 0-0,100,09/27/2024,Babson,home,T,0,0,False
+10/02/2024,Merchant Marine,T 2-2,0,10/02/2024,Merchant Marine,home,T,2,2,False
+10/05/2024,@ Emerson,L 0-3,128,10/05/2024,Emerson,away,L,0,3,False
+10/09/2024,Springfield,L 1-3,68,10/09/2024,Springfield,home,L,1,3,False
+10/12/2024,@ Wellesley,W 1-0,82,10/12/2024,Wellesley,away,W,1,0,False
+10/16/2024,@ MIT,L 0-1,53,10/16/2024,MIT,away,L,0,1,False
+10/19/2024,WPI,L 1-2,50,10/19/2024,WPI,home,L,1,2,False
+10/23/2024,@ Smith,L 0-1,50,10/23/2024,Smith,away,L,0,1,False
+10/26/2024,Mount Holyoke,T 0-0,100,10/26/2024,Mount Holyoke,home,T,0,0,False
+10/30/2024,@ Salve Regina,T 2-2,0,10/30/2024,Salve Regina,away,T,2,2,False
+11/02/2024,@ Wheaton (MA),T 0-0,125,11/02/2024,Wheaton (MA),away,T,0,0,False
+11/05/2024,@ #1 MIT NEWMAC Women's Soccer Championship,L 1-2,157,11/05/2024,MIT,away,L,1,2,False

@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/08/2021,@ Hamilton,T 1-1 (2 OT),50,09/08/2021,Hamilton,away,T,1,1,True
+09/11/2021,@ Tufts,L 0-1,150,09/11/2021,Tufts,away,L,0,1,False
+09/12/2021,@ VTSU Castleton,W 2-0,125,09/12/2021,VTSU Castleton,away,W,2,0,False
+09/18/2021,Wesleyan (CT),L 0-1,50,09/18/2021,Wesleyan (CT),home,L,0,1,False
+09/19/2021,Springfield,W 4-0,50,09/19/2021,Springfield,home,W,4,0,False
+09/25/2021,Trinity (CT),L 0-1,50,09/25/2021,Trinity (CT),home,L,0,1,False
+09/26/2021,MIT,L 0-1,72,09/26/2021,MIT,home,L,0,1,False
+10/02/2021,@ Amherst,L 0-1 (2 OT),144,10/02/2021,Amherst,away,L,0,1,True
+10/03/2021,@ Connecticut Col.,L 0-1,563,10/03/2021,Connecticut Col.,away,L,0,1,False
+10/09/2021,Colby,W 3-0,0,10/09/2021,Colby,home,W,3,0,False
+10/10/2021,Bowdoin,L 1-2,107,10/10/2021,Bowdoin,home,L,1,2,False
+10/16/2021,@ Eastern Conn. St.,W 4-1,100,10/16/2021,Eastern Conn. St.,away,W,4,1,False
+10/17/2021,Farmingdale St.,W 3-0,57,10/17/2021,Farmingdale St.,home,W,3,0,False
+10/23/2021,@ Bates,W 1-0,100,10/23/2021,Bates,away,W,1,0,False
+10/26/2021,Middlebury,L 1-2,0,10/26/2021,Middlebury,home,L,1,2,False

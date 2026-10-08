@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Bryn Mawr,T 0-0,108,08/30/2024,Bryn Mawr,home,T,0,0,False
+09/04/2024,@ St. Mary's (MD),L 0-1,227,09/04/2024,St. Mary's (MD),away,L,0,1,False
+09/07/2024,Washington Col.,T 0-0,168,09/07/2024,Washington Col.,home,T,0,0,False
+09/10/2024,@ Goucher,W 1-0,107,09/10/2024,Goucher,away,W,1,0,False
+09/13/2024,@ TCNJ,L 0-2,200,09/13/2024,TCNJ,away,L,0,2,False
+09/17/2024,Wilson,T 0-0,114,09/17/2024,Wilson,home,T,0,0,False
+09/20/2024,@ Marymount (VA),T 0-0,308,09/20/2024,Marymount (VA),away,T,0,0,False
+09/25/2024,@ Shenandoah,L 0-2,357,09/25/2024,Shenandoah,away,L,0,2,False
+09/28/2024,@ Mary Washington,L 0-1,210,09/28/2024,Mary Washington,away,L,0,1,False
+10/02/2024,@ Gettysburg,T 0-0,30,10/02/2024,Gettysburg,away,T,0,0,False
+10/05/2024,Stevenson,T 0-0,197,10/05/2024,Stevenson,home,T,0,0,False
+10/09/2024,Lebanon Valley,W 2-0,57,10/09/2024,Lebanon Valley,home,W,2,0,False
+10/12/2024,Messiah,L 0-3,112,10/12/2024,Messiah,home,L,0,3,False
+10/16/2024,@ Salisbury,T 0-0,111,10/16/2024,Salisbury,away,T,0,0,False
+10/19/2024,@ Eastern,L 0-1,450,10/19/2024,Eastern,away,L,0,1,False
+10/22/2024,@ Albright,W 2-0,278,10/22/2024,Albright,away,W,2,0,False
+10/26/2024,Widener,W 4-0,217,10/26/2024,Widener,home,W,4,0,False
+10/30/2024,Alvernia,T 0-0,128,10/30/2024,Alvernia,home,T,0,0,False
+11/02/2024,@ York (PA),T 0-0,420,11/02/2024,York (PA),away,T,0,0,False

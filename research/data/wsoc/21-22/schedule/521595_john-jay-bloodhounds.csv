@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Pratt,Ppd,,09/01/2021,Pratt,away,,,,
+09/04/2021,@ St. Joseph's (L.I.),W 1-0,100,09/04/2021,St. Joseph's (L.I.),away,W,1,0,False
+09/08/2021,@ Rutgers-Newark,L 0-3,200,09/08/2021,Rutgers-Newark,away,L,0,3,False
+09/15/2021,Sarah Lawrence,W 4-1,0,09/15/2021,Sarah Lawrence,home,W,4,1,False
+09/18/2021,Cedar Crest,L 0-1,0,09/18/2021,Cedar Crest,home,L,0,1,False
+09/22/2021,@ Stockton,L 0-6,122,09/22/2021,Stockton,away,L,0,6,False
+09/25/2021,@ FDU-Florham,L 0-4,100,09/25/2021,FDU-Florham,away,L,0,4,False
+09/29/2021,@ Moravian,Canceled,,09/29/2021,Moravian,away,,,,
+10/04/2021,@ New Jersey City,Canceled,,10/04/2021,New Jersey City,away,,,,
+10/06/2021,@ York (NY),W 6-0,0,10/06/2021,York (NY),away,W,6,0,False
+10/09/2021,St. Joseph's (Brkln),W 3-0,0,10/09/2021,St. Joseph's (Brkln),home,W,3,0,False
+10/14/2021,@ Medgar Evers,Canceled,,10/14/2021,Medgar Evers,away,,,,
+10/16/2021,Brooklyn,W 4-0,0,10/16/2021,Brooklyn,home,W,4,0,False
+10/18/2021,@ Penn St. Harrisburg,L 0-4,75,10/18/2021,Penn St. Harrisburg,away,L,0,4,False
+10/20/2021,@ Lehman,W 1-0,10,10/20/2021,Lehman,away,W,1,0,False
+10/23/2021,CCNY,W 3-0,0,10/23/2021,CCNY,home,W,3,0,False
+10/30/2021,#4 Brooklyn CUNYAC WSOC Championship,W 4-0,0,10/30/2021,Brooklyn,home,W,4,0,False
+11/06/2021,#3 Lehman CUNYAC WSOC Championship,W 1-0,30,11/06/2021,Lehman,home,W,1,0,False
+11/13/2021,@ William Smith NCAA Division III Women's Soccer Championship,L 0-9,248,11/13/2021,William Smith,away,L,0,9,False

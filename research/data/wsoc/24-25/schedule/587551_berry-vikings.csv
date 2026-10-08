@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/19/2024,@ Mercer,L 0-9 *,194,08/19/2024,Mercer,away,L,0,9,False
+08/31/2024,@ Guilford,L 0-1,100,08/31/2024,Guilford,away,L,0,1,False
+09/01/2024,@ Averett,T 0-0,175,09/01/2024,Averett,away,T,0,0,False
+09/03/2024,@ Covenant,L 0-1,135,09/03/2024,Covenant,away,L,0,1,False
+09/07/2024,Southern Va.,T 0-0,75,09/07/2024,Southern Va.,home,T,0,0,False
+09/08/2024,Emory,L 0-6,250,09/08/2024,Emory,home,L,0,6,False
+09/11/2024,@ Agnes Scott,Canceled,,09/11/2024,Agnes Scott,away,,,,
+09/14/2024,@ Wash. & Lee,L 0-8,166,09/14/2024,Wash. & Lee,away,L,0,8,False
+09/17/2024,LaGrange,W 4-0,100,09/17/2024,LaGrange,home,W,4,0,False
+09/23/2024,Maryville (TN),T 1-1,127,09/23/2024,Maryville (TN),home,T,1,1,False
+09/28/2024,@ Sewanee,L 0-2,236,09/28/2024,Sewanee,away,L,0,2,False
+10/05/2024,Centre,W 1-0,250,10/05/2024,Centre,home,W,1,0,False
+10/11/2024,Hendrix,T 0-0,115,10/11/2024,Hendrix,home,T,0,0,False
+10/13/2024,Rhodes,L 0-1,200,10/13/2024,Rhodes,home,L,0,1,False
+10/18/2024,@ Millsaps,W 2-0,70,10/18/2024,Millsaps,away,W,2,0,False
+10/26/2024,Oglethorpe,W 4-0,225,10/26/2024,Oglethorpe,home,W,4,0,False
+10/29/2024,Shorter,W 6-0,75,10/29/2024,Shorter,home,W,6,0,False
+11/02/2024,#6 Oglethorpe SAA Women's Soccer Championship,W 2-1,200,11/02/2024,Oglethorpe,home,W,2,1,False
+11/08/2024,"#2 Rhodes @Sewanee, TN (SAA Women's Soccer Championship)",L 0-3,321,11/08/2024,Rhodes,neutral,L,0,3,False

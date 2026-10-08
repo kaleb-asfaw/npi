@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Central (IA),L 0-2,100,09/01/2023,Central (IA),away,L,0,2,False
+09/06/2023,Ind.-South Bend,W 2-0,123,09/06/2023,Ind.-South Bend,home,W,2,0,False
+09/09/2023,DePauw,L 0-1,98,09/09/2023,DePauw,home,L,0,1,False
+09/13/2023,@ Anderson (IN),L 2-3,105,09/13/2023,Anderson (IN),away,L,2,3,False
+09/15/2023,@ Lake Forest,W 4-0,118,09/15/2023,Lake Forest,away,W,4,0,False
+09/20/2023,Huntington,W 2-0,57,09/20/2023,Huntington,home,W,2,0,False
+09/22/2023,Great Lake Christian,W 4-0,65,09/22/2023,Great Lake Christian,home,W,4,0,False
+09/24/2023,Franklin,W 2-0,129,09/24/2023,Franklin,home,W,2,0,False
+09/26/2023,@ Trine,L 0-2,43,09/26/2023,Trine,away,L,0,2,False
+10/01/2023,Hiram,W 6-1,73,10/01/2023,Hiram,home,W,6,1,False
+10/04/2023,Calvin,L 0-1,63,10/04/2023,Calvin,home,L,0,1,False
+10/07/2023,@ Adrian,L 0-2,300,10/07/2023,Adrian,away,L,0,2,False
+10/10/2023,Albion,T 2-2,47,10/10/2023,Albion,home,T,2,2,False
+10/14/2023,@ Kalamazoo,L 0-1,147,10/14/2023,Kalamazoo,away,L,0,1,False
+10/18/2023,@ Olivet,W 2-1,95,10/18/2023,Olivet,away,W,2,1,False
+10/21/2023,Alma,W 3-1,153,10/21/2023,Alma,home,W,3,1,False
+10/24/2023,Hope,L 0-3,132,10/24/2023,Hope,home,L,0,3,False

@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ CWRU,L 2-4,525,09/01/2022,CWRU,away,L,2,4,False
+09/09/2022,@ Mt. St. Joseph,W 4-1,188,09/09/2022,Mt. St. Joseph,away,W,4,1,False
+09/11/2022,Dickinson,W 1-0,133,09/11/2022,Dickinson,home,W,1,0,False
+09/14/2022,@ Ohio Wesleyan,W 1-0,210,09/14/2022,Ohio Wesleyan,away,W,1,0,False
+09/17/2022,Hanover,L 0-3,234,09/17/2022,Hanover,home,L,0,3,False
+09/24/2022,Hope,W 1-0,345,09/24/2022,Hope,home,W,1,0,False
+09/28/2022,@ Wittenberg,T 1-1,153,09/28/2022,Wittenberg,away,T,1,1,False
+10/01/2022,@ Otterbein,W 2-1,200,10/01/2022,Otterbein,away,W,2,1,False
+10/05/2022,Wilmington (OH),W 2-0,441,10/05/2022,Wilmington (OH),home,W,2,0,False
+10/08/2022,Ohio Northern,T 2-2,513,10/08/2022,Ohio Northern,home,T,2,2,False
+10/12/2022,@ Muskingum,W 4-0,75,10/12/2022,Muskingum,away,W,4,0,False
+10/15/2022,Mount Union,W 4-1,258,10/15/2022,Mount Union,home,W,4,1,False
+10/19/2022,@ Marietta,W 2-0,79,10/19/2022,Marietta,away,W,2,0,False
+10/22/2022,@ John Carroll,W 3-0,269,10/22/2022,John Carroll,away,W,3,0,False
+10/26/2022,Heidelberg,W 5-0,217,10/26/2022,Heidelberg,home,W,5,0,False
+10/29/2022,Baldwin Wallace,T 2-2,492,10/29/2022,Baldwin Wallace,home,T,2,2,False
+11/03/2022,#4 John Carroll OAC WSOC Championship,W 3-0,437,11/03/2022,John Carroll,home,W,3,0,False
+11/05/2022,#2 Ohio Northern OAC WSOC Championship,L 0-1,678,11/05/2022,Ohio Northern,home,L,0,1,False
+11/12/2022,"Ithaca @Cleveland, OH (NCAA Division III Women's Soccer Championship)",L 0-1,358,11/12/2022,Ithaca,neutral,L,0,1,False

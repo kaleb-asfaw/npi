@@ -1,0 +1,26 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Wis.-La Crosse,L 0-5,187,08/30/2024,Wis.-La Crosse,home,L,0,5,False
+09/01/2024,UW-River Falls,W 2-1,256,09/01/2024,UW-River Falls,home,W,2,1,False
+09/04/2024,St. Scholastica,W 2-0,296,09/04/2024,St. Scholastica,home,W,2,0,False
+09/07/2024,Wis.-Platteville,L 1-2,208,09/07/2024,Wis.-Platteville,home,L,1,2,False
+09/10/2024,Gustavus Adolphus,L 0-1,247,09/10/2024,Gustavus Adolphus,home,L,0,1,False
+09/14/2024,@ Concordia-M'head,L 0-3,277,09/14/2024,Concordia-M'head,away,L,0,3,False
+09/18/2024,North Central (MN),W 10-0,126,09/18/2024,North Central (MN),home,W,10,0,False
+09/21/2024,@ Minn.-Morris,W 4-2,39,09/21/2024,Minn.-Morris,away,W,4,2,False
+09/24/2024,@ Northwestern-St. Paul,W 2-0,78,09/24/2024,Northwestern-St. Paul,away,W,2,0,False
+09/28/2024,@ Bethany Lutheran,L 2-3,127,09/28/2024,Bethany Lutheran,away,L,2,3,False
+10/02/2024,Northland,Canceled,,10/02/2024,Northland,home,,,,
+10/05/2024,@ Martin Luther,W 3-1,200,10/05/2024,Martin Luther,away,W,3,1,False
+10/08/2024,@ Crown (MN),W 4-0,72,10/08/2024,Crown (MN),away,W,4,0,False
+10/09/2024,@ Macalester,L 1-2,169,10/09/2024,Macalester,away,L,1,2,False
+10/12/2024,Minn.-Morris,W 8-0,364,10/12/2024,Minn.-Morris,home,W,8,0,False
+10/16/2024,Northwestern-St. Paul,W 6-0,365,10/16/2024,Northwestern-St. Paul,home,W,6,0,False
+10/19/2024,Bethany Lutheran,W 2-1,512,10/19/2024,Bethany Lutheran,home,W,2,1,False
+10/22/2024,@ North Central (MN),Canceled,,10/22/2024,North Central (MN),away,,,,
+10/26/2024,Martin Luther,W 4-0,437,10/26/2024,Martin Luther,home,W,4,0,False
+10/29/2024,@ St. Olaf,L 0-1,113,10/29/2024,St. Olaf,away,L,0,1,False
+10/30/2024,@ Northland,Canceled,,10/30/2024,Northland,away,,,,
+11/02/2024,Crown (MN),W 1-0,250,11/02/2024,Crown (MN),home,W,1,0,False
+11/06/2024,#4 Crown (MN) UMAC Women's Soccer Championship,W 4-1,200,11/06/2024,Crown (MN),home,W,4,1,False
+11/09/2024,@ #2 Bethany Lutheran UMAC Women's Soccer Championship,W 4-0,476,11/09/2024,Bethany Lutheran,away,W,4,0,False
+11/16/2024,"Carleton @Dubuque, IA (NCAA Division III Women's Soccer Championship)",T 0-0 (3 OT),75,11/16/2024,Carleton,neutral,T,0,0,True

@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Beloit,W 4-0,137,08/30/2024,Beloit,home,W,4,0,False
+09/03/2024,@ Luther,W 1-0,72,09/03/2024,Luther,away,W,1,0,False
+09/06/2024,@ St. Scholastica,W 4-0,102,09/06/2024,St. Scholastica,away,W,4,0,False
+09/07/2024,@ Wis.-Superior,W 2-1,208,09/07/2024,Wis.-Superior,away,W,2,1,False
+09/11/2024,Concordia Wisconsin,W 3-1,207,09/11/2024,Concordia Wisconsin,home,W,3,1,False
+09/13/2024,Augsburg,W 2-1,232,09/13/2024,Augsburg,home,W,2,1,False
+09/15/2024,Saint Mary's (MN),W 2-0,136,09/15/2024,Saint Mary's (MN),home,W,2,0,False
+09/18/2024,Carroll (WI),T 2-2,223,09/18/2024,Carroll (WI),home,T,2,2,False
+09/21/2024,@ Wartburg,W 3-1,105,09/21/2024,Wartburg,away,W,3,1,False
+09/25/2024,Central (IA),W 3-2,168,09/25/2024,Central (IA),home,W,3,2,False
+09/28/2024,@ UC Santa Cruz,L 1-2,50,09/28/2024,UC Santa Cruz,away,L,1,2,False
+10/02/2024,@ Dubuque,L 0-1,225,10/02/2024,Dubuque,away,L,0,1,False
+10/05/2024,UW-River Falls,W 1-0,236,10/05/2024,UW-River Falls,home,W,1,0,False
+10/09/2024,Wis.-La Crosse,T 2-2,184,10/09/2024,Wis.-La Crosse,home,T,2,2,False
+10/12/2024,@ Wis.-Eau Claire,T 2-2,213,10/12/2024,Wis.-Eau Claire,away,T,2,2,False
+10/19/2024,Wis.-Stout,W 4-0,187,10/19/2024,Wis.-Stout,home,W,4,0,False
+10/23/2024,@ Wis.-Whitewater,T 0-0,197,10/23/2024,Wis.-Whitewater,away,T,0,0,False
+10/26/2024,Wis.-Stevens Point,W 1-0,116,10/26/2024,Wis.-Stevens Point,home,W,1,0,False
+11/02/2024,@ Wis.-Oshkosh,W 2-1,167,11/02/2024,Wis.-Oshkosh,away,W,2,1,False
+11/07/2024,#3 Wis.-Eau Claire WIAC Women's Soccer Championship,W 2-1,326,11/07/2024,Wis.-Eau Claire,home,W,2,1,False
+11/09/2024,@ #1 Wis.-La Crosse WIAC Women's Soccer Championship,L 1-2,242,11/09/2024,Wis.-La Crosse,away,L,1,2,False

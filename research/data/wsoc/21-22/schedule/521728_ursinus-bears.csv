@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2021,Eastern,W 1-0,0,09/02/2021,Eastern,home,W,1,0,False
+09/04/2021,Stevenson,T 1-1 (2 OT),210,09/04/2021,Stevenson,home,T,1,1,True
+09/09/2021,@ Arcadia,L 0-1,211,09/09/2021,Arcadia,away,L,0,1,False
+09/11/2021,@ Montclair St.,L 1-3,178,09/11/2021,Montclair St.,away,L,1,3,False
+09/18/2021,@ Gettysburg,L 0-2,217,09/18/2021,Gettysburg,away,L,0,2,False
+09/22/2021,Bryn Mawr,L 0-1,122,09/22/2021,Bryn Mawr,home,L,0,1,False
+09/25/2021,Dickinson,L 1-4,189,09/25/2021,Dickinson,home,L,1,4,False
+09/29/2021,@ King's (PA),W 1-0,109,09/29/2021,King's (PA),away,W,1,0,False
+10/02/2021,Washington Col.,L 1-2,227,10/02/2021,Washington Col.,home,L,1,2,False
+10/06/2021,Moravian,L 0-1,137,10/06/2021,Moravian,home,L,0,1,False
+10/09/2021,@ Haverford,L 0-2,137,10/09/2021,Haverford,away,L,0,2,False
+10/13/2021,@ Swarthmore,L 1-2 (1 OT),147,10/13/2021,Swarthmore,away,L,1,2,True
+10/16/2021,Johns Hopkins,L 0-5,82,10/16/2021,Johns Hopkins,home,L,0,5,False
+10/20/2021,@ Rutgers-Camden,T 0-0 (2 OT),150,10/20/2021,Rutgers-Camden,away,T,0,0,True
+10/23/2021,Franklin & Marshall,L 0-5,83,10/23/2021,Franklin & Marshall,home,L,0,5,False
+10/27/2021,@ Muhlenberg,W 2-1,55,10/27/2021,Muhlenberg,away,W,2,1,False
+10/30/2021,@ McDaniel,L 0-4,350,10/30/2021,McDaniel,away,L,0,4,False

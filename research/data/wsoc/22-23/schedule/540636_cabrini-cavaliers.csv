@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Bryn Mawr,W 2-1,76,09/01/2022,Bryn Mawr,home,W,2,1,False
+09/03/2022,@ Rosemont,Canceled,,09/03/2022,Rosemont,away,,,,
+09/07/2022,Eastern,W 1-0,188,09/07/2022,Eastern,home,W,1,0,False
+09/10/2022,Juniata,W 1-0,92,09/10/2022,Juniata,home,W,1,0,False
+09/14/2022,@ Arcadia,L 1-3,0,09/14/2022,Arcadia,away,L,1,3,False
+09/17/2022,@ Goucher,L 0-1,80,09/17/2022,Goucher,away,L,0,1,False
+09/21/2022,Widener,W 3-0,77,09/21/2022,Widener,home,W,3,0,False
+09/24/2022,@ Lebanon Valley,L 0-2,103,09/24/2022,Lebanon Valley,away,L,0,2,False
+09/27/2022,@ Lancaster Bible,W 2-0,178,09/27/2022,Lancaster Bible,away,W,2,0,False
+09/29/2022,@ Alvernia,W 1-0,163,09/29/2022,Alvernia,away,W,1,0,False
+10/01/2022,@ FDU-Florham,W 1-0,100,10/01/2022,FDU-Florham,away,W,1,0,False
+10/05/2022,Neumann,W 2-0,98,10/05/2022,Neumann,home,W,2,0,False
+10/08/2022,@ Marywood,L 1-2,160,10/08/2022,Marywood,away,L,1,2,False
+10/12/2022,Centenary (NJ),W 2-0,63,10/12/2022,Centenary (NJ),home,W,2,0,False
+10/15/2022,@ Immaculata,W 1-0,100,10/15/2022,Immaculata,away,W,1,0,False
+10/19/2022,@ Washington Col.,L 0-5,72,10/19/2022,Washington Col.,away,L,0,5,False
+10/22/2022,Marymount (VA),W 2-0,188,10/22/2022,Marymount (VA),home,W,2,0,False
+10/26/2022,@ Gwynedd Mercy,W 7-0,150,10/26/2022,Gwynedd Mercy,away,W,7,0,False
+11/02/2022,#3 Neumann Atlantic East WSOC Championship,T 1-1 (3 OT),306,11/02/2022,Neumann,home,T,1,1,True
+11/12/2022,@ #2 DeSales ECAC WSOC Championship,L 2-3,150,11/12/2022,DeSales,away,L,2,3,False

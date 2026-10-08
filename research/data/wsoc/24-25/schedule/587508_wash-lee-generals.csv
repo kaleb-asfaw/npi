@@ -1,0 +1,24 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,"TCNJ @Geneva, NY",L 0-1,175,08/30/2024,TCNJ,neutral,L,0,1,False
+08/31/2024,@ William Smith,W 2-0,275,08/31/2024,William Smith,away,W,2,0,False
+09/07/2024,Franklin & Marshall,W 1-0,114,09/07/2024,Franklin & Marshall,home,W,1,0,False
+09/14/2024,Berry,W 8-0,166,09/14/2024,Berry,home,W,8,0,False
+09/15/2024,York (PA),W 2-0,88,09/15/2024,York (PA),home,W,2,0,False
+09/28/2024,@ Shenandoah,W 1-0,252,09/28/2024,Shenandoah,away,W,1,0,False
+10/02/2024,@ Lynchburg,W 3-2,352,10/02/2024,Lynchburg,away,W,3,2,False
+10/05/2024,Randolph-Macon,W 4-1,291,10/05/2024,Randolph-Macon,home,W,4,1,False
+10/09/2024,@ Averett,W 6-0,105,10/09/2024,Averett,away,W,6,0,False
+10/12/2024,@ Roanoke,W 3-0,131,10/12/2024,Roanoke,away,W,3,0,False
+10/16/2024,Bridgewater (VA),W 2-0,83,10/16/2024,Bridgewater (VA),home,W,2,0,False
+10/19/2024,@ Sweet Briar,W 11-0,0,10/19/2024,Sweet Briar,away,W,11,0,False
+10/20/2024,@ Chris. Newport,T 0-0,265,10/20/2024,Chris. Newport,away,T,0,0,False
+10/23/2024,@ East. Mennonite,W 4-0,73,10/23/2024,East. Mennonite,away,W,4,0,False
+10/26/2024,Batten,W 2-0,84,10/26/2024,Batten,home,W,2,0,False
+10/30/2024,Ferrum,W 2-0,79,10/30/2024,Ferrum,home,W,2,0,False
+11/02/2024,Guilford,W 3-0,107,11/02/2024,Guilford,home,W,3,0,False
+11/05/2024,Roanoke ODAC Women's Soccer Championship,W 3-0,77,11/05/2024,Roanoke,home,W,3,0,False
+11/08/2024,@ #4 Randolph-Macon ODAC Women's Soccer Championship,W 4-0,134,11/08/2024,Randolph-Macon,away,W,4,0,False
+11/10/2024,@ #3 Batten ODAC Women's Soccer Championship,W 1-0,298,11/10/2024,Batten,away,W,1,0,False
+11/16/2024,Farmingdale St. NCAA Division III Women's Soccer Championship,W 3-0,161,11/16/2024,Farmingdale St.,home,W,3,0,False
+11/17/2024,"Ohio Northern @Lexington, VA (NCAA Division III Women's Soccer Championship)",W 2-0,188,11/17/2024,Ohio Northern,neutral,W,2,0,False
+11/23/2024,"William Smith @Scranton, PA (NCAA Division III Women's Soccer Championship)",L 0-2,218,11/23/2024,William Smith,neutral,L,0,2,False

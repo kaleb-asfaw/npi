@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Hiram,W 3-1,70,09/01/2022,Hiram,away,W,3,1,False
+09/03/2022,Waynesburg,T 2-2,80,09/03/2022,Waynesburg,home,T,2,2,False
+09/07/2022,Allegheny,T 1-1,67,09/07/2022,Allegheny,home,T,1,1,False
+09/10/2022,Wash. & Jeff.,Canceled,,09/10/2022,Wash. & Jeff.,home,,,,
+09/14/2022,@ Penn St.-Behrend,W 5-4,135,09/14/2022,Penn St.-Behrend,away,W,5,4,False
+09/17/2022,@ Chatham,W 4-3,150,09/17/2022,Chatham,away,W,4,3,False
+09/21/2022,Wooster,L 0-2,82,09/21/2022,Wooster,home,L,0,2,False
+09/24/2022,@ Wittenberg,T 1-1,250,09/24/2022,Wittenberg,away,T,1,1,False
+10/01/2022,@ Ohio Northern,L 1-3,157,10/01/2022,Ohio Northern,away,L,1,3,False
+10/05/2022,@ Baldwin Wallace,W 6-0,158,10/05/2022,Baldwin Wallace,away,W,6,0,False
+10/08/2022,Heidelberg,W 3-1,102,10/08/2022,Heidelberg,home,W,3,1,False
+10/12/2022,Marietta,W 3-2,69,10/12/2022,Marietta,home,W,3,2,False
+10/15/2022,@ Capital,L 1-4,258,10/15/2022,Capital,away,L,1,4,False
+10/19/2022,@ Muskingum,W 3-1,100,10/19/2022,Muskingum,away,W,3,1,False
+10/22/2022,Wilmington (OH),L 0-3,68,10/22/2022,Wilmington (OH),home,L,0,3,False
+10/26/2022,John Carroll,L 3-4,52,10/26/2022,John Carroll,home,L,3,4,False
+10/29/2022,@ Otterbein,T 1-1,200,10/29/2022,Otterbein,away,T,1,1,False
+11/01/2022,@ #4 John Carroll OAC WSOC Championship,L 1-3,220,11/01/2022,John Carroll,away,L,1,3,False

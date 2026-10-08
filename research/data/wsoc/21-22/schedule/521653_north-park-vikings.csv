@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Aurora,T 1-1 (2 OT),90,09/01/2021,Aurora,home,T,1,1,True
+09/03/2021,Rockford,W 2-0,106,09/03/2021,Rockford,home,W,2,0,False
+09/05/2021,@ Illinois Tech,L 0-2,150,09/05/2021,Illinois Tech,away,L,0,2,False
+09/08/2021,Hope,L 0-6,78,09/08/2021,Hope,home,L,0,6,False
+09/11/2021,@ Concordia Chicago,W 3-2 (1 OT),150,09/11/2021,Concordia Chicago,away,W,3,2,True
+09/15/2021,Lake Forest,W 1-0,52,09/15/2021,Lake Forest,home,W,1,0,False
+09/19/2021,@ Dominican (IL),L 0-3,0,09/19/2021,Dominican (IL),away,L,0,3,False
+09/22/2021,Kalamazoo,L 1-3,16,09/22/2021,Kalamazoo,home,L,1,3,False
+09/25/2021,Ill. Wesleyan,L 0-5,96,09/25/2021,Ill. Wesleyan,home,L,0,5,False
+09/29/2021,Central (IA),L 0-2,58,09/29/2021,Central (IA),home,L,0,2,False
+10/02/2021,Elmhurst,L 0-3,75,10/02/2021,Elmhurst,home,L,0,3,False
+10/06/2021,Wheaton (IL),L 0-2,35,10/06/2021,Wheaton (IL),home,L,0,2,False
+10/09/2021,@ Millikin,L 0-1,75,10/09/2021,Millikin,away,L,0,1,False
+10/16/2021,North Central (IL),L 3-4 (2 OT),85,10/16/2021,North Central (IL),home,L,3,4,True
+10/18/2021,@ Wis.-Platteville,L 2-4,88,10/18/2021,Wis.-Platteville,away,L,2,4,False
+10/23/2021,@ Carthage,L 2-5,185,10/23/2021,Carthage,away,L,2,5,False
+10/27/2021,Carroll (WI),L 1-3,39,10/27/2021,Carroll (WI),home,L,1,3,False
+10/30/2021,@ Augustana (IL),L 1-2,112,10/30/2021,Augustana (IL),away,L,1,2,False

@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2023,Me.-Fort Kent,T 0-0,105,09/03/2023,Me.-Fort Kent,home,T,0,0,False
+09/06/2023,Thomas (ME),W 4-2,116,09/06/2023,Thomas (ME),home,W,4,2,False
+09/09/2023,@ Me.-Farmington,W 2-1,135,09/09/2023,Me.-Farmington,away,W,2,1,False
+09/12/2023,Me.-Presque Isle,W 4-0,111,09/12/2023,Me.-Presque Isle,home,W,4,0,False
+09/16/2023,@ UMass Dartmouth,W 1-0,115,09/16/2023,UMass Dartmouth,away,W,1,0,False
+09/17/2023,@ Bowdoin,L 0-1,111,09/17/2023,Bowdoin,away,L,0,1,False
+09/20/2023,@ Gordon,W 2-1,67,09/20/2023,Gordon,away,W,2,1,False
+09/23/2023,@ VTSU Lyndon,W 3-1,70,09/23/2023,VTSU Lyndon,away,W,3,1,False
+09/27/2023,Husson,L 0-1,194,09/27/2023,Husson,home,L,0,1,False
+09/30/2023,Lesley,L 0-1,382,09/30/2023,Lesley,home,L,0,1,False
+10/04/2023,@ Me.-Presque Isle,W 6-0,50,10/04/2023,Me.-Presque Isle,away,W,6,0,False
+10/07/2023,VTSU-Johnson,W 2-0,69,10/07/2023,VTSU-Johnson,home,W,2,0,False
+10/08/2023,SUNY Canton,W 6-0,53,10/08/2023,SUNY Canton,home,W,6,0,False
+10/14/2023,Me.-Farmington,W 5-0,107,10/14/2023,Me.-Farmington,home,W,5,0,False
+10/18/2023,@ Thomas (ME),W 1-0,63,10/18/2023,Thomas (ME),away,W,1,0,False
+10/21/2023,@ Plymouth St.,L 0-3,30,10/21/2023,Plymouth St.,away,L,0,3,False
+10/28/2023,"#2 Husson @Cambridge, MA (North Atlantic Women's Soccer Championship)",W 2-0,100,10/28/2023,Husson,neutral,W,2,0,False
+10/29/2023,@ #1 Lesley North Atlantic Women's Soccer Championship,W 1-0,60,10/29/2023,Lesley,away,W,1,0,False
+11/04/2023,@ #4 SUNY Morrisville North Atlantic Women's Soccer Championship,W 1-0,100,11/04/2023,SUNY Morrisville,away,W,1,0,False
+11/11/2023,@ Amherst NCAA Division III Women's Soccer Championship,L 0-5,750,11/11/2023,Amherst,away,L,0,5,False

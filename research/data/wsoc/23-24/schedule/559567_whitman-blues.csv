@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Howard Payne,W 1-0,150,09/01/2023,Howard Payne,home,W,1,0,False
+09/02/2023,Luther,T 1-1,78,09/02/2023,Luther,home,T,1,1,False
+09/09/2023,UC Santa Cruz,T 0-0,100,09/09/2023,UC Santa Cruz,home,T,0,0,False
+09/10/2023,Corban,L 1-2,150,09/10/2023,Corban,home,L,1,2,False
+09/16/2023,@ Puget Sound,L 0-2,200,09/16/2023,Puget Sound,away,L,0,2,False
+09/17/2023,@ Pacific Lutheran,W 2-1,100,09/17/2023,Pacific Lutheran,away,W,2,1,False
+09/20/2023,@ Whitworth,W 1-0,70,09/20/2023,Whitworth,away,W,1,0,False
+09/24/2023,Pacific (OR),W 1-0,50,09/24/2023,Pacific (OR),home,W,1,0,False
+09/30/2023,@ Linfield,T 0-0,81,09/30/2023,Linfield,away,T,0,0,False
+10/01/2023,@ Willamette,W 2-1,70,10/01/2023,Willamette,away,W,2,1,False
+10/07/2023,George Fox,L 0-1,100,10/07/2023,George Fox,home,L,0,1,False
+10/08/2023,Lewis & Clark,W 3-1,78,10/08/2023,Lewis & Clark,home,W,3,1,False
+10/14/2023,Puget Sound,L 0-1,126,10/14/2023,Puget Sound,home,L,0,1,False
+10/15/2023,Pacific Lutheran,W 1-0,57,10/15/2023,Pacific Lutheran,home,W,1,0,False
+10/18/2023,Whitworth,T 1-1,100,10/18/2023,Whitworth,home,T,1,1,False
+10/21/2023,@ Pacific (OR),L 0-1,57,10/21/2023,Pacific (OR),away,L,0,1,False
+10/28/2023,Willamette,W 3-2,75,10/28/2023,Willamette,home,W,3,2,False
+10/29/2023,Linfield,W 2-1,200,10/29/2023,Linfield,home,W,2,1,False
+11/04/2023,@ Lewis & Clark,W 2-1,147,11/04/2023,Lewis & Clark,away,W,2,1,False
+11/05/2023,@ George Fox,T 1-1,1,11/05/2023,George Fox,away,T,1,1,False

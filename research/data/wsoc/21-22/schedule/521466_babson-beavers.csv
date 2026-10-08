@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ JWU (Providence),L 1-2,70,09/01/2021,JWU (Providence),away,L,1,2,False
+09/04/2021,@ Union (NY),L 1-2 (2 OT),0,09/04/2021,Union (NY),away,L,1,2,True
+09/06/2021,Lasell,W 2-0,472,09/06/2021,Lasell,home,W,2,0,False
+09/11/2021,Clarkson,W 3-0,593,09/11/2021,Clarkson,home,W,3,0,False
+09/14/2021,Brandeis,T 1-1 (2 OT),185,09/14/2021,Brandeis,home,T,1,1,True
+09/18/2021,@ Wheaton (MA),L 1-2 (2 OT),165,09/18/2021,Wheaton (MA),away,L,1,2,True
+09/21/2021,Endicott,W 1-0,246,09/21/2021,Endicott,home,W,1,0,False
+09/25/2021,Coast Guard,W 2-1,225,09/25/2021,Coast Guard,home,W,2,1,False
+09/28/2021,@ Bowdoin,L 1-3,101,09/28/2021,Bowdoin,away,L,1,3,False
+10/02/2021,UMass Boston,W 4-0,265,10/02/2021,UMass Boston,home,W,4,0,False
+10/06/2021,MIT,L 0-1,145,10/06/2021,MIT,home,L,0,1,False
+10/09/2021,Emerson,W 2-1,163,10/09/2021,Emerson,home,W,2,1,False
+10/13/2021,@ Springfield,T 0-0 (2 OT),0,10/13/2021,Springfield,away,T,0,0,True
+10/16/2021,@ Mount Holyoke,W 9-0,115,10/16/2021,Mount Holyoke,away,W,9,0,False
+10/20/2021,Wellesley,T 0-0 (2 OT),110,10/20/2021,Wellesley,home,T,0,0,True
+10/23/2021,@ Smith,W 3-0,203,10/23/2021,Smith,away,W,3,0,False
+10/27/2021,@ WPI,T 0-0 (2 OT),100,10/27/2021,WPI,away,T,0,0,True
+10/30/2021,Clark (MA),W 4-0,175,10/30/2021,Clark (MA),home,W,4,0,False
+11/02/2021,#5 WPI NEWMAC WSOC Championship,T 0-0 (2 OT),325,11/02/2021,WPI,home,T,0,0,True

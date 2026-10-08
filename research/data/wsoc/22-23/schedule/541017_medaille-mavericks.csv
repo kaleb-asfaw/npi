@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2022,@ Thiel,L 0-4,80,09/03/2022,Thiel,away,L,0,4,False
+09/10/2022,Buffalo St.,Ppd,,09/10/2022,Buffalo St.,home,,,,
+09/14/2022,Hilbert,L 2-3,109,09/14/2022,Hilbert,home,L,2,3,False
+09/17/2022,@ Alfred,L 0-2,225,09/17/2022,Alfred,away,L,0,2,False
+09/24/2022,@ Utica,L 0-6,110,09/24/2022,Utica,away,L,0,6,False
+09/26/2022,@ Alfred St.,T 1-1,120,09/26/2022,Alfred St.,away,T,1,1,False
+09/28/2022,Pitt.-Bradford,W 3-0,60,09/28/2022,Pitt.-Bradford,home,W,3,0,False
+10/01/2022,@ Hartwick,L 0-8,64,10/01/2022,Hartwick,away,L,0,8,False
+10/05/2022,Nazareth,L 0-4,55,10/05/2022,Nazareth,home,L,0,4,False
+10/09/2022,Penn St.-Altoona,L 1-2,52,10/09/2022,Penn St.-Altoona,home,L,1,2,False
+10/12/2022,Wells,W 2-1,35,10/12/2022,Wells,home,W,2,1,False
+10/15/2022,St. John Fisher,L 0-2,45,10/15/2022,St. John Fisher,home,L,0,2,False
+10/19/2022,Elmira,T 0-0,32,10/19/2022,Elmira,home,T,0,0,False
+10/22/2022,Russell Sage,L 1-6,54,10/22/2022,Russell Sage,home,L,1,6,False
+10/26/2022,@ Houghton,L 0-3,55,10/26/2022,Houghton,away,L,0,3,False
+10/29/2022,@ Keuka,L 0-3,160,10/29/2022,Keuka,away,L,0,3,False

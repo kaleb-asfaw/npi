@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/31/2024,"Fredonia @Erie, PA",W 2-0,100,08/31/2024,Fredonia,neutral,W,2,0,False
+09/01/2024,@ Penn St.-Behrend,L 0-1,150,09/01/2024,Penn St.-Behrend,away,L,0,1,False
+09/07/2024,"Farmingdale St. @Dallas, PA",W 1-0,71,09/07/2024,Farmingdale St.,neutral,W,1,0,False
+09/08/2024,@ Misericordia,L 0-1,138,09/08/2024,Misericordia,away,L,0,1,False
+09/14/2024,@ Ohio Wesleyan,L 0-2,175,09/14/2024,Ohio Wesleyan,away,L,0,2,False
+09/18/2024,@ Westminster (PA),W 4-0,75,09/18/2024,Westminster (PA),away,W,4,0,False
+09/21/2024,Mt. St. Joseph,L 1-2,120,09/21/2024,Mt. St. Joseph,home,L,1,2,False
+09/25/2024,Pitt.-Greensburg,W 5-1,133,09/25/2024,Pitt.-Greensburg,home,W,5,1,False
+09/28/2024,@ Wooster,L 2-3,170,09/28/2024,Wooster,away,L,2,3,False
+10/05/2024,Muskingum,W 5-3,178,10/05/2024,Muskingum,home,W,5,3,False
+10/09/2024,Mount Union,W 3-0,172,10/09/2024,Mount Union,home,W,3,0,False
+10/12/2024,@ Capital,W 2-0,582,10/12/2024,Capital,away,W,2,0,False
+10/16/2024,Baldwin Wallace,W 3-0,250,10/16/2024,Baldwin Wallace,home,W,3,0,False
+10/19/2024,@ Marietta,W 2-0,106,10/19/2024,Marietta,away,W,2,0,False
+10/23/2024,@ Heidelberg,W 1-0,43,10/23/2024,Heidelberg,away,W,1,0,False
+10/26/2024,Wilmington (OH),W 2-1,104,10/26/2024,Wilmington (OH),home,W,2,1,False
+10/30/2024,@ Otterbein,T 1-1,104,10/30/2024,Otterbein,away,T,1,1,False
+11/02/2024,Ohio Northern,L 0-2,402,11/02/2024,Ohio Northern,home,L,0,2,False
+11/07/2024,#3 Capital OAC Women's Soccer Championships,W 1-0,408,11/07/2024,Capital,home,W,1,0,False
+11/09/2024,@ #1 Ohio Northern OAC Women's Soccer Championships,L 2-3,358,11/09/2024,Ohio Northern,away,L,2,3,False

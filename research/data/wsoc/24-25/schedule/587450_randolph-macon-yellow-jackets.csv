@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Mary Washington,L 1-2,156,08/30/2024,Mary Washington,home,L,1,2,False
+09/07/2024,Gettysburg,W 6-0,139,09/07/2024,Gettysburg,home,W,6,0,False
+09/10/2024,Southern Va.,W 3-1,115,09/10/2024,Southern Va.,home,W,3,1,False
+09/14/2024,@ St. Mary's (MD),W 2-1,112,09/14/2024,St. Mary's (MD),away,W,2,1,False
+09/15/2024,@ Washington Col.,T 1-1,167,09/15/2024,Washington Col.,away,T,1,1,False
+09/21/2024,@ Guilford,T 1-1,100,09/21/2024,Guilford,away,T,1,1,False
+09/24/2024,@ Stevenson,T 1-1,106,09/24/2024,Stevenson,away,T,1,1,False
+09/28/2024,Hollins,W 10-0,131,09/28/2024,Hollins,home,W,10,0,False
+09/29/2024,@ Averett,W 6-0,145,09/29/2024,Averett,away,W,6,0,False
+10/02/2024,Salisbury,T 1-1,129,10/02/2024,Salisbury,home,T,1,1,False
+10/05/2024,@ Wash. & Lee,L 1-4,291,10/05/2024,Wash. & Lee,away,L,1,4,False
+10/09/2024,@ Bridgewater (VA),W 2-0,135,10/09/2024,Bridgewater (VA),away,W,2,0,False
+10/12/2024,Ferrum,W 2-0,219,10/12/2024,Ferrum,home,W,2,0,False
+10/16/2024,East. Mennonite,W 3-0,134,10/16/2024,East. Mennonite,home,W,3,0,False
+10/19/2024,@ Lynchburg,L 1-4,245,10/19/2024,Lynchburg,away,L,1,4,False
+10/23/2024,@ Randolph,W 2-1,120,10/23/2024,Randolph,away,W,2,1,False
+10/26/2024,Roanoke,W 1-0,276,10/26/2024,Roanoke,home,W,1,0,False
+10/30/2024,Batten,L 0-4,145,10/30/2024,Batten,home,L,0,4,False
+11/05/2024,#5 Guilford ODAC Women's Soccer Championship,W 1-0,410,11/05/2024,Guilford,home,W,1,0,False
+11/08/2024,#1 Wash. & Lee ODAC Women's Soccer Championship,L 0-4,134,11/08/2024,Wash. & Lee,home,L,0,4,False

@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Monmouth (IL),L 2-10,75,09/01/2023,Monmouth (IL),away,L,2,10,False
+09/02/2023,@ Faith Bapt. Bible,L 0-5,82,09/02/2023,@ Faith Bapt. Bible,home,L,0,5,False
+09/05/2023,Lakeland,L 3-6,45,09/05/2023,Lakeland,home,L,3,6,False
+09/08/2023,@ Northland,L 0-4,237,09/08/2023,Northland,away,L,0,4,False
+09/14/2023,Buena Vista,L 0-6,35,09/14/2023,Buena Vista,home,L,0,6,False
+09/16/2023,@ Coe,L 1-8,94,09/16/2023,Coe,away,L,1,8,False
+09/19/2023,Mount Mary,W 3-2,25,09/19/2023,Mount Mary,home,W,3,2,False
+09/22/2023,Spurgeon,W 5-1,50,09/22/2023,Spurgeon,home,W,5,1,False
+10/03/2023,@ Andrews (MI),W 5-0,24,10/03/2023,@ Andrews (MI),home,W,5,0,False
+10/10/2023,Ripon,L 0-3,51,10/10/2023,Ripon,home,L,0,3,False
+10/16/2023,Elmhurst,L 1-6,49,10/16/2023,Elmhurst,home,L,1,6,False
+10/19/2023,Andrews (MI),W 10-0,55,10/19/2023,Andrews (MI),home,W,10,0,False
+10/21/2023,Faith Bapt. Bible,L 0-1,152,10/21/2023,Faith Bapt. Bible,home,L,0,1,False
+10/24/2023,@ Mount Mary,W 1-0,44,10/24/2023,Mount Mary,away,W,1,0,False
+10/28/2023,Great Lake Christian,L 0-5,35,10/28/2023,Great Lake Christian,home,L,0,5,False
+11/04/2023,Great Lake Christian,L 0-6,170,11/04/2023,Great Lake Christian,home,L,0,6,False

@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Penn College,T 2-2,226,09/01/2023,Penn College,home,T,2,2,False
+09/03/2023,Waynesburg,L 1-4,309,09/03/2023,Waynesburg,home,L,1,4,False
+09/06/2023,@ Lycoming,L 1-7,143,09/06/2023,Lycoming,away,L,1,7,False
+09/09/2023,Geneva,Ppd,,09/09/2023,Geneva,home,,,,
+09/10/2023,@ Bethany (WV),T 1-1,100,09/10/2023,Bethany (WV),away,T,1,1,False
+09/13/2023,Mary Washington,L 0-2,103,09/13/2023,Mary Washington,home,L,0,2,False
+09/16/2023,Notre Dame (MD),W 10-1,146,09/16/2023,Notre Dame (MD),home,W,10,1,False
+09/20/2023,@ Wilson,L 0-4,75,09/20/2023,Wilson,away,L,0,4,False
+09/23/2023,Alfred St.,W 4-2,57,09/23/2023,Alfred St.,home,W,4,2,False
+09/26/2023,@ Carlow,W 3-1,97,09/26/2023,Carlow,away,W,3,1,False
+09/30/2023,Hilbert,L 4-5,134,09/30/2023,Hilbert,home,L,4,5,False
+10/04/2023,La Roche,L 0-1,145,10/04/2023,La Roche,home,L,0,1,False
+10/07/2023,@ Penn St.-Behrend,L 0-6,50,10/07/2023,Penn St.-Behrend,away,L,0,6,False
+10/10/2023,@ Pitt.-Greensburg,L 0-2,127,10/10/2023,Pitt.-Greensburg,away,L,0,2,False
+10/14/2023,@ Pitt.-Bradford,W 7-0,35,10/14/2023,Pitt.-Bradford,away,W,7,0,False
+10/21/2023,Wells,W 12-0,134,10/21/2023,Wells,home,W,12,0,False
+10/24/2023,Penn St.-Altoona,W 2-0,117,10/24/2023,Penn St.-Altoona,home,W,2,0,False
+10/28/2023,#5 La Roche AMCC Women's Soccer Championship,W 3-1,205,10/28/2023,La Roche,home,W,3,1,False
+11/01/2023,@ #1 Penn St.-Behrend AMCC Women's Soccer Championship,L 0-4,50,11/01/2023,Penn St.-Behrend,away,L,0,4,False

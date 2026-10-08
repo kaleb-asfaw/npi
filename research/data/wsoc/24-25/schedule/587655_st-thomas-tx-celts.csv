@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Belhaven,L 0-1,173,08/30/2024,Belhaven,away,L,0,1,False
+08/31/2024,@ Millsaps,W 2-1,40,08/31/2024,Millsaps,away,W,2,1,False
+09/06/2024,North American,W 3-1,200,09/06/2024,North American,home,W,3,1,False
+09/08/2024,Howard Payne,T 1-1,75,09/08/2024,Howard Payne,home,T,1,1,False
+09/13/2024,"Hendrix @Sherman, TX",W 1-0,92,09/13/2024,Hendrix,neutral,W,1,0,False
+09/15/2024,East Tex. Baptist,T 1-1,100,09/15/2024,East Tex. Baptist,home,T,1,1,False
+09/22/2024,"MUW @Alexandria, AL",W 3-1,25,09/22/2024,MUW,neutral,W,3,1,False
+10/04/2024,@ Centenary (LA),W 2-0,158,10/04/2024,Centenary (LA),away,W,2,0,False
+10/07/2024,Ozarks (AR),W 3-0,100,10/07/2024,Ozarks (AR),home,W,3,0,False
+10/11/2024,@ McMurry,L 0-2,126,10/11/2024,McMurry,away,L,0,2,False
+10/13/2024,@ Concordia (TX),L 1-5,108,10/13/2024,Concordia (TX),away,L,1,5,False
+10/18/2024,@ Texas Lutheran,L 0-1,150,10/18/2024,Texas Lutheran,away,L,0,1,False
+10/20/2024,@ Southwestern (TX),L 0-4,100,10/20/2024,Southwestern (TX),away,L,0,4,False
+10/25/2024,Trinity (TX),L 0-1,200,10/25/2024,Trinity (TX),home,L,0,1,False
+10/27/2024,Schreiner,L 1-3,200,10/27/2024,Schreiner,home,L,1,3,False
+11/01/2024,Dallas,L 1-3,200,11/01/2024,Dallas,home,L,1,3,False
+11/03/2024,Austin,T 1-1,200,11/03/2024,Austin,home,T,1,1,False

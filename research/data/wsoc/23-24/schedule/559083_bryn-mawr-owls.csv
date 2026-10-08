@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Cabrini,T 0-0,200,09/01/2023,Cabrini,home,T,0,0,False
+09/03/2023,Hood,W 1-0,75,09/03/2023,Hood,home,W,1,0,False
+09/06/2023,@ Penn St. Harrisburg,L 0-2,126,09/06/2023,Penn St. Harrisburg,away,L,0,2,False
+09/12/2023,Delaware Valley,W 3-2,54,09/12/2023,Delaware Valley,home,W,3,2,False
+09/16/2023,Franklin & Marshall,L 0-2,65,09/16/2023,Franklin & Marshall,home,L,0,2,False
+09/20/2023,@ Washington Col.,L 0-1,92,09/20/2023,Washington Col.,away,L,0,1,False
+09/23/2023,@ McDaniel,L 0-3,56,09/23/2023,McDaniel,away,L,0,3,False
+09/26/2023,Penn St.-Abington,W 4-0,50,09/26/2023,Penn St.-Abington,home,W,4,0,False
+09/30/2023,@ Johns Hopkins,L 0-3,125,09/30/2023,Johns Hopkins,away,L,0,3,False
+10/04/2023,Swarthmore,L 0-3,75,10/04/2023,Swarthmore,home,L,0,3,False
+10/11/2023,@ Muhlenberg,T 0-0,75,10/11/2023,Muhlenberg,away,T,0,0,False
+10/14/2023,@ Ursinus,L 0-1,87,10/14/2023,Ursinus,away,L,0,1,False
+10/18/2023,@ St. Mary's (MD),L 0-2,100,10/18/2023,St. Mary's (MD),away,L,0,2,False
+10/21/2023,Gettysburg,L 0-4,100,10/21/2023,Gettysburg,home,L,0,4,False
+10/24/2023,Haverford,T 1-1,0,10/24/2023,Haverford,home,T,1,1,False
+10/28/2023,@ Dickinson,L 0-2,50,10/28/2023,Dickinson,away,L,0,2,False

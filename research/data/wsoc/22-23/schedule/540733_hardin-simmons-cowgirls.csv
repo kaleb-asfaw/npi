@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,St. Scholastica,W 2-0,56,09/01/2022,St. Scholastica,home,W,2,0,False
+09/03/2022,Wis.-Whitewater,T 0-0,106,09/03/2022,Wis.-Whitewater,home,T,0,0,False
+09/09/2022,Southwestern (TX),W 3-0,109,09/09/2022,Southwestern (TX),home,W,3,0,False
+09/16/2022,@ Trinity (TX),L 1-2,529,09/16/2022,Trinity (TX),away,L,1,2,False
+09/18/2022,"Cal Lutheran @San Antonio, TX",W 1-0,119,09/18/2022,Cal Lutheran,neutral,W,1,0,False
+09/22/2022,Howard Payne,W 4-0,287,09/22/2022,Howard Payne,home,W,4,0,False
+10/01/2022,McMurry,W 2-1,406,10/01/2022,McMurry,home,W,2,1,False
+10/06/2022,East Tex. Baptist,W 5-1,122,10/06/2022,East Tex. Baptist,home,W,5,1,False
+10/08/2022,LeTourneau,W 2-0,303,10/08/2022,LeTourneau,home,W,2,0,False
+10/13/2022,@ Howard Payne,W 5-1,100,10/13/2022,Howard Payne,away,W,5,1,False
+10/15/2022,@ Sul Ross St.,T 2-2,30,10/15/2022,Sul Ross St.,away,T,2,2,False
+10/20/2022,@ Concordia (TX),W 2-1,119,10/20/2022,Concordia (TX),away,W,2,1,False
+10/22/2022,@ Mary Hardin-Baylor,L 0-1,478,10/22/2022,Mary Hardin-Baylor,away,L,0,1,False
+10/27/2022,Ozarks (AR),W 3-0,203,10/27/2022,Ozarks (AR),home,W,3,0,False
+10/29/2022,UT Dallas,W 1-0,244,10/29/2022,UT Dallas,home,W,1,0,False
+11/03/2022,Concordia (TX) ASC WSOC Championship,W 1-0,0,11/03/2022,Concordia (TX),home,W,1,0,False
+11/05/2022,@ Mary Hardin-Baylor ASC WSOC Championship,L 0-1,0,11/05/2022,Mary Hardin-Baylor,away,L,0,1,False

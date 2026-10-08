@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Mary Baldwin,W 5-2,100,08/30/2024,Mary Baldwin,away,W,5,2,False
+09/04/2024,@ Greensboro,W 4-1,150,09/04/2024,Greensboro,away,W,4,1,False
+09/07/2024,Virginia St.,W 5-1,100,09/07/2024,Virginia St.,home,W,5,1,False
+09/11/2024,JWU (Charlotte),W 2-0,125,09/11/2024,JWU (Charlotte),home,W,2,0,False
+09/14/2024,@ N.C. Wesleyan,W 5-0,78,09/14/2024,N.C. Wesleyan,away,W,5,0,False
+09/18/2024,Southern Va.,W 2-0,500,09/18/2024,Southern Va.,home,W,2,0,False
+09/21/2024,Averett,W 3-1,105,09/21/2024,Averett,home,W,3,1,False
+09/24/2024,@ Meredith,W 1-0,42,09/24/2024,Meredith,away,W,1,0,False
+09/28/2024,@ East. Mennonite,W 5-1,105,09/28/2024,East. Mennonite,away,W,5,1,False
+10/02/2024,Regent,W 5-0,81,10/02/2024,Regent,home,W,5,0,False
+10/05/2024,Hollins,W 9-1,200,10/05/2024,Hollins,home,W,9,1,False
+10/09/2024,Guilford,L 0-2,90,10/09/2024,Guilford,home,L,0,2,False
+10/12/2024,@ Randolph-Macon,L 0-2,219,10/12/2024,Randolph-Macon,away,L,0,2,False
+10/16/2024,@ Sweet Briar,W 7-1,50,10/16/2024,Sweet Briar,away,W,7,1,False
+10/18/2024,Randolph,W 4-0,91,10/18/2024,Randolph,home,W,4,0,False
+10/23/2024,Roanoke,T 2-2,500,10/23/2024,Roanoke,home,T,2,2,False
+10/26/2024,@ Bridgewater (VA),L 0-3,270,10/26/2024,Bridgewater (VA),away,L,0,3,False
+10/30/2024,@ Wash. & Lee,L 0-2,79,10/30/2024,Wash. & Lee,away,L,0,2,False
+11/02/2024,Lynchburg,L 1-2,200,11/02/2024,Lynchburg,home,L,1,2,False

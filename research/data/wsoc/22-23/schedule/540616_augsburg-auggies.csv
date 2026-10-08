@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Wis.-Superior,W 2-1,0,09/01/2022,Wis.-Superior,away,W,2,1,False
+09/03/2022,@ Wis.-Stout,W 1-0,152,09/03/2022,Wis.-Stout,away,W,1,0,False
+09/04/2022,@ Minn.-Morris,W 8-0,72,09/04/2022,Minn.-Morris,away,W,8,0,False
+09/07/2022,@ Wis.-La Crosse,L 1-2,155,09/07/2022,Wis.-La Crosse,away,L,1,2,False
+09/10/2022,Wis.-Whitewater,L 1-2,139,09/10/2022,Wis.-Whitewater,home,L,1,2,False
+09/14/2022,Hamline,W 2-1,179,09/14/2022,Hamline,home,W,2,1,False
+09/17/2022,@ Macalester,W 4-1,248,09/17/2022,Macalester,away,W,4,1,False
+09/21/2022,Wartburg,L 0-1,175,09/21/2022,Wartburg,home,L,0,1,False
+09/24/2022,@ St. Scholastica,W 2-1,0,09/24/2022,St. Scholastica,away,W,2,1,False
+09/27/2022,Carleton,L 0-3,125,09/27/2022,Carleton,home,L,0,3,False
+10/01/2022,Saint Benedict,L 1-5,109,10/01/2022,Saint Benedict,home,L,1,5,False
+10/05/2022,Wis.-Eau Claire,L 1-3,177,10/05/2022,Wis.-Eau Claire,home,L,1,3,False
+10/08/2022,@ Saint Mary's (MN),T 0-0,50,10/08/2022,Saint Mary's (MN),away,T,0,0,False
+10/12/2022,Gustavus Adolphus,L 1-3,173,10/12/2022,Gustavus Adolphus,home,L,1,3,False
+10/15/2022,@ Concordia-M'head,T 1-1,247,10/15/2022,Concordia-M'head,away,T,1,1,False
+10/22/2022,@ St. Catherine,L 0-2,146,10/22/2022,St. Catherine,away,L,0,2,False
+10/25/2022,St. Olaf,L 0-1,119,10/25/2022,St. Olaf,home,L,0,1,False
+10/29/2022,@ Bethel (MN),L 2-3,253,10/29/2022,Bethel (MN),away,L,2,3,False

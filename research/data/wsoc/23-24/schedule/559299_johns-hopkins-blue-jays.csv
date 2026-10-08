@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Sewanee,W 3-0,300,09/01/2023,Sewanee,home,W,3,0,False
+09/03/2023,Scranton,W 3-1,100,09/03/2023,Scranton,home,W,3,1,False
+09/06/2023,Messiah,L 0-1,200,09/06/2023,Messiah,home,L,0,1,False
+09/09/2023,@ Lynchburg,W 2-0,319,09/09/2023,Lynchburg,away,W,2,0,False
+09/13/2023,@ TCNJ,T 2-2,214,09/13/2023,TCNJ,away,T,2,2,False
+09/16/2023,Muhlenberg,W 3-0,220,09/16/2023,Muhlenberg,home,W,3,0,False
+09/20/2023,Dickinson,W 1-0,150,09/20/2023,Dickinson,home,W,1,0,False
+09/23/2023,@ Ursinus,W 4-1,107,09/23/2023,Ursinus,away,W,4,1,False
+09/27/2023,@ Randolph-Macon,W 5-2,207,09/27/2023,Randolph-Macon,away,W,5,2,False
+09/30/2023,Bryn Mawr,W 3-0,125,09/30/2023,Bryn Mawr,home,W,3,0,False
+10/04/2023,Washington Col.,W 3-0,150,10/04/2023,Washington Col.,home,W,3,0,False
+10/07/2023,@ Gettysburg,W 5-0,121,10/07/2023,Gettysburg,away,W,5,0,False
+10/11/2023,@ Swarthmore,T 1-1,112,10/11/2023,Swarthmore,away,T,1,1,False
+10/14/2023,@ Franklin & Marshall,W 1-0,130,10/14/2023,Franklin & Marshall,away,W,1,0,False
+10/21/2023,Haverford,W 4-0,230,10/21/2023,Haverford,home,W,4,0,False
+10/25/2023,@ McDaniel,L 0-1,522,10/25/2023,McDaniel,away,L,0,1,False
+10/28/2023,@ Mary Washington,W 2-0,619,10/28/2023,Mary Washington,away,W,2,0,False
+11/03/2023,#3 McDaniel Centennial Women's Soccer Championship,W 1-0,410,11/03/2023,McDaniel,home,W,1,0,False
+11/05/2023,#4 Franklin & Marshall Centennial Women's Soccer Championship,W 2-1,209,11/05/2023,Franklin & Marshall,home,W,2,1,False
+11/11/2023,"Penn St.-Berks @Virginia Beach, VA (NCAA Division III Women's Soccer Championship)",W 3-1,65,11/11/2023,Penn St.-Berks,neutral,W,3,1,False
+11/12/2023,@ Batten NCAA Division III Women's Soccer Championship,L 1-2,210,11/12/2023,Batten,away,L,1,2,False

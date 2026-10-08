@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/31/2024,@ Principia,W 8-0,100,08/31/2024,Principia,away,W,8,0,False
+09/01/2024,@ Illinois Col.,L 0-1,250,09/01/2024,Illinois Col.,away,L,0,1,False
+09/04/2024,@ York (NE),W 1-0,0,09/04/2024,@ York (NE),home,W,1,0,False
+09/06/2024,Cornell College,W 5-0,160,09/06/2024,Cornell College,home,W,5,0,False
+09/08/2024,Concordia-M'head,L 1-2,100,09/08/2024,Concordia-M'head,home,L,1,2,False
+09/11/2024,Northwestern (IA),W 2-1,50,09/11/2024,Northwestern (IA),home,W,2,1,False
+09/14/2024,@ Dordt,L 0-5,560,09/14/2024,@ Dordt,home,L,0,5,False
+09/16/2024,Concordia (NE),L 0-2,88,09/16/2024,Concordia (NE),home,L,0,2,False
+09/21/2024,@ Webster,L 0-3,167,09/21/2024,Webster,away,L,0,3,False
+09/25/2024,Buena Vista,W 1-0,135,09/25/2024,Buena Vista,home,W,1,0,False
+09/28/2024,Luther,T 1-1,122,09/28/2024,Luther,home,T,1,1,False
+10/05/2024,@ Loras,L 0-4,125,10/05/2024,Loras,away,L,0,4,False
+10/09/2024,@ Wartburg,L 0-1,160,10/09/2024,Wartburg,away,L,0,1,False
+10/12/2024,Coe,T 2-2,149,10/12/2024,Coe,home,T,2,2,False
+10/15/2024,Simpson,L 0-3,115,10/15/2024,Simpson,home,L,0,3,False
+10/19/2024,Dubuque,L 0-2,318,10/19/2024,Dubuque,home,L,0,2,False
+10/23/2024,@ Buena Vista,W 1-0,45,10/23/2024,Buena Vista,away,W,1,0,False
+10/26/2024,@ Central (IA),L 0-6,175,10/26/2024,Central (IA),away,L,0,6,False

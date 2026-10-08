@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Ohio Wesleyan,L 0-1,225,08/30/2024,Ohio Wesleyan,away,L,0,1,False
+09/04/2024,Otterbein,L 2-3,246,09/04/2024,Otterbein,home,L,2,3,False
+09/08/2024,@ Marietta,T 2-2,270,09/08/2024,Marietta,away,T,2,2,False
+09/10/2024,Wittenberg,W 1-0,238,09/10/2024,Wittenberg,home,W,1,0,False
+09/14/2024,Sewanee,T 0-0,250,09/14/2024,Sewanee,home,T,0,0,False
+09/18/2024,@ Wilmington (OH),L 1-3,138,09/18/2024,Wilmington (OH),away,L,1,3,False
+09/21/2024,@ John Carroll,W 2-1,120,09/21/2024,John Carroll,away,W,2,1,False
+09/25/2024,@ Capital,T 1-1,261,09/25/2024,Capital,away,T,1,1,False
+09/28/2024,Manchester,W 5-0,442,09/28/2024,Manchester,home,W,5,0,False
+10/05/2024,Anderson (IN),W 3-0,250,10/05/2024,Anderson (IN),home,W,3,0,False
+10/09/2024,@ Berea,W 7-0,45,10/09/2024,Berea,away,W,7,0,False
+10/12/2024,@ Earlham,T 0-0,117,10/12/2024,Earlham,away,T,0,0,False
+10/16/2024,Hanover,W 2-1,250,10/16/2024,Hanover,home,W,2,1,False
+10/19/2024,Franklin,W 3-0,150,10/19/2024,Franklin,home,W,3,0,False
+10/23/2024,Bluffton,W 10-1,250,10/23/2024,Bluffton,home,W,10,1,False
+10/26/2024,@ Rose-Hulman,W 1-0,234,10/26/2024,Rose-Hulman,away,W,1,0,False
+10/30/2024,@ Transylvania,W 3-0,0,10/30/2024,Transylvania,away,W,3,0,False
+11/06/2024,#4 Hanover HCAC Women's Soccer Championship,W 1-0,250,11/06/2024,Hanover,home,W,1,0,False
+11/09/2024,#2 Rose-Hulman HCAC Women's Soccer Championship,W 1-0 (1 OT),247,11/09/2024,Rose-Hulman,home,W,1,0,True
+11/16/2024,@ Carnegie Mellon NCAA Division III Women's Soccer Championship,L 0-4,130,11/16/2024,Carnegie Mellon,away,L,0,4,False

@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,"McDaniel @Galloway, NJ",L 0-1,101,09/01/2023,McDaniel,neutral,L,0,1,False
+09/02/2023,"Methodist @Galloway, NJ",L 2-4,80,09/02/2023,Methodist,neutral,L,2,4,False
+09/06/2023,FDU-Florham,W 2-1,104,09/06/2023,FDU-Florham,home,W,2,1,False
+09/08/2023,@ UMSV,L 0-3,125,09/08/2023,UMSV,away,L,0,3,False
+09/13/2023,@ Manhattanville,L 1-2,56,09/13/2023,Manhattanville,away,L,1,2,False
+09/16/2023,John Jay,W 2-1,100,09/16/2023,John Jay,home,W,2,1,False
+09/20/2023,Marywood,T 2-2,100,09/20/2023,Marywood,home,T,2,2,False
+09/22/2023,@ Rowan,L 0-4,202,09/22/2023,Rowan,away,L,0,4,False
+09/23/2023,@ Rowan,Ppd,,09/23/2023,Rowan,away,,,,
+09/27/2023,TCNJ,L 0-5,200,09/27/2023,TCNJ,home,L,0,5,False
+09/30/2023,Stockton,T 0-0,100,09/30/2023,Stockton,home,T,0,0,False
+10/04/2023,Pratt,W 4-0,100,10/04/2023,Pratt,home,W,4,0,False
+10/07/2023,@ Rutgers-Camden,L 0-2,110,10/07/2023,Rutgers-Camden,away,L,0,2,False
+10/11/2023,@ Ramapo,W 1-0,110,10/11/2023,Ramapo,away,W,1,0,False
+10/13/2023,Wm. Paterson,T 1-1,100,10/13/2023,Wm. Paterson,home,T,1,1,False
+10/18/2023,New Jersey City,L 2-3,100,10/18/2023,New Jersey City,home,L,2,3,False
+10/21/2023,@ Rutgers-Newark,L 1-2,394,10/21/2023,Rutgers-Newark,away,L,1,2,False
+10/25/2023,Montclair St.,L 0-3,200,10/25/2023,Montclair St.,home,L,0,3,False

@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Mary Washington,Canceled,,09/01/2021,Mary Washington,away,,,,
+09/04/2021,@ St. Mary's (MD),L 0-1,209,09/04/2021,St. Mary's (MD),away,L,0,1,False
+09/05/2021,"Salisbury @Saint Mary's City, MD",L 0-5,75,09/05/2021,Salisbury,neutral,L,0,5,False
+09/08/2021,Gallaudet,W 2-0,65,09/08/2021,Gallaudet,home,W,2,0,False
+09/11/2021,York (PA),L 0-6,0,09/11/2021,York (PA),home,L,0,6,False
+09/15/2021,@ Goucher,L 0-1,0,09/15/2021,Goucher,away,L,0,1,False
+09/18/2021,Mary Baldwin,L 3-4,125,09/18/2021,Mary Baldwin,home,L,3,4,False
+09/22/2021,@ Hood,L 1-7,75,09/22/2021,Hood,away,L,1,7,False
+09/25/2021,@ Stevenson,L 1-2,290,09/25/2021,Stevenson,away,L,1,2,False
+09/29/2021,@ Widener,Canceled,,09/29/2021,Widener,away,,,,
+10/02/2021,@ Centenary (NJ),W 2-0,175,10/02/2021,Centenary (NJ),away,W,2,0,False
+10/06/2021,Catholic,L 1-5,55,10/06/2021,Catholic,home,L,1,5,False
+10/09/2021,Marywood,L 0-3,95,10/09/2021,Marywood,home,L,0,3,False
+10/13/2021,@ Gwynedd Mercy,W 3-0,47,10/13/2021,Gwynedd Mercy,away,W,3,0,False
+10/16/2021,Immaculata,W 2-0,65,10/16/2021,Immaculata,home,W,2,0,False
+10/20/2021,Washington Col.,L 0-3,85,10/20/2021,Washington Col.,home,L,0,3,False
+10/23/2021,@ Neumann,W 1-0,350,10/23/2021,Neumann,away,W,1,0,False
+10/26/2021,Cabrini,L 0-2,25,10/26/2021,Cabrini,home,L,0,2,False
+11/01/2021,#6 Centenary (NJ) Atlantic East WSOC Championship,L 1-2,75,11/01/2021,Centenary (NJ),home,L,1,2,False

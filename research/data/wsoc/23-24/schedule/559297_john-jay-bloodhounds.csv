@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Old Westbury,W 4-1,50,09/01/2023,Old Westbury,home,W,4,1,False
+09/09/2023,Manhattanville,L 1-2,50,09/09/2023,Manhattanville,home,L,1,2,False
+09/13/2023,@ Penn St.-Abington,W 6-1,76,09/13/2023,Penn St.-Abington,away,W,6,1,False
+09/16/2023,@ Kean,L 1-2,100,09/16/2023,Kean,away,L,1,2,False
+09/23/2023,@ Connecticut Col.,L 1-3,200,09/23/2023,Connecticut Col.,away,L,1,3,False
+09/27/2023,@ NYU,L 1-14,103,09/27/2023,NYU,away,L,1,14,False
+09/30/2023,Centenary (NJ),W 4-2,85,09/30/2023,Centenary (NJ),home,W,4,2,False
+10/04/2023,@ Stevens,Canceled,,10/04/2023,Stevens,away,,,,
+10/07/2023,CCNY,L 3-4,50,10/07/2023,CCNY,home,L,3,4,False
+10/11/2023,@ Medgar Evers,W 16-0,50,10/11/2023,Medgar Evers,away,W,16,0,False
+10/14/2023,@ York (NY),W 8-0,8,10/14/2023,York (NY),away,W,8,0,False
+10/18/2023,Brooklyn,W 7-0,80,10/18/2023,Brooklyn,home,W,7,0,False
+10/23/2023,@ Lehman,W 6-0,50,10/23/2023,Lehman,away,W,6,0,False
+10/28/2023,#3 Lehman CUNYAC Women's Soccer Championship,W 5-1,75,10/28/2023,Lehman,home,W,5,1,False
+11/04/2023,"#1 CCNY @Queens, NY (CUNYAC Women's Soccer Championship)",L 2-4,203,11/04/2023,CCNY,neutral,L,2,4,False

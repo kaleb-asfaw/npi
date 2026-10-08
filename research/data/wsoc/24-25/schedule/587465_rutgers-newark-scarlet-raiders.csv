@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Eastern,L 2-3,253,08/30/2024,Eastern,home,L,2,3,False
+09/01/2024,Purchase,W 7-1,316,09/01/2024,Purchase,home,W,7,1,False
+09/04/2024,@ Mt. St. Mary (NY),L 2-3,156,09/04/2024,Mt. St. Mary (NY),away,L,2,3,False
+09/07/2024,Penn St.-Behrend,L 0-2,238,09/07/2024,Penn St.-Behrend,home,L,0,2,False
+09/11/2024,FDU-Florham,W 4-2,245,09/11/2024,FDU-Florham,home,W,4,2,False
+09/14/2024,@ Albright,W 2-0,254,09/14/2024,Albright,away,W,2,0,False
+09/18/2024,@ King's (PA),T 2-2,50,09/18/2024,King's (PA),away,T,2,2,False
+09/21/2024,@ Moravian,T 0-0,167,09/21/2024,Moravian,away,T,0,0,False
+09/25/2024,CCNY,W 6-1,188,09/25/2024,CCNY,home,W,6,1,False
+09/28/2024,@ Rowan,L 0-3,200,09/28/2024,Rowan,away,L,0,3,False
+10/02/2024,Rutgers-Camden,W 1-0,211,10/02/2024,Rutgers-Camden,home,W,1,0,False
+10/05/2024,Wm. Paterson,T 0-0,155,10/05/2024,Wm. Paterson,home,T,0,0,False
+10/12/2024,@ Montclair St.,L 0-3,105,10/12/2024,Montclair St.,away,L,0,3,False
+10/16/2024,@ Kean,L 0-2,122,10/16/2024,Kean,away,L,0,2,False
+10/19/2024,TCNJ,L 0-6,275,10/19/2024,TCNJ,home,L,0,6,False
+10/23/2024,@ Stockton,L 0-4,63,10/23/2024,Stockton,away,L,0,4,False
+10/26/2024,New Jersey City,L 1-2,341,10/26/2024,New Jersey City,home,L,1,2,False
+10/30/2024,Ramapo,L 1-2,471,10/30/2024,Ramapo,home,L,1,2,False

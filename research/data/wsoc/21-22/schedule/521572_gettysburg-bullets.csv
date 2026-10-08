@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Bridgewater (VA),Ppd,,09/01/2021,Bridgewater (VA),home,,,,
+09/04/2021,@ Elizabethtown,W 2-1,255,09/04/2021,Elizabethtown,away,W,2,1,False
+09/08/2021,@ Shenandoah,W 2-0,54,09/08/2021,Shenandoah,away,W,2,0,False
+09/16/2021,York (PA),W 2-1,218,09/16/2021,York (PA),home,W,2,1,False
+09/18/2021,Ursinus,W 2-0,217,09/18/2021,Ursinus,home,W,2,0,False
+09/22/2021,McDaniel,L 0-1,89,09/22/2021,McDaniel,home,L,0,1,False
+09/25/2021,@ Swarthmore,T 0-0 (2 OT),476,09/25/2021,Swarthmore,away,T,0,0,True
+09/29/2021,@ Lebanon Valley,W 2-0,74,09/29/2021,Lebanon Valley,away,W,2,0,False
+10/02/2021,@ Bryn Mawr,W 2-1,80,10/02/2021,Bryn Mawr,away,W,2,1,False
+10/06/2021,Johns Hopkins,L 1-2,214,10/06/2021,Johns Hopkins,home,L,1,2,False
+10/09/2021,St. Mary's (MD),W 1-0,251,10/09/2021,St. Mary's (MD),home,W,1,0,False
+10/13/2021,@ Dickinson,W 1-0,4,10/13/2021,Dickinson,away,W,1,0,False
+10/16/2021,Washington Col.,W 3-1,232,10/16/2021,Washington Col.,home,W,3,1,False
+10/20/2021,@ Catholic,W 3-0,33,10/20/2021,Catholic,away,W,3,0,False
+10/23/2021,Haverford,L 0-1,387,10/23/2021,Haverford,home,L,0,1,False
+10/27/2021,@ Franklin & Marshall,T 1-1 (2 OT),154,10/27/2021,Franklin & Marshall,away,T,1,1,True
+10/30/2021,@ Muhlenberg,W 2-1,0,10/30/2021,Muhlenberg,away,W,2,1,False
+11/03/2021,#5 Franklin & Marshall Centennial WSOC Championship,L 0-1,413,11/03/2021,Franklin & Marshall,home,L,0,1,False

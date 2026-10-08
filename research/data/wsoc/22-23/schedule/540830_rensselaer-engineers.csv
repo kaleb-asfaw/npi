@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,SUNY Oneonta,L 0-2,126,09/01/2022,SUNY Oneonta,home,L,0,2,False
+09/03/2022,@ SUNY New Paltz,T 0-0,100,09/03/2022,SUNY New Paltz,away,T,0,0,False
+09/07/2022,@ Plattsburgh St.,L 0-2,154,09/07/2022,Plattsburgh St.,away,L,0,2,False
+09/10/2022,@ Cortland,L 0-4,166,09/10/2022,Cortland,away,L,0,4,False
+09/13/2022,Mt. St. Mary (NY),W 5-2,9,09/13/2022,Mt. St. Mary (NY),home,W,5,2,False
+09/17/2022,@ St. Lawrence,T 0-0,123,09/17/2022,St. Lawrence,away,T,0,0,False
+09/24/2022,@ Bard,W 3-0,75,09/24/2022,Bard,away,W,3,0,False
+09/27/2022,Utica,W 2-1,50,09/27/2022,Utica,home,W,2,1,False
+10/01/2022,@ Skidmore,L 0-1,240,10/01/2022,Skidmore,away,L,0,1,False
+10/07/2022,Union (NY),T 1-1,134,10/07/2022,Union (NY),home,T,1,1,False
+10/14/2022,RIT,L 0-1,102,10/14/2022,RIT,home,L,0,1,False
+10/15/2022,William Smith,L 0-1,45,10/15/2022,William Smith,home,L,0,1,False
+10/19/2022,SUNY Poly,Canceled,,10/19/2022,SUNY Poly,home,,,,
+10/22/2022,@ Ithaca,L 0-1,105,10/22/2022,Ithaca,away,L,0,1,False
+10/26/2022,Vassar,T 0-0,73,10/26/2022,Vassar,home,T,0,0,False
+10/29/2022,@ Clarkson,T 0-0,112,10/29/2022,Clarkson,away,T,0,0,False

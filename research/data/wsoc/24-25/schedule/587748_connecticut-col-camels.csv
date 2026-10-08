@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2024,Saint Joseph (CT),W 6-0,114,09/03/2024,Saint Joseph (CT),home,W,6,0,False
+09/07/2024,@ Amherst,L 0-2,156,09/07/2024,Amherst,away,L,0,2,False
+09/11/2024,Coast Guard,W 4-1,111,09/11/2024,Coast Guard,home,W,4,1,False
+09/14/2024,Bowdoin,W 2-1,166,09/14/2024,Bowdoin,home,W,2,1,False
+09/15/2024,@ Tufts,L 1-6,327,09/15/2024,Tufts,away,L,1,6,False
+09/21/2024,@ Colby,L 0-1,454,09/21/2024,Colby,away,L,0,1,False
+09/24/2024,@ Eastern Conn. St.,W 2-1,100,09/24/2024,Eastern Conn. St.,away,W,2,1,False
+09/28/2024,@ Middlebury,L 0-2,467,09/28/2024,Middlebury,away,L,0,2,False
+10/03/2024,@ Emmanuel (MA),L 1-2,117,10/03/2024,Emmanuel (MA),away,L,1,2,False
+10/07/2024,@ JWU (Providence),L 0-1,121,10/07/2024,JWU (Providence),away,L,0,1,False
+10/12/2024,Hamilton,W 1-0,189,10/12/2024,Hamilton,home,W,1,0,False
+10/19/2024,Bates,L 0-1,843,10/19/2024,Bates,home,L,0,1,False
+10/22/2024,Trinity (CT),T 1-1,107,10/22/2024,Trinity (CT),home,T,1,1,False
+10/26/2024,@ Williams,L 0-3,238,10/26/2024,Williams,away,L,0,3,False
+10/29/2024,Wesleyan (CT),T 1-1,103,10/29/2024,Wesleyan (CT),home,T,1,1,False
+11/02/2024,@ #1 Wesleyan (CT) NESCAC Women's Soccer Championship,L 0-1 (2 OT),197,11/02/2024,Wesleyan (CT),away,L,0,1,True

@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2024,@ Bowdoin,T 0-0,251,09/03/2024,Bowdoin,away,T,0,0,False
+09/07/2024,Montclair St.,W 2-0,158,09/07/2024,Montclair St.,home,W,2,0,False
+09/13/2024,Clarkson,W 3-1,141,09/13/2024,Clarkson,home,W,3,1,False
+09/15/2024,Colby,L 1-3,200,09/15/2024,Colby,home,L,1,3,False
+09/18/2024,Saint Joseph (CT),W 6-0,153,09/18/2024,Saint Joseph (CT),home,W,6,0,False
+09/21/2024,Endicott,L 1-2,197,09/21/2024,Endicott,home,L,1,2,False
+09/25/2024,@ Southern Me.,W 2-0,124,09/25/2024,Southern Me.,away,W,2,0,False
+09/28/2024,Roger Williams,T 1-1,213,09/28/2024,Roger Williams,home,T,1,1,False
+10/01/2024,@ Wesleyan (CT),L 0-1,93,10/01/2024,Wesleyan (CT),away,L,0,1,False
+10/05/2024,@ Suffolk,W 3-1,189,10/05/2024,Suffolk,away,W,3,1,False
+10/09/2024,@ UMass Dartmouth,W 8-0,103,10/09/2024,UMass Dartmouth,away,W,8,0,False
+10/12/2024,@ Curry,W 3-0,175,10/12/2024,Curry,away,W,3,0,False
+10/15/2024,@ Nichols,W 8-0,105,10/15/2024,Nichols,away,W,8,0,False
+10/19/2024,U New England,W 5-1,212,10/19/2024,U New England,home,W,5,1,False
+10/23/2024,@ Western New Eng.,W 3-1,164,10/23/2024,Western New Eng.,away,W,3,1,False
+10/26/2024,Wentworth,W 7-0,248,10/26/2024,Wentworth,home,W,7,0,False
+10/29/2024,@ Gordon,W 3-0,159,10/29/2024,Gordon,away,W,3,0,False
+11/05/2024,#5 Endicott CNE Women's Soccer Championship,W 2-0,322,11/05/2024,Endicott,home,W,2,0,False
+11/09/2024,#3 Gordon CNE Women's Soccer Championship,W 6-0,384,11/09/2024,Gordon,home,W,6,0,False
+11/23/2024,#4 New Jersey City 2024 ECAC Women's Soccer Championship,W 5-0,187,11/23/2024,New Jersey City,home,W,5,0,False
+11/24/2024,#2 Springfield 2024 ECAC Women's Soccer Championship,W 6-0,223,11/24/2024,Springfield,home,W,6,0,False

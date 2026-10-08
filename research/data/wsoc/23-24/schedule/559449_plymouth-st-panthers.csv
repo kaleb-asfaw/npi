@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ New England Col.,T 0-0,55,09/01/2023,New England Col.,away,T,0,0,False
+09/02/2023,@ Colby-Sawyer,L 1-2,143,09/02/2023,Colby-Sawyer,away,L,1,2,False
+09/06/2023,@ Salem St.,T 1-1,60,09/06/2023,Salem St.,away,T,1,1,False
+09/08/2023,Gordon,L 1-4,96,09/08/2023,Gordon,home,L,1,4,False
+09/12/2023,@ Me.-Farmington,W 3-0,50,09/12/2023,Me.-Farmington,away,W,3,0,False
+09/15/2023,@ UMass Boston,L 1-2,0,09/15/2023,UMass Boston,away,L,1,2,False
+09/23/2023,Rhode Island Col.,L 1-3,127,09/23/2023,Rhode Island Col.,home,L,1,3,False
+09/27/2023,@ Southern Me.,L 1-6,324,09/27/2023,Southern Me.,away,L,1,6,False
+09/30/2023,@ WestConn,L 0-5,100,09/30/2023,WestConn,away,L,0,5,False
+10/04/2023,Nichols,W 3-2,55,10/04/2023,Nichols,home,W,3,2,False
+10/07/2023,VTSU Castleton,W 4-0,58,10/07/2023,VTSU Castleton,home,W,4,0,False
+10/11/2023,Keene St.,L 1-2,57,10/11/2023,Keene St.,home,L,1,2,False
+10/14/2023,@ Eastern Conn. St.,T 0-0,200,10/14/2023,Eastern Conn. St.,away,T,0,0,False
+10/18/2023,VTSU Lyndon,W 9-0,32,10/18/2023,VTSU Lyndon,home,W,9,0,False
+10/21/2023,Maine Maritime,W 3-0,30,10/21/2023,Maine Maritime,home,W,3,0,False
+10/24/2023,@ Westfield St.,L 2-3,123,10/24/2023,Westfield St.,away,L,2,3,False
+10/27/2023,UMass Dartmouth,T 2-2,78,10/27/2023,UMass Dartmouth,home,T,2,2,False

@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2022,Grace Christian (MI),W 3-0,42,09/02/2022,Grace Christian (MI),home,W,3,0,False
+09/03/2022,Bob Jones,L 0-4,82,09/03/2022,Bob Jones,home,L,0,4,False
+09/10/2022,"Shenandoah @Rocky Mount, NC",Canceled,,09/10/2022,Shenandoah,neutral,,,,
+09/11/2022,"Stockton @Rocky Mount, NC",Canceled,,09/11/2022,Stockton,neutral,,,,
+09/17/2022,Ferrum,L 0-2,83,09/17/2022,Ferrum,home,L,0,2,False
+09/20/2022,@ Randolph,L 0-4,60,09/20/2022,Randolph,away,L,0,4,False
+09/27/2022,@ Methodist,L 0-2,80,09/27/2022,Methodist,away,L,0,2,False
+09/29/2022,Brevard,T 0-0,32,09/29/2022,Brevard,home,T,0,0,False
+10/05/2022,@ N.C. Wesleyan,L 1-4,51,10/05/2022,N.C. Wesleyan,away,L,1,4,False
+10/08/2022,@ Salem (NC),T 2-2,55,10/08/2022,Salem (NC),away,T,2,2,False
+10/15/2022,Mary Baldwin,L 0-5,73,10/15/2022,Mary Baldwin,home,L,0,5,False
+10/19/2022,@ Pfeiffer,L 1-3,105,10/19/2022,Pfeiffer,away,L,1,3,False
+10/22/2022,Greensboro,T 0-0,95,10/22/2022,Greensboro,home,T,0,0,False
+10/25/2022,William Peace,L 1-3,0,10/25/2022,William Peace,home,L,1,3,False
+10/28/2022,@ Southern Va.,L 0-5,70,10/28/2022,Southern Va.,away,L,0,5,False

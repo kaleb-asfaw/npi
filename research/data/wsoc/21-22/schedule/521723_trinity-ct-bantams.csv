@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/07/2021,Wheaton (MA),W 5-0,300,09/07/2021,Wheaton (MA),home,W,5,0,False
+09/10/2021,WPI,W 2-1,300,09/10/2021,WPI,home,W,2,1,False
+09/12/2021,MIT,L 2-3,74,09/12/2021,MIT,home,L,2,3,False
+09/18/2021,Colby,T 0-0 (2 OT),120,09/18/2021,Colby,home,T,0,0,True
+09/21/2021,@ Clark (MA),W 1-0,115,09/21/2021,Clark (MA),away,W,1,0,False
+09/25/2021,@ Williams,W 1-0,50,09/25/2021,Williams,away,W,1,0,False
+09/29/2021,Union (NY),W 2-1 (2 OT),0,09/29/2021,Union (NY),home,W,2,1,True
+10/02/2021,@ Bowdoin,L 0-2,214,10/02/2021,Bowdoin,away,L,0,2,False
+10/03/2021,Bates,L 0-1,100,10/03/2021,Bates,home,L,0,1,False
+10/09/2021,Tufts,W 1-0,134,10/09/2021,Tufts,home,W,1,0,False
+10/12/2021,@ Wesleyan (CT),L 1-2,56,10/12/2021,Wesleyan (CT),away,L,1,2,False
+10/16/2021,@ Hamilton,L 0-1,89,10/16/2021,Hamilton,away,L,0,1,False
+10/19/2021,@ Connecticut Col.,W 2-1 (1 OT),102,10/19/2021,Connecticut Col.,away,W,2,1,True
+10/23/2021,Middlebury,L 0-1,100,10/23/2021,Middlebury,home,L,0,1,False
+10/26/2021,@ Amherst,L 2-3 (1 OT),150,10/26/2021,Amherst,away,L,2,3,True
+10/30/2021,@ #1 Amherst NESCAC WSOC Championship,L 1-2 (1 OT),0,10/30/2021,Amherst,away,L,1,2,True

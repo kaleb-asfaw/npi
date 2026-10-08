@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Marietta,W 1-0,220,08/30/2024,Marietta,home,W,1,0,False
+09/01/2024,@ Hiram,W 3-0,143,09/01/2024,Hiram,away,W,3,0,False
+09/04/2024,@ Pitt.-Greensburg,L 0-1,0,09/04/2024,Pitt.-Greensburg,away,L,0,1,False
+09/07/2024,Carlow,W 4-1,160,09/07/2024,Carlow,home,W,4,1,False
+09/11/2024,Mount Aloysius,W 5-1,125,09/11/2024,Mount Aloysius,home,W,5,1,False
+09/14/2024,@ Penn College,T 1-1,296,09/14/2024,Penn College,away,T,1,1,False
+09/19/2024,@ La Roche,W 4-0,50,09/19/2024,La Roche,away,W,4,0,False
+09/25/2024,@ Franciscan,W 5-1,250,09/25/2024,Franciscan,away,W,5,1,False
+09/27/2024,@ Thiel,W 7-1,89,09/27/2024,Thiel,away,W,7,1,False
+10/02/2024,Bethany (WV),W 2-0,85,10/02/2024,Bethany (WV),home,W,2,0,False
+10/05/2024,@ Neumann,W 3-0,250,10/05/2024,Neumann,away,W,3,0,False
+10/08/2024,@ Geneva,W 2-0,137,10/08/2024,Geneva,away,W,2,0,False
+10/12/2024,Waynesburg,W 3-2,130,10/12/2024,Waynesburg,home,W,3,2,False
+10/15/2024,Wash. & Jeff.,W 2-0,117,10/15/2024,Wash. & Jeff.,home,W,2,0,False
+10/18/2024,@ Westminster (PA),L 1-2,114,10/18/2024,Westminster (PA),away,L,1,2,False
+10/23/2024,Grove City,L 2-4,160,10/23/2024,Grove City,home,L,2,4,False
+10/26/2024,@ Chatham,L 1-2,182,10/26/2024,Chatham,away,L,1,2,False
+10/29/2024,Allegheny,L 2-4,105,10/29/2024,Allegheny,home,L,2,4,False
+11/02/2024,#5 Bethany (WV) PAC Women's Soccer Championship,W 2-1,105,11/02/2024,Bethany (WV),home,W,2,1,False
+11/06/2024,@ #1 Westminster (PA) PAC Women's Soccer Championship,L 0-1,115,11/06/2024,Westminster (PA),away,L,0,1,False

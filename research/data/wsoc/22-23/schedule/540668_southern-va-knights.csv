@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Bridgewater (VA),W 2-1,164,09/01/2022,Bridgewater (VA),away,W,2,1,False
+09/03/2022,@ Shenandoah,L 1-3,144,09/03/2022,Shenandoah,away,L,1,3,False
+09/07/2022,@ Mary Washington,L 1-2,100,09/07/2022,Mary Washington,away,L,1,2,False
+09/09/2022,Berry,W 1-0,194,09/09/2022,Berry,home,W,1,0,False
+09/13/2022,@ Ferrum,W 2-1,125,09/13/2022,Ferrum,away,W,2,1,False
+09/19/2022,East. Mennonite,W 4-0,100,09/19/2022,East. Mennonite,home,W,4,0,False
+09/21/2022,Wash. & Lee,L 0-3,123,09/21/2022,Wash. & Lee,home,L,0,3,False
+09/24/2022,@ Methodist,L 0-1,147,09/24/2022,Methodist,away,L,0,1,False
+09/29/2022,@ Randolph-Macon,L 0-1,82,09/29/2022,Randolph-Macon,away,L,0,1,False
+10/01/2022,N.C. Wesleyan,W 5-0,55,10/01/2022,N.C. Wesleyan,home,W,5,0,False
+10/07/2022,@ Brevard,T 1-1,187,10/07/2022,Brevard,away,T,1,1,False
+10/11/2022,@ Salem (NC),W 4-2,50,10/11/2022,Salem (NC),away,W,4,2,False
+10/14/2022,Pfeiffer,W 4-0,53,10/14/2022,Pfeiffer,home,W,4,0,False
+10/19/2022,@ Greensboro,W 1-0,101,10/19/2022,Greensboro,away,W,1,0,False
+10/22/2022,@ William Peace,L 0-1,153,10/22/2022,William Peace,away,L,0,1,False
+10/25/2022,Mary Baldwin,W 2-1,129,10/25/2022,Mary Baldwin,home,W,2,1,False
+10/26/2022,Mary Baldwin,W 2-1,129,10/26/2022,Mary Baldwin,home,W,2,1,False
+10/28/2022,Meredith,W 5-0,70,10/28/2022,Meredith,home,W,5,0,False
+11/01/2022,#7 Brevard USA South WSOC Championship,T 0-0 (3 OT),184,11/01/2022,Brevard,home,T,0,0,True
+11/03/2022,#3 Mary Baldwin USA South WSOC Championship,W 2-1,208,11/03/2022,Mary Baldwin,home,W,2,1,False
+11/05/2022,@ #1 Methodist USA South WSOC Championship,L 1-3,390,11/05/2022,Methodist,away,L,1,3,False

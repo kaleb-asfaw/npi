@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ William Woods,T 0-0,475,08/30/2024,@ William Woods,home,T,0,0,False
+09/07/2024,@ Stephens College,W 3-0 (1 OT),0,09/07/2024,@ Stephens College,home,W,3,0,True
+09/10/2024,WashU,L 0-3,150,09/10/2024,WashU,home,L,0,3,False
+09/14/2024,Millikin,L 0-1,175,09/14/2024,Millikin,home,L,0,1,False
+09/17/2024,Central (IA),L 0-2,125,09/17/2024,Central (IA),home,L,0,2,False
+09/22/2024,@ Rhodes,L 1-5,75,09/22/2024,Rhodes,away,L,1,5,False
+09/25/2024,Monmouth (IL),W 6-0,100,09/25/2024,Monmouth (IL),home,W,6,0,False
+09/28/2024,@ Blackburn,W 10-0,100,09/28/2024,Blackburn,away,W,10,0,False
+10/01/2024,@ Simpson,L 1-6,122,10/01/2024,Simpson,away,L,1,6,False
+10/05/2024,Principia,W 4-0,100,10/05/2024,Principia,home,W,4,0,False
+10/10/2024,Spalding,T 2-2,200,10/10/2024,Spalding,home,T,2,2,False
+10/12/2024,@ Greenville,L 0-1,150,10/12/2024,Greenville,away,L,0,1,False
+10/17/2024,Lyon,W 1-0,125,10/17/2024,Lyon,home,W,1,0,False
+10/19/2024,@ Eureka,W 3-0,100,10/19/2024,Eureka,away,W,3,0,False
+10/27/2024,@ MUW,L 0-1,148,10/27/2024,MUW,away,L,0,1,False
+10/30/2024,Webster,T 0-0,130,10/30/2024,Webster,home,T,0,0,False
+11/02/2024,@ #6 MUW SLIAC Women's Soccer Tournament,W 1-0,100,11/02/2024,MUW,away,W,1,0,False
+11/06/2024,"#2 Webster @Elsah, IL (SLIAC Women's Soccer Tournament)",L 1-2 (2 OT),164,11/06/2024,Webster,neutral,L,1,2,True

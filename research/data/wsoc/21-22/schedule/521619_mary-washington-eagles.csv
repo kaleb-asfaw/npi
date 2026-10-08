@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Marymount (VA),Canceled,,09/01/2021,Marymount (VA),home,,,,
+09/04/2021,"Susquehanna @Baltimore, MD",L 0-1 (2 OT),81,09/04/2021,Susquehanna,neutral,L,0,1,True
+09/05/2021,@ Johns Hopkins,L 0-4,110,09/05/2021,Johns Hopkins,away,L,0,4,False
+09/08/2021,Randolph-Macon,W 1-0,100,09/08/2021,Randolph-Macon,home,W,1,0,False
+09/11/2021,Messiah,L 0-1,112,09/11/2021,Messiah,home,L,0,1,False
+09/18/2021,@ Batten,T 0-0 (2 OT),0,09/18/2021,Batten,away,T,0,0,True
+09/22/2021,@ Wash. & Lee,Canceled,,09/22/2021,Wash. & Lee,away,,,,
+09/25/2021,@ Bridgewater (VA),L 0-2,110,09/25/2021,Bridgewater (VA),away,L,0,2,False
+09/29/2021,@ Lynchburg,L 0-2,0,09/29/2021,Lynchburg,away,L,0,2,False
+10/03/2021,@ Greensboro,W 1-0,45,10/03/2021,Greensboro,away,W,1,0,False
+10/06/2021,St. Mary's (MD),W 2-0,75,10/06/2021,St. Mary's (MD),home,W,2,0,False
+10/09/2021,Salisbury,W 3-0,155,10/09/2021,Salisbury,home,W,3,0,False
+10/16/2021,Chris. Newport,L 0-3,210,10/16/2021,Chris. Newport,home,L,0,3,False
+10/20/2021,@ Swarthmore,L 1-2 (2 OT),127,10/20/2021,Swarthmore,away,L,1,2,True
+10/27/2021,@ Chris. Newport,T 1-1 (2 OT),240,10/27/2021,Chris. Newport,away,T,1,1,True
+10/30/2021,@ Salisbury,W 2-1,220,10/30/2021,Salisbury,away,W,2,1,False
+11/05/2021,"#3 UC Santa Cruz @Salisbury, MD (Coast-To-Coast WSOC Championship)",L 0-1,68,11/05/2021,UC Santa Cruz,neutral,L,0,1,False

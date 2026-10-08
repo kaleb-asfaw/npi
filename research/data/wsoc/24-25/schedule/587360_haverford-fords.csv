@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Arcadia,W 2-1,175,08/30/2024,Arcadia,home,W,2,1,False
+09/01/2024,Susquehanna,W 3-0,103,09/01/2024,Susquehanna,home,W,3,0,False
+09/07/2024,@ Catholic,L 0-1,149,09/07/2024,Catholic,away,L,0,1,False
+09/11/2024,Widener,W 3-0,110,09/11/2024,Widener,home,W,3,0,False
+09/14/2024,@ Alvernia,W 2-0,117,09/14/2024,Alvernia,away,W,2,0,False
+09/18/2024,DeSales,W 1-0,48,09/18/2024,DeSales,home,W,1,0,False
+09/21/2024,Scranton,L 0-3,213,09/21/2024,Scranton,home,L,0,3,False
+09/25/2024,Franklin & Marshall,T 3-3,31,09/25/2024,Franklin & Marshall,home,T,3,3,False
+09/28/2024,@ Gettysburg,W 1-0,184,09/28/2024,Gettysburg,away,W,1,0,False
+10/02/2024,Immaculata,W 6-0,38,10/02/2024,Immaculata,home,W,6,0,False
+10/05/2024,Dickinson,W 3-2,115,10/05/2024,Dickinson,home,W,3,2,False
+10/08/2024,@ Muhlenberg,W 4-0,30,10/08/2024,Muhlenberg,away,W,4,0,False
+10/13/2024,Washington Col.,L 0-2,63,10/13/2024,Washington Col.,home,L,0,2,False
+10/16/2024,@ Ursinus,W 1-0,82,10/16/2024,Ursinus,away,W,1,0,False
+10/19/2024,@ McDaniel,L 0-2,234,10/19/2024,McDaniel,away,L,0,2,False
+10/26/2024,Johns Hopkins,L 1-2,176,10/26/2024,Johns Hopkins,home,L,1,2,False
+10/30/2024,Bryn Mawr,W 4-0,78,10/30/2024,Bryn Mawr,home,W,4,0,False
+11/02/2024,@ Swarthmore,T 1-1,200,11/02/2024,Swarthmore,away,T,1,1,False
+11/05/2024,@ #3 Franklin & Marshall Centennial Women's Soccer Championship,L 0-1 (1 OT),150,11/05/2024,Franklin & Marshall,away,L,0,1,True

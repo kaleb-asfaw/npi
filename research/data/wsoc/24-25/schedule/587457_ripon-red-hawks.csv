@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Great Lake Christian,T 1-1,0,08/30/2024,@ Great Lake Christian,home,T,1,1,False
+09/01/2024,Gustavus Adolphus,L 0-2,187,09/01/2024,Gustavus Adolphus,home,L,0,2,False
+09/04/2024,@ Concordia Chicago,L 0-2,123,09/04/2024,Concordia Chicago,away,L,0,2,False
+09/06/2024,@ Marian (WI),L 1-2,217,09/06/2024,Marian (WI),away,L,1,2,False
+09/10/2024,@ Rockford,T 0-0,97,09/10/2024,Rockford,away,T,0,0,False
+09/14/2024,Martin Luther,W 2-0,148,09/14/2024,Martin Luther,home,W,2,0,False
+09/15/2024,Augustana (IL),L 1-3,150,09/15/2024,Augustana (IL),home,L,1,3,False
+09/21/2024,@ Coe,L 0-1,132,09/21/2024,Coe,away,L,0,1,False
+09/22/2024,@ Buena Vista,W 2-0,80,09/22/2024,Buena Vista,away,W,2,0,False
+09/28/2024,@ Illinois Col.,T 1-1,295,09/28/2024,Illinois Col.,away,T,1,1,False
+10/02/2024,@ Lake Forest,L 0-6,74,10/02/2024,Lake Forest,away,L,0,6,False
+10/05/2024,Grinnell,L 1-2,150,10/05/2024,Grinnell,home,L,1,2,False
+10/12/2024,Beloit,L 0-1,200,10/12/2024,Beloit,home,L,0,1,False
+10/15/2024,Maranatha Baptist,W 3-0,100,10/15/2024,Maranatha Baptist,home,W,3,0,False
+10/19/2024,@ Cornell College,L 0-1,135,10/19/2024,Cornell College,away,L,0,1,False
+10/22/2024,@ Mount Mary,W 4-1,61,10/22/2024,Mount Mary,away,W,4,1,False
+10/26/2024,@ Monmouth (IL),L 2-4,100,10/26/2024,Monmouth (IL),away,L,2,4,False
+10/30/2024,Lawrence,L 0-1,50,10/30/2024,Lawrence,home,L,0,1,False
+11/02/2024,Knox,W 1-0,200,11/02/2024,Knox,home,W,1,0,False

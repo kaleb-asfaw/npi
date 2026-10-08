@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Wilkes,W 1-0,324,09/01/2023,Wilkes,away,W,1,0,False
+09/03/2023,Moravian,L 1-2,133,09/03/2023,Moravian,home,L,1,2,False
+09/09/2023,@ Alvernia,W 3-1,48,09/09/2023,Alvernia,away,W,3,1,False
+09/13/2023,@ Scranton,L 0-3,194,09/13/2023,Scranton,away,L,0,3,False
+09/15/2023,@ Rowan,L 0-6,440,09/15/2023,Rowan,away,L,0,6,False
+09/20/2023,@ Messiah,L 0-3,237,09/20/2023,Messiah,away,L,0,3,False
+09/23/2023,@ Penn College,T 0-0,75,09/23/2023,Penn College,away,T,0,0,False
+09/27/2023,@ Arcadia,L 1-3,88,09/27/2023,Arcadia,away,L,1,3,False
+09/30/2023,Gallaudet,W 13-0,72,09/30/2023,Gallaudet,home,W,13,0,False
+10/01/2023,Farmingdale St.,W 2-0,118,10/01/2023,Farmingdale St.,home,W,2,0,False
+10/03/2023,Misericordia,L 0-5,133,10/03/2023,Misericordia,home,L,0,5,False
+10/10/2023,Albright,W 1-0,144,10/10/2023,Albright,home,W,1,0,False
+10/14/2023,@ Lancaster Bible,W 3-0,84,10/14/2023,Lancaster Bible,away,W,3,0,False
+10/17/2023,Franklin & Marshall,L 0-3,118,10/17/2023,Franklin & Marshall,home,L,0,3,False
+10/18/2023,Penn St.-Abington,W 4-0,133,10/18/2023,Penn St.-Abington,home,W,4,0,False
+10/21/2023,@ St. Mary's (MD),L 0-1,189,10/21/2023,St. Mary's (MD),away,L,0,1,False
+10/24/2023,Penn St. Harrisburg,W 2-1,122,10/24/2023,Penn St. Harrisburg,home,W,2,1,False
+10/31/2023,#5 St. Mary's (MD) United East Women's Soccer Championship,W 1-0,122,10/31/2023,St. Mary's (MD),home,W,1,0,False
+11/02/2023,#2 Penn St. Harrisburg United East Women's Soccer Championship,T 1-1 (3 OT),144,11/02/2023,Penn St. Harrisburg,home,T,1,1,True
+11/05/2023,#1 Bryn Athyn United East Women's Soccer Championship,W 3-0,213,11/05/2023,Bryn Athyn,home,W,3,0,False
+11/11/2023,"Johns Hopkins @Virginia Beach, VA (NCAA Division III Women's Soccer Championship)",L 1-3,65,11/11/2023,Johns Hopkins,neutral,L,1,3,False

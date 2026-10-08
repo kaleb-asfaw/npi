@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Worcester St.,T 1-1,95,09/01/2023,Worcester St.,away,T,1,1,False
+09/03/2023,@ Union (NY),L 0-3,218,09/03/2023,Union (NY),away,L,0,3,False
+09/06/2023,Roger Williams,W 4-1,127,09/06/2023,Roger Williams,home,W,4,1,False
+09/10/2023,Middlebury,L 0-1,65,09/10/2023,Middlebury,home,L,0,1,False
+09/13/2023,Bridgewater St.,W 4-0,79,09/13/2023,Bridgewater St.,home,W,4,0,False
+09/17/2023,Babson,L 0-3,112,09/17/2023,Babson,home,L,0,3,False
+09/19/2023,WPI,W 3-0,104,09/19/2023,WPI,home,W,3,0,False
+09/22/2023,@ Wellesley,L 0-2,95,09/22/2023,Wellesley,away,L,0,2,False
+09/26/2023,@ Endicott,L 0-2,147,09/26/2023,Endicott,away,L,0,2,False
+09/30/2023,Springfield,L 0-1,131,09/30/2023,Springfield,home,L,0,1,False
+10/04/2023,@ MIT,L 0-6,86,10/04/2023,MIT,away,L,0,6,False
+10/06/2023,@ Emerson,L 0-7,50,10/06/2023,Emerson,away,L,0,7,False
+10/11/2023,Brandeis,L 0-1,97,10/11/2023,Brandeis,home,L,0,1,False
+10/14/2023,Mount Holyoke,L 0-1,107,10/14/2023,Mount Holyoke,home,L,0,1,False
+10/18/2023,@ Salve Regina,L 0-1,123,10/18/2023,Salve Regina,away,L,0,1,False
+10/21/2023,Smith,W 2-1,92,10/21/2023,Smith,home,W,2,1,False
+10/25/2023,@ Clark (MA),W 1-0,111,10/25/2023,Clark (MA),away,W,1,0,False
+10/28/2023,@ Coast Guard,T 1-1,55,10/28/2023,Coast Guard,away,T,1,1,False

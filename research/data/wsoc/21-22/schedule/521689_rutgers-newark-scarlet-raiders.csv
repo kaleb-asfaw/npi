@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Union (NY),Ppd,,09/01/2021,Union (NY),home,,,,
+09/02/2021,Union (NY),Canceled,,09/02/2021,Union (NY),home,,,,
+09/04/2021,@ FDU-Florham,W 1-0 (1 OT),100,09/04/2021,FDU-Florham,away,W,1,0,True
+09/08/2021,John Jay,W 3-0,200,09/08/2021,John Jay,home,W,3,0,False
+09/11/2021,Wilkes,W 1-0,50,09/11/2021,Wilkes,home,W,1,0,False
+09/12/2021,@ Bryn Mawr,W 1-0,75,09/12/2021,Bryn Mawr,away,W,1,0,False
+09/15/2021,@ Brooklyn,W 9-0,10,09/15/2021,Brooklyn,away,W,9,0,False
+09/18/2021,@ TCNJ,L 0-4,189,09/18/2021,TCNJ,away,L,0,4,False
+09/21/2021,@ Sarah Lawrence,W 3-1,125,09/21/2021,Sarah Lawrence,away,W,3,1,False
+09/25/2021,Rowan,L 1-3,250,09/25/2021,Rowan,home,L,1,3,False
+09/29/2021,@ New Jersey City,T 1-1 (2 OT),210,09/29/2021,New Jersey City,away,T,1,1,True
+10/02/2021,@ Ramapo,W 2-1,75,10/02/2021,Ramapo,away,W,2,1,False
+10/06/2021,@ Cabrini,T 1-1 (2 OT),87,10/06/2021,Cabrini,away,T,1,1,True
+10/09/2021,Kean,L 0-1,250,10/09/2021,Kean,home,L,0,1,False
+10/13/2021,@ Wm. Paterson,L 0-1,60,10/13/2021,Wm. Paterson,away,L,0,1,False
+10/16/2021,Stockton,T 2-2 (2 OT),250,10/16/2021,Stockton,home,T,2,2,True
+10/20/2021,Drew,W 3-1,200,10/20/2021,Drew,home,W,3,1,False
+10/23/2021,@ Rutgers-Camden,W 2-1 (1 OT),85,10/23/2021,Rutgers-Camden,away,W,2,1,True
+10/27/2021,Montclair St.,L 0-1,250,10/27/2021,Montclair St.,home,L,0,1,False
+11/13/2021,@ #1 FDU-Florham ECAC WSOC,W 1-0,150,11/13/2021,FDU-Florham,away,W,1,0,False
+11/14/2021,"#2 Stockton @Florham Park, NJ (ECAC WSOC)",L 1-4,0,11/14/2021,Stockton,neutral,L,1,4,False

@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,CarolinaU,W 4-3,30,09/01/2021,CarolinaU,home,W,4,3,False
+09/04/2021,@ William Peace,W 2-0,82,09/04/2021,William Peace,away,W,2,0,False
+09/08/2021,Salem (NC),L 1-2,125,09/08/2021,Salem (NC),home,L,1,2,False
+09/11/2021,@ Mary Baldwin,W 2-1,90,09/11/2021,Mary Baldwin,away,W,2,1,False
+09/15/2021,Averett,L 1-3,220,09/15/2021,Averett,home,L,1,3,False
+09/17/2021,@ Meredith,L 1-2,82,09/17/2021,Meredith,away,L,1,2,False
+09/22/2021,Southern Va.,L 3-4,50,09/22/2021,Southern Va.,home,L,3,4,False
+09/26/2021,East. Mennonite,W 2-1 (1 OT),200,09/26/2021,East. Mennonite,home,W,2,1,True
+09/29/2021,@ Roanoke,L 1-5,100,09/29/2021,Roanoke,away,L,1,5,False
+10/06/2021,@ Lynchburg,L 0-2,184,10/06/2021,Lynchburg,away,L,0,2,False
+10/09/2021,Shenandoah,L 0-5,276,10/09/2021,Shenandoah,home,L,0,5,False
+10/13/2021,@ Randolph-Macon,L 1-5,150,10/13/2021,Randolph-Macon,away,L,1,5,False
+10/16/2021,@ Bridgewater (VA),L 1-3,120,10/16/2021,Bridgewater (VA),away,L,1,3,False
+10/20/2021,Sweet Briar,W 8-0,125,10/20/2021,Sweet Briar,home,W,8,0,False
+10/23/2021,@ Hollins,W 9-0,122,10/23/2021,Hollins,away,W,9,0,False
+10/27/2021,Guilford,L 2-3,220,10/27/2021,Guilford,home,L,2,3,False
+10/30/2021,Ferrum,L 1-2,250,10/30/2021,Ferrum,home,L,1,2,False

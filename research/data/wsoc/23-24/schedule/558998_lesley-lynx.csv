@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Wentworth,W 2-0,75,09/01/2023,Wentworth,home,W,2,0,False
+09/03/2023,@ Simmons,W 5-0,250,09/03/2023,Simmons,away,W,5,0,False
+09/06/2023,Amherst,L 0-6,60,09/06/2023,Amherst,home,L,0,6,False
+09/09/2023,@ VTSU Lyndon,W 8-0,46,09/09/2023,VTSU Lyndon,away,W,8,0,False
+09/16/2023,Me.-Farmington,W 5-0,50,09/16/2023,Me.-Farmington,home,W,5,0,False
+09/20/2023,@ Suffolk,L 0-2,65,09/20/2023,Suffolk,away,L,0,2,False
+09/23/2023,@ Thomas (ME),W 2-0,94,09/23/2023,Thomas (ME),away,W,2,0,False
+09/26/2023,Brandeis,L 1-5,35,09/26/2023,Brandeis,home,L,1,5,False
+09/30/2023,@ Maine Maritime,W 1-0,382,09/30/2023,Maine Maritime,away,W,1,0,False
+10/03/2023,Bridgewater St.,L 0-1,50,10/03/2023,Bridgewater St.,home,L,0,1,False
+10/05/2023,Fisher,W 9-0,50,10/05/2023,Fisher,home,W,9,0,False
+10/07/2023,Eastern Nazarene,W 6-0,50,10/07/2023,Eastern Nazarene,home,W,6,0,False
+10/11/2023,@ Framingham St.,W 5-0,45,10/11/2023,Framingham St.,away,W,5,0,False
+10/14/2023,Husson,W 4-2,75,10/14/2023,Husson,home,W,4,2,False
+10/16/2023,MIT,L 1-6,60,10/16/2023,MIT,home,L,1,6,False
+10/18/2023,@ Rhode Island Col.,W 2-1,165,10/18/2023,Rhode Island Col.,away,W,2,1,False
+10/21/2023,Me.-Presque Isle,W 9-1,55,10/21/2023,Me.-Presque Isle,home,W,9,1,False
+10/28/2023,#4 Me.-Farmington North Atlantic Women's Soccer Championship,W 4-0,100,10/28/2023,Me.-Farmington,home,W,4,0,False
+10/29/2023,#3 Maine Maritime North Atlantic Women's Soccer Championship,L 0-1,60,10/29/2023,Maine Maritime,home,L,0,1,False

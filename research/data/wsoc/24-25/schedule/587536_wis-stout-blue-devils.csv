@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Redlands,L 0-6,109,08/30/2024,Redlands,away,L,0,6,False
+08/31/2024,"Austin @Redlands, CA",T 0-0,19,08/31/2024,Austin,neutral,T,0,0,False
+09/08/2024,St. Scholastica,T 0-0,147,09/08/2024,St. Scholastica,home,T,0,0,False
+09/10/2024,@ St. Olaf,L 0-1,193,09/10/2024,St. Olaf,away,L,0,1,False
+09/14/2024,@ Bethel (MN),L 0-2,314,09/14/2024,Bethel (MN),away,L,0,2,False
+09/15/2024,@ Minn.-Morris,Canceled,,09/15/2024,Minn.-Morris,away,,,,
+09/21/2024,Viterbo,L 0-4,104,09/21/2024,Viterbo,home,L,0,4,False
+09/25/2024,Augsburg,L 0-2,130,09/25/2024,Augsburg,home,L,0,2,False
+10/02/2024,@ UW-River Falls,L 1-2,168,10/02/2024,UW-River Falls,away,L,1,2,False
+10/05/2024,Wis.-Stevens Point,L 0-1,49,10/05/2024,Wis.-Stevens Point,home,L,0,1,False
+10/09/2024,@ Saint Mary's (MN),L 1-2,76,10/09/2024,Saint Mary's (MN),away,L,1,2,False
+10/12/2024,Wis.-Oshkosh,L 2-3,205,10/12/2024,Wis.-Oshkosh,home,L,2,3,False
+10/19/2024,@ Wis.-Platteville,L 0-4,187,10/19/2024,Wis.-Platteville,away,L,0,4,False
+10/23/2024,@ Wis.-La Crosse,L 1-4,170,10/23/2024,Wis.-La Crosse,away,L,1,4,False
+10/26/2024,Wis.-Whitewater,L 0-2,155,10/26/2024,Wis.-Whitewater,home,L,0,2,False
+10/29/2024,@ St. Catherine,L 0-2,87,10/29/2024,St. Catherine,away,L,0,2,False
+11/02/2024,Wis.-Eau Claire,L 0-1,250,11/02/2024,Wis.-Eau Claire,home,L,0,1,False

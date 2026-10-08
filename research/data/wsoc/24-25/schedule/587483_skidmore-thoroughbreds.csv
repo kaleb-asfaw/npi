@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ St. John Fisher,W 4-0,170,08/30/2024,St. John Fisher,away,W,4,0,False
+08/31/2024,@ SUNY Brockport,T 0-0,155,08/31/2024,SUNY Brockport,away,T,0,0,False
+09/07/2024,@ Eastern Conn. St.,W 3-1,200,09/07/2024,Eastern Conn. St.,away,W,3,1,False
+09/08/2024,@ Trinity (CT),W 3-2,135,09/08/2024,Trinity (CT),away,W,3,2,False
+09/11/2024,@ Plattsburgh St.,W 3-0,213,09/11/2024,Plattsburgh St.,away,W,3,0,False
+09/14/2024,@ Mt. St. Mary (NY),W 5-0,92,09/14/2024,Mt. St. Mary (NY),away,W,5,0,False
+09/25/2024,Clarkson,W 2-1,117,09/25/2024,Clarkson,home,W,2,1,False
+09/28/2024,William Smith,T 0-0,87,09/28/2024,William Smith,home,T,0,0,False
+10/05/2024,@ Vassar,W 2-1,127,10/05/2024,Vassar,away,W,2,1,False
+10/12/2024,Rensselaer,W 1-0,134,10/12/2024,Rensselaer,home,W,1,0,False
+10/18/2024,RIT,T 2-2,240,10/18/2024,RIT,home,T,2,2,False
+10/19/2024,Ithaca,L 1-2,214,10/19/2024,Ithaca,home,L,1,2,False
+10/26/2024,@ St. Lawrence,L 0-1,250,10/26/2024,St. Lawrence,away,L,0,1,False
+10/30/2024,@ Union (NY),W 1-0,30,10/30/2024,Union (NY),away,W,1,0,False
+11/02/2024,@ Bard,W 3-0,120,11/02/2024,Bard,away,W,3,0,False
+11/05/2024,RIT Liberty League Women's Soccer Championship,W 1-0,180,11/05/2024,RIT,home,W,1,0,False
+11/08/2024,@ Ithaca Liberty League Women's Soccer Championship,L 0-2,125,11/08/2024,Ithaca,away,L,0,2,False
+11/16/2024,"CWRU @Mechanicsburg, PA (NCAA Division III Women's Soccer Championship)",L 3-4,127,11/16/2024,CWRU,neutral,L,3,4,False

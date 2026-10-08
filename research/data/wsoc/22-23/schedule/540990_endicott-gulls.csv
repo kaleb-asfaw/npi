@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Lasell,W 3-0,75,09/01/2022,Lasell,away,W,3,0,False
+09/04/2022,Montclair St.,L 1-2,450,09/04/2022,Montclair St.,home,L,1,2,False
+09/07/2022,Wellesley,W 1-0,125,09/07/2022,Wellesley,home,W,1,0,False
+09/10/2022,@ Hartwick,W 4-1,100,09/10/2022,Hartwick,away,W,4,1,False
+09/11/2022,@ SUNY Oneonta,W 2-0,135,09/11/2022,SUNY Oneonta,away,W,2,0,False
+09/14/2022,@ St. Joseph's (ME),W 2-1,200,09/14/2022,St. Joseph's (ME),away,W,2,1,False
+09/17/2022,Gordon,T 0-0,375,09/17/2022,Gordon,home,T,0,0,False
+09/21/2022,Babson,L 0-2,200,09/21/2022,Babson,home,L,0,2,False
+09/24/2022,@ Suffolk,T 0-0,189,09/24/2022,Suffolk,away,T,0,0,False
+09/28/2022,@ Wheaton (MA),T 2-2,162,09/28/2022,Wheaton (MA),away,T,2,2,False
+09/30/2022,Western New Eng.,W 2-1,350,09/30/2022,Western New Eng.,home,W,2,1,False
+10/04/2022,Salem St.,W 4-1,75,10/04/2022,Salem St.,home,W,4,1,False
+10/08/2022,@ Salve Regina,L 1-2,219,10/08/2022,Salve Regina,away,L,1,2,False
+10/11/2022,Nichols,W 3-0,125,10/11/2022,Nichols,home,W,3,0,False
+10/15/2022,@ Roger Williams,T 1-1,262,10/15/2022,Roger Williams,away,T,1,1,False
+10/19/2022,@ Curry,T 0-0,152,10/19/2022,Curry,away,T,0,0,False
+10/22/2022,Wentworth,L 2-3,304,10/22/2022,Wentworth,home,L,2,3,False
+10/25/2022,@ U New England,W 2-0,142,10/25/2022,U New England,away,W,2,0,False
+10/29/2022,@ #2 U New England CCC WSOC Championship,L 0-1,318,10/29/2022,U New England,away,L,0,1,False

@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Emory,L 0-5,86,09/01/2022,Emory,home,L,0,5,False
+09/03/2022,Belhaven,W 3-1,112,09/03/2022,Belhaven,home,W,3,1,False
+09/09/2022,@ Southern Va.,L 0-1,194,09/09/2022,Southern Va.,away,L,0,1,False
+09/11/2022,@ Mary Baldwin,W 1-0,75,09/11/2022,Mary Baldwin,away,W,1,0,False
+09/13/2022,@ Covenant,W 2-0,56,09/13/2022,Covenant,away,W,2,0,False
+09/16/2022,Maryville (TN),W 1-0,261,09/16/2022,Maryville (TN),home,W,1,0,False
+09/18/2022,Wash. & Lee,L 1-2,121,09/18/2022,Wash. & Lee,home,L,1,2,False
+09/24/2022,@ Sewanee,W 1-0,100,09/24/2022,Sewanee,away,W,1,0,False
+09/30/2022,Centre,W 2-1,141,09/30/2022,Centre,home,W,2,1,False
+10/07/2022,@ Birmingham-So.,W 4-0,143,10/07/2022,Birmingham-So.,away,W,4,0,False
+10/09/2022,@ Millsaps,W 5-1,88,10/09/2022,Millsaps,away,W,5,1,False
+10/14/2022,Rhodes,L 0-1,132,10/14/2022,Rhodes,home,L,0,1,False
+10/16/2022,Hendrix,W 7-0,115,10/16/2022,Hendrix,home,W,7,0,False
+10/18/2022,Piedmont,T 0-0,115,10/18/2022,Piedmont,home,T,0,0,False
+10/22/2022,Oglethorpe,T 0-0,347,10/22/2022,Oglethorpe,home,T,0,0,False
+10/29/2022,Birmingham-So. SAA WSOC Championship,W 2-0,127,10/29/2022,Birmingham-So.,home,W,2,0,False
+11/04/2022,"Centre @Sewanee, TN (SAA WSOC Championship)",L 1-3,75,11/04/2022,Centre,neutral,L,1,3,False

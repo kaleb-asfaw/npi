@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Simmons,W 2-0,0,09/01/2021,Simmons,away,W,2,0,False
+09/04/2021,Curry,W 2-0,75,09/04/2021,Curry,home,W,2,0,False
+09/08/2021,Suffolk,W 2-0,60,09/08/2021,Suffolk,home,W,2,0,False
+09/11/2021,@ UMass Dartmouth,Ppd,,09/11/2021,UMass Dartmouth,away,,,,
+09/18/2021,@ Coast Guard,W 2-1,75,09/18/2021,Coast Guard,away,W,2,1,False
+09/25/2021,Springfield,L 0-2,95,09/25/2021,Springfield,home,L,0,2,False
+09/30/2021,Framingham St.,W 5-1,49,09/30/2021,Framingham St.,home,W,5,1,False
+10/02/2021,Smith,T 1-1 (2 OT),65,10/02/2021,Smith,home,T,1,1,True
+10/06/2021,@ Clark (MA),L 1-2 (1 OT),55,10/06/2021,Clark (MA),away,L,1,2,True
+10/09/2021,@ WPI,T 2-2 (2 OT),100,10/09/2021,WPI,away,T,2,2,True
+10/13/2021,MIT,L 0-3,30,10/13/2021,MIT,home,L,0,3,False
+10/20/2021,@ Babson,T 0-0 (2 OT),110,10/20/2021,Babson,away,T,0,0,True
+10/23/2021,@ Emerson,L 0-1,100,10/23/2021,Emerson,away,L,0,1,False
+10/27/2021,Wheaton (MA),W 2-1,25,10/27/2021,Wheaton (MA),home,W,2,1,False
+10/30/2021,Mount Holyoke,T 0-0 (2 OT),50,10/30/2021,Mount Holyoke,home,T,0,0,True

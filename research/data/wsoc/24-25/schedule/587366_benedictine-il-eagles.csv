@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,North Park,L 0-3,60,08/30/2024,North Park,home,L,0,3,False
+09/01/2024,@ Elmhurst,L 2-4,304,09/01/2024,Elmhurst,away,L,2,4,False
+09/04/2024,Beloit,T 1-1,124,09/04/2024,Beloit,home,T,1,1,False
+09/07/2024,@ Webster,L 1-5,209,09/07/2024,Webster,away,L,1,5,False
+09/11/2024,Lake Forest,L 0-3,150,09/11/2024,Lake Forest,home,L,0,3,False
+09/14/2024,@ Grinnell,L 0-4,50,09/14/2024,Grinnell,away,L,0,4,False
+09/18/2024,@ Concordia Wisconsin,L 1-5,202,09/18/2024,Concordia Wisconsin,away,L,1,5,False
+09/21/2024,@ St. Norbert,L 1-3,122,09/21/2024,St. Norbert,away,L,1,3,False
+09/25/2024,Dominican (IL),L 0-5,88,09/25/2024,Dominican (IL),home,L,0,5,False
+09/28/2024,Lakeland,T 1-1,141,09/28/2024,Lakeland,home,T,1,1,False
+10/02/2024,@ Edgewood,L 0-1,87,10/02/2024,Edgewood,away,L,0,1,False
+10/06/2024,Wis.-Whitewater,T 1-1,346,10/06/2024,Wis.-Whitewater,home,T,1,1,False
+10/09/2024,Rockford,T 1-1,53,10/09/2024,Rockford,home,T,1,1,False
+10/12/2024,Wis. Lutheran,T 0-0,107,10/12/2024,Wis. Lutheran,home,T,0,0,False
+10/16/2024,Concordia Chicago,T 0-0,63,10/16/2024,Concordia Chicago,home,T,0,0,False
+10/19/2024,@ Marian (WI),L 0-4,89,10/19/2024,Marian (WI),away,L,0,4,False
+10/23/2024,Illinois Tech,L 1-6,45,10/23/2024,Illinois Tech,home,L,1,6,False
+10/26/2024,MSOE,L 0-4,87,10/26/2024,MSOE,home,L,0,4,False
+10/30/2024,Aurora,T 0-0,63,10/30/2024,Aurora,home,T,0,0,False

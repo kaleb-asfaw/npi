@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Luther,W 2-1,127,09/01/2022,Luther,home,W,2,1,False
+09/04/2022,@ CMS,W 3-2,75,09/04/2022,CMS,away,W,3,2,False
+09/05/2022,@ La Verne,L 1-3,84,09/05/2022,La Verne,away,L,1,3,False
+09/10/2022,@ Grinnell,W 4-0,30,09/10/2022,Grinnell,away,W,4,0,False
+09/14/2022,@ Saint Mary's (MN),W 2-0,50,09/14/2022,Saint Mary's (MN),away,W,2,0,False
+09/17/2022,Gustavus Adolphus,W 5-1,327,09/17/2022,Gustavus Adolphus,home,W,5,1,False
+09/18/2022,Cornell College,W 5-1,207,09/18/2022,Cornell College,home,W,5,1,False
+09/24/2022,@ Concordia-M'head,W 3-1,156,09/24/2022,Concordia-M'head,away,W,3,1,False
+09/27/2022,@ Augsburg,W 3-0,125,09/27/2022,Augsburg,away,W,3,0,False
+10/01/2022,St. Olaf,W 3-1,537,10/01/2022,St. Olaf,home,W,3,1,False
+10/08/2022,@ Bethel (MN),W 1-0,201,10/08/2022,Bethel (MN),away,W,1,0,False
+10/12/2022,Hamline,W 1-0,103,10/12/2022,Hamline,home,W,1,0,False
+10/16/2022,@ Macalester,T 2-2,198,10/16/2022,Macalester,away,T,2,2,False
+10/22/2022,St. Scholastica,W 4-0,354,10/22/2022,St. Scholastica,home,W,4,0,False
+10/25/2022,@ St. Catherine,T 0-0,76,10/25/2022,St. Catherine,away,T,0,0,False
+10/29/2022,Saint Benedict,T 2-2,421,10/29/2022,Saint Benedict,home,T,2,2,False
+11/02/2022,#4 St. Olaf MIAC WSOC Tournament,W 3-1,309,11/02/2022,St. Olaf,home,W,3,1,False
+11/05/2022,#3 St. Catherine MIAC WSOC Tournament,L 0-1 (2 OT),568,11/05/2022,St. Catherine,home,L,0,1,True

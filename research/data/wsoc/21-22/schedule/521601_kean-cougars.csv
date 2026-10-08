@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Sarah Lawrence,Canceled,,09/01/2021,Sarah Lawrence,away,,,,
+09/03/2021,Westfield St.,L 0-4,12,09/03/2021,Westfield St.,home,L,0,4,False
+09/04/2021,Scranton,L 0-5,35,09/04/2021,Scranton,home,L,0,5,False
+09/08/2021,FDU-Florham,W 2-0,65,09/08/2021,FDU-Florham,home,W,2,0,False
+09/10/2021,UMSV,W 2-0,78,09/10/2021,UMSV,home,W,2,0,False
+09/15/2021,@ Manhattanville,T 1-1 (2 OT),0,09/15/2021,Manhattanville,away,T,1,1,True
+09/18/2021,Wm. Paterson,W 3-2,121,09/18/2021,Wm. Paterson,home,W,3,2,False
+09/22/2021,Marywood,L 0-2,102,09/22/2021,Marywood,home,L,0,2,False
+09/25/2021,@ Rutgers-Camden,T 0-0 (2 OT),90,09/25/2021,Rutgers-Camden,away,T,0,0,True
+09/29/2021,Montclair St.,L 0-5,111,09/29/2021,Montclair St.,home,L,0,5,False
+10/02/2021,Stockton,L 2-3 (1 OT),143,10/02/2021,Stockton,home,L,2,3,True
+10/09/2021,@ Rutgers-Newark,W 1-0,250,10/09/2021,Rutgers-Newark,away,W,1,0,False
+10/13/2021,New Jersey City,W 3-1,122,10/13/2021,New Jersey City,home,W,3,1,False
+10/16/2021,@ Rowan,L 0-1,250,10/16/2021,Rowan,away,L,0,1,False
+10/19/2021,@ Haverford,W 2-0,73,10/19/2021,Haverford,away,W,2,0,False
+10/23/2021,TCNJ,L 0-1,144,10/23/2021,TCNJ,home,L,0,1,False
+10/27/2021,@ Ramapo,T 0-0 (2 OT),75,10/27/2021,Ramapo,away,T,0,0,True
+10/30/2021,@ #4 Stockton NJAC WSOC Championship,L 0-1,85,10/30/2021,Stockton,away,L,0,1,False

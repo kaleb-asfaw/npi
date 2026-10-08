@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Maryville (TN),W 1-0,85,09/01/2021,Maryville (TN),home,W,1,0,False
+09/04/2021,"Sewanee @Cincinnati, OH",L 0-1,139,09/04/2021,Sewanee,neutral,L,0,1,False
+09/05/2021,"Wilmington (OH) @Cincinnati, Ohio",W 4-1,154,09/05/2021,Wilmington (OH),neutral,W,4,1,False
+09/10/2021,@ Denison,L 0-1,60,09/10/2021,Denison,away,L,0,1,False
+09/11/2021,@ Kenyon,W 2-1,50,09/11/2021,Kenyon,away,W,2,1,False
+09/15/2021,Asbury,W 3-0,0,09/15/2021,Asbury,home,W,3,0,False
+09/18/2021,Emory & Henry,T 0-0 (2 OT),150,09/18/2021,Emory & Henry,home,T,0,0,True
+09/22/2021,Berea,W 4-1,75,09/22/2021,Berea,home,W,4,1,False
+09/29/2021,@ Anderson (IN),L 1-2,70,09/29/2021,Anderson (IN),away,L,1,2,False
+10/02/2021,@ Defiance,W 2-0,60,10/02/2021,Defiance,away,W,2,0,False
+10/09/2021,Bluffton,W 2-0,0,10/09/2021,Bluffton,home,W,2,0,False
+10/10/2021,Hanover,L 0-1,0,10/10/2021,Hanover,home,L,0,1,False
+10/13/2021,@ Mt. St. Joseph,L 0-1 (2 OT),132,10/13/2021,Mt. St. Joseph,away,L,0,1,True
+10/16/2021,Rose-Hulman,L 0-1,150,10/16/2021,Rose-Hulman,home,L,0,1,False
+10/20/2021,@ Earlham,T 0-0 (2 OT),43,10/20/2021,Earlham,away,T,0,0,True
+10/23/2021,@ Manchester,W 3-0,75,10/23/2021,Manchester,away,W,3,0,False
+10/27/2021,Franklin,W 3-0,0,10/27/2021,Franklin,home,W,3,0,False
+10/30/2021,@ #4 Anderson (IN) Heartland WSOC Championship,W 2-1,200,10/30/2021,Anderson (IN),away,W,2,1,False
+11/03/2021,@ #1 Mt. St. Joseph Heartland WSOC Championship,T 1-1 (3 OT),250,11/03/2021,Mt. St. Joseph,away,T,1,1,True

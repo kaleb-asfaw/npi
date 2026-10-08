@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Saint Elizabeth,L 0-14,43,09/01/2023,Saint Elizabeth,away,L,0,14,False
+09/09/2023,Medgar Evers,Ppd,,09/09/2023,Medgar Evers,home,,,,
+09/14/2023,@ Old Westbury,L 0-13,53,09/14/2023,Old Westbury,away,L,0,13,False
+09/17/2023,@ Pratt,L 0-12,51,09/17/2023,Pratt,away,L,0,12,False
+09/20/2023,CCNY,L 0-8,10,09/20/2023,CCNY,home,L,0,8,False
+09/22/2023,@ Medgar Evers,Ppd,,09/22/2023,Medgar Evers,away,,,,
+09/28/2023,Lehman,L 1-10,13,09/28/2023,Lehman,home,L,1,10,False
+10/03/2023,@ Brooklyn,Ppd,,10/03/2023,Brooklyn,away,,,,
+10/11/2023,@ Lehman,L 0-3,35,10/11/2023,Lehman,away,L,0,3,False
+10/14/2023,John Jay,L 0-8,8,10/14/2023,John Jay,home,L,0,8,False
+10/16/2023,@ Brooklyn,L 2-6,100,10/16/2023,Brooklyn,away,L,2,6,False
+10/21/2023,Brooklyn,L 0-2,8,10/21/2023,Brooklyn,home,L,0,2,False
+10/25/2023,@ CCNY,L 0-8,50,10/25/2023,CCNY,away,L,0,8,False
+10/27/2023,@ Valley Forge,L 0-2,20,10/27/2023,Valley Forge,away,L,0,2,False
+11/02/2023,Yeshiva,L 2-3,12,11/02/2023,Yeshiva,home,L,2,3,False

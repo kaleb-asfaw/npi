@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Wilson,W 4-2,110,09/01/2023,Wilson,away,W,4,2,False
+09/03/2023,@ Bryn Mawr,L 0-1,75,09/03/2023,Bryn Mawr,away,L,0,1,False
+09/06/2023,St. Mary's (MD),W 1-0,213,09/06/2023,St. Mary's (MD),home,W,1,0,False
+09/09/2023,@ Washington Col.,L 0-2,109,09/09/2023,Washington Col.,away,L,0,2,False
+09/13/2023,Shenandoah,T 0-0,216,09/13/2023,Shenandoah,home,T,0,0,False
+09/16/2023,TCNJ,L 0-4,278,09/16/2023,TCNJ,home,L,0,4,False
+09/19/2023,Penn St. Harrisburg,L 0-1,197,09/19/2023,Penn St. Harrisburg,home,L,0,1,False
+09/22/2023,Marymount (VA),W 2-1,264,09/22/2023,Marymount (VA),home,W,2,1,False
+09/27/2023,Mary Washington,L 0-1,269,09/27/2023,Mary Washington,home,L,0,1,False
+09/30/2023,Eastern,T 1-1,411,09/30/2023,Eastern,home,T,1,1,False
+10/04/2023,Salisbury,L 0-1,220,10/04/2023,Salisbury,home,L,0,1,False
+10/07/2023,Albright,T 0-0,366,10/07/2023,Albright,home,T,0,0,False
+10/10/2023,@ Lebanon Valley,L 0-1,148,10/10/2023,Lebanon Valley,away,L,0,1,False
+10/13/2023,@ Widener,L 0-1,150,10/13/2023,Widener,away,L,0,1,False
+10/17/2023,@ Messiah,L 0-5,117,10/17/2023,Messiah,away,L,0,5,False
+10/21/2023,York (PA),L 1-2,417,10/21/2023,York (PA),home,L,1,2,False
+10/25/2023,@ Alvernia,W 1-0,65,10/25/2023,Alvernia,away,W,1,0,False
+10/28/2023,@ Stevenson,T 2-2,188,10/28/2023,Stevenson,away,T,2,2,False

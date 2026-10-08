@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Penn St.-Brandywine,W 5-0,202,09/01/2023,@ Penn St.-Brandywine,home,W,5,0,False
+09/02/2023,@ Delaware Valley,L 1-5,113,09/02/2023,Delaware Valley,away,L,1,5,False
+09/09/2023,Bryn Athyn,L 1-4,73,09/09/2023,Bryn Athyn,home,L,1,4,False
+09/13/2023,@ Rosemont,W 1-0,45,09/13/2023,Rosemont,away,W,1,0,False
+09/16/2023,@ Lancaster Bible,L 0-3,160,09/16/2023,Lancaster Bible,away,L,0,3,False
+09/18/2023,Clarks Summit,W 4-0,121,09/18/2023,Clarks Summit,home,W,4,0,False
+09/20/2023,@ Valley Forge,W 7-0,25,09/20/2023,Valley Forge,away,W,7,0,False
+09/22/2023,Cairn,T 1-1,227,09/22/2023,Cairn,home,T,1,1,False
+09/27/2023,Wilson,W 3-2,79,09/27/2023,Wilson,home,W,3,2,False
+10/02/2023,@ Penn St.-Abington,W 3-1,63,10/02/2023,Penn St.-Abington,away,W,3,1,False
+10/04/2023,@ Cabrini,T 0-0,100,10/04/2023,Cabrini,away,T,0,0,False
+10/11/2023,Marymount (VA),T 1-1,53,10/11/2023,Marymount (VA),home,T,1,1,False
+10/14/2023,Immaculata,W 1-0,103,10/14/2023,Immaculata,home,W,1,0,False
+10/18/2023,@ Marywood,L 0-3,125,10/18/2023,Marywood,away,L,0,3,False
+10/21/2023,@ Neumann,T 2-2,245,10/21/2023,Neumann,away,T,2,2,False
+10/25/2023,Centenary (NJ),T 0-0,71,10/25/2023,Centenary (NJ),home,T,0,0,False
+10/28/2023,@ #3 Cabrini Atlantic East Women's Soccer Championship,T 0-0 (3 OT),125,10/28/2023,Cabrini,away,T,0,0,True
+10/31/2023,@ #1 Marywood Atlantic East Women's Soccer Championship,L 0-7,217,10/31/2023,Marywood,away,L,0,7,False

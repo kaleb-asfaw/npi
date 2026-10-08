@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/27/2022,@ Southern Wesleyan,L 0-2 *,74,08/27/2022,Southern Wesleyan,away,L,0,2,False
+09/01/2022,Guilford,L 0-5,172,09/01/2022,Guilford,home,L,0,5,False
+09/03/2022,@ Bluefield Univ.,W 2-0,40,09/03/2022,@ Bluefield Univ.,home,W,2,0,False
+09/06/2022,Warren Wilson,W 4-0,147,09/06/2022,Warren Wilson,home,W,4,0,False
+09/10/2022,Allen,W 6-0,106,09/10/2022,Allen,home,W,6,0,False
+09/15/2022,Carlow,W 2-0,127,09/15/2022,Carlow,home,W,2,0,False
+09/18/2022,@ CarolinaU,L 0-1,75,09/18/2022,@ CarolinaU,home,L,0,1,False
+09/21/2022,@ Toccoa Falls,W 7-0,0,09/21/2022,@ Toccoa Falls,home,W,7,0,False
+09/24/2022,@ N.C. Wesleyan,L 1-3,61,09/24/2022,N.C. Wesleyan,away,L,1,3,False
+09/27/2022,@ Berea,W 8-0,13,09/27/2022,Berea,away,W,8,0,False
+09/29/2022,@ Meredith,T 0-0,32,09/29/2022,Meredith,away,T,0,0,False
+10/04/2022,Greensboro,T 1-1,175,10/04/2022,Greensboro,home,T,1,1,False
+10/07/2022,Southern Va.,T 1-1,187,10/07/2022,Southern Va.,home,T,1,1,False
+10/11/2022,@ JWU (Charlotte),T 2-2,50,10/11/2022,@ JWU (Charlotte),home,T,2,2,False
+10/13/2022,MUW,W 1-0,204,10/13/2022,MUW,home,W,1,0,False
+10/15/2022,Methodist,L 0-2,200,10/15/2022,Methodist,home,L,0,2,False
+10/19/2022,Salem (NC),W 1-0,112,10/19/2022,Salem (NC),home,W,1,0,False
+10/22/2022,@ Mary Baldwin,L 0-1,75,10/22/2022,Mary Baldwin,away,L,0,1,False
+10/25/2022,@ Pfeiffer,W 2-0,115,10/25/2022,Pfeiffer,away,W,2,0,False
+10/29/2022,William Peace,W 2-1,200,10/29/2022,William Peace,home,W,2,1,False
+11/01/2022,@ #2 Southern Va. USA South WSOC Championship,T 0-0 (3 OT),184,11/01/2022,Southern Va.,away,T,0,0,True

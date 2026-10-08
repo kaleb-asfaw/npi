@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,"Wis.-Oshkosh @Virginia Beach, VA",W 3-1,80,09/01/2023,Wis.-Oshkosh,neutral,W,3,1,False
+09/03/2023,Southwestern (TX),W 2-0,237,09/03/2023,Southwestern (TX),home,W,2,0,False
+09/08/2023,Gettysburg,W 1-0,436,09/08/2023,Gettysburg,home,W,1,0,False
+09/09/2023,Pacific Lutheran,W 2-0,192,09/09/2023,Pacific Lutheran,home,W,2,0,False
+09/12/2023,Batten,W 2-0,512,09/12/2023,Batten,home,W,2,0,False
+09/15/2023,@ Capital,W 1-0,328,09/15/2023,Capital,away,W,1,0,False
+09/17/2023,"Ohio Northern @Bexley, OH",W 2-1,127,09/17/2023,Ohio Northern,neutral,W,2,1,False
+09/20/2023,@ Methodist,W 1-0,158,09/20/2023,Methodist,away,W,1,0,False
+09/23/2023,Wis.-La Crosse,W 1-0,107,09/23/2023,Wis.-La Crosse,home,W,1,0,False
+10/01/2023,@ Wash. & Lee,T 0-0,277,10/01/2023,Wash. & Lee,away,T,0,0,False
+10/07/2023,@ Mary Washington,W 5-0,453,10/07/2023,Mary Washington,away,W,5,0,False
+10/10/2023,@ Southern Va.,W 3-0,254,10/10/2023,Southern Va.,away,W,3,0,False
+10/14/2023,Mary Washington,W 1-0,186,10/14/2023,Mary Washington,home,W,1,0,False
+10/18/2023,Swarthmore,W 1-0,209,10/18/2023,Swarthmore,home,W,1,0,False
+10/21/2023,Roanoke,W 5-0,362,10/21/2023,Roanoke,home,W,5,0,False
+10/28/2023,@ Salisbury,W 4-0,75,10/28/2023,Salisbury,away,W,4,0,False
+11/03/2023,#4 Mary Washington C2C Women's Soccer Championship,W 2-0,214,11/03/2023,Mary Washington,home,W,2,0,False
+11/05/2023,"#2 UC Santa Cruz @Fredericksburg, VA (C2C Women's Soccer Championship)",T 0-0 (3 OT),152,11/05/2023,UC Santa Cruz,neutral,T,0,0,True
+11/11/2023,Marymount (VA) NCAA Division III Women's Soccer Championship,W 7-0,412,11/11/2023,Marymount (VA),home,W,7,0,False
+11/12/2023,McDaniel NCAA Division III Women's Soccer Championship,W 3-2,462,11/12/2023,McDaniel,home,W,3,2,False
+11/18/2023,Batten NCAA Division III Women's Soccer Championship,W 1-0 (2 OT),"1,000",11/18/2023,Batten,home,W,1,0,True
+11/19/2023,Cal Lutheran NCAA Division III Women's Soccer Championship,T 1-1 (2 OT),523,11/19/2023,Cal Lutheran,home,T,1,1,True

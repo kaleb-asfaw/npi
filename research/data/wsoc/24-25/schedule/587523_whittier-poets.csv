@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/06/2024,Concordia (TX),W 1-0,92,09/06/2024,Concordia (TX),home,W,1,0,False
+09/08/2024,Southwestern (TX),Canceled,,09/08/2024,Southwestern (TX),home,,,,
+09/14/2024,La Verne,W 1-0,157,09/14/2024,La Verne,home,W,1,0,False
+09/18/2024,@ Pomona-Pitzer,T 1-1,132,09/18/2024,Pomona-Pitzer,away,T,1,1,False
+09/21/2024,Occidental,W 1-0,91,09/21/2024,Occidental,home,W,1,0,False
+09/25/2024,@ La Verne,W 2-1,70,09/25/2024,La Verne,away,W,2,1,False
+09/28/2024,@ CMS,L 1-2,150,09/28/2024,CMS,away,L,1,2,False
+10/02/2024,Caltech,W 2-0,102,10/02/2024,Caltech,home,W,2,0,False
+10/05/2024,Redlands,W 1-0,97,10/05/2024,Redlands,home,W,1,0,False
+10/09/2024,@ Cal Lutheran,L 0-1,175,10/09/2024,Cal Lutheran,away,L,0,1,False
+10/12/2024,Chapman,W 3-2,145,10/12/2024,Chapman,home,W,3,2,False
+10/19/2024,@ Redlands,L 0-1,109,10/19/2024,Redlands,away,L,0,1,False
+10/26/2024,Cal Lutheran,L 1-2,130,10/26/2024,Cal Lutheran,home,L,1,2,False
+10/30/2024,CMS,L 0-2,54,10/30/2024,CMS,home,L,0,2,False
+11/02/2024,@ Chapman,W 3-0,198,11/02/2024,Chapman,away,W,3,0,False
+11/04/2024,#5 Chapman SCIAC Women's Soccer Championship,W 2-1,219,11/04/2024,Chapman,home,W,2,1,False
+11/06/2024,@ #1 Pomona-Pitzer SCIAC Women's Soccer Championship,L 0-1,207,11/06/2024,Pomona-Pitzer,away,L,0,1,False

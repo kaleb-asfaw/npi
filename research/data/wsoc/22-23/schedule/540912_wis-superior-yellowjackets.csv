@@ -1,0 +1,24 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Augsburg,L 1-2,0,09/01/2022,Augsburg,home,L,1,2,False
+09/04/2022,Hamline,T 0-0,0,09/04/2022,Hamline,home,T,0,0,False
+09/06/2022,Wis.-Stout,T 0-0,0,09/06/2022,Wis.-Stout,home,T,0,0,False
+09/11/2022,@ Edgewood,L 0-4,101,09/11/2022,Edgewood,away,L,0,4,False
+09/14/2022,Northland,W 5-0,137,09/14/2022,Northland,home,W,5,0,False
+09/17/2022,@ UW-River Falls,L 0-3,210,09/17/2022,UW-River Falls,away,L,0,3,False
+09/23/2022,@ Bethany Lutheran,W 3-2,60,09/23/2022,Bethany Lutheran,away,W,3,2,False
+09/24/2022,@ Martin Luther,W 3-0,128,09/24/2022,Martin Luther,away,W,3,0,False
+09/30/2022,@ Crown (MN),W 6-0,125,09/30/2022,Crown (MN),away,W,6,0,False
+10/01/2022,@ Minn.-Morris,W 2-0,84,10/01/2022,Minn.-Morris,away,W,2,0,False
+10/05/2022,Northwestern-St. Paul,W 2-0,34,10/05/2022,Northwestern-St. Paul,home,W,2,0,False
+10/08/2022,North Central (MN),W 8-0,56,10/08/2022,North Central (MN),home,W,8,0,False
+10/11/2022,@ Northland,T 1-1,98,10/11/2022,Northland,away,T,1,1,False
+10/14/2022,Martin Luther,W 8-1,50,10/14/2022,Martin Luther,home,W,8,1,False
+10/15/2022,Bethany Lutheran,W 2-1,45,10/15/2022,Bethany Lutheran,home,W,2,1,False
+10/18/2022,St. Scholastica,T 0-0,60,10/18/2022,St. Scholastica,home,T,0,0,False
+10/21/2022,@ North Central (MN),W 5-0,30,10/21/2022,North Central (MN),away,W,5,0,False
+10/22/2022,@ Northwestern-St. Paul,W 4-1,203,10/22/2022,Northwestern-St. Paul,away,W,4,1,False
+10/28/2022,Minn.-Morris,W 3-1,51,10/28/2022,Minn.-Morris,home,W,3,1,False
+10/29/2022,Crown (MN),W 3-2,115,10/29/2022,Crown (MN),home,W,3,2,False
+11/02/2022,#4 Crown (MN) UMAC WSOC Championship,W 6-0,68,11/02/2022,Crown (MN),home,W,6,0,False
+11/05/2022,#2 Northwestern-St. Paul UMAC WSOC Championship,W 6-0,200,11/05/2022,Northwestern-St. Paul,home,W,6,0,False
+11/12/2022,@ Loras NCAA Division III Women's Soccer Championship,L 1-7,202,11/12/2022,Loras,away,L,1,7,False

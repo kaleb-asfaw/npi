@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/05/2023,Lancaster Bible,L 0-2,200,09/05/2023,Lancaster Bible,home,L,0,2,False
+09/07/2023,Delaware Valley,L 1-6,150,09/07/2023,Delaware Valley,home,L,1,6,False
+09/13/2023,Penn College,L 1-4,107,09/13/2023,Penn College,home,L,1,4,False
+09/16/2023,Centenary (NJ),W 3-2,75,09/16/2023,Centenary (NJ),home,W,3,2,False
+09/22/2023,@ Gwynedd Mercy,T 1-1,227,09/22/2023,Gwynedd Mercy,away,T,1,1,False
+09/26/2023,Cedar Crest,T 0-0,45,09/26/2023,Cedar Crest,home,T,0,0,False
+09/30/2023,Clarks Summit,W 7-0,237,09/30/2023,Clarks Summit,home,W,7,0,False
+10/04/2023,@ Valley Forge,W 4-0,25,10/04/2023,Valley Forge,away,W,4,0,False
+10/07/2023,Rosemont,T 0-0,102,10/07/2023,Rosemont,home,T,0,0,False
+10/10/2023,@ Notre Dame (MD),W 3-0,65,10/10/2023,Notre Dame (MD),away,W,3,0,False
+10/14/2023,@ Wilson,L 0-2,95,10/14/2023,Wilson,away,L,0,2,False
+10/18/2023,Bryn Athyn,L 1-4,100,10/18/2023,Bryn Athyn,home,L,1,4,False
+10/21/2023,@ Saint Elizabeth,W 4-1,30,10/21/2023,Saint Elizabeth,away,W,4,1,False
+10/24/2023,@ Keystone,W 7-0,60,10/24/2023,Keystone,away,W,7,0,False
+10/28/2023,#6 Notre Dame (MD) United East Women's Soccer Championship,W 2-1,135,10/28/2023,Notre Dame (MD),home,W,2,1,False
+10/31/2023,@ #2 Wilson United East Women's Soccer Championship,T 2-2 (3 OT),125,10/31/2023,Wilson,away,T,2,2,True
+11/02/2023,@ #1 Bryn Athyn United East Women's Soccer Championship,L 0-2,400,11/02/2023,Bryn Athyn,away,L,0,2,False

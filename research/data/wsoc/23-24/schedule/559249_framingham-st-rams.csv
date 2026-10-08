@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Roger Williams,L 0-4,189,09/01/2023,Roger Williams,away,L,0,4,False
+09/06/2023,@ Curry,L 0-5,121,09/06/2023,Curry,away,L,0,5,False
+09/09/2023,@ Nichols,L 1-2,159,09/09/2023,Nichols,away,L,1,2,False
+09/15/2023,@ MCLA,W 2-0,108,09/15/2023,MCLA,away,W,2,0,False
+09/17/2023,@ WestConn,L 0-6,125,09/17/2023,WestConn,away,L,0,6,False
+09/23/2023,Salem St.,L 1-2,452,09/23/2023,Salem St.,home,L,1,2,False
+09/27/2023,Clark (MA),L 0-3,65,09/27/2023,Clark (MA),home,L,0,3,False
+09/30/2023,Bridgewater St.,L 0-2,110,09/30/2023,Bridgewater St.,home,L,0,2,False
+10/04/2023,Keene St.,L 0-4,87,10/04/2023,Keene St.,home,L,0,4,False
+10/07/2023,@ Westfield St.,L 0-3,274,10/07/2023,Westfield St.,away,L,0,3,False
+10/11/2023,Lesley,L 0-5,45,10/11/2023,Lesley,home,L,0,5,False
+10/14/2023,@ Worcester St.,L 0-4,65,10/14/2023,Worcester St.,away,L,0,4,False
+10/21/2023,Mass. Maritime,T 0-0,77,10/21/2023,Mass. Maritime,home,T,0,0,False
+10/23/2023,@ Eastern Conn. St.,Canceled,,10/23/2023,Eastern Conn. St.,away,,,,
+10/25/2023,@ Fisher,T 1-1,30,10/25/2023,@ Fisher,home,T,1,1,False
+10/28/2023,Fitchburg St.,L 1-4,0,10/28/2023,Fitchburg St.,home,L,1,4,False

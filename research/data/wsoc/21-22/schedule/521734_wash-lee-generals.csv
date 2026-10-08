@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Southern Va.,W 2-0,92,09/01/2021,Southern Va.,home,W,2,0,False
+09/04/2021,Pfeiffer,W 3-0,138,09/04/2021,Pfeiffer,home,W,3,0,False
+09/05/2021,Ill. Wesleyan,W 3-0,83,09/05/2021,Ill. Wesleyan,home,W,3,0,False
+09/11/2021,"St. Mary's (MD) @Salisbury, MD",W 2-0,150,09/11/2021,St. Mary's (MD),neutral,W,2,0,False
+09/12/2021,@ Salisbury,W 1-0,202,09/12/2021,Salisbury,away,W,1,0,False
+09/18/2021,@ Emory,L 0-1,75,09/18/2021,Emory,away,L,0,1,False
+09/22/2021,Mary Washington,Canceled,,09/22/2021,Mary Washington,home,,,,
+09/25/2021,Roanoke,T 1-1 (2 OT),109,09/25/2021,Roanoke,home,T,1,1,True
+09/29/2021,East. Mennonite,W 5-1,73,09/29/2021,East. Mennonite,home,W,5,1,False
+10/01/2021,Lynchburg,L 1-2 (1 OT),214,10/01/2021,Lynchburg,home,L,1,2,True
+10/06/2021,@ Sweet Briar,W 9-0,25,10/06/2021,Sweet Briar,away,W,9,0,False
+10/09/2021,@ Bridgewater (VA),T 2-2 (2 OT),110,10/09/2021,Bridgewater (VA),away,T,2,2,True
+10/12/2021,Guilford,W 5-0,57,10/12/2021,Guilford,home,W,5,0,False
+10/16/2021,@ Batten,W 1-0,83,10/16/2021,Batten,away,W,1,0,False
+10/22/2021,Shenandoah,W 3-1,138,10/22/2021,Shenandoah,home,W,3,1,False
+10/27/2021,@ Ferrum,W 5-0,72,10/27/2021,Ferrum,away,W,5,0,False
+10/30/2021,@ Randolph-Macon,W 3-0,275,10/30/2021,Randolph-Macon,away,W,3,0,False
+11/02/2021,#5 Shenandoah ODAC WSOC Tournament,W 2-1,47,11/02/2021,Shenandoah,home,W,2,1,False
+11/05/2021,@ #1 Batten ODAC WSOC Tournament,L 0-1,283,11/05/2021,Batten,away,L,0,1,False

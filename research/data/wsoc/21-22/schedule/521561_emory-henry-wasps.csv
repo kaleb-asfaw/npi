@@ -1,0 +1,15 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2021,Brevard,W 1-0,124,09/02/2021,Brevard,home,W,1,0,False
+09/04/2021,Ferrum,W 2-0,135,09/04/2021,Ferrum,home,W,2,0,False
+09/08/2021,Bluefield Univ.,W 3-0,137,09/08/2021,Bluefield Univ.,home,W,3,0,False
+09/12/2021,@ Warren Wilson,W 4-0,60,09/12/2021,Warren Wilson,away,W,4,0,False
+09/15/2021,@ Converse,T 1-1 (2 OT),100,09/15/2021,Converse,away,T,1,1,True
+09/18/2021,@ Transylvania,T 0-0 (2 OT),150,09/18/2021,Transylvania,away,T,0,0,True
+09/22/2021,@ Mars Hill,L 2-3,135,09/22/2021,Mars Hill,away,L,2,3,False
+09/28/2021,JWU (Charlotte),W 4-0,123,09/28/2021,JWU (Charlotte),home,W,4,0,False
+10/04/2021,@ Southern Va.,L 0-2,0,10/04/2021,Southern Va.,away,L,0,2,False
+10/12/2021,@ Bluefield St.,W 2-0,40,10/12/2021,Bluefield St.,away,W,2,0,False
+10/17/2021,CarolinaU,W 5-3,218,10/17/2021,CarolinaU,home,W,5,3,False
+10/20/2021,Asbury,L 0-1,115,10/20/2021,Asbury,home,L,0,1,False
+10/23/2021,East. Mennonite,W 5-1,127,10/23/2021,East. Mennonite,home,W,5,1,False
+10/31/2021,Warren Wilson,W 2-0,223,10/31/2021,Warren Wilson,home,W,2,0,False

@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Carlow,T 0-0,133,09/01/2023,Carlow,away,T,0,0,False
+09/03/2023,@ Wilmington (OH),L 2-5,103,09/03/2023,Wilmington (OH),away,L,2,5,False
+09/10/2023,Mount Aloysius,T 1-1,100,09/10/2023,Mount Aloysius,home,T,1,1,False
+09/13/2023,Hiram,L 0-1,100,09/13/2023,Hiram,home,L,0,1,False
+09/16/2023,@ Earlham,W 1-0,162,09/16/2023,Earlham,away,W,1,0,False
+09/17/2023,La Roche,T 0-0,87,09/17/2023,La Roche,home,T,0,0,False
+09/20/2023,@ Allegheny,L 0-2,70,09/20/2023,Allegheny,away,L,0,2,False
+09/26/2023,Geneva,L 0-2,75,09/26/2023,Geneva,home,L,0,2,False
+09/30/2023,@ Franciscan,L 0-6,150,09/30/2023,Franciscan,away,L,0,6,False
+10/04/2023,Chatham,W 5-2,52,10/04/2023,Chatham,home,W,5,2,False
+10/07/2023,Saint Vincent,L 0-2,54,10/07/2023,Saint Vincent,home,L,0,2,False
+10/11/2023,@ Waynesburg,L 0-3,89,10/11/2023,Waynesburg,away,L,0,3,False
+10/13/2023,Grove City,L 0-4,50,10/13/2023,Grove City,home,L,0,4,False
+10/17/2023,Thiel,W 3-0,25,10/17/2023,Thiel,home,W,3,0,False
+10/21/2023,@ Wash. & Jeff.,L 0-1,200,10/21/2023,Wash. & Jeff.,away,L,0,1,False
+10/25/2023,@ Westminster (PA),L 2-5,155,10/25/2023,Westminster (PA),away,L,2,5,False

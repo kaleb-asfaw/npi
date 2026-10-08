@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2022,Lynchburg,T 1-1,306,09/02/2022,Lynchburg,home,T,1,1,False
+09/04/2022,Farmingdale St.,W 1-0,132,09/04/2022,Farmingdale St.,home,W,1,0,False
+09/07/2022,Manhattanville,W 3-1,400,09/07/2022,Manhattanville,home,W,3,1,False
+09/10/2022,@ Centenary (NJ),W 11-1,50,09/10/2022,Centenary (NJ),away,W,11,1,False
+09/14/2022,@ Widener,W 2-0,98,09/14/2022,Widener,away,W,2,0,False
+09/19/2022,@ Bryn Mawr,T 0-0,60,09/19/2022,Bryn Mawr,away,T,0,0,False
+09/24/2022,@ Kean,W 4-0,50,09/24/2022,Kean,away,W,4,0,False
+09/28/2022,New Jersey City,W 4-0,75,09/28/2022,New Jersey City,home,W,4,0,False
+10/04/2022,Rutgers-Newark,W 2-0,50,10/04/2022,Rutgers-Newark,home,W,2,0,False
+10/05/2022,Haverford,Ppd,,10/05/2022,Haverford,home,,,,
+10/08/2022,Montclair St.,W 1-0,318,10/08/2022,Montclair St.,home,W,1,0,False
+10/12/2022,@ Rutgers-Camden,W 2-0,125,10/12/2022,Rutgers-Camden,away,W,2,0,False
+10/15/2022,@ Ramapo,W 5-0,120,10/15/2022,Ramapo,away,W,5,0,False
+10/19/2022,TCNJ,T 0-0,269,10/19/2022,TCNJ,home,T,0,0,False
+10/22/2022,@ Wm. Paterson,W 2-0,60,10/22/2022,Wm. Paterson,away,W,2,0,False
+10/26/2022,Stockton,T 0-0,280,10/26/2022,Stockton,home,T,0,0,False
+11/02/2022,#3 TCNJ NJAC WSOC Championship,W 1-0,345,11/02/2022,TCNJ,home,W,1,0,False
+11/05/2022,@ #1 Montclair St. NJAC WSOC Championship,W 2-1,678,11/05/2022,Montclair St.,away,W,2,1,False
+11/12/2022,"Methodist @Virginia Beach, VA (NCAA Division III Women's Soccer Championship)",W 5-1,253,11/12/2022,Methodist,neutral,W,5,1,False
+11/13/2022,"Batten @Virginia Beach, VA (NCAA Division III Women's Soccer Championship)",L 0-1,366,11/13/2022,Batten,neutral,L,0,1,False

@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,"Chris. Newport @Virginia Beach, VA",L 1-3,80,09/01/2023,Chris. Newport,neutral,L,1,3,False
+09/03/2023,@ Batten,L 2-5,79,09/03/2023,Batten,away,L,2,5,False
+09/06/2023,@ St. Norbert,T 1-1,125,09/06/2023,St. Norbert,away,T,1,1,False
+09/09/2023,@ Dubuque,L 0-3,220,09/09/2023,Dubuque,away,L,0,3,False
+09/10/2023,Olivet,W 4-0,99,09/10/2023,Olivet,home,W,4,0,False
+09/16/2023,@ Carthage,T 1-1,215,09/16/2023,Carthage,away,T,1,1,False
+09/20/2023,UChicago,L 0-5,52,09/20/2023,UChicago,home,L,0,5,False
+09/22/2023,@ Kalamazoo,L 0-3,211,09/22/2023,Kalamazoo,away,L,0,3,False
+09/23/2023,@ Albion,T 1-1,74,09/23/2023,Albion,away,T,1,1,False
+09/27/2023,Loras,L 0-3,45,09/27/2023,Loras,home,L,0,3,False
+09/30/2023,Wis.-La Crosse,L 1-3,244,09/30/2023,Wis.-La Crosse,home,L,1,3,False
+10/04/2023,@ Wis.-Whitewater,L 1-4,188,10/04/2023,Wis.-Whitewater,away,L,1,4,False
+10/07/2023,Wis.-Stout,W 1-0,182,10/07/2023,Wis.-Stout,home,W,1,0,False
+10/14/2023,@ Wis.-Eau Claire,L 0-1,145,10/14/2023,Wis.-Eau Claire,away,L,0,1,False
+10/18/2023,Wis.-Stevens Point,W 4-1,122,10/18/2023,Wis.-Stevens Point,home,W,4,1,False
+10/21/2023,UW-River Falls,W 2-1,188,10/21/2023,UW-River Falls,home,W,2,1,False
+10/24/2023,@ Concordia Wisconsin,W 2-1,237,10/24/2023,Concordia Wisconsin,away,W,2,1,False
+10/28/2023,@ Wis.-Platteville,T 1-1,132,10/28/2023,Wis.-Platteville,away,T,1,1,False
+10/31/2023,#5 Wis.-Stevens Point WIAC Women's Soccer Championship,L 1-3,71,10/31/2023,Wis.-Stevens Point,home,L,1,3,False

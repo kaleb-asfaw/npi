@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ King's (PA),Canceled,,09/01/2021,King's (PA),away,,,,
+09/08/2021,Keuka,W 1-0,0,09/08/2021,Keuka,home,W,1,0,False
+09/10/2021,Keystone,W 9-0,0,09/10/2021,Keystone,home,W,9,0,False
+09/15/2021,@ Lycoming,L 0-2,110,09/15/2021,Lycoming,away,L,0,2,False
+09/18/2021,Lancaster Bible,L 0-3,192,09/18/2021,Lancaster Bible,home,L,0,3,False
+09/19/2021,@ Penn St. Harrisburg,L 0-5,50,09/19/2021,Penn St. Harrisburg,away,L,0,5,False
+09/22/2021,@ Alfred St.,W 1-0,73,09/22/2021,Alfred St.,away,W,1,0,False
+09/25/2021,Wells,W 6-0,165,09/25/2021,Wells,home,W,6,0,False
+09/26/2021,Wilkes,L 0-6,0,09/26/2021,Wilkes,home,L,0,6,False
+09/28/2021,Juniata,L 1-2 (2 OT),0,09/28/2021,Juniata,home,L,1,2,True
+10/02/2021,@ Penn St.-Abington,L 0-2,176,10/02/2021,Penn St.-Abington,away,L,0,2,False
+10/06/2021,Penn St.-Altoona,L 3-4 (1 OT),0,10/06/2021,Penn St.-Altoona,home,L,3,4,True
+10/10/2021,@ SUNY Morrisville,W 3-0,48,10/10/2021,SUNY Morrisville,away,W,3,0,False
+10/12/2021,@ Marywood,L 0-1 (1 OT),127,10/12/2021,Marywood,away,L,0,1,True
+10/16/2021,Penn St.-Berks,L 0-2,0,10/16/2021,Penn St.-Berks,home,L,0,2,False
+10/23/2021,St. Mary's (MD),L 0-1,230,10/23/2021,St. Mary's (MD),home,L,0,1,False
+10/26/2021,@ Susquehanna,L 1-9,38,10/26/2021,Susquehanna,away,L,1,9,False
+10/30/2021,@ Gallaudet,W 7-0,105,10/30/2021,Gallaudet,away,W,7,0,False

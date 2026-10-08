@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Northland,T 0-0 (2 OT),0,09/01/2021,Northland,home,T,0,0,True
+09/04/2021,Mount Mary,W 9-0,101,09/04/2021,Mount Mary,home,W,9,0,False
+09/09/2021,@ Lawrence,L 0-3,112,09/09/2021,Lawrence,away,L,0,3,False
+09/11/2021,@ North Central (MN),W 3-2,67,09/11/2021,North Central (MN),away,W,3,2,False
+09/12/2021,@ St. Olaf,L 0-4,200,09/12/2021,St. Olaf,away,L,0,4,False
+09/18/2021,@ Ripon,W 2-1,51,09/18/2021,Ripon,away,W,2,1,False
+09/19/2021,@ Carroll (WI),L 0-2,67,09/19/2021,Carroll (WI),away,L,0,2,False
+09/25/2021,@ UW-River Falls,L 0-8,155,09/25/2021,UW-River Falls,away,L,0,8,False
+09/26/2021,@ Macalester,L 0-3,117,09/26/2021,Macalester,away,L,0,3,False
+10/03/2021,@ Wis. Lutheran,L 0-2,58,10/03/2021,Wis. Lutheran,away,L,0,2,False
+10/05/2021,@ UChicago,L 0-9,36,10/05/2021,UChicago,away,L,0,9,False
+10/09/2021,@ Buena Vista,W 1-0,60,10/09/2021,Buena Vista,away,W,1,0,False
+10/14/2021,@ Maranatha Baptist,W 1-0,25,10/14/2021,Maranatha Baptist,away,W,1,0,False
+10/23/2021,Viterbo,L 0-2,123,10/23/2021,Viterbo,home,L,0,2,False
+10/24/2021,Wis.-Platteville,L 0-2,112,10/24/2021,Wis.-Platteville,home,L,0,2,False
+10/29/2021,@ Mount Mary,W 5-0,0,10/29/2021,Mount Mary,away,W,5,0,False
+10/30/2021,Mills,W 3-1,0,10/30/2021,Mills,home,W,3,1,False
+11/04/2021,@ #4 Salisbury Coast-To-Coast WSOC Championship,L 0-4,100,11/04/2021,Salisbury,away,L,0,4,False

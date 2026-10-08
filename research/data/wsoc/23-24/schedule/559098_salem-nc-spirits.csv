@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Hollins,W 7-0,275,09/01/2023,Hollins,away,W,7,0,False
+09/06/2023,@ St. Andrews,W 3-2,0,09/06/2023,@ St. Andrews,home,W,3,2,False
+09/09/2023,@ Randolph,L 0-2,75,09/09/2023,Randolph,away,L,0,2,False
+09/15/2023,Agnes Scott,T 1-1,121,09/15/2023,Agnes Scott,home,T,1,1,False
+09/19/2023,@ JWU (Charlotte),T 0-0,75,09/19/2023,@ JWU (Charlotte),home,T,0,0,False
+09/23/2023,CarolinaU,L 0-2,111,09/23/2023,CarolinaU,home,L,0,2,False
+09/27/2023,@ Southern Va.,L 0-5,50,09/27/2023,Southern Va.,away,L,0,5,False
+09/30/2023,@ Methodist,L 0-3,80,09/30/2023,Methodist,away,L,0,3,False
+10/03/2023,Brevard,L 0-4,87,10/03/2023,Brevard,home,L,0,4,False
+10/07/2023,@ Meredith,T 1-1,67,10/07/2023,Meredith,away,T,1,1,False
+10/14/2023,William Peace,L 1-7,103,10/14/2023,William Peace,home,L,1,7,False
+10/16/2023,Mary Baldwin,L 0-3,73,10/16/2023,Mary Baldwin,home,L,0,3,False
+10/21/2023,@ Pfeiffer,T 2-2,109,10/21/2023,Pfeiffer,away,T,2,2,False
+10/25/2023,@ N.C. Wesleyan,W 3-1,101,10/25/2023,N.C. Wesleyan,away,W,3,1,False
+10/28/2023,Greensboro,L 1-4,124,10/28/2023,Greensboro,home,L,1,4,False
+10/31/2023,@ #1 Southern Va. USA South Women's Soccer Championship,L 0-3,127,10/31/2023,Southern Va.,away,L,0,3,False

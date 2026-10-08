@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,SUNY Cobleskill,W 1-0,147,09/01/2022,SUNY Cobleskill,home,W,1,0,False
+09/06/2022,Hartwick,T 2-2,55,09/06/2022,Hartwick,home,T,2,2,False
+09/10/2022,@ Hilbert,L 1-4,126,09/10/2022,Hilbert,away,L,1,4,False
+09/11/2022,@ Buffalo St.,L 0-2,150,09/11/2022,Buffalo St.,away,L,0,2,False
+09/17/2022,@ Gallaudet,W 7-0,38,09/17/2022,Gallaudet,away,W,7,0,False
+09/18/2022,@ St. Mary's (MD),L 0-4,92,09/18/2022,St. Mary's (MD),away,L,0,4,False
+09/24/2022,Penn St.-Abington,L 1-2,57,09/24/2022,Penn St.-Abington,home,L,1,2,False
+09/28/2022,@ SUNY Canton,W 1-0,81,09/28/2022,SUNY Canton,away,W,1,0,False
+10/01/2022,Lancaster Bible,L 0-4,201,10/01/2022,Lancaster Bible,home,L,0,4,False
+10/05/2022,@ Wells,W 4-0,50,10/05/2022,Wells,away,W,4,0,False
+10/12/2022,@ SUNY Delhi,L 2-6,125,10/12/2022,SUNY Delhi,away,L,2,6,False
+10/15/2022,@ Penn College,L 0-2,213,10/15/2022,Penn College,away,L,0,2,False
+10/22/2022,Penn St. Harrisburg,L 0-4,78,10/22/2022,Penn St. Harrisburg,home,L,0,4,False
+10/25/2022,SUNY Poly,L 1-4,68,10/25/2022,SUNY Poly,home,L,1,4,False
+10/29/2022,Penn St.-Berks,L 0-5,52,10/29/2022,Penn St.-Berks,home,L,0,5,False

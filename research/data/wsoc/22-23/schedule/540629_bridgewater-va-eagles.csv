@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Southern Va.,L 1-2,164,09/01/2022,Southern Va.,home,L,1,2,False
+09/03/2022,@ Catholic,W 3-0,135,09/03/2022,Catholic,away,W,3,0,False
+09/05/2022,Swarthmore,L 0-3,181,09/05/2022,Swarthmore,home,L,0,3,False
+09/10/2022,"St. Mary's (MD) @Salisbury, MD",W 1-0,200,09/10/2022,St. Mary's (MD),neutral,W,1,0,False
+09/11/2022,@ Salisbury,Canceled,,09/11/2022,Salisbury,away,,,,
+09/14/2022,@ Greensboro,W 2-0,63,09/14/2022,Greensboro,away,W,2,0,False
+09/17/2022,N.C. Wesleyan,W 14-0,306,09/17/2022,N.C. Wesleyan,home,W,14,0,False
+09/24/2022,Ferrum,W 7-0,227,09/24/2022,Ferrum,home,W,7,0,False
+09/28/2022,@ Mary Washington,L 0-1,150,09/28/2022,Mary Washington,away,L,0,1,False
+10/01/2022,@ Guilford,W 3-0,35,10/01/2022,Guilford,away,W,3,0,False
+10/05/2022,@ East. Mennonite,W 1-0,234,10/05/2022,East. Mennonite,away,W,1,0,False
+10/08/2022,Randolph-Macon,W 2-0,215,10/08/2022,Randolph-Macon,home,W,2,0,False
+10/11/2022,Sweet Briar,W 19-0,79,10/11/2022,Sweet Briar,home,W,19,0,False
+10/15/2022,@ Roanoke,W 4-0,71,10/15/2022,Roanoke,away,W,4,0,False
+10/19/2022,@ Wash. & Lee,L 1-2,177,10/19/2022,Wash. & Lee,away,L,1,2,False
+10/22/2022,Lynchburg,W 1-0,315,10/22/2022,Lynchburg,home,W,1,0,False
+10/26/2022,Shenandoah,W 7-1,172,10/26/2022,Shenandoah,home,W,7,1,False
+10/29/2022,@ Randolph,W 7-0,140,10/29/2022,Randolph,away,W,7,0,False
+11/01/2022,#8 Shenandoah ODAC WSOC Tournament,T 1-1 (3 OT),212,11/01/2022,Shenandoah,home,T,1,1,True

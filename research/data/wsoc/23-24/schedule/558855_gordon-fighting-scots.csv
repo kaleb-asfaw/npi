@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Carthage,W 1-0,150,09/01/2023,Carthage,home,W,1,0,False
+09/03/2023,Westfield St.,W 2-0,125,09/03/2023,Westfield St.,home,W,2,0,False
+09/06/2023,Eastern Nazarene,W 9-1,34,09/06/2023,Eastern Nazarene,home,W,9,1,False
+09/08/2023,@ Plymouth St.,W 4-1,96,09/08/2023,Plymouth St.,away,W,4,1,False
+09/13/2023,@ Salve Regina,T 2-2,84,09/13/2023,Salve Regina,away,T,2,2,False
+09/15/2023,@ U New England,L 1-2,142,09/15/2023,U New England,away,L,1,2,False
+09/20/2023,Maine Maritime,L 1-2,67,09/20/2023,Maine Maritime,home,L,1,2,False
+09/23/2023,@ Hartford,L 3-6,310,09/23/2023,Hartford,away,L,3,6,False
+09/27/2023,Salem St.,W 4-0,168,09/27/2023,Salem St.,home,W,4,0,False
+09/30/2023,Wentworth,W 3-0,327,09/30/2023,Wentworth,home,W,3,0,False
+10/03/2023,@ Wesleyan (CT),L 1-3,75,10/03/2023,Wesleyan (CT),away,L,1,3,False
+10/06/2023,@ Curry,T 1-1,326,10/06/2023,Curry,away,T,1,1,False
+10/10/2023,Endicott,T 1-1,159,10/10/2023,Endicott,home,T,1,1,False
+10/14/2023,@ Western New Eng.,W 2-0,150,10/14/2023,Western New Eng.,away,W,2,0,False
+10/18/2023,Roger Williams,T 1-1,142,10/18/2023,Roger Williams,home,T,1,1,False
+10/21/2023,@ Suffolk,W 1-0,73,10/21/2023,Suffolk,away,W,1,0,False
+10/24/2023,Nichols,W 5-1,146,10/24/2023,Nichols,home,W,5,1,False
+10/29/2023,#5 U New England CCC Women's Soccer Championship,W 1-0,259,10/29/2023,U New England,home,W,1,0,False
+11/01/2023,@ #1 Western New Eng. CCC Women's Soccer Championship,L 0-4,265,11/01/2023,Western New Eng.,away,L,0,4,False

@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Stevenson,T 1-1,150,08/30/2024,Stevenson,home,T,1,1,False
+08/31/2024,Keystone,W 12-0,100,08/31/2024,Keystone,home,W,12,0,False
+09/03/2024,@ Immaculata,L 1-2,83,09/03/2024,Immaculata,away,L,1,2,False
+09/07/2024,@ Drew,T 1-1,50,09/07/2024,Drew,away,T,1,1,False
+09/08/2024,"Stockton @Madison, NJ",L 0-3,50,09/08/2024,Stockton,neutral,L,0,3,False
+09/11/2024,Wilkes,L 0-1,215,09/11/2024,Wilkes,home,L,0,1,False
+09/15/2024,Rutgers-Camden,L 0-3,100,09/15/2024,Rutgers-Camden,home,L,0,3,False
+09/18/2024,Rutgers-Newark,T 2-2,50,09/18/2024,Rutgers-Newark,home,T,2,2,False
+09/28/2024,@ Alvernia,T 2-2,127,09/28/2024,Alvernia,away,T,2,2,False
+10/01/2024,Lycoming,L 0-2,75,10/01/2024,Lycoming,home,L,0,2,False
+10/05/2024,@ Arcadia,W 1-0,500,10/05/2024,Arcadia,away,W,1,0,False
+10/09/2024,@ Marywood,L 0-2,104,10/09/2024,Marywood,away,L,0,2,False
+10/12/2024,Delaware Valley,W 2-0,100,10/12/2024,Delaware Valley,home,W,2,0,False
+10/18/2024,@ Misericordia,L 0-6,89,10/18/2024,Misericordia,away,L,0,6,False
+10/22/2024,Lebanon Valley,T 2-2,100,10/22/2024,Lebanon Valley,home,T,2,2,False
+10/26/2024,FDU-Florham,L 0-3,150,10/26/2024,FDU-Florham,home,L,0,3,False
+10/30/2024,@ Stevens,L 0-7,263,10/30/2024,Stevens,away,L,0,7,False
+11/02/2024,@ DeSales,L 0-3,150,11/02/2024,DeSales,away,L,0,3,False

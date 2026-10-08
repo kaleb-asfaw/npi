@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,"Wis.-Whitewater @Duluth, MN",W 1-0,62,09/01/2023,Wis.-Whitewater,neutral,W,1,0,False
+09/03/2023,@ St. Scholastica,W 3-0,48,09/03/2023,St. Scholastica,away,W,3,0,False
+09/09/2023,Ohio Northern,W 1-0,250,09/09/2023,Ohio Northern,home,W,1,0,False
+09/12/2023,@ Southwestern (TX),W 2-1,250,09/12/2023,Southwestern (TX),away,W,2,1,False
+09/22/2023,Texas Lutheran,W 4-0,306,09/22/2023,Texas Lutheran,home,W,4,0,False
+09/23/2023,Wis.-Stevens Point,W 3-1,220,09/23/2023,Wis.-Stevens Point,home,W,3,1,False
+09/25/2023,@ Trinity (TX),W 1-0,101,09/25/2023,Trinity (TX),away,W,1,0,False
+09/28/2023,East Tex. Baptist,W 2-0,304,09/28/2023,East Tex. Baptist,home,W,2,0,False
+09/30/2023,LeTourneau,W 6-0,215,09/30/2023,LeTourneau,home,W,6,0,False
+10/05/2023,@ Howard Payne,W 1-0,205,10/05/2023,Howard Payne,away,W,1,0,False
+10/07/2023,@ Sul Ross St.,W 5-0,80,10/07/2023,Sul Ross St.,away,W,5,0,False
+10/12/2023,Ozarks (AR),W 3-0,160,10/12/2023,Ozarks (AR),home,W,3,0,False
+10/14/2023,UT Dallas,T 1-1,309,10/14/2023,UT Dallas,home,T,1,1,False
+10/19/2023,@ Hardin-Simmons,W 1-0,313,10/19/2023,Hardin-Simmons,away,W,1,0,False
+10/21/2023,@ McMurry,W 2-0,1,10/21/2023,McMurry,away,W,2,0,False
+10/28/2023,Concordia (TX),W 2-1,426,10/28/2023,Concordia (TX),home,W,2,1,False
+11/02/2023,#5 McMurry ASC Women's Soccer Championship,W 2-1,311,11/02/2023,McMurry,home,W,2,1,False
+11/04/2023,"#2 Hardin-Simmons @Abilene, TX (ASC Women's Soccer Championship)",L 0-1,507,11/04/2023,Hardin-Simmons,neutral,L,0,1,False
+11/11/2023,Emory NCAA Division III Women's Soccer Championship,T 2-2 (3 OT),578,11/11/2023,Emory,home,T,2,2,True

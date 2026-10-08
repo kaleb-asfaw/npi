@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Buena Vista,W 4-0,217,09/01/2022,Buena Vista,home,W,4,0,False
+09/03/2022,UW-River Falls,L 2-3,193,09/03/2022,UW-River Falls,home,L,2,3,False
+09/07/2022,@ Gustavus Adolphus,L 0-6,75,09/07/2022,Gustavus Adolphus,away,L,0,6,False
+09/13/2022,@ Waldorf,T 1-1,0,09/13/2022,@ Waldorf,home,T,1,1,False
+09/17/2022,Martin Luther,W 1-0,171,09/17/2022,Martin Luther,home,W,1,0,False
+09/23/2022,Wis.-Superior,L 2-3,60,09/23/2022,Wis.-Superior,home,L,2,3,False
+09/24/2022,Northland,W 2-0,151,09/24/2022,Northland,home,W,2,0,False
+09/29/2022,North Central (MN),W 4-0,127,09/29/2022,North Central (MN),home,W,4,0,False
+10/01/2022,@ Northwestern-St. Paul,L 1-2,207,10/01/2022,Northwestern-St. Paul,away,L,1,2,False
+10/05/2022,Minn.-Morris,W 5-0,197,10/05/2022,Minn.-Morris,home,W,5,0,False
+10/08/2022,Crown (MN),W 4-1,147,10/08/2022,Crown (MN),home,W,4,1,False
+10/11/2022,@ Martin Luther,W 2-0,78,10/11/2022,Martin Luther,away,W,2,0,False
+10/14/2022,@ Northland,W 1-0,45,10/14/2022,Northland,away,W,1,0,False
+10/15/2022,@ Wis.-Superior,L 1-2,45,10/15/2022,Wis.-Superior,away,L,1,2,False
+10/19/2022,@ Crown (MN),W 3-1,114,10/19/2022,Crown (MN),away,W,3,1,False
+10/22/2022,@ Minn.-Morris,W 3-1,87,10/22/2022,Minn.-Morris,away,W,3,1,False
+10/26/2022,Northwestern-St. Paul,L 2-3,111,10/26/2022,Northwestern-St. Paul,home,L,2,3,False
+10/29/2022,@ North Central (MN),W 4-0,50,10/29/2022,North Central (MN),away,W,4,0,False
+11/02/2022,@ #2 Northwestern-St. Paul UMAC WSOC Championship,L 0-1,233,11/02/2022,Northwestern-St. Paul,away,L,0,1,False

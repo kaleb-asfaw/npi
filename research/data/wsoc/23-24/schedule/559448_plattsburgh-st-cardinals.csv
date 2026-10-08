@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,VTSU Castleton,W 6-0,252,09/01/2023,VTSU Castleton,home,W,6,0,False
+09/03/2023,@ RIT,W 3-1,200,09/03/2023,RIT,away,W,3,1,False
+09/06/2023,@ Middlebury,L 0-9,219,09/06/2023,Middlebury,away,L,0,9,False
+09/09/2023,Rensselaer,T 2-2,110,09/09/2023,Rensselaer,home,T,2,2,False
+09/13/2023,@ Skidmore,L 0-1,120,09/13/2023,Skidmore,away,L,0,1,False
+09/20/2023,@ SUNY Potsdam,T 0-0,155,09/20/2023,SUNY Potsdam,away,T,0,0,False
+09/23/2023,SUNY Brockport,T 0-0,304,09/23/2023,SUNY Brockport,home,T,0,0,False
+09/27/2023,SUNY New Paltz,L 0-2,187,09/27/2023,SUNY New Paltz,home,L,0,2,False
+09/30/2023,@ Oswego St.,W 1-0,78,09/30/2023,Oswego St.,away,W,1,0,False
+10/04/2023,St. Lawrence,L 1-3,112,10/04/2023,St. Lawrence,home,L,1,3,False
+10/07/2023,Fredonia,W 1-0,177,10/07/2023,Fredonia,home,W,1,0,False
+10/11/2023,@ Cortland,T 1-1,122,10/11/2023,Cortland,away,T,1,1,False
+10/14/2023,@ Buffalo St.,T 3-3,100,10/14/2023,Buffalo St.,away,T,3,3,False
+10/18/2023,SUNY Oneonta,W 2-0,111,10/18/2023,SUNY Oneonta,home,W,2,0,False
+10/21/2023,@ SUNY Geneseo,W 1-0,447,10/21/2023,SUNY Geneseo,away,W,1,0,False
+10/24/2023,SUNY Canton,W 6-0,133,10/24/2023,SUNY Canton,home,W,6,0,False
+10/28/2023,#6 SUNY Geneseo SUNYAC Women's Soccer Championship,L 0-4,251,10/28/2023,SUNY Geneseo,home,L,0,4,False

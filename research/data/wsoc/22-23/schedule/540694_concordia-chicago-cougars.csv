@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,St. Mary's (IN),T 1-1,68,09/01/2022,St. Mary's (IN),home,T,1,1,False
+09/02/2022,@ Neb. Wesleyan,Canceled,,09/02/2022,Neb. Wesleyan,away,,,,
+09/05/2022,@ Lake Forest,L 0-1,110,09/05/2022,Lake Forest,away,L,0,1,False
+09/07/2022,St. Xavier,T 2-2,72,09/07/2022,St. Xavier,home,T,2,2,False
+09/11/2022,@ North Park,Ppd,,09/11/2022,North Park,away,,,,
+09/14/2022,@ Benedictine (IL),T 0-0,85,09/14/2022,Benedictine (IL),away,T,0,0,False
+09/17/2022,@ Edgewood,L 0-4,156,09/17/2022,Edgewood,away,L,0,4,False
+09/21/2022,Aurora,L 1-2,63,09/21/2022,Aurora,home,L,1,2,False
+09/24/2022,St. Norbert,L 0-1,83,09/24/2022,St. Norbert,home,L,0,1,False
+09/28/2022,Lakeland,W 5-0,169,09/28/2022,Lakeland,home,W,5,0,False
+10/01/2022,@ MSOE,L 0-3,187,10/01/2022,MSOE,away,L,0,3,False
+10/05/2022,@ Rockford,W 2-0,66,10/05/2022,Rockford,away,W,2,0,False
+10/08/2022,Marian (WI),T 1-1,69,10/08/2022,Marian (WI),home,T,1,1,False
+10/12/2022,Alverno,W 7-0,57,10/12/2022,Alverno,home,W,7,0,False
+10/15/2022,@ Wis. Lutheran,T 0-0,72,10/15/2022,Wis. Lutheran,away,T,0,0,False
+10/19/2022,Illinois Tech,L 0-4,69,10/19/2022,Illinois Tech,home,L,0,4,False
+10/22/2022,Concordia Wisconsin,L 0-3,75,10/22/2022,Concordia Wisconsin,home,L,0,3,False
+10/26/2022,@ Dominican (IL),L 0-3,100,10/26/2022,Dominican (IL),away,L,0,3,False

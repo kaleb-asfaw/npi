@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/04/2021,"Bob Jones @Rocky Mount, NC",W 1-0,61,09/04/2021,Bob Jones,neutral,W,1,0,False
+09/05/2021,"Regent @Rocky Mount, NC",Canceled,,09/05/2021,"Regent @Rocky Mount, NC",neutral,,,,
+09/11/2021,@ Guilford,L 0-1 (2 OT),114,09/11/2021,Guilford,away,L,0,1,True
+09/14/2021,Randolph-Macon,L 0-6,73,09/14/2021,Randolph-Macon,home,L,0,6,False
+09/15/2021,Roanoke,Canceled,,09/15/2021,Roanoke,home,,,,
+09/17/2021,Randolph,W 2-1,82,09/17/2021,Randolph,home,W,2,1,False
+09/19/2021,Warren Wilson,Canceled,,09/19/2021,Warren Wilson,home,,,,
+09/25/2021,@ Averett,W 2-1 (2 OT),115,09/25/2021,Averett,away,W,2,1,True
+09/28/2021,N.C. Wesleyan,W 1-0,107,09/28/2021,N.C. Wesleyan,home,W,1,0,False
+10/01/2021,@ Greensboro,T 1-1 (2 OT),75,10/01/2021,Greensboro,away,T,1,1,True
+10/06/2021,@ William Peace,L 0-3,64,10/06/2021,William Peace,away,L,0,3,False
+10/09/2021,Salem (NC),T 0-0 (2 OT),0,10/09/2021,Salem (NC),home,T,0,0,True
+10/12/2021,Pfeiffer,W 1-0,112,10/12/2021,Pfeiffer,home,W,1,0,False
+10/15/2021,@ Mary Baldwin,W 2-1,55,10/15/2021,Mary Baldwin,away,W,2,1,False
+10/20/2021,Methodist,L 1-2 (2 OT),148,10/20/2021,Methodist,home,L,1,2,True
+10/23/2021,Southern Va.,L 0-3,131,10/23/2021,Southern Va.,home,L,0,3,False
+10/30/2021,@ #2 Covenant USA South WSOC Championship,L 0-1,102,10/30/2021,Covenant,away,L,0,1,False

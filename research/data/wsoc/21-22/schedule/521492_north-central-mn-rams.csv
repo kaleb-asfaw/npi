@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Crown (MN),L 1-3,87,09/01/2021,Crown (MN),home,L,1,3,False
+09/03/2021,Viterbo,L 0-6,72,09/03/2021,Viterbo,home,L,0,6,False
+09/08/2021,Buena Vista,W 1-0,55,09/08/2021,Buena Vista,home,W,1,0,False
+09/11/2021,Finlandia,L 2-3,67,09/11/2021,Finlandia,home,L,2,3,False
+09/18/2021,Northwestern-St. Paul,L 1-6,85,09/18/2021,Northwestern-St. Paul,home,L,1,6,False
+09/24/2021,@ Minn.-Morris,L 2-3,52,09/24/2021,Minn.-Morris,away,L,2,3,False
+09/25/2021,@ Crown (MN),L 0-3,200,09/25/2021,Crown (MN),away,L,0,3,False
+09/28/2021,@ Bethany Lutheran,L 0-6,75,09/28/2021,Bethany Lutheran,away,L,0,6,False
+10/02/2021,@ Martin Luther,T 3-3 (2 OT),150,10/02/2021,Martin Luther,away,T,3,3,True
+10/12/2021,@ Northwestern-St. Paul,L 1-7,79,10/12/2021,Northwestern-St. Paul,away,L,1,7,False
+10/15/2021,Crown (MN),W 3-2 (1 OT),23,10/15/2021,Crown (MN),home,W,3,2,True
+10/16/2021,Minn.-Morris,L 0-3,30,10/16/2021,Minn.-Morris,home,L,0,3,False
+10/19/2021,Northland,T 2-2 (2 OT),65,10/19/2021,Northland,home,T,2,2,True
+10/22/2021,@ Wis.-Superior,L 0-5,73,10/22/2021,Wis.-Superior,away,L,0,5,False
+10/23/2021,@ Northland,L 0-1 (2 OT),50,10/23/2021,Northland,away,L,0,1,True
+10/25/2021,Wis.-Superior,L 0-6,30,10/25/2021,Wis.-Superior,home,L,0,6,False
+10/27/2021,Martin Luther,L 2-4,30,10/27/2021,Martin Luther,home,L,2,4,False
+10/30/2021,Bethany Lutheran,L 2-5,57,10/30/2021,Bethany Lutheran,home,L,2,5,False
+11/05/2021,@ Maranatha Baptist,L 0-1,0,11/05/2021,Maranatha Baptist,away,L,0,1,False

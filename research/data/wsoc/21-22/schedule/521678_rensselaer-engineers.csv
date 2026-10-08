@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,UMass Boston,L 1-2 (1 OT),53,09/01/2021,UMass Boston,home,L,1,2,True
+09/04/2021,Plattsburgh St.,T 1-1 (2 OT),72,09/04/2021,Plattsburgh St.,home,T,1,1,True
+09/05/2021,SUNY New Paltz,W 2-0,91,09/05/2021,SUNY New Paltz,home,W,2,0,False
+09/12/2021,Cortland,T 1-1 (2 OT),171,09/12/2021,Cortland,home,T,1,1,True
+09/15/2021,@ Mt. St. Mary (NY),W 4-0,101,09/15/2021,Mt. St. Mary (NY),away,W,4,0,False
+09/18/2021,St. Lawrence,T 1-1,83,09/18/2021,St. Lawrence,home,T,1,1,False
+09/25/2021,Bard,W 6-0,83,09/25/2021,Bard,home,W,6,0,False
+09/28/2021,@ Utica,W 4-0,37,09/28/2021,Utica,away,W,4,0,False
+10/02/2021,Skidmore,L 1-4,0,10/02/2021,Skidmore,home,L,1,4,False
+10/09/2021,@ Union (NY),T 2-2 (2 OT),100,10/09/2021,Union (NY),away,T,2,2,True
+10/15/2021,@ RIT,L 0-3,128,10/15/2021,RIT,away,L,0,3,False
+10/16/2021,@ William Smith,L 0-3,150,10/16/2021,William Smith,away,L,0,3,False
+10/23/2021,Ithaca,L 0-2,22,10/23/2021,Ithaca,home,L,0,2,False
+10/27/2021,@ Vassar,L 0-2,65,10/27/2021,Vassar,away,L,0,2,False
+10/30/2021,Clarkson,W 2-0,50,10/30/2021,Clarkson,home,W,2,0,False

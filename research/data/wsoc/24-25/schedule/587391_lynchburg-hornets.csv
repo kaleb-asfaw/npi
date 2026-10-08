@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,"Stockton @Union, NJ",T 0-0,100,08/30/2024,Stockton,neutral,T,0,0,False
+08/31/2024,@ Kean,W 2-0,101,08/31/2024,Kean,away,W,2,0,False
+09/07/2024,"Hardin-Simmons @Salem, VA",L 2-3,45,09/07/2024,Hardin-Simmons,neutral,L,2,3,False
+09/08/2024,"Johns Hopkins @Salem, VA",L 1-4,57,09/08/2024,Johns Hopkins,neutral,L,1,4,False
+09/14/2024,Marymount (VA),W 3-0,153,09/14/2024,Marymount (VA),home,W,3,0,False
+09/22/2024,"Emory @Charlotte, NC",L 1-2,35,09/22/2024,Emory,neutral,L,1,2,False
+09/25/2024,@ Mary Washington,W 1-0,231,09/25/2024,Mary Washington,away,W,1,0,False
+09/28/2024,Guilford,W 3-0,115,09/28/2024,Guilford,home,W,3,0,False
+10/02/2024,Wash. & Lee,L 2-3,352,10/02/2024,Wash. & Lee,home,L,2,3,False
+10/05/2024,Roanoke,T 1-1,182,10/05/2024,Roanoke,home,T,1,1,False
+10/08/2024,@ Batten,W 2-0,432,10/08/2024,Batten,away,W,2,0,False
+10/12/2024,@ Randolph,W 4-0,120,10/12/2024,Randolph,away,W,4,0,False
+10/16/2024,Averett,W 5-0,57,10/16/2024,Averett,home,W,5,0,False
+10/19/2024,Randolph-Macon,W 4-1,245,10/19/2024,Randolph-Macon,home,W,4,1,False
+10/23/2024,@ Bridgewater (VA),T 1-1,268,10/23/2024,Bridgewater (VA),away,T,1,1,False
+10/26/2024,@ Shenandoah,W 1-0,271,10/26/2024,Shenandoah,away,W,1,0,False
+10/30/2024,Hollins,W 10-0,52,10/30/2024,Hollins,home,W,10,0,False
+11/02/2024,@ Ferrum,W 2-1,200,11/02/2024,Ferrum,away,W,2,1,False
+11/05/2024,#7 Bridgewater (VA) ODAC Women's Soccer Championship,W 1-0,305,11/05/2024,Bridgewater (VA),home,W,1,0,False
+11/08/2024,#3 Batten ODAC Women's Soccer Championship,L 2-3,291,11/08/2024,Batten,home,L,2,3,False

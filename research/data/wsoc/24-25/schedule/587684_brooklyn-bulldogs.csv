@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ SUNY Maritime,L 0-1,123,08/30/2024,SUNY Maritime,away,L,0,1,False
+09/03/2024,@ Saint Elizabeth,T 1-1,150,09/03/2024,Saint Elizabeth,away,T,1,1,False
+09/06/2024,@ Purchase,L 0-2,100,09/06/2024,Purchase,away,L,0,2,False
+09/11/2024,Keystone,L 2-3,53,09/11/2024,Keystone,home,L,2,3,False
+09/17/2024,@ Bard,L 0-6,260,09/17/2024,Bard,away,L,0,6,False
+09/19/2024,Yeshiva,W 11-0,67,09/19/2024,Yeshiva,home,W,11,0,False
+09/21/2024,Valley Forge,W 4-0,50,09/21/2024,Valley Forge,home,W,4,0,False
+09/25/2024,@ Kean,L 0-8,100,09/25/2024,Kean,away,L,0,8,False
+09/30/2024,Old Westbury,T 2-2,63,09/30/2024,Old Westbury,home,T,2,2,False
+10/03/2024,@ Elms,L 0-6,72,10/03/2024,Elms,away,L,0,6,False
+10/05/2024,@ SUNY Cobleskill,Canceled,,10/05/2024,SUNY Cobleskill,away,,,,
+10/08/2024,@ York (NY),W 9-0,43,10/08/2024,York (NY),away,W,9,0,False
+10/12/2024,@ Lehman,L 0-1,79,10/12/2024,Lehman,away,L,0,1,False
+10/16/2024,CCNY,T 1-1,75,10/16/2024,CCNY,home,T,1,1,False
+10/19/2024,@ Medgar Evers,W 12-0,50,10/19/2024,Medgar Evers,away,W,12,0,False
+10/23/2024,John Jay,L 0-5,75,10/23/2024,John Jay,home,L,0,5,False
+10/26/2024,York (NY),W 4-0,75,10/26/2024,York (NY),home,W,4,0,False
+10/29/2024,Medgar Evers,W 12-0,50,10/29/2024,Medgar Evers,home,W,12,0,False
+11/02/2024,@ John Jay CUNYAC Women's Soccer Championship,L 0-6,75,11/02/2024,John Jay,away,L,0,6,False

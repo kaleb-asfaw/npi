@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,WestConn,W 3-2,345,09/01/2023,WestConn,home,W,3,2,False
+09/06/2023,Springfield,T 0-0,235,09/06/2023,Springfield,home,T,0,0,False
+09/09/2023,Fitchburg St.,W 4-0,200,09/09/2023,Fitchburg St.,home,W,4,0,False
+09/13/2023,@ Mount Holyoke,T 2-2,70,09/13/2023,Mount Holyoke,away,T,2,2,False
+09/16/2023,Curry,W 2-1,140,09/16/2023,Curry,home,W,2,1,False
+09/19/2023,@ Smith,L 1-2,100,09/19/2023,Smith,away,L,1,2,False
+09/23/2023,@ Wentworth,W 1-0,265,09/23/2023,Wentworth,away,W,1,0,False
+09/27/2023,Union (NY),L 0-1,215,09/27/2023,Union (NY),home,L,0,1,False
+10/01/2023,U New England,W 1-0,215,10/01/2023,U New England,home,W,1,0,False
+10/04/2023,@ Westfield St.,W 3-1,285,10/04/2023,Westfield St.,away,W,3,1,False
+10/06/2023,@ Roger Williams,W 2-0,133,10/06/2023,Roger Williams,away,W,2,0,False
+10/11/2023,Suffolk,W 1-0,215,10/11/2023,Suffolk,home,W,1,0,False
+10/14/2023,Gordon,L 0-2,150,10/14/2023,Gordon,home,L,0,2,False
+10/19/2023,@ Nichols,W 1-0,45,10/19/2023,Nichols,away,W,1,0,False
+10/22/2023,Endicott,T 0-0,200,10/22/2023,Endicott,home,T,0,0,False
+10/24/2023,@ Hartford,L 0-3,256,10/24/2023,Hartford,away,L,0,3,False
+11/01/2023,#4 Gordon CCC Women's Soccer Championship,W 4-0,265,11/01/2023,Gordon,home,W,4,0,False
+11/04/2023,#3 Endicott CCC Women's Soccer Championship,L 0-1,350,11/04/2023,Endicott,home,L,0,1,False

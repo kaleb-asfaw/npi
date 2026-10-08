@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Finlandia,W 3-0,97,09/01/2022,Finlandia,away,W,3,0,False
+09/03/2022,@ Bethany Lutheran,W 3-2,193,09/03/2022,Bethany Lutheran,away,W,3,2,False
+09/05/2022,Buena Vista,W 2-0,465,09/05/2022,Buena Vista,home,W,2,0,False
+09/08/2022,Macalester,T 0-0,120,09/08/2022,Macalester,home,T,0,0,False
+09/10/2022,@ Northland,W 3-0,220,09/10/2022,Northland,away,W,3,0,False
+09/13/2022,@ Minn.-Morris,W 5-4,45,09/13/2022,Minn.-Morris,away,W,5,4,False
+09/15/2022,@ Crown (MN),W 9-0,70,09/15/2022,Crown (MN),away,W,9,0,False
+09/17/2022,Wis.-Superior,W 3-0,210,09/17/2022,Wis.-Superior,home,W,3,0,False
+09/21/2022,Hamline,T 0-0,146,09/21/2022,Hamline,home,T,0,0,False
+09/25/2022,Cornell College,W 2-0,155,09/25/2022,Cornell College,home,W,2,0,False
+09/27/2022,@ Martin Luther,W 5-0,79,09/27/2022,Martin Luther,away,W,5,0,False
+10/01/2022,Wis.-Whitewater,L 0-1,145,10/01/2022,Wis.-Whitewater,home,L,0,1,False
+10/05/2022,@ Wis.-La Crosse,L 0-6,124,10/05/2022,Wis.-La Crosse,away,L,0,6,False
+10/08/2022,@ Wis.-Platteville,L 1-3,126,10/08/2022,Wis.-Platteville,away,L,1,3,False
+10/12/2022,@ St. Scholastica,T 1-1,46,10/12/2022,St. Scholastica,away,T,1,1,False
+10/15/2022,Wis.-Stevens Point,T 1-1,215,10/15/2022,Wis.-Stevens Point,home,T,1,1,False
+10/19/2022,Wis.-Stout,L 2-4,225,10/19/2022,Wis.-Stout,home,L,2,4,False
+10/22/2022,@ Wis.-Eau Claire,L 0-4,134,10/22/2022,Wis.-Eau Claire,away,L,0,4,False
+10/25/2022,@ Simpson,L 0-4,165,10/25/2022,Simpson,away,L,0,4,False
+10/29/2022,Wis.-Oshkosh,L 1-2,98,10/29/2022,Wis.-Oshkosh,home,L,1,2,False

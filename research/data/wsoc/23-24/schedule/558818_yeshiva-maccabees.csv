@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ St. Joseph's (Brkln),L 0-4,56,09/01/2023,St. Joseph's (Brkln),away,L,0,4,False
+09/03/2023,Old Westbury,L 1-6,11,09/03/2023,Old Westbury,home,L,1,6,False
+09/05/2023,Farmingdale St.,L 0-12,0,09/05/2023,Farmingdale St.,home,L,0,12,False
+09/07/2023,@ Purchase,L 0-8,8,09/07/2023,Purchase,away,L,0,8,False
+09/12/2023,@ SUNY Maritime,L 0-5,68,09/12/2023,SUNY Maritime,away,L,0,5,False
+10/12/2023,@ Mt. St. Mary (NY),L 0-10,48,10/12/2023,Mt. St. Mary (NY),away,L,0,10,False
+10/15/2023,@ Manhattanville,L 0-16,70,10/15/2023,Manhattanville,away,L,0,16,False
+10/16/2023,@ St. Joseph's (L.I.),L 0-10,163,10/16/2023,St. Joseph's (L.I.),away,L,0,10,False
+10/18/2023,@ UMSV,L 0-6,106,10/18/2023,UMSV,away,L,0,6,False
+10/22/2023,Merchant Marine,L 0-9,20,10/22/2023,Merchant Marine,home,L,0,9,False
+10/24/2023,Sarah Lawrence,L 0-7,5,10/24/2023,Sarah Lawrence,home,L,0,7,False
+10/26/2023,@ Lehman,L 1-9,50,10/26/2023,Lehman,away,L,1,9,False
+10/29/2023,Pratt,Canceled,,10/29/2023,Pratt,home,,,,
+11/02/2023,@ York (NY),W 3-2,12,11/02/2023,York (NY),away,W,3,2,False
+11/05/2023,Medgar Evers,W 5-1,12,11/05/2023,Medgar Evers,home,W,5,1,False

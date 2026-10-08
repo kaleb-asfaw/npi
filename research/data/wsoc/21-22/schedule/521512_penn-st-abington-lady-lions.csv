@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Rosemont,Canceled,,09/01/2021,Rosemont,away,,,,
+09/03/2021,@ Bryn Athyn,T 3-3 (2 OT),75,09/03/2021,Bryn Athyn,away,T,3,3,True
+09/09/2021,Cairn,W 1-0,54,09/09/2021,Cairn,home,W,1,0,False
+09/11/2021,SUNY Geneseo,L 0-8,124,09/11/2021,SUNY Geneseo,home,L,0,8,False
+09/15/2021,@ Wilson,W 2-0,65,09/15/2021,Wilson,away,W,2,0,False
+09/18/2021,Penn St. Harrisburg,L 0-3,109,09/18/2021,Penn St. Harrisburg,home,L,0,3,False
+09/22/2021,@ Delaware Valley,L 0-4,55,09/22/2021,Delaware Valley,away,L,0,4,False
+09/25/2021,@ Gallaudet,W 2-0,53,09/25/2021,Gallaudet,away,W,2,0,False
+09/29/2021,Keystone,W 7-1,78,09/29/2021,Keystone,home,W,7,1,False
+10/02/2021,Penn College,W 2-0,176,10/02/2021,Penn College,home,W,2,0,False
+10/06/2021,Clarks Summit,W 7-0,75,10/06/2021,Clarks Summit,home,W,7,0,False
+10/09/2021,@ Lancaster Bible,L 0-2,234,10/09/2021,Lancaster Bible,away,L,0,2,False
+10/16/2021,St. Mary's (MD),L 1-2,45,10/16/2021,St. Mary's (MD),home,L,1,2,False
+10/20/2021,@ Penn St.-Berks,L 0-6,122,10/20/2021,Penn St.-Berks,away,L,0,6,False
+10/23/2021,@ Wells,W 8-1,0,10/23/2021,Wells,away,W,8,1,False
+10/26/2021,Immaculata,L 1-2,34,10/26/2021,Immaculata,home,L,1,2,False
+10/30/2021,SUNY Morrisville,T 0-0 (2 OT),89,10/30/2021,SUNY Morrisville,home,T,0,0,True

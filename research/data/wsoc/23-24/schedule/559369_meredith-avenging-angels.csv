@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2023,"Bob Jones @Rocky Mount, NC",T 0-0,50,09/02/2023,"Bob Jones @Rocky Mount, NC",neutral,T,0,0,False
+09/03/2023,"LaGrange @Rocky Mount, NC",T 2-2,57,09/03/2023,LaGrange,neutral,T,2,2,False
+09/08/2023,"Maryville (TN) @Demorest, GA",L 1-7,115,09/08/2023,Maryville (TN),neutral,L,1,7,False
+09/10/2023,@ Oglethorpe,T 0-0,89,09/10/2023,Oglethorpe,away,T,0,0,False
+09/13/2023,@ Ferrum,L 0-1,90,09/13/2023,Ferrum,away,L,0,1,False
+09/16/2023,Randolph,W 1-0,120,09/16/2023,Randolph,home,W,1,0,False
+09/27/2023,Pfeiffer,W 4-2,42,09/27/2023,Pfeiffer,home,W,4,2,False
+09/30/2023,@ Brevard,T 0-0,123,09/30/2023,Brevard,away,T,0,0,False
+10/03/2023,N.C. Wesleyan,W 2-0,67,10/03/2023,N.C. Wesleyan,home,W,2,0,False
+10/07/2023,Salem (NC),T 1-1,67,10/07/2023,Salem (NC),home,T,1,1,False
+10/11/2023,@ William Peace,L 0-1,75,10/11/2023,William Peace,away,L,0,1,False
+10/13/2023,@ Mary Baldwin,W 2-1,50,10/13/2023,Mary Baldwin,away,W,2,1,False
+10/17/2023,Methodist,T 1-1,83,10/17/2023,Methodist,home,T,1,1,False
+10/20/2023,@ Greensboro,L 0-2,146,10/20/2023,Greensboro,away,L,0,2,False
+10/28/2023,Southern Va.,L 0-4,65,10/28/2023,Southern Va.,home,L,0,4,False
+10/31/2023,@ #3 Brevard USA South Women's Soccer Championship,T 0-0 (3 OT),204,10/31/2023,Brevard,away,T,0,0,True

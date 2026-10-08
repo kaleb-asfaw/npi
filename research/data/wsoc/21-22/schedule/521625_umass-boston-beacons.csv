@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Rensselaer,W 2-1 (1 OT),53,09/01/2021,Rensselaer,away,W,2,1,True
+09/03/2021,Coast Guard,W 2-1,110,09/03/2021,Coast Guard,home,W,2,1,False
+09/11/2021,Endicott,T 1-1 (2 OT),122,09/11/2021,Endicott,home,T,1,1,True
+09/13/2021,Salem St.,W 6-2,78,09/13/2021,Salem St.,home,W,6,2,False
+09/15/2021,@ Simmons,W 4-0,76,09/15/2021,Simmons,away,W,4,0,False
+09/18/2021,@ Eastern Conn. St.,W 2-1,100,09/18/2021,Eastern Conn. St.,away,W,2,1,False
+09/20/2021,@ Wheaton (MA),L 0-2,74,09/20/2021,Wheaton (MA),away,L,0,2,False
+09/22/2021,@ Brandeis,L 0-1,75,09/22/2021,Brandeis,away,L,0,1,False
+09/25/2021,Plymouth St.,T 1-1 (2 OT),136,09/25/2021,Plymouth St.,home,T,1,1,True
+09/29/2021,Southern Me.,W 4-0,88,09/29/2021,Southern Me.,home,W,4,0,False
+10/02/2021,@ Babson,L 0-4,265,10/02/2021,Babson,away,L,0,4,False
+10/06/2021,@ Salve Regina,W 6-2,213,10/06/2021,Salve Regina,away,W,6,2,False
+10/09/2021,@ Rhode Island Col.,W 5-1,155,10/09/2021,Rhode Island Col.,away,W,5,1,False
+10/13/2021,@ UMass Dartmouth,W 1-0,64,10/13/2021,UMass Dartmouth,away,W,1,0,False
+10/16/2021,Keene St.,W 5-0,167,10/16/2021,Keene St.,home,W,5,0,False
+10/19/2021,@ Tufts,L 0-3,0,10/19/2021,Tufts,away,L,0,3,False
+10/23/2021,@ WestConn,L 0-3,355,10/23/2021,WestConn,away,L,0,3,False
+10/26/2021,@ Bridgewater St.,W 1-0,75,10/26/2021,Bridgewater St.,away,W,1,0,False
+10/30/2021,VTSU Castleton,W 2-0,176,10/30/2021,VTSU Castleton,home,W,2,0,False
+11/04/2021,#3 VTSU Castleton Little East WSOC Championship,W 4-1,215,11/04/2021,VTSU Castleton,home,W,4,1,False
+11/06/2021,@ #1 WestConn Little East WSOC Championship,L 0-2,444,11/06/2021,WestConn,away,L,0,2,False

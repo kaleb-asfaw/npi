@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Dubuque,T 0-0,50,09/01/2022,Dubuque,home,T,0,0,False
+09/03/2022,Coe,W 1-0,76,09/03/2022,Coe,home,W,1,0,False
+09/10/2022,Carleton,L 0-4,30,09/10/2022,Carleton,home,L,0,4,False
+09/17/2022,Neb. Wesleyan,T 1-1,72,09/17/2022,Neb. Wesleyan,home,T,1,1,False
+09/18/2022,@ Buena Vista,W 2-0,45,09/18/2022,Buena Vista,away,W,2,0,False
+09/24/2022,@ Illinois Col.,W 4-2,68,09/24/2022,Illinois Col.,away,W,4,2,False
+09/28/2022,Knox,T 0-0,53,09/28/2022,Knox,home,T,0,0,False
+10/02/2022,Luther,T 2-2,20,10/02/2022,Luther,home,T,2,2,False
+10/05/2022,Cornell College,W 2-0,60,10/05/2022,Cornell College,home,W,2,0,False
+10/08/2022,Beloit,W 1-0,65,10/08/2022,Beloit,home,W,1,0,False
+10/12/2022,@ Monmouth (IL),W 3-1,250,10/12/2022,Monmouth (IL),away,W,3,1,False
+10/15/2022,@ Lawrence,W 2-1,468,10/15/2022,Lawrence,away,W,2,1,False
+10/19/2022,Saint Mary's (MN),L 0-2,39,10/19/2022,Saint Mary's (MN),home,L,0,2,False
+10/22/2022,@ Ripon,W 2-0,50,10/22/2022,Ripon,away,W,2,0,False
+10/23/2022,@ Marian (WI),W 2-0,267,10/23/2022,Marian (WI),away,W,2,0,False
+10/29/2022,Lake Forest,W 1-0,102,10/29/2022,Lake Forest,home,W,1,0,False
+11/05/2022,#4 Cornell College MWC WSOC Championship,W 2-1,70,11/05/2022,Cornell College,home,W,2,1,False
+11/06/2022,@ #3 Beloit MWC WSOC Championship,T 0-0 (3 OT),215,11/06/2022,Beloit,away,T,0,0,True
+11/12/2022,@ Wartburg NCAA Division III Women's Soccer Championship,L 2-5,250,11/12/2022,Wartburg,away,L,2,5,False

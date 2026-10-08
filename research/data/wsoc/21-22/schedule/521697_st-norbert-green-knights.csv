@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Loras,L 0-2,112,09/01/2021,Loras,home,L,0,2,False
+09/04/2021,Wis.-La Crosse,L 1-4,175,09/04/2021,Wis.-La Crosse,home,L,1,4,False
+09/12/2021,@ Lawrence,W 2-1,212,09/12/2021,Lawrence,away,W,2,1,False
+09/15/2021,@ Lakeland,W 6-0,117,09/15/2021,Lakeland,away,W,6,0,False
+09/18/2021,@ Aurora,W 5-2,172,09/18/2021,Aurora,away,W,5,2,False
+09/19/2021,@ Wis.-Eau Claire,L 0-2,80,09/19/2021,Wis.-Eau Claire,away,L,0,2,False
+09/22/2021,Marian (WI),W 4-1,120,09/22/2021,Marian (WI),home,W,4,1,False
+09/25/2021,Concordia Chicago,T 2-2 (2 OT),108,09/25/2021,Concordia Chicago,home,T,2,2,True
+09/26/2021,Wis.-Stevens Point,L 0-1,150,09/26/2021,Wis.-Stevens Point,home,L,0,1,False
+09/29/2021,Concordia Wisconsin,L 1-4,110,09/29/2021,Concordia Wisconsin,home,L,1,4,False
+10/02/2021,@ Dominican (IL),L 0-3,108,10/02/2021,Dominican (IL),away,L,0,3,False
+10/06/2021,@ Edgewood,W 4-2,117,10/06/2021,Edgewood,away,W,4,2,False
+10/09/2021,Illinois Tech,L 0-4,100,10/09/2021,Illinois Tech,home,L,0,4,False
+10/13/2021,Wis. Lutheran,W 2-1,100,10/13/2021,Wis. Lutheran,home,W,2,1,False
+10/16/2021,@ Rockford,W 8-0,45,10/16/2021,Rockford,away,W,8,0,False
+10/19/2021,St. Olaf,W 2-0,50,10/19/2021,St. Olaf,home,W,2,0,False
+10/24/2021,Benedictine (IL),W 2-0,100,10/24/2021,Benedictine (IL),home,W,2,0,False
+10/25/2021,@ Wis.-Oshkosh,Canceled,,10/25/2021,Wis.-Oshkosh,away,,,,
+10/26/2021,@ MSOE,L 0-3,128,10/26/2021,MSOE,away,L,0,3,False
+10/28/2021,@ Alverno,W 6-0,46,10/28/2021,Alverno,away,W,6,0,False
+10/31/2021,@ #4 Illinois Tech NACC WSOC Tournament,L 0-1,70,10/31/2021,Illinois Tech,away,L,0,1,False

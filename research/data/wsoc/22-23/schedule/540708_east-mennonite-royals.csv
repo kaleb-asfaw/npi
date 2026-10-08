@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Randolph,T 1-1,138,09/01/2022,Randolph,home,T,1,1,False
+09/03/2022,Methodist,L 0-2,340,09/03/2022,Methodist,home,L,0,2,False
+09/07/2022,St. Mary's (MD),L 0-1,0,09/07/2022,St. Mary's (MD),home,L,0,1,False
+09/10/2022,Ferrum,L 2-4,122,09/10/2022,Ferrum,home,L,2,4,False
+09/14/2022,Mary Washington,L 0-7,137,09/14/2022,Mary Washington,home,L,0,7,False
+09/17/2022,Mary Baldwin,L 2-3,120,09/17/2022,Mary Baldwin,home,L,2,3,False
+09/19/2022,@ Southern Va.,L 0-4,100,09/19/2022,Southern Va.,away,L,0,4,False
+09/24/2022,@ Roanoke,L 0-4,254,09/24/2022,Roanoke,away,L,0,4,False
+09/28/2022,Bob Jones,T 0-0,105,09/28/2022,Bob Jones,home,T,0,0,False
+10/01/2022,@ Batten,L 0-3,178,10/01/2022,Batten,away,L,0,3,False
+10/05/2022,Bridgewater (VA),L 0-1,234,10/05/2022,Bridgewater (VA),home,L,0,1,False
+10/08/2022,Wash. & Lee,L 0-3,235,10/08/2022,Wash. & Lee,home,L,0,3,False
+10/12/2022,@ Lynchburg,L 0-8,88,10/12/2022,Lynchburg,away,L,0,8,False
+10/15/2022,Averett,T 0-0,101,10/15/2022,Averett,home,T,0,0,False
+10/19/2022,@ Shenandoah,L 0-3,239,10/19/2022,Shenandoah,away,L,0,3,False
+10/22/2022,Guilford,L 0-1,102,10/22/2022,Guilford,home,L,0,1,False
+10/25/2022,Sweet Briar,W 10-1,127,10/25/2022,Sweet Briar,home,W,10,1,False
+10/29/2022,@ Hollins,W 10-0,114,10/29/2022,Hollins,away,W,10,0,False

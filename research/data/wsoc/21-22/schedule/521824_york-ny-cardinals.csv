@@ -1,0 +1,9 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/11/2021,@ St. Joseph's (Brkln),Ppd,,09/11/2021,St. Joseph's (Brkln),away,,,,
+09/26/2021,@ Pratt,L 0-9,50,09/26/2021,Pratt,away,L,0,9,False
+10/02/2021,Trinity Washington,L 0-3,0,10/02/2021,Trinity Washington,home,L,0,3,False
+10/06/2021,John Jay,L 0-6,0,10/06/2021,John Jay,home,L,0,6,False
+10/13/2021,@ Lehman,L 1-6,0,10/13/2021,Lehman,away,L,1,6,False
+10/16/2021,@ CCNY,L 0-8,50,10/16/2021,CCNY,away,L,0,8,False
+10/19/2021,Brooklyn,L 0-4,0,10/19/2021,Brooklyn,home,L,0,4,False
+11/02/2021,Yeshiva,W 3-1,0,11/02/2021,Yeshiva,home,W,3,1,False

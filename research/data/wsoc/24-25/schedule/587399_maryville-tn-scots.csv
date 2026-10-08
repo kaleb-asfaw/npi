@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Bridgewater (VA),T 2-2,300,08/30/2024,Bridgewater (VA),home,T,2,2,False
+08/31/2024,Westfield St.,T 2-2,153,08/31/2024,Westfield St.,home,T,2,2,False
+09/06/2024,"Centre @Lookout Mountain, GA",L 1-2,75,09/06/2024,Centre,neutral,L,1,2,False
+09/07/2024,"Bob Jones @Lookout Mountain, GA",W 4-1,79,09/07/2024,"Bob Jones @Lookout Mountain, GA",neutral,W,4,1,False
+09/11/2024,Sewanee,T 1-1,334,09/11/2024,Sewanee,home,T,1,1,False
+09/15/2024,Roanoke,W 2-1,297,09/15/2024,Roanoke,home,W,2,1,False
+09/20/2024,Transylvania,W 3-1,271,09/20/2024,Transylvania,home,W,3,1,False
+09/23/2024,@ Berry,T 1-1,127,09/23/2024,Berry,away,T,1,1,False
+09/29/2024,Belhaven,W 4-1,269,09/29/2024,Belhaven,home,W,4,1,False
+10/02/2024,Covenant,W 3-1,312,10/02/2024,Covenant,home,W,3,1,False
+10/05/2024,Wesleyan (GA),W 9-0,412,10/05/2024,Wesleyan (GA),home,W,9,0,False
+10/10/2024,@ Agnes Scott,W 8-0,45,10/10/2024,Agnes Scott,away,W,8,0,False
+10/12/2024,@ LaGrange,W 5-0,82,10/12/2024,LaGrange,away,W,5,0,False
+10/14/2024,Emory,L 0-4,232,10/14/2024,Emory,home,L,0,4,False
+10/19/2024,@ Huntingdon,W 6-2,60,10/19/2024,Huntingdon,away,W,6,2,False
+10/23/2024,Asbury,W 1-0,315,10/23/2024,Asbury,home,W,1,0,False
+10/25/2024,@ Piedmont,W 3-0,231,10/25/2024,Piedmont,away,W,3,0,False
+11/06/2024,#5 Asbury CCS Women's Soccer Championship,W 4-2,368,11/06/2024,Asbury,home,W,4,2,False
+11/09/2024,#3 Belhaven CCS Women's Soccer Championship,W 1-0,448,11/09/2024,Belhaven,home,W,1,0,False
+11/16/2024,"Pacific Lutheran @Atlanta, GA (NCAA Division III Women's Soccer Championship)",L 0-1,165,11/16/2024,Pacific Lutheran,neutral,L,0,1,False

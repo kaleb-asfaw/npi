@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Delaware Valley,W 2-0,131,09/01/2023,Delaware Valley,home,W,2,0,False
+09/03/2023,Stevenson,W 2-0,214,09/03/2023,Stevenson,home,W,2,0,False
+09/06/2023,@ Arcadia,W 3-2,131,09/06/2023,Arcadia,away,W,3,2,False
+09/09/2023,Messiah,L 0-2,266,09/09/2023,Messiah,home,L,0,2,False
+09/13/2023,@ Lebanon Valley,L 0-1,148,09/13/2023,Lebanon Valley,away,L,0,1,False
+09/16/2023,@ McDaniel,T 0-0,450,09/16/2023,McDaniel,away,T,0,0,False
+09/20/2023,@ Susquehanna,T 1-1,241,09/20/2023,Susquehanna,away,T,1,1,False
+09/23/2023,Johns Hopkins,L 1-4,107,09/23/2023,Johns Hopkins,home,L,1,4,False
+09/26/2023,Eastern,W 5-0,112,09/26/2023,Eastern,home,W,5,0,False
+09/30/2023,@ Washington Col.,T 0-0,102,09/30/2023,Washington Col.,away,T,0,0,False
+10/04/2023,Franklin & Marshall,L 0-5,97,10/04/2023,Franklin & Marshall,home,L,0,5,False
+10/07/2023,Swarthmore,L 1-4,98,10/07/2023,Swarthmore,home,L,1,4,False
+10/11/2023,@ Haverford,L 0-3,55,10/11/2023,Haverford,away,L,0,3,False
+10/14/2023,Bryn Mawr,W 1-0,87,10/14/2023,Bryn Mawr,home,W,1,0,False
+10/21/2023,Dickinson,L 0-2,204,10/21/2023,Dickinson,home,L,0,2,False
+10/25/2023,@ Muhlenberg,L 1-2,111,10/25/2023,Muhlenberg,away,L,1,2,False
+10/28/2023,@ Gettysburg,L 1-3,204,10/28/2023,Gettysburg,away,L,1,3,False

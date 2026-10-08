@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Webster,W 2-0,100,09/01/2021,Webster,home,W,2,0,False
+09/06/2021,@ Greenville,W 3-0,100,09/06/2021,Greenville,away,W,3,0,False
+09/11/2021,Illinois Col.,W 10-0,75,09/11/2021,Illinois Col.,home,W,10,0,False
+09/15/2021,@ Knox,T 1-1 (2 OT),100,09/15/2021,Knox,away,T,1,1,True
+09/18/2021,Millikin,W 5-0,150,09/18/2021,Millikin,home,W,5,0,False
+09/22/2021,DePauw,Canceled,,09/22/2021,DePauw,home,,,,
+09/26/2021,WashU,L 0-1,150,09/26/2021,WashU,home,L,0,1,False
+09/29/2021,@ Mt. St. Joseph,L 0-1,219,09/29/2021,Mt. St. Joseph,away,L,0,1,False
+10/02/2021,@ Earlham,W 1-0,50,10/02/2021,Earlham,away,W,1,0,False
+10/06/2021,@ Franklin,W 4-0,117,10/06/2021,Franklin,away,W,4,0,False
+10/09/2021,Defiance,W 5-0,100,10/09/2021,Defiance,home,W,5,0,False
+10/13/2021,Manchester,W 5-0,50,10/13/2021,Manchester,home,W,5,0,False
+10/16/2021,@ Transylvania,W 1-0,150,10/16/2021,Transylvania,away,W,1,0,False
+10/20/2021,Hanover,T 1-1 (2 OT),75,10/20/2021,Hanover,home,T,1,1,True
+10/23/2021,Bluffton,W 4-0,150,10/23/2021,Bluffton,home,W,4,0,False
+10/27/2021,@ Anderson (IN),W 3-2,89,10/27/2021,Anderson (IN),away,W,3,2,False
+10/30/2021,#6 Franklin Heartland WSOC Championship,W 3-1,50,10/30/2021,Franklin,home,W,3,1,False
+11/03/2021,@ #2 Hanover Heartland WSOC Championship,L 1-2,173,11/03/2021,Hanover,away,L,1,2,False

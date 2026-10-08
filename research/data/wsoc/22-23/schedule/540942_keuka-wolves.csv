@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Hilbert,T 2-2,205,09/01/2022,Hilbert,away,T,2,2,False
+09/03/2022,Buffalo St.,W 1-0,80,09/03/2022,Buffalo St.,home,W,1,0,False
+09/07/2022,Penn College,W 1-0,142,09/07/2022,Penn College,home,W,1,0,False
+09/10/2022,@ Lycoming,L 0-4,100,09/10/2022,Lycoming,away,L,0,4,False
+09/14/2022,SUNY Brockport,T 0-0,189,09/14/2022,SUNY Brockport,home,T,0,0,False
+09/17/2022,@ Hartwick,T 0-0,105,09/17/2022,Hartwick,away,T,0,0,False
+09/21/2022,@ Rochester (NY),L 0-5,142,09/21/2022,Rochester (NY),away,L,0,5,False
+09/24/2022,Nazareth,T 1-1,245,09/24/2022,Nazareth,home,T,1,1,False
+09/27/2022,@ Oswego St.,L 0-3,22,09/27/2022,Oswego St.,away,L,0,3,False
+10/01/2022,Russell Sage,L 0-2,147,10/01/2022,Russell Sage,home,L,0,2,False
+10/05/2022,Houghton,L 1-2,147,10/05/2022,Houghton,home,L,1,2,False
+10/12/2022,@ Alfred,L 0-1,325,10/12/2022,Alfred,away,L,0,1,False
+10/19/2022,@ Utica,T 0-0,157,10/19/2022,Utica,away,T,0,0,False
+10/22/2022,@ Elmira,L 0-1,74,10/22/2022,Elmira,away,L,0,1,False
+10/26/2022,St. John Fisher,L 0-4,80,10/26/2022,St. John Fisher,home,L,0,4,False
+10/29/2022,Medaille,W 3-0,160,10/29/2022,Medaille,home,W,3,0,False

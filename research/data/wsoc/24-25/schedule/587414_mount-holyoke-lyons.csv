@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/31/2024,@ Eastern Conn. St.,W 1-0,100,08/31/2024,Eastern Conn. St.,away,W,1,0,False
+09/04/2024,WestConn,W 1-0,90,09/04/2024,WestConn,home,W,1,0,False
+09/07/2024,@ Wentworth,T 1-1,225,09/07/2024,Wentworth,away,T,1,1,False
+09/14/2024,Endicott,T 0-0,90,09/14/2024,Endicott,home,T,0,0,False
+09/16/2024,@ Rhode Island Col.,W 1-0,425,09/16/2024,Rhode Island Col.,away,W,1,0,False
+09/21/2024,MIT,L 0-2,80,09/21/2024,MIT,home,L,0,2,False
+09/28/2024,Emerson,T 1-1,90,09/28/2024,Emerson,home,T,1,1,False
+10/05/2024,@ Salve Regina,L 1-2,273,10/05/2024,Salve Regina,away,L,1,2,False
+10/09/2024,Wellesley,T 0-0,90,10/09/2024,Wellesley,home,T,0,0,False
+10/12/2024,@ Babson,L 0-5,0,10/12/2024,Babson,away,L,0,5,False
+10/16/2024,@ Springfield,L 0-4,100,10/16/2024,Springfield,away,L,0,4,False
+10/19/2024,Wheaton (MA),T 1-1,150,10/19/2024,Wheaton (MA),home,T,1,1,False
+10/23/2024,@ Clark (MA),W 1-0,71,10/23/2024,Clark (MA),away,W,1,0,False
+10/26/2024,@ Coast Guard,T 0-0,100,10/26/2024,Coast Guard,away,T,0,0,False
+10/30/2024,Smith,L 0-2,90,10/30/2024,Smith,home,L,0,2,False
+11/02/2024,@ WPI,L 1-2,200,11/02/2024,WPI,away,L,1,2,False

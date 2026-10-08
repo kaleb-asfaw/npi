@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/04/2021,UMSV,T 2-2 (2 OT),126,09/04/2021,UMSV,home,T,2,2,True
+09/04/2021,Saint Elizabeth,Canceled,,09/04/2021,Saint Elizabeth,home,,,,
+09/06/2021,Cedar Crest,T 0-0 (2 OT),201,09/06/2021,Cedar Crest,home,T,0,0,True
+09/11/2021,@ Manhattanville,L 1-3,55,09/11/2021,Manhattanville,away,L,1,3,False
+09/12/2021,St. Joseph's (L.I.),L 1-2,103,09/12/2021,St. Joseph's (L.I.),home,L,1,2,False
+09/18/2021,Stockton,L 0-4,97,09/18/2021,Stockton,home,L,0,4,False
+09/20/2021,CCNY,W 5-2,307,09/20/2021,CCNY,home,W,5,2,False
+09/22/2021,Brooklyn,W 5-0,69,09/22/2021,Brooklyn,home,W,5,0,False
+09/25/2021,@ Montclair St.,L 0-4,234,09/25/2021,Montclair St.,away,L,0,4,False
+09/29/2021,Rutgers-Newark,T 1-1 (2 OT),210,09/29/2021,Rutgers-Newark,home,T,1,1,True
+10/02/2021,Rowan,L 0-3,123,10/02/2021,Rowan,home,L,0,3,False
+10/04/2021,John Jay,Canceled,,10/04/2021,John Jay,home,,,,
+10/09/2021,@ TCNJ,L 0-4,0,10/09/2021,TCNJ,away,L,0,4,False
+10/13/2021,@ Kean,L 1-3,122,10/13/2021,Kean,away,L,1,3,False
+10/16/2021,Rutgers-Camden,L 0-3,188,10/16/2021,Rutgers-Camden,home,L,0,3,False
+10/17/2021,Pratt,W 6-1,79,10/17/2021,Pratt,home,W,6,1,False
+10/23/2021,@ Ramapo,L 0-5,110,10/23/2021,Ramapo,away,L,0,5,False
+10/27/2021,@ Wm. Paterson,L 0-1,30,10/27/2021,Wm. Paterson,away,L,0,1,False

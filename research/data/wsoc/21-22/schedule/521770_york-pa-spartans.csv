@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2021,Franklin & Marshall,L 0-1,378,09/02/2021,Franklin & Marshall,home,L,0,1,False
+09/04/2021,@ Penn St. Harrisburg,W 2-0,105,09/04/2021,Penn St. Harrisburg,away,W,2,0,False
+09/08/2021,McDaniel,L 0-1,367,09/08/2021,McDaniel,home,L,0,1,False
+09/11/2021,@ Marymount (VA),W 6-0,0,09/11/2021,Marymount (VA),away,W,6,0,False
+09/16/2021,@ Gettysburg,L 1-2,218,09/16/2021,Gettysburg,away,L,1,2,False
+09/18/2021,@ Susquehanna,W 1-0,64,09/18/2021,Susquehanna,away,W,1,0,False
+09/22/2021,@ Elizabethtown,W 2-0,78,09/22/2021,Elizabethtown,away,W,2,0,False
+09/25/2021,Chatham,W 4-0,468,09/25/2021,Chatham,home,W,4,0,False
+09/29/2021,DeSales,W 1-0,362,09/29/2021,DeSales,home,W,1,0,False
+10/02/2021,Messiah,L 0-3,689,10/02/2021,Messiah,home,L,0,3,False
+10/06/2021,Rowan,W 2-1,323,10/06/2021,Rowan,home,W,2,1,False
+10/08/2021,@ Alvernia,W 5-0,99,10/08/2021,Alvernia,away,W,5,0,False
+10/12/2021,Albright,L 0-2,127,10/12/2021,Albright,home,L,0,2,False
+10/16/2021,@ Lebanon Valley,L 1-2,250,10/16/2021,Lebanon Valley,away,L,1,2,False
+10/20/2021,@ Hood,W 2-1 (2 OT),123,10/20/2021,Hood,away,W,2,1,True
+10/23/2021,Eastern,W 3-1,567,10/23/2021,Eastern,home,W,3,1,False
+10/26/2021,Stevenson,W 1-0,312,10/26/2021,Stevenson,home,W,1,0,False
+10/30/2021,@ Widener,W 3-0,178,10/30/2021,Widener,away,W,3,0,False
+11/04/2021,@ #1 Lebanon Valley MAC Commonwealth WSOC Championship,W 2-0,136,11/04/2021,Lebanon Valley,away,W,2,0,False
+11/06/2021,@ #1 Messiah MAC Commonwealth WSOC Championship,L 0-3,"1,100",11/06/2021,Messiah,away,L,0,3,False

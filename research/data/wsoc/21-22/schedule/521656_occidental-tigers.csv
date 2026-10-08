@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ La Verne,W 2-0,389,09/01/2021,La Verne,away,W,2,0,False
+09/03/2021,St. Catherine,T 0-0 (2 OT),0,09/03/2021,St. Catherine,home,T,0,0,True
+09/06/2021,@ Soka,W 2-0,76,09/06/2021,@ Soka,home,W,2,0,False
+09/08/2021,Redlands,W 1-0 (2 OT),0,09/08/2021,Redlands,home,W,1,0,True
+09/15/2021,Chapman,L 0-1,0,09/15/2021,Chapman,home,L,0,1,False
+09/18/2021,@ Pomona-Pitzer,T 0-0 (2 OT),135,09/18/2021,Pomona-Pitzer,away,T,0,0,True
+09/22/2021,@ Redlands,L 1-2,100,09/22/2021,Redlands,away,L,1,2,False
+09/25/2021,@ CMS,T 0-0 (2 OT),0,09/25/2021,CMS,away,T,0,0,True
+09/29/2021,Caltech,W 4-0,91,09/29/2021,Caltech,home,W,4,0,False
+10/02/2021,La Verne,W 1-0 (1 OT),100,10/02/2021,La Verne,home,W,1,0,True
+10/06/2021,Whittier,W 3-0,0,10/06/2021,Whittier,home,W,3,0,False
+10/13/2021,@ Cal Lutheran,T 1-1 (2 OT),100,10/13/2021,Cal Lutheran,away,T,1,1,True
+10/16/2021,@ UC Santa Cruz,L 0-1,203,10/16/2021,UC Santa Cruz,away,L,0,1,False
+10/20/2021,@ Whittier,W 4-0,101,10/20/2021,Whittier,away,W,4,0,False
+10/23/2021,Pomona-Pitzer,L 1-4,350,10/23/2021,Pomona-Pitzer,home,L,1,4,False
+10/27/2021,Cal Lutheran,W 2-1 (1 OT),151,10/27/2021,Cal Lutheran,home,W,2,1,True
+10/30/2021,@ Caltech,W 4-0,63,10/30/2021,Caltech,away,W,4,0,False
+11/04/2021,@ #1 Pomona-Pitzer SCIAC WSOC Tournament,L 1-2,287,11/04/2021,Pomona-Pitzer,away,L,1,2,False

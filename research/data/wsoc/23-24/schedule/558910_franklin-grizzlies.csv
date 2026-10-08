@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Berea,W 3-0,145,09/01/2023,Berea,home,W,3,0,False
+09/03/2023,Muskingum,T 0-0,98,09/03/2023,Muskingum,home,T,0,0,False
+09/06/2023,@ Wilmington (OH),L 0-3,94,09/06/2023,Wilmington (OH),away,L,0,3,False
+09/08/2023,@ Asbury,T 0-0,50,09/08/2023,Asbury,away,T,0,0,False
+09/10/2023,@ Spalding,T 0-0,135,09/10/2023,Spalding,away,T,0,0,False
+09/13/2023,@ Trine,L 0-6,304,09/13/2023,Trine,away,L,0,6,False
+09/17/2023,Albion,L 0-4,112,09/17/2023,Albion,home,L,0,4,False
+09/20/2023,@ DePauw,T 0-0,213,09/20/2023,DePauw,away,T,0,0,False
+09/24/2023,@ St. Mary's (IN),L 0-2,129,09/24/2023,St. Mary's (IN),away,L,0,2,False
+09/27/2023,Anderson (IN),T 1-1,55,09/27/2023,Anderson (IN),home,T,1,1,False
+09/30/2023,@ Mt. St. Joseph,L 0-3,858,09/30/2023,Mt. St. Joseph,away,L,0,3,False
+10/04/2023,@ Manchester,W 2-1,70,10/04/2023,Manchester,away,W,2,1,False
+10/07/2023,@ Bluffton,T 2-2,50,10/07/2023,Bluffton,away,T,2,2,False
+10/11/2023,Hanover,L 0-4,243,10/11/2023,Hanover,home,L,0,4,False
+10/14/2023,Defiance,W 6-0,197,10/14/2023,Defiance,home,W,6,0,False
+10/18/2023,@ Rose-Hulman,L 0-1,150,10/18/2023,Rose-Hulman,away,L,0,1,False
+10/21/2023,Earlham,W 2-1,222,10/21/2023,Earlham,home,W,2,1,False
+10/25/2023,Transylvania,L 0-1,132,10/25/2023,Transylvania,home,L,0,1,False
+10/28/2023,@ #3 Transylvania HCAC Women's Soccer Championship,L 0-3,375,10/28/2023,Transylvania,away,L,0,3,False

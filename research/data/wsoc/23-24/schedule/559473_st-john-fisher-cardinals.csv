@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Emerson,W 2-0,100,09/01/2023,Emerson,away,W,2,0,False
+09/02/2023,@ Skidmore,T 1-1,135,09/02/2023,Skidmore,away,T,1,1,False
+09/05/2023,SUNY Brockport,L 0-1,60,09/05/2023,SUNY Brockport,home,L,0,1,False
+09/09/2023,@ SUNY Geneseo,L 0-2,250,09/09/2023,SUNY Geneseo,away,L,0,2,False
+09/13/2023,@ RIT,W 2-1,200,09/13/2023,RIT,away,W,2,1,False
+09/16/2023,@ Alfred,T 1-1,325,09/16/2023,Alfred,away,T,1,1,False
+09/19/2023,@ Alfred St.,W 6-0,67,09/19/2023,Alfred St.,away,W,6,0,False
+09/21/2023,@ Rochester (NY),L 0-2,172,09/21/2023,Rochester (NY),away,L,0,2,False
+09/30/2023,Elmira,W 1-0,50,09/30/2023,Elmira,home,W,1,0,False
+10/04/2023,Keuka,W 5-2,40,10/04/2023,Keuka,home,W,5,2,False
+10/07/2023,@ Hartwick,T 2-2,124,10/07/2023,Hartwick,away,T,2,2,False
+10/11/2023,@ Nazareth,T 0-0,387,10/11/2023,Nazareth,away,T,0,0,False
+10/14/2023,Russell Sage,W 1-0,70,10/14/2023,Russell Sage,home,W,1,0,False
+10/21/2023,Houghton,W 5-0,40,10/21/2023,Houghton,home,W,5,0,False
+10/25/2023,@ Utica,T 1-1,120,10/25/2023,Utica,away,T,1,1,False
+11/01/2023,#6 Alfred Empire 8 Women's Soccer Championship,W 1-0,95,11/01/2023,Alfred,home,W,1,0,False
+11/04/2023,@ #1 Nazareth Empire 8 Women's Soccer Championship,L 0-3,428,11/04/2023,Nazareth,away,L,0,3,False

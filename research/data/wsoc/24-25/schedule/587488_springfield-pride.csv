@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Anna Maria,W 5-0,83,08/30/2024,Anna Maria,away,W,5,0,False
+09/04/2024,Western New Eng.,T 2-2,250,09/04/2024,Western New Eng.,home,T,2,2,False
+09/08/2024,Williams,W 1-0,200,09/08/2024,Williams,home,W,1,0,False
+09/14/2024,Rhode Island Col.,W 6-1,150,09/14/2024,Rhode Island Col.,home,W,6,1,False
+09/18/2024,@ Rensselaer,L 1-4,132,09/18/2024,Rensselaer,away,L,1,4,False
+09/21/2024,Salve Regina,T 1-1,225,09/21/2024,Salve Regina,home,T,1,1,False
+09/24/2024,@ Amherst,T 1-1,60,09/24/2024,Amherst,away,T,1,1,False
+09/28/2024,@ Clark (MA),W 1-0,207,09/28/2024,Clark (MA),away,W,1,0,False
+10/05/2024,Wheaton (MA),T 1-1,200,10/05/2024,Wheaton (MA),home,T,1,1,False
+10/09/2024,@ Coast Guard,W 3-1,68,10/09/2024,Coast Guard,away,W,3,1,False
+10/12/2024,MIT,L 0-2,175,10/12/2024,MIT,home,L,0,2,False
+10/16/2024,Mount Holyoke,W 4-0,100,10/16/2024,Mount Holyoke,home,W,4,0,False
+10/19/2024,@ Emerson,L 1-2,133,10/19/2024,Emerson,away,L,1,2,False
+10/23/2024,@ WPI,W 1-0,100,10/23/2024,WPI,away,W,1,0,False
+10/26/2024,Wellesley,W 2-1,305,10/26/2024,Wellesley,home,W,2,1,False
+10/30/2024,@ Babson,L 2-3,145,10/30/2024,Babson,away,L,2,3,False
+11/02/2024,Smith,W 2-0,155,11/02/2024,Smith,home,W,2,0,False
+11/05/2024,#7 WPI NEWMAC Women's Soccer Championship,L 0-3,300,11/05/2024,WPI,home,L,0,3,False
+11/23/2024,"#3 Pitt.-Greensburg @Hartford, CT (2024 ECAC Women's Soccer Championship)",W 4-0,106,11/23/2024,Pitt.-Greensburg,neutral,W,4,0,False
+11/24/2024,@ #1 Hartford 2024 ECAC Women's Soccer Championship,L 0-6,223,11/24/2024,Hartford,away,L,0,6,False

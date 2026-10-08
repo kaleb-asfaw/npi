@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2023,Thomas (ME),W 9-0,125,09/02/2023,Thomas (ME),home,W,9,0,False
+09/06/2023,@ Western New Eng.,T 0-0,235,09/06/2023,Western New Eng.,away,T,0,0,False
+09/09/2023,"WestConn @Farmingdale, NY",T 1-1,94,09/09/2023,WestConn,neutral,T,1,1,False
+09/10/2023,@ Farmingdale St.,W 2-1,162,09/10/2023,Farmingdale St.,away,W,2,1,False
+09/13/2023,@ Williams,L 0-3,99,09/13/2023,Williams,away,L,0,3,False
+09/17/2023,@ Salve Regina,W 6-1,179,09/17/2023,Salve Regina,away,W,6,1,False
+09/23/2023,Clark (MA),W 2-0,200,09/23/2023,Clark (MA),home,W,2,0,False
+09/27/2023,Rensselaer,L 0-2,100,09/27/2023,Rensselaer,home,L,0,2,False
+09/30/2023,@ Wheaton (MA),W 1-0,131,09/30/2023,Wheaton (MA),away,W,1,0,False
+10/04/2023,Coast Guard,W 2-0,200,10/04/2023,Coast Guard,home,W,2,0,False
+10/07/2023,@ MIT,L 1-4,79,10/07/2023,MIT,away,L,1,4,False
+10/11/2023,@ Mount Holyoke,W 3-1,80,10/11/2023,Mount Holyoke,away,W,3,1,False
+10/14/2023,Emerson,L 0-2,200,10/14/2023,Emerson,home,L,0,2,False
+10/18/2023,WPI,T 1-1,150,10/18/2023,WPI,home,T,1,1,False
+10/21/2023,@ Wellesley,W 2-0,65,10/21/2023,Wellesley,away,W,2,0,False
+10/25/2023,Babson,T 1-1,125,10/25/2023,Babson,home,T,1,1,False
+10/28/2023,@ Smith,T 1-1,30,10/28/2023,Smith,away,T,1,1,False
+10/31/2023,#5 Smith NEWMAC Women's Soccer Championship,T 1-1 (3 OT),150,10/31/2023,Smith,home,T,1,1,True
+11/02/2023,@ #1 MIT NEWMAC Women's Soccer Championship,L 1-6,112,11/02/2023,MIT,away,L,1,6,False

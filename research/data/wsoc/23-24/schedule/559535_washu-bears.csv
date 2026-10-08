@@ -1,0 +1,24 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2023,@ Centre,W 2-0,417,09/03/2023,Centre,away,W,2,0,False
+09/04/2023,"Piedmont @Danville, KY",W 8-0,117,09/04/2023,Piedmont,neutral,W,8,0,False
+09/08/2023,Carroll (WI),W 5-0,250,09/08/2023,Carroll (WI),home,W,5,0,False
+09/15/2023,DePauw,W 4-0,200,09/15/2023,DePauw,home,W,4,0,False
+09/17/2023,Rhodes,W 4-0,200,09/17/2023,Rhodes,home,W,4,0,False
+09/20/2023,@ Ill. Wesleyan,W 3-0,67,09/20/2023,Ill. Wesleyan,away,W,3,0,False
+09/22/2023,Rose-Hulman,W 3-0,175,09/22/2023,Rose-Hulman,home,W,3,0,False
+10/01/2023,Emory,W 2-0,143,10/01/2023,Emory,home,W,2,0,False
+10/03/2023,Webster,W 3-0,133,10/03/2023,Webster,home,W,3,0,False
+10/07/2023,Brandeis,W 4-0,112,10/07/2023,Brandeis,home,W,4,0,False
+10/08/2023,@ Fontbonne,W 3-0,0,10/08/2023,Fontbonne,away,W,3,0,False
+10/14/2023,@ NYU,W 1-0,87,10/14/2023,NYU,away,W,1,0,False
+10/20/2023,@ Carnegie Mellon,T 0-0,198,10/20/2023,Carnegie Mellon,away,T,0,0,False
+10/22/2023,@ CWRU,W 2-0,504,10/22/2023,CWRU,away,W,2,0,False
+10/25/2023,@ Greenville,W 3-0,75,10/25/2023,Greenville,away,W,3,0,False
+10/29/2023,Rochester (NY),L 1-2,578,10/29/2023,Rochester (NY),home,L,1,2,False
+11/04/2023,UChicago,T 0-0,296,11/04/2023,UChicago,home,T,0,0,False
+11/11/2023,Maryville (TN) NCAA Division III Women's Soccer Championship,W 2-0,423,11/11/2023,Maryville (TN),home,W,2,0,False
+11/12/2023,Sewanee NCAA Division III Women's Soccer Championship,W 4-0,217,11/12/2023,Sewanee,home,W,4,0,False
+11/17/2023,Calvin NCAA Division III Women's Soccer Championship,W 4-1,427,11/17/2023,Calvin,home,W,4,1,False
+11/18/2023,Wis.-La Crosse NCAA Division III Women's Soccer Championship,T 4-4 (3 OT),549,11/18/2023,Wis.-La Crosse,home,T,4,4,True
+11/30/2023,"Messiah @Salem, VA (NCAA Division III Women's Soccer Championship)",T 1-1 (3 OT),386,11/30/2023,Messiah,neutral,T,1,1,True
+12/02/2023,"Cal Lutheran @Salem, VA (NCAA Division III Women's Soccer Championship)",L 0-1,306,12/02/2023,Cal Lutheran,neutral,L,0,1,False

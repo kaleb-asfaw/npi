@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Mary Washington,L 0-1,219,09/01/2023,Mary Washington,away,L,0,1,False
+09/05/2023,@ McDaniel,W 1-0,234,09/05/2023,McDaniel,away,W,1,0,False
+09/09/2023,"St. Mary's (MD) @Salisbury, MD",L 0-1,50,09/09/2023,St. Mary's (MD),neutral,L,0,1,False
+09/10/2023,@ Salisbury,T 3-3,155,09/10/2023,Salisbury,away,T,3,3,False
+09/14/2023,Averett,W 3-0,245,09/14/2023,Averett,home,W,3,0,False
+09/16/2023,Mary Baldwin,W 6-0,108,09/16/2023,Mary Baldwin,home,W,6,0,False
+09/23/2023,@ Roanoke,L 0-2,267,09/23/2023,Roanoke,away,L,0,2,False
+09/24/2023,@ Hollins,W 6-0,125,09/24/2023,Hollins,away,W,6,0,False
+09/27/2023,Johns Hopkins,L 2-5,207,09/27/2023,Johns Hopkins,home,L,2,5,False
+09/30/2023,Wash. & Lee,L 0-1,130,09/30/2023,Wash. & Lee,home,L,0,1,False
+10/04/2023,@ Batten,L 0-3,118,10/04/2023,Batten,away,L,0,3,False
+10/07/2023,@ Shenandoah,T 1-1,139,10/07/2023,Shenandoah,away,T,1,1,False
+10/11/2023,Bridgewater (VA),L 1-2,107,10/11/2023,Bridgewater (VA),home,L,1,2,False
+10/14/2023,@ Ferrum,W 5-0,158,10/14/2023,Ferrum,away,W,5,0,False
+10/21/2023,Guilford,T 1-1,145,10/21/2023,Guilford,home,T,1,1,False
+10/25/2023,Lynchburg,T 1-1,102,10/25/2023,Lynchburg,home,T,1,1,False
+10/28/2023,Randolph,W 3-2,205,10/28/2023,Randolph,home,W,3,2,False
+10/31/2023,@ #2 Lynchburg ODAC Women's Soccer Championship,L 0-1,332,10/31/2023,Lynchburg,away,L,0,1,False

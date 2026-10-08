@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Albertus Magnus,T 3-3,125,09/01/2023,Albertus Magnus,away,T,3,3,False
+09/05/2023,SUNY Cobleskill,T 1-1,115,09/05/2023,SUNY Cobleskill,home,T,1,1,False
+09/07/2023,Yeshiva,W 8-0,8,09/07/2023,Yeshiva,home,W,8,0,False
+09/09/2023,@ Brooklyn,T 0-0,77,09/09/2023,Brooklyn,away,T,0,0,False
+09/13/2023,@ Saint Elizabeth,W 2-0,107,09/13/2023,Saint Elizabeth,away,W,2,0,False
+09/16/2023,@ Bard,L 0-1,80,09/16/2023,Bard,away,L,0,1,False
+09/18/2023,Lehman,T 2-2,82,09/18/2023,Lehman,home,T,2,2,False
+09/20/2023,SUNY Maritime,L 0-1,72,09/20/2023,SUNY Maritime,home,L,0,1,False
+09/23/2023,@ UMSV,L 0-7,104,09/23/2023,UMSV,away,L,0,7,False
+09/26/2023,St. Joseph's (Brkln),W 3-0,62,09/26/2023,St. Joseph's (Brkln),home,W,3,0,False
+09/30/2023,CCNY,L 0-5,55,09/30/2023,CCNY,home,L,0,5,False
+10/04/2023,Sarah Lawrence,L 1-5,85,10/04/2023,Sarah Lawrence,home,L,1,5,False
+10/07/2023,Medgar Evers,W 9-1,45,10/07/2023,Medgar Evers,home,W,9,1,False
+10/10/2023,@ Manhattanville,L 0-7,68,10/10/2023,Manhattanville,away,L,0,7,False
+10/14/2023,Merchant Marine,L 0-1,35,10/14/2023,Merchant Marine,home,L,0,1,False
+10/18/2023,@ Old Westbury,L 1-5,65,10/18/2023,Old Westbury,away,L,1,5,False
+10/21/2023,Mt. St. Mary (NY),L 0-3,45,10/21/2023,Mt. St. Mary (NY),home,L,0,3,False
+10/24/2023,St. Joseph's (L.I.),L 0-3,45,10/24/2023,St. Joseph's (L.I.),home,L,0,3,False
+10/26/2023,@ Farmingdale St.,L 0-8,97,10/26/2023,Farmingdale St.,away,L,0,8,False

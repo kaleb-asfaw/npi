@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Siena Heights,L 0-1,95,09/01/2021,@ Siena Heights,home,L,0,1,False
+09/04/2021,"Rutgers-Camden @Glassboro, NJ",W 2-1,126,09/04/2021,Rutgers-Camden,neutral,W,2,1,False
+09/05/2021,@ Rowan,W 1-0 (1 OT),127,09/05/2021,Rowan,away,W,1,0,True
+09/08/2021,@ CWRU,L 0-3,125,09/08/2021,CWRU,away,L,0,3,False
+09/11/2021,Mount Union,W 2-1,75,09/11/2021,Mount Union,home,W,2,1,False
+09/15/2021,Otterbein,L 1-2,75,09/15/2021,Otterbein,home,L,1,2,False
+09/18/2021,@ Wheaton (IL),L 1-2,50,09/18/2021,Wheaton (IL),away,L,1,2,False
+09/19/2021,Mich.-Dearborn,W 4-0,100,09/19/2021,Mich.-Dearborn,home,W,4,0,False
+09/22/2021,Baldwin Wallace,W 2-0,32,09/22/2021,Baldwin Wallace,home,W,2,0,False
+09/25/2021,@ Wooster,L 2-3 (1 OT),190,09/25/2021,Wooster,away,L,2,3,True
+09/28/2021,Alma,W 5-1,150,09/28/2021,Alma,home,W,5,1,False
+10/02/2021,@ Kalamazoo,W 2-1,87,10/02/2021,Kalamazoo,away,W,2,1,False
+10/06/2021,St. Mary's (IN),W 2-0,75,10/06/2021,St. Mary's (IN),home,W,2,0,False
+10/09/2021,@ Olivet,W 3-1,185,10/09/2021,Olivet,away,W,3,1,False
+10/12/2021,Trine,L 0-4,54,10/12/2021,Trine,home,L,0,4,False
+10/21/2021,@ Hope,W 5-3,65,10/21/2021,Hope,away,W,5,3,False
+10/23/2021,@ Calvin,L 2-4,322,10/23/2021,Calvin,away,L,2,4,False
+10/26/2021,Albion,L 0-1,56,10/26/2021,Albion,home,L,0,1,False
+10/30/2021,@ #4 Trine MIAA WSOC Championship,L 0-1,210,10/30/2021,Trine,away,L,0,1,False

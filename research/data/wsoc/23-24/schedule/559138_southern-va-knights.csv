@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Bridgewater (VA),L 1-2,200,09/01/2023,Bridgewater (VA),home,L,1,2,False
+09/02/2023,Shenandoah,L 2-3,211,09/02/2023,Shenandoah,home,L,2,3,False
+09/06/2023,Mary Washington,W 2-0,170,09/06/2023,Mary Washington,home,W,2,0,False
+09/09/2023,Ferrum,T 1-1,87,09/09/2023,Ferrum,home,T,1,1,False
+09/12/2023,@ Wash. & Lee,L 0-2,108,09/12/2023,Wash. & Lee,away,L,0,2,False
+09/20/2023,@ Lynchburg,L 0-2,71,09/20/2023,Lynchburg,away,L,0,2,False
+09/23/2023,Methodist,W 1-0,60,09/23/2023,Methodist,home,W,1,0,False
+09/27/2023,Salem (NC),W 5-0,50,09/27/2023,Salem (NC),home,W,5,0,False
+09/30/2023,@ N.C. Wesleyan,W 4-0,91,09/30/2023,N.C. Wesleyan,away,W,4,0,False
+10/03/2023,@ Mary Baldwin,W 4-0,50,10/03/2023,Mary Baldwin,away,W,4,0,False
+10/07/2023,Brevard,W 1-0,156,10/07/2023,Brevard,home,W,1,0,False
+10/10/2023,Chris. Newport,L 0-3,254,10/10/2023,Chris. Newport,home,L,0,3,False
+10/14/2023,@ Pfeiffer,W 7-1,165,10/14/2023,Pfeiffer,away,W,7,1,False
+10/17/2023,Greensboro,W 2-0,143,10/17/2023,Greensboro,home,W,2,0,False
+10/20/2023,William Peace,W 5-0,102,10/20/2023,William Peace,home,W,5,0,False
+10/28/2023,@ Meredith,W 4-0,65,10/28/2023,Meredith,away,W,4,0,False
+10/31/2023,#8 Salem (NC) USA South Women's Soccer Championship,W 3-0,127,10/31/2023,Salem (NC),home,W,3,0,False
+11/02/2023,#4 Greensboro USA South Women's Soccer Championship,W 4-0,143,11/02/2023,Greensboro,home,W,4,0,False
+11/04/2023,#3 Brevard USA South Women's Soccer Championship,W 3-1,274,11/04/2023,Brevard,home,W,3,1,False
+11/10/2023,@ NYU NCAA Division III Women's Soccer Championship,L 0-3,150,11/10/2023,NYU,away,L,0,3,False

@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Aurora,W 1-0,106,09/01/2022,Aurora,home,W,1,0,False
+09/03/2022,@ Benedictine (IL),W 7-0,103,09/03/2022,Benedictine (IL),away,W,7,0,False
+09/07/2022,@ Dominican (IL),T 0-0,69,09/07/2022,Dominican (IL),away,T,0,0,False
+09/09/2022,Linfield NCC WSOC Regular Season Tournament,W 2-1,87,09/09/2022,Linfield,home,W,2,1,False
+09/10/2022,Centre NCC WSOC Regular Season Tournament,W 4-1,112,09/10/2022,Centre,home,W,4,1,False
+09/14/2022,@ Loras,L 2-3,135,09/14/2022,Loras,away,L,2,3,False
+09/17/2022,Hope,W 3-1,157,09/17/2022,Hope,home,W,3,1,False
+09/18/2022,Knox,W 5-1,156,09/18/2022,Knox,home,W,5,1,False
+09/21/2022,@ Wis.-Oshkosh,W 5-0,186,09/21/2022,Wis.-Oshkosh,away,W,5,0,False
+09/24/2022,@ Elmhurst,W 6-1,87,09/24/2022,Elmhurst,away,W,6,1,False
+10/05/2022,Wheaton (IL),T 0-0,214,10/05/2022,Wheaton (IL),home,T,0,0,False
+10/08/2022,@ Carthage,W 2-0,150,10/08/2022,Carthage,away,W,2,0,False
+10/12/2022,@ North Park,W 6-1,55,10/12/2022,North Park,away,W,6,1,False
+10/15/2022,Carroll (WI),T 1-1,266,10/15/2022,Carroll (WI),home,T,1,1,False
+10/19/2022,Millikin,T 1-1,127,10/19/2022,Millikin,home,T,1,1,False
+10/22/2022,Ill. Wesleyan,W 3-2,342,10/22/2022,Ill. Wesleyan,home,W,3,2,False
+10/26/2022,@ Augustana (IL),T 1-1,75,10/26/2022,Augustana (IL),away,T,1,1,False
+11/02/2022,#3 Wheaton (IL) CCIW WSOC Championship,W 1-0,342,11/02/2022,Wheaton (IL),home,W,1,0,False
+11/05/2022,@ #1 Ill. Wesleyan CCIW WSOC Championship,L 1-4,423,11/05/2022,Ill. Wesleyan,away,L,1,4,False

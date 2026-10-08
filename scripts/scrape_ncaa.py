@@ -10,7 +10,7 @@ Basic algorithm using Playwright Webscraping goes as follows:
     2. Loop through each "Team"'s url and scrape the "Schedule/Results"
     (see the parse_schedule_table functionality)
 
-   3. Save schedule table as CSV in data/{w/m}{sport}_schedule/
+   3. Save schedule table as CSV in research/data/wsoc/<season>/schedule/
 
 Usage:
     # one-off sanity check against a single team (default: WashU, 603722)
@@ -37,9 +37,38 @@ from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright, Page
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-DEFAULT_OUT_DIR = REPO_ROOT / "data" / "wsoc_schedule" / "25-26" / "schedule"
-DEFAULT_RAW_HTML_DIR = REPO_ROOT / "data" / "wsoc_schedule" / "raw_html"
-DEFAULT_NITTY_GRITTY_URL = "https://stats.ncaa.org/selection_rankings/nitty_gritties/47443"
+DEFAULT_SEASON = "25-26"
+# Any one nitty-gritties report id per season (the season's final/latest one).
+# Used to discover the team list and, for NPI, every snapshot date. Find new
+# seasons via stats.ncaa.org/selection_rankings/season_divisions/<id>/nitty_gritties
+# (the year dropdown there lists every season; WSOC D-III: 25-26 = 18605, 24-25 = 18348).
+SEASON_SEED_REPORTS = {
+    "25-26": "47443",
+    "24-25": "40158",
+    "22-23": "48429",  # only 1 snapshot published (11/06/2022 Selections)
+    "21-22": "48449",  # only 2 snapshots published (11/07/2021 Selections, 11/11/2021)
+    # 23-24: no NPI report is exposed on the site's year dropdown; schedules
+    # still work via the per-team year dropdown (see team_list_from_year_links).
+    "23-24": None,
+}
+# Seasons whose team list is also derived from another season's saved raw team
+# pages (each page has a year dropdown mapping that team to its id in every season).
+YEAR_LINK_SOURCE_SEASON = "24-25"
+
+
+def season_paths(season: str) -> dict[str, "Path | str"]:
+    """Per-season default locations: research/data/wsoc/<season>/{schedule,npi,raw_html}."""
+    if season not in SEASON_SEED_REPORTS:
+        sys.exit(f"Unknown season {season!r}; add its seed report id to SEASON_SEED_REPORTS "
+                 f"(known: {', '.join(SEASON_SEED_REPORTS)})")
+    base = REPO_ROOT / "research" / "data" / "wsoc" / season
+    return {
+        "schedule": base / "schedule",
+        "npi": base / "npi",
+        "raw_html": base / "raw_html",
+        "url": (f"https://stats.ncaa.org/selection_rankings/nitty_gritties/{SEASON_SEED_REPORTS[season]}"
+                if SEASON_SEED_REPORTS[season] else None),
+    }
 WASHU_TEAM_ID = "603722"
 
 BLOCKED_MARKERS = ("bm-verify", "Access Denied", "<title>&nbsp;</title>", "queue full")
@@ -51,10 +80,30 @@ def is_blocked(html: str) -> bool:
     return any(marker in html for marker in BLOCKED_MARKERS)
 
 
+def accept_terms(page: Page) -> None:
+    """stats.ncaa.org gates the site behind a "Continue to NCAA Statistics?"
+    Terms and Conditions checkbox. The server only accepts the checkbox if the
+    Terms link was opened first (otherwise it re-renders the form with
+    "Please review the Terms and Conditions before continuing"), so open the
+    link in a popup, close it, then tick the box and continue."""
+    time.sleep(2)
+    with page.context.expect_page() as popup:
+        page.click("a[href*='terms-of-service']")
+    popup.value.wait_for_load_state("domcontentloaded")
+    time.sleep(4)  # closing the Terms tab immediately is not counted as a review
+    popup.value.close()
+    page.click("label.stats-checkbox-wrapper .stats-custom-checkbox")
+    page.click("#stats-access-button")
+    page.wait_for_load_state("networkidle")
+
+
 def fetch(page: Page, url: str, retries: int = 3) -> str:
     last_html = ""
     for attempt in range(1, retries + 1):
         page.goto(url, timeout=30000, wait_until="domcontentloaded")
+        if page.query_selector("#terms_accepted") is not None:
+            accept_terms(page)
+            page.goto(url, timeout=30000, wait_until="domcontentloaded")
         html = page.content()
         if not is_blocked(html):
             return html
@@ -211,6 +260,24 @@ def get_team_list(page: Page, nitty_gritty_url: str) -> list[tuple[str, str]]:
     return teams
 
 
+def team_list_from_year_links(season: str) -> list[tuple[str, str]]:
+    """Team ids for `season`, read from the year dropdown (#year_list) of the
+    raw team pages saved for YEAR_LINK_SOURCE_SEASON. Only covers teams that
+    existed in the source season."""
+    label = f"20{season[:2]}-{season[3:]}"
+    raw_dir = season_paths(YEAR_LINK_SOURCE_SEASON)["raw_html"]
+    teams = []
+    for f in sorted(Path(raw_dir).glob("*.html")):
+        soup = BeautifulSoup(f.read_text(), "lxml")
+        select = soup.find("select", id="year_list")
+        if select is None:
+            continue
+        for o in select.find_all("option"):
+            if o.get_text(strip=True) == label:
+                teams.append((o["value"].strip(), parse_team_name(soup)))
+    return teams
+
+
 def scrape_one_team(
     page: Page,
     team_id: str,
@@ -292,11 +359,13 @@ def run_with_resilience(p, headless, items, process_item, label_fn=str, delay=4.
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--team-id", default=WASHU_TEAM_ID, help="Single NCAA team id to scrape (default: WashU)")
+    parser.add_argument("--limit", type=int, default=None, help="With --all, only scrape the first N pending teams (for testing)")
     parser.add_argument("--all", action="store_true", help="Scrape every team listed on the nitty gritties report")
-    parser.add_argument("--nitty-gritty-url", default=DEFAULT_NITTY_GRITTY_URL)
-    parser.add_argument("--out-dir", type=Path, default=DEFAULT_OUT_DIR)
+    parser.add_argument("--season", default=DEFAULT_SEASON, help="Season like 25-26 or 24-25 (sets default URL and output dirs)")
+    parser.add_argument("--nitty-gritty-url", default=None, help="Override the season's seed report URL")
+    parser.add_argument("--out-dir", type=Path, default=None)
     parser.add_argument("--dump-html", action="store_true", default=True,
-                         help="Save raw HTML to data/wsoc_schedule/raw_html/ for inspection (default on while we validate parsing)")
+                         help="Save raw HTML to research/data/wsoc/<season>/raw_html/ for inspection (default on while we validate parsing)")
     parser.add_argument("--no-dump-html", dest="dump_html", action="store_false")
     parser.add_argument("--delay", type=float, default=4.0, help="Base seconds to sleep between requests when --all")
     parser.add_argument("--headless", action="store_true", default=True)
@@ -304,18 +373,31 @@ def main() -> None:
                          help="Show the browser window (useful for debugging)")
     args = parser.parse_args()
 
-    raw_html_dir = DEFAULT_RAW_HTML_DIR if args.dump_html else None
+    paths = season_paths(args.season)
+    args.nitty_gritty_url = args.nitty_gritty_url or paths["url"]
+    args.out_dir = args.out_dir or paths["schedule"]
+    raw_html_dir = paths["raw_html"] if args.dump_html else None
 
     with sync_playwright() as p:
         if args.all:
-            browser, _, page = launch_browser(p, args.headless)
-            teams = get_team_list(page, args.nitty_gritty_url)
-            browser.close()
-            print(f"Found {len(teams)} teams on nitty gritties report")
+            teams = []
+            if args.nitty_gritty_url:
+                browser, _, page = launch_browser(p, args.headless)
+                teams = get_team_list(page, args.nitty_gritty_url)
+                browser.close()
+                print(f"Found {len(teams)} teams on nitty gritties report")
+            if args.season != YEAR_LINK_SOURCE_SEASON:
+                have = {tid for tid, _ in teams}
+                derived = [t for t in team_list_from_year_links(args.season) if t[0] not in have]
+                print(f"Found {len(derived)} additional teams via {YEAR_LINK_SOURCE_SEASON} year links")
+                teams += derived
 
             pending = [(tid, name) for tid, name in teams if not any(args.out_dir.glob(f"{tid}_*.csv"))]
             if len(pending) < len(teams):
                 print(f"{len(teams) - len(pending)} teams already scraped, skipping")
+
+            if args.limit:
+                pending = pending[:args.limit]
 
             def process(page, item):
                 scrape_one_team(page, item[0], args.out_dir, raw_html_dir)

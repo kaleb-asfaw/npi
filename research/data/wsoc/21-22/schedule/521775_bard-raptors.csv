@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Smith,Ppd,,09/01/2021,Smith,home,,,,
+09/05/2021,Sarah Lawrence,W 1-0,125,09/05/2021,Sarah Lawrence,home,W,1,0,False
+09/11/2021,@ Drew,L 0-3,70,09/11/2021,Drew,away,L,0,3,False
+09/12/2021,"Westfield St. @Madison, NJ",L 1-6,60,09/12/2021,Westfield St.,neutral,L,1,6,False
+09/15/2021,@ SUNY New Paltz,L 0-2,50,09/15/2021,SUNY New Paltz,away,L,0,2,False
+09/22/2021,@ Union (NY),L 0-6,50,09/22/2021,Union (NY),away,L,0,6,False
+09/25/2021,@ Rensselaer,L 0-6,83,09/25/2021,Rensselaer,away,L,0,6,False
+09/29/2021,Vassar,L 0-6,125,09/29/2021,Vassar,home,L,0,6,False
+10/02/2021,William Smith,L 0-5,125,10/02/2021,William Smith,home,L,0,5,False
+10/09/2021,Ithaca,L 0-5,75,10/09/2021,Ithaca,home,L,0,5,False
+10/15/2021,@ St. Lawrence,L 1-2,53,10/15/2021,St. Lawrence,away,L,1,2,False
+10/16/2021,@ Clarkson,L 0-1,45,10/16/2021,Clarkson,away,L,0,1,False
+10/19/2021,SUNY Delhi,L 0-2,85,10/19/2021,SUNY Delhi,home,L,0,2,False
+10/23/2021,RIT,L 0-1,125,10/23/2021,RIT,home,L,0,1,False
+10/24/2021,SUNY Cobleskill,Canceled,,10/24/2021,SUNY Cobleskill,home,,,,
+10/30/2021,@ Skidmore,L 0-4,137,10/30/2021,Skidmore,away,L,0,4,False

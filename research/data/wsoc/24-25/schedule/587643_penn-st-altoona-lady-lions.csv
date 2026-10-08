@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Penn College,T 0-0,112,08/30/2024,Penn College,home,T,0,0,False
+09/01/2024,@ Bethany (WV),L 1-3,75,09/01/2024,Bethany (WV),away,L,1,3,False
+09/04/2024,@ Juniata,L 0-2,177,09/04/2024,Juniata,away,L,0,2,False
+09/07/2024,@ Alfred,L 0-8,310,09/07/2024,Alfred,away,L,0,8,False
+09/11/2024,Wilson,L 0-3,78,09/11/2024,Wilson,home,L,0,3,False
+09/14/2024,Chatham,L 0-2,100,09/14/2024,Chatham,home,L,0,2,False
+09/15/2024,Wash. & Jeff.,L 1-3,103,09/15/2024,Wash. & Jeff.,home,L,1,3,False
+10/01/2024,La Roche,W 1-0,59,10/01/2024,La Roche,home,W,1,0,False
+10/05/2024,Alfred St.,T 0-0,146,10/05/2024,Alfred St.,home,T,0,0,False
+10/09/2024,Pitt.-Greensburg,L 0-4,64,10/09/2024,Pitt.-Greensburg,home,L,0,4,False
+10/12/2024,@ Hilbert,W 2-1,56,10/12/2024,Hilbert,away,W,2,1,False
+10/19/2024,Penn St.-Behrend,L 0-5,134,10/19/2024,Penn St.-Behrend,home,L,0,5,False
+10/23/2024,@ Carlow,W 5-0,68,10/23/2024,Carlow,away,W,5,0,False
+10/26/2024,@ Pitt.-Bradford,W 7-0,50,10/26/2024,Pitt.-Bradford,away,W,7,0,False
+10/29/2024,Mount Aloysius,W 1-0,137,10/29/2024,Mount Aloysius,home,W,1,0,False
+11/02/2024,#6 Alfred St. AMCC WSOC Tournament,W 5-0,81,11/02/2024,Alfred St.,home,W,5,0,False
+11/06/2024,@ #2 Pitt.-Greensburg AMCC WSOC Tournament,L 1-2,153,11/06/2024,Pitt.-Greensburg,away,L,1,2,False

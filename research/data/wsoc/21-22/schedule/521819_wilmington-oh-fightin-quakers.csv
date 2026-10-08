@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Ohio Wesleyan,L 1-3,0,09/01/2021,Ohio Wesleyan,home,L,1,3,False
+09/04/2021,@ Mt. St. Joseph,L 0-2,212,09/04/2021,Mt. St. Joseph,away,L,0,2,False
+09/05/2021,"Transylvania @Cincinnati, Ohio",L 1-4,154,09/05/2021,Transylvania,neutral,L,1,4,False
+09/08/2021,Wittenberg,L 1-2,202,09/08/2021,Wittenberg,home,L,1,2,False
+09/11/2021,Anderson (IN),T 0-0 (2 OT),85,09/11/2021,Anderson (IN),home,T,0,0,True
+09/15/2021,@ Earlham,W 3-0,25,09/15/2021,Earlham,away,W,3,0,False
+09/18/2021,@ Wooster,L 0-7,115,09/18/2021,Wooster,away,L,0,7,False
+09/25/2021,Franklin,W 2-0,123,09/25/2021,Franklin,home,W,2,0,False
+09/28/2021,Kenyon,W 1-0,114,09/28/2021,Kenyon,home,W,1,0,False
+10/02/2021,Heidelberg,W 1-0,107,10/02/2021,Heidelberg,home,W,1,0,False
+10/06/2021,Muskingum,W 2-1 (1 OT),103,10/06/2021,Muskingum,home,W,2,1,True
+10/09/2021,@ Mount Union,L 0-2,50,10/09/2021,Mount Union,away,L,0,2,False
+10/13/2021,Ohio Northern,L 0-2,177,10/13/2021,Ohio Northern,home,L,0,2,False
+10/16/2021,@ Marietta,T 0-0 (2 OT),178,10/16/2021,Marietta,away,T,0,0,True
+10/20/2021,@ Otterbein,L 0-2,92,10/20/2021,Otterbein,away,L,0,2,False
+10/23/2021,Baldwin Wallace,L 1-2,127,10/23/2021,Baldwin Wallace,home,L,1,2,False
+10/27/2021,@ Capital,L 0-3,175,10/27/2021,Capital,away,L,0,3,False
+10/30/2021,John Carroll,W 2-1,197,10/30/2021,John Carroll,home,W,2,1,False

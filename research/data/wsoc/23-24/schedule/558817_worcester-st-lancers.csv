@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Wheaton (MA),T 1-1,95,09/01/2023,Wheaton (MA),home,T,1,1,False
+09/06/2023,@ Clark (MA),L 0-2,0,09/06/2023,Clark (MA),away,L,0,2,False
+09/10/2023,@ WPI,L 1-2,100,09/10/2023,WPI,away,L,1,2,False
+09/16/2023,Bridgewater St.,L 0-1,65,09/16/2023,Bridgewater St.,home,L,0,1,False
+09/20/2023,@ Keene St.,L 0-1,128,09/20/2023,Keene St.,away,L,0,1,False
+09/23/2023,Westfield St.,L 0-3,87,09/23/2023,Westfield St.,home,L,0,3,False
+09/27/2023,@ Salve Regina,T 0-0,125,09/27/2023,Salve Regina,away,T,0,0,False
+09/30/2023,@ Fitchburg St.,W 4-2,0,09/30/2023,Fitchburg St.,away,W,4,2,False
+10/04/2023,@ WestConn,L 0-6,165,10/04/2023,WestConn,away,L,0,6,False
+10/06/2023,@ MCLA,W 5-0,132,10/06/2023,MCLA,away,W,5,0,False
+10/12/2023,@ Roger Williams,L 2-5,159,10/12/2023,Roger Williams,away,L,2,5,False
+10/14/2023,Framingham St.,W 4-0,65,10/14/2023,Framingham St.,home,W,4,0,False
+10/21/2023,@ Salem St.,W 5-1,60,10/21/2023,Salem St.,away,W,5,1,False
+10/24/2023,@ UMass Dartmouth,L 0-1,55,10/24/2023,UMass Dartmouth,away,L,0,1,False
+10/27/2023,Mass. Maritime,W 5-0,110,10/27/2023,Mass. Maritime,home,W,5,0,False
+10/31/2023,#6 Mass. Maritime MASCAC Women's Soccer Championship,W 1-0 (2 OT),65,10/31/2023,Mass. Maritime,home,W,1,0,True
+11/03/2023,@ #2 Westfield St. MASCAC Women's Soccer Championship,L 2-3,115,11/03/2023,Westfield St.,away,L,2,3,False

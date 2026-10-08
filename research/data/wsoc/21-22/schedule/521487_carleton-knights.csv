@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Macalester,T 2-2 (2 OT),157,09/01/2021,Macalester,home,T,2,2,True
+09/03/2021,@ Cornell College,W 3-2,50,09/03/2021,Cornell College,away,W,3,2,False
+09/07/2021,@ Wis.-Stout,T 1-1 (1 OT),67,09/07/2021,Wis.-Stout,away,T,1,1,True
+09/11/2021,Grinnell,W 3-0,147,09/11/2021,Grinnell,home,W,3,0,False
+09/14/2021,Saint Mary's (MN),L 0-1,123,09/14/2021,Saint Mary's (MN),home,L,0,1,False
+09/18/2021,@ Gustavus Adolphus,W 2-0,60,09/18/2021,Gustavus Adolphus,away,W,2,0,False
+09/19/2021,@ Luther,W 1-0,68,09/19/2021,Luther,away,W,1,0,False
+09/25/2021,Concordia-M'head,W 3-1,243,09/25/2021,Concordia-M'head,home,W,3,1,False
+09/29/2021,Augsburg,L 1-2,144,09/29/2021,Augsburg,home,L,1,2,False
+10/02/2021,@ St. Olaf,W 1-0,250,10/02/2021,St. Olaf,away,W,1,0,False
+10/09/2021,Bethel (MN),W 3-1,175,10/09/2021,Bethel (MN),home,W,3,1,False
+10/12/2021,@ Hamline,L 0-1,156,10/12/2021,Hamline,away,L,0,1,False
+10/16/2021,Macalester,L 0-2,593,10/16/2021,Macalester,home,L,0,2,False
+10/23/2021,@ St. Scholastica,T 1-1 (2 OT),118,10/23/2021,St. Scholastica,away,T,1,1,True
+10/26/2021,St. Catherine,L 0-2,139,10/26/2021,St. Catherine,home,L,0,2,False
+10/30/2021,@ Saint Benedict,L 0-1 (2 OT),160,10/30/2021,Saint Benedict,away,L,0,1,True

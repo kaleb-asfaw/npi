@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Hendrix,L 0-1,0,09/01/2022,Hendrix,home,L,0,1,False
+09/03/2022,@ LeTourneau,L 0-2,75,09/03/2022,LeTourneau,away,L,0,2,False
+09/06/2022,Howard Payne,T 2-2,132,09/06/2022,Howard Payne,home,T,2,2,False
+09/13/2022,Dallas,L 0-3,112,09/13/2022,Dallas,home,L,0,3,False
+09/18/2022,@ Dallas,L 0-2,89,09/18/2022,Dallas,away,L,0,2,False
+09/23/2022,@ Southwestern (TX),L 0-6,0,09/23/2022,Southwestern (TX),away,L,0,6,False
+09/25/2022,@ Texas Lutheran,L 0-3,75,09/25/2022,Texas Lutheran,away,L,0,3,False
+09/30/2022,Trinity (TX),L 0-8,124,09/30/2022,Trinity (TX),home,L,0,8,False
+10/02/2022,Schreiner,L 0-1,127,10/02/2022,Schreiner,home,L,0,1,False
+10/07/2022,@ Centenary (LA),L 1-5,100,10/07/2022,Centenary (LA),away,L,1,5,False
+10/09/2022,@ St. Thomas (TX),L 0-3,150,10/09/2022,St. Thomas (TX),away,L,0,3,False
+10/14/2022,@ Trinity (TX),L 0-5,203,10/14/2022,Trinity (TX),away,L,0,5,False
+10/16/2022,@ Schreiner,L 0-1,207,10/16/2022,Schreiner,away,L,0,1,False
+10/21/2022,Southwestern (TX),L 0-2,114,10/21/2022,Southwestern (TX),home,L,0,2,False
+10/23/2022,Texas Lutheran,L 0-4,127,10/23/2022,Texas Lutheran,home,L,0,4,False
+10/28/2022,Centenary (LA),W 2-0,137,10/28/2022,Centenary (LA),home,W,2,0,False
+10/30/2022,St. Thomas (TX),L 2-5,142,10/30/2022,St. Thomas (TX),home,L,2,5,False

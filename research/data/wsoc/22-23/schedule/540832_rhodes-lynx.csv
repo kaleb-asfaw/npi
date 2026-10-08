@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2022,@ Ozarks (AR),Canceled,,09/03/2022,Ozarks (AR),away,,,,
+09/04/2022,Huntingdon,W 1-0,0,09/04/2022,Huntingdon,home,W,1,0,False
+09/09/2022,Illinois Col.,W 5-0,0,09/09/2022,Illinois Col.,home,W,5,0,False
+09/11/2022,Neb. Wesleyan,W 3-0,0,09/11/2022,Neb. Wesleyan,home,W,3,0,False
+09/17/2022,"WashU @Whitewater, WI",L 0-1,100,09/17/2022,WashU,neutral,L,0,1,False
+09/18/2022,"DePauw @Whitewater, WI",T 1-1,100,09/18/2022,DePauw,neutral,T,1,1,False
+09/23/2022,Millsaps,W 2-0,100,09/23/2022,Millsaps,home,W,2,0,False
+09/25/2022,@ UT Dallas,Canceled,,09/25/2022,UT Dallas,away,,,,
+10/01/2022,@ Birmingham-So.,W 2-0,104,10/01/2022,Birmingham-So.,away,W,2,0,False
+10/07/2022,Centre,L 2-4,0,10/07/2022,Centre,home,L,2,4,False
+10/09/2022,Sewanee,L 0-1,0,10/09/2022,Sewanee,home,L,0,1,False
+10/14/2022,@ Berry,W 1-0,132,10/14/2022,Berry,away,W,1,0,False
+10/16/2022,@ Oglethorpe,W 3-0,127,10/16/2022,Oglethorpe,away,W,3,0,False
+10/19/2022,@ MUW,W 1-0,82,10/19/2022,MUW,away,W,1,0,False
+10/22/2022,@ Hendrix,W 2-0,120,10/22/2022,Hendrix,away,W,2,0,False
+10/29/2022,Hendrix SAA WSOC Championship,W 2-0,0,10/29/2022,Hendrix,home,W,2,0,False
+11/04/2022,@ Sewanee SAA WSOC Championship,L 0-2,200,11/04/2022,Sewanee,away,L,0,2,False

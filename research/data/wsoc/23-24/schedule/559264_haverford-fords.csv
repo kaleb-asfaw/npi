@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2023,Arcadia,L 1-2,150,09/02/2023,Arcadia,home,L,1,2,False
+09/03/2023,TCNJ,L 0-6,143,09/03/2023,TCNJ,home,L,0,6,False
+09/06/2023,Alvernia,W 2-0,41,09/06/2023,Alvernia,home,W,2,0,False
+09/09/2023,@ DeSales,W 6-1,200,09/09/2023,DeSales,away,W,6,1,False
+09/13/2023,@ Widener,T 0-0,167,09/13/2023,Widener,away,T,0,0,False
+09/16/2023,Lebanon Valley,W 1-0,103,09/16/2023,Lebanon Valley,home,W,1,0,False
+09/20/2023,@ Franklin & Marshall,L 0-5,140,09/20/2023,Franklin & Marshall,away,L,0,5,False
+09/23/2023,Gettysburg,L 1-2,45,09/23/2023,Gettysburg,home,L,1,2,False
+09/26/2023,@ Immaculata,W 7-0,87,09/26/2023,Immaculata,away,W,7,0,False
+09/30/2023,@ Dickinson,L 0-5,40,09/30/2023,Dickinson,away,L,0,5,False
+10/04/2023,Muhlenberg,W 5-2,75,10/04/2023,Muhlenberg,home,W,5,2,False
+10/07/2023,@ Washington Col.,L 0-3,110,10/07/2023,Washington Col.,away,L,0,3,False
+10/11/2023,Ursinus,W 3-0,55,10/11/2023,Ursinus,home,W,3,0,False
+10/14/2023,McDaniel,L 0-1,30,10/14/2023,McDaniel,home,L,0,1,False
+10/21/2023,@ Johns Hopkins,L 0-4,230,10/21/2023,Johns Hopkins,away,L,0,4,False
+10/24/2023,@ Bryn Mawr,T 1-1,0,10/24/2023,Bryn Mawr,away,T,1,1,False
+10/28/2023,Swarthmore,L 0-2,173,10/28/2023,Swarthmore,home,L,0,2,False

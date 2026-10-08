@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Wis.-Platteville,L 0-3,103,09/01/2023,Wis.-Platteville,home,L,0,3,False
+09/03/2023,@ Coe,L 0-1,124,09/03/2023,Coe,away,L,0,1,False
+09/06/2023,@ Ripon,L 0-2,30,09/06/2023,Ripon,away,L,0,2,False
+09/09/2023,Augustana (IL),L 0-2,98,09/09/2023,Augustana (IL),home,L,0,2,False
+09/13/2023,Rockford,W 2-1,49,09/13/2023,Rockford,home,W,2,1,False
+09/16/2023,Lakeland,W 4-0,72,09/16/2023,Lakeland,home,W,4,0,False
+09/17/2023,Lake Forest,T 0-0,42,09/17/2023,Lake Forest,home,T,0,0,False
+09/20/2023,@ Aurora,L 0-1,68,09/20/2023,Aurora,away,L,0,1,False
+09/23/2023,@ Wis. Lutheran,L 1-2,169,09/23/2023,Wis. Lutheran,away,L,1,2,False
+09/27/2023,@ Illinois Tech,L 0-3,67,09/27/2023,Illinois Tech,away,L,0,3,False
+10/01/2023,St. Norbert,L 0-1,182,10/01/2023,St. Norbert,home,L,0,1,False
+10/04/2023,Marian (WI),L 1-2,54,10/04/2023,Marian (WI),home,L,1,2,False
+10/07/2023,@ MSOE,L 0-2,189,10/07/2023,MSOE,away,L,0,2,False
+10/11/2023,Benedictine (IL),T 1-1,61,10/11/2023,Benedictine (IL),home,T,1,1,False
+10/14/2023,Concordia Wisconsin,W 1-0,126,10/14/2023,Concordia Wisconsin,home,W,1,0,False
+10/18/2023,Edgewood,T 0-0,62,10/18/2023,Edgewood,home,T,0,0,False
+10/21/2023,@ Alverno,Canceled,,10/21/2023,Alverno,away,,,,
+10/22/2023,@ Elmhurst,L 0-1,53,10/22/2023,Elmhurst,away,L,0,1,False
+10/25/2023,@ Dominican (IL),L 0-1,100,10/25/2023,Dominican (IL),away,L,0,1,False

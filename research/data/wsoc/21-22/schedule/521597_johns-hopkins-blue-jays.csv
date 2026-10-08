@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/04/2021,Randolph-Macon,W 1-0,150,09/04/2021,Randolph-Macon,home,W,1,0,False
+09/05/2021,Mary Washington,W 4-0,110,09/05/2021,Mary Washington,home,W,4,0,False
+09/08/2021,Messiah,T 1-1 (2 OT),225,09/08/2021,Messiah,home,T,1,1,True
+09/11/2021,@ Catholic,W 4-0,87,09/11/2021,Catholic,away,W,4,0,False
+09/18/2021,Bryn Mawr,W 1-0,250,09/18/2021,Bryn Mawr,home,W,1,0,False
+09/22/2021,Swarthmore,W 3-0,79,09/22/2021,Swarthmore,home,W,3,0,False
+09/25/2021,@ Haverford,W 1-0,196,09/25/2021,Haverford,away,W,1,0,False
+09/29/2021,Carnegie Mellon,W 2-1,75,09/29/2021,Carnegie Mellon,home,W,2,1,False
+10/06/2021,@ Gettysburg,W 2-1,214,10/06/2021,Gettysburg,away,W,2,1,False
+10/09/2021,Washington Col.,W 2-0,189,10/09/2021,Washington Col.,home,W,2,0,False
+10/13/2021,@ McDaniel,W 2-1 (1 OT),400,10/13/2021,McDaniel,away,W,2,1,True
+10/16/2021,@ Ursinus,W 5-0,82,10/16/2021,Ursinus,away,W,5,0,False
+10/20/2021,TCNJ,T 2-2 (2 OT),357,10/20/2021,TCNJ,home,T,2,2,True
+10/23/2021,Muhlenberg,W 4-0,154,10/23/2021,Muhlenberg,home,W,4,0,False
+10/27/2021,Dickinson,W 2-0,100,10/27/2021,Dickinson,home,W,2,0,False
+10/30/2021,@ Franklin & Marshall,W 1-0,87,10/30/2021,Franklin & Marshall,away,W,1,0,False
+11/05/2021,#5 Franklin & Marshall Centennial WSOC Championship,L 0-1,200,11/05/2021,Franklin & Marshall,home,L,0,1,False
+11/13/2021,"Gordon @Amherst, MA (NCAA Division III Women's Soccer Championship)",W 3-0,,11/13/2021,Gordon,neutral,W,3,0,False
+11/14/2021,@ Amherst NCAA Division III Women's Soccer Championship,W 2-1,200,11/14/2021,Amherst,away,W,2,1,False
+11/20/2021,"Wesleyan (CT) @Cambridge, Mass. (NCAA Division III Women's Soccer Championship)",L 1-2,307,11/20/2021,Wesleyan (CT),neutral,L,1,2,False

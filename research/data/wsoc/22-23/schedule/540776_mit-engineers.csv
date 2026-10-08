@@ -1,0 +1,24 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Brandeis,W 2-1,215,09/01/2022,Brandeis,home,W,2,1,False
+09/03/2022,@ Bridgewater St.,W 3-0,100,09/03/2022,Bridgewater St.,away,W,3,0,False
+09/06/2022,@ JWU (Providence),T 2-2,107,09/06/2022,JWU (Providence),away,T,2,2,False
+09/08/2022,Lesley,W 4-0,78,09/08/2022,Lesley,home,W,4,0,False
+09/10/2022,"CMS @Manchester, VT",L 0-1,75,09/10/2022,CMS,neutral,L,0,1,False
+09/11/2022,"VTSU Castleton @Manchester, Vt.",W 5-0,64,09/11/2022,VTSU Castleton,neutral,W,5,0,False
+09/14/2022,@ Roger Williams,W 6-1,74,09/14/2022,Roger Williams,away,W,6,1,False
+09/17/2022,Clark (MA),W 2-0,115,09/17/2022,Clark (MA),home,W,2,0,False
+09/24/2022,@ Mount Holyoke,W 5-0,75,09/24/2022,Mount Holyoke,away,W,5,0,False
+09/27/2022,Tufts,L 0-2,96,09/27/2022,Tufts,home,L,0,2,False
+10/01/2022,@ Wheaton (MA),W 4-0,100,10/01/2022,Wheaton (MA),away,W,4,0,False
+10/05/2022,Babson,W 1-0,96,10/05/2022,Babson,home,W,1,0,False
+10/08/2022,@ Springfield,W 1-0,150,10/08/2022,Springfield,away,W,1,0,False
+10/09/2022,@ Williams,L 1-2,301,10/09/2022,Williams,away,L,1,2,False
+10/11/2022,Wellesley,W 1-0,87,10/11/2022,Wellesley,home,W,1,0,False
+10/15/2022,Emerson,L 0-1,92,10/15/2022,Emerson,home,L,0,1,False
+10/17/2022,@ Trinity (CT),W 1-0,100,10/17/2022,Trinity (CT),away,W,1,0,False
+10/19/2022,@ WPI,T 0-0,200,10/19/2022,WPI,away,T,0,0,False
+10/22/2022,Coast Guard,W 4-0,124,10/22/2022,Coast Guard,home,W,4,0,False
+10/29/2022,@ Smith,W 4-0,150,10/29/2022,Smith,away,W,4,0,False
+11/03/2022,#4 Clark (MA) NEWMAC WSOC Championship,L 0-1,204,11/03/2022,Clark (MA),home,L,0,1,False
+11/12/2022,Sarah Lawrence NCAA Division III Women's Soccer Championship,W 6-0,309,11/12/2022,Sarah Lawrence,home,W,6,0,False
+11/13/2022,Williams NCAA Division III Women's Soccer Championship,T 0-0 (3 OT),325,11/13/2022,Williams,home,T,0,0,True

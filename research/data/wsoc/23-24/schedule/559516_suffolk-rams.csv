@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Elms,W 2-1,108,09/01/2023,Elms,home,W,2,1,False
+09/05/2023,@ UMass Dartmouth,T 0-0,250,09/05/2023,UMass Dartmouth,away,T,0,0,False
+09/07/2023,@ Bridgewater St.,L 0-3,250,09/07/2023,Bridgewater St.,away,L,0,3,False
+09/09/2023,Mass. Maritime,W 3-0,77,09/09/2023,Mass. Maritime,home,W,3,0,False
+09/12/2023,@ Fitchburg St.,W 2-1,50,09/12/2023,Fitchburg St.,away,W,2,1,False
+09/15/2023,Wentworth,W 1-0,72,09/15/2023,Wentworth,home,W,1,0,False
+09/20/2023,Lesley,W 2-0,65,09/20/2023,Lesley,home,W,2,0,False
+09/23/2023,@ Endicott,L 0-3,110,09/23/2023,Endicott,away,L,0,3,False
+09/26/2023,Fisher,W 5-0,53,09/26/2023,Fisher,home,W,5,0,False
+09/30/2023,@ Hartford,L 1-7,396,09/30/2023,Hartford,away,L,1,7,False
+10/03/2023,UMass Boston,T 0-0,71,10/03/2023,UMass Boston,home,T,0,0,False
+10/07/2023,Nichols,W 8-1,63,10/07/2023,Nichols,home,W,8,1,False
+10/11/2023,@ Western New Eng.,L 0-1,215,10/11/2023,Western New Eng.,away,L,0,1,False
+10/14/2023,Curry,T 1-1,73,10/14/2023,Curry,home,T,1,1,False
+10/18/2023,@ U New England,L 0-3,118,10/18/2023,U New England,away,L,0,3,False
+10/21/2023,Gordon,L 0-1,73,10/21/2023,Gordon,home,L,0,1,False
+10/24/2023,@ Roger Williams,L 0-2,123,10/24/2023,Roger Williams,away,L,0,2,False
+10/28/2023,@ #2 Roger Williams CCC Women's Soccer Championship,W 2-1,237,10/28/2023,Roger Williams,away,W,2,1,False
+11/01/2023,@ #3 Endicott CCC Women's Soccer Championship,L 0-4,213,11/01/2023,Endicott,away,L,0,4,False

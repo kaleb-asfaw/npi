@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Transylvania,Canceled,,08/30/2024,Transylvania,away,,,,
+08/31/2024,@ Berea,W 3-0,200,08/31/2024,Berea,away,W,3,0,False
+09/03/2024,Berry,W 1-0,135,09/03/2024,Berry,home,W,1,0,False
+09/06/2024,Bob Jones,W 3-1,134,09/06/2024,Bob Jones,home,W,3,1,False
+09/07/2024,Centre,L 1-2,156,09/07/2024,Centre,home,L,1,2,False
+09/11/2024,Oglethorpe,W 1-0,156,09/11/2024,Oglethorpe,home,W,1,0,False
+09/19/2024,Emory,L 1-3,98,09/19/2024,Emory,home,L,1,3,False
+09/21/2024,Huntingdon,W 1-0,289,09/21/2024,Huntingdon,home,W,1,0,False
+09/28/2024,LaGrange,W 2-0,134,09/28/2024,LaGrange,home,W,2,0,False
+10/02/2024,@ Maryville (TN),L 1-3,312,10/02/2024,Maryville (TN),away,L,1,3,False
+10/05/2024,@ Asbury,W 1-0,200,10/05/2024,Asbury,away,W,1,0,False
+10/08/2024,@ Sewanee,L 0-5,182,10/08/2024,Sewanee,away,L,0,5,False
+10/12/2024,@ Wesleyan (GA),W 9-0,105,10/12/2024,Wesleyan (GA),away,W,9,0,False
+10/19/2024,Piedmont,T 0-0,343,10/19/2024,Piedmont,home,T,0,0,False
+10/23/2024,Agnes Scott,W 4-0,156,10/23/2024,Agnes Scott,home,W,4,0,False
+10/26/2024,@ Belhaven,L 1-3,121,10/26/2024,Belhaven,away,L,1,3,False
+11/02/2024,#5 Asbury CCS Women's Soccer Championship,L 0-2,259,11/02/2024,Asbury,home,L,0,2,False

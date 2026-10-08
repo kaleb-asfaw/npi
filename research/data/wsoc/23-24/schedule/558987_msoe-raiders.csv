@@ -1,0 +1,26 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Albion,W 2-0,127,09/01/2023,Albion,away,W,2,0,False
+09/02/2023,@ Kalamazoo,T 2-2,126,09/02/2023,Kalamazoo,away,T,2,2,False
+09/05/2023,Lake Forest,W 3-1,147,09/05/2023,Lake Forest,home,W,3,1,False
+09/08/2023,@ Wis.-Whitewater,T 1-1,113,09/08/2023,Wis.-Whitewater,away,T,1,1,False
+09/09/2023,St. Scholastica,W 4-0,204,09/09/2023,St. Scholastica,home,W,4,0,False
+09/11/2023,Simpson,W 1-0,114,09/11/2023,Simpson,home,W,1,0,False
+09/13/2023,Alverno,W 9-0,99,09/13/2023,Alverno,home,W,9,0,False
+09/16/2023,@ Edgewood,W 2-0,127,09/16/2023,Edgewood,away,W,2,0,False
+09/20/2023,Lakeland,W 6-0,113,09/20/2023,Lakeland,home,W,6,0,False
+09/23/2023,Illinois Tech,L 0-2,203,09/23/2023,Illinois Tech,home,L,0,2,False
+09/27/2023,@ Marian (WI),W 4-1,145,09/27/2023,Marian (WI),away,W,4,1,False
+09/30/2023,@ Dominican (IL),W 4-0,150,09/30/2023,Dominican (IL),away,W,4,0,False
+10/04/2023,@ Concordia Wisconsin,W 4-0,103,10/04/2023,Concordia Wisconsin,away,W,4,0,False
+10/07/2023,Concordia Chicago,W 2-0,189,10/07/2023,Concordia Chicago,home,W,2,0,False
+10/09/2023,@ Wis.-La Crosse,T 0-0,255,10/09/2023,Wis.-La Crosse,away,T,0,0,False
+10/11/2023,Rockford,W 3-0,85,10/11/2023,Rockford,home,W,3,0,False
+10/14/2023,@ Aurora,W 4-0,173,10/14/2023,Aurora,away,W,4,0,False
+10/18/2023,St. Norbert,W 4-2,138,10/18/2023,St. Norbert,home,W,4,2,False
+10/21/2023,Benedictine (IL),W 4-0,142,10/21/2023,Benedictine (IL),home,W,4,0,False
+10/25/2023,@ Wis. Lutheran,W 2-0,109,10/25/2023,Wis. Lutheran,away,W,2,0,False
+10/29/2023,#7 Edgewood NACC Women's Soccer Championship,W 6-0,162,10/29/2023,Edgewood,home,W,6,0,False
+11/01/2023,#3 Marian (WI) NACC Women's Soccer Championship,W 1-0,94,11/01/2023,Marian (WI),home,W,1,0,False
+11/04/2023,@ #1 Illinois Tech NACC Women's Soccer Championship,W 1-0 (2 OT),249,11/04/2023,Illinois Tech,away,W,1,0,True
+11/10/2023,"Denison @Grand Rapids, MI (NCAA Division III Women's Soccer Championship)",W 2-1,117,11/10/2023,Denison,neutral,W,2,1,False
+11/11/2023,Calvin NCAA Division III Women's Soccer Championship,L 0-1,712,11/11/2023,Calvin,home,L,0,1,False

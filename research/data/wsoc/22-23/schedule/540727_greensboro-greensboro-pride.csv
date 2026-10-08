@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Roanoke,L 0-2,141,09/01/2022,Roanoke,home,L,0,2,False
+09/07/2022,Ferrum,T 1-1,121,09/07/2022,Ferrum,home,T,1,1,False
+09/09/2022,Bob Jones,L 0-1,78,09/09/2022,Bob Jones,home,L,0,1,False
+09/14/2022,Bridgewater (VA),L 0-2,63,09/14/2022,Bridgewater (VA),home,L,0,2,False
+09/17/2022,Randolph-Macon,L 0-3,99,09/17/2022,Randolph-Macon,home,L,0,3,False
+09/18/2022,@ Averett,W 1-0,150,09/18/2022,Averett,away,W,1,0,False
+09/20/2022,@ Guilford,L 0-1,162,09/20/2022,Guilford,away,L,0,1,False
+09/25/2022,@ JWU (Charlotte),W 2-1,50,09/25/2022,@ JWU (Charlotte),home,W,2,1,False
+09/29/2022,Pfeiffer,W 4-0,99,09/29/2022,Pfeiffer,home,W,4,0,False
+10/04/2022,@ Brevard,T 1-1,175,10/04/2022,Brevard,away,T,1,1,False
+10/08/2022,William Peace,W 1-0,90,10/08/2022,William Peace,home,W,1,0,False
+10/11/2022,@ Mary Baldwin,L 1-5,75,10/11/2022,Mary Baldwin,away,L,1,5,False
+10/15/2022,@ N.C. Wesleyan,W 3-1,41,10/15/2022,N.C. Wesleyan,away,W,3,1,False
+10/19/2022,Southern Va.,L 0-1,101,10/19/2022,Southern Va.,home,L,0,1,False
+10/22/2022,@ Meredith,T 0-0,95,10/22/2022,Meredith,away,T,0,0,False
+10/25/2022,@ Methodist,L 1-3,50,10/25/2022,Methodist,away,L,1,3,False
+10/29/2022,Salem (NC),T 0-0,100,10/29/2022,Salem (NC),home,T,0,0,False
+11/01/2022,@ #4 William Peace USA South WSOC Championship,W 1-0,78,11/01/2022,William Peace,away,W,1,0,False
+11/03/2022,@ #1 Methodist USA South WSOC Championship,L 1-2 (2 OT),231,11/03/2022,Methodist,away,L,1,2,True

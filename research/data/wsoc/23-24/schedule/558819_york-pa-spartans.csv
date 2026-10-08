@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Franklin & Marshall,L 1-2,347,09/01/2023,Franklin & Marshall,home,L,1,2,False
+09/03/2023,Ithaca,L 0-1,349,09/03/2023,Ithaca,home,L,0,1,False
+09/06/2023,@ Gettysburg,W 2-1,126,09/06/2023,Gettysburg,away,W,2,1,False
+09/09/2023,McDaniel,L 1-2,370,09/09/2023,McDaniel,home,L,1,2,False
+09/13/2023,@ Dickinson,W 2-0,50,09/13/2023,Dickinson,away,W,2,0,False
+09/16/2023,@ Rochester (NY),L 0-2,242,09/16/2023,Rochester (NY),away,L,0,2,False
+09/20/2023,DeSales,W 3-1,367,09/20/2023,DeSales,home,W,3,1,False
+09/24/2023,@ Salisbury,W 1-0,117,09/24/2023,Salisbury,away,W,1,0,False
+09/27/2023,@ Susquehanna,W 2-0,239,09/27/2023,Susquehanna,away,W,2,0,False
+09/30/2023,@ Widener,W 1-0,150,09/30/2023,Widener,away,W,1,0,False
+10/04/2023,@ Lebanon Valley,W 3-0,214,10/04/2023,Lebanon Valley,away,W,3,0,False
+10/07/2023,Stevenson,W 3-1,319,10/07/2023,Stevenson,home,W,3,1,False
+10/11/2023,@ Misericordia,L 0-3,68,10/11/2023,Misericordia,away,L,0,3,False
+10/14/2023,@ Alvernia,W 2-0,73,10/14/2023,Alvernia,away,W,2,0,False
+10/17/2023,Eastern,W 2-1,211,10/17/2023,Eastern,home,W,2,1,False
+10/21/2023,@ Hood,W 2-1,417,10/21/2023,Hood,away,W,2,1,False
+10/25/2023,Albright,W 7-0,209,10/25/2023,Albright,home,W,7,0,False
+10/28/2023,Messiah,L 0-3,347,10/28/2023,Messiah,home,L,0,3,False
+10/31/2023,#3 Widener MAC Commonwealth Women's Soccer Championship,W 2-0,167,10/31/2023,Widener,home,W,2,0,False
+11/04/2023,@ #1 Messiah MAC Commonwealth Women's Soccer Championship,L 1-4,357,11/04/2023,Messiah,away,L,1,4,False

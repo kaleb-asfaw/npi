@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Aurora,W 6-0,240,09/01/2023,Aurora,home,W,6,0,False
+09/02/2023,Concordia-M'head,W 1-0,127,09/02/2023,Concordia-M'head,home,W,1,0,False
+09/06/2023,@ Wis.-Whitewater,W 4-0,134,09/06/2023,Wis.-Whitewater,away,W,4,0,False
+09/09/2023,@ Concordia Wisconsin,W 3-0,120,09/09/2023,Concordia Wisconsin,away,W,3,0,False
+09/13/2023,@ Carroll (WI),L 0-2,87,09/13/2023,Carroll (WI),away,L,0,2,False
+09/16/2023,Lawrence,Ppd,,09/16/2023,Lawrence,home,,,,
+09/17/2023,Millikin,W 5-0,120,09/17/2023,Millikin,home,W,5,0,False
+09/20/2023,St. Catherine,W 2-0,130,09/20/2023,St. Catherine,home,W,2,0,False
+09/23/2023,Buena Vista,W 6-0,215,09/23/2023,Buena Vista,home,W,6,0,False
+09/27/2023,@ Wis.-Oshkosh,W 3-0,45,09/27/2023,Wis.-Oshkosh,away,W,3,0,False
+09/30/2023,@ Neb. Wesleyan,W 4-0,75,09/30/2023,Neb. Wesleyan,away,W,4,0,False
+10/07/2023,Dubuque,W 4-1,275,10/07/2023,Dubuque,home,W,4,1,False
+10/10/2023,@ Wartburg,W 5-0,307,10/10/2023,Wartburg,away,W,5,0,False
+10/14/2023,Simpson,W 2-0,125,10/14/2023,Simpson,home,W,2,0,False
+10/18/2023,@ Luther,W 2-0,106,10/18/2023,Luther,away,W,2,0,False
+10/21/2023,Coe,W 4-0,125,10/21/2023,Coe,home,W,4,0,False
+10/24/2023,@ Central (IA),W 3-1,100,10/24/2023,Central (IA),away,W,3,1,False
+11/01/2023,#4 Dubuque American Rivers Women's Soccer Championship,W 3-0,263,11/01/2023,Dubuque,home,W,3,0,False
+11/04/2023,#2 Simpson American Rivers Women's Soccer Championship,T 1-1 (3 OT),317,11/04/2023,Simpson,home,T,1,1,True
+11/11/2023,Lake Forest NCAA Division III Women's Soccer Championship,W 4-0,275,11/11/2023,Lake Forest,home,W,4,0,False
+11/12/2023,UChicago NCAA Division III Women's Soccer Championship,W 2-1 (2 OT),300,11/12/2023,UChicago,home,W,2,1,True
+11/17/2023,"Wis.-La Crosse @St. Louis, MO (NCAA Division III Women's Soccer Championship)",L 0-1,250,11/17/2023,Wis.-La Crosse,neutral,L,0,1,False

@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Lakeland,L 0-5,96,09/01/2023,Lakeland,away,L,0,5,False
+09/02/2023,@ Ripon,L 0-5,50,09/02/2023,Ripon,away,L,0,5,False
+09/08/2023,Maranatha Baptist,W 4-0,237,09/08/2023,Maranatha Baptist,home,W,4,0,False
+09/13/2023,@ Crown (MN),L 0-3,129,09/13/2023,Crown (MN),away,L,0,3,False
+09/16/2023,Martin Luther,W 3-2,97,09/16/2023,Martin Luther,home,W,3,2,False
+09/19/2023,North Central (MN),T 1-1,98,09/19/2023,North Central (MN),home,T,1,1,False
+09/24/2023,@ Minn.-Morris,L 0-1,43,09/24/2023,Minn.-Morris,away,L,0,1,False
+09/27/2023,Wis.-Superior,L 0-5,49,09/27/2023,Wis.-Superior,home,L,0,5,False
+09/30/2023,Bethany Lutheran,L 0-2,76,09/30/2023,Bethany Lutheran,home,L,0,2,False
+10/03/2023,@ Northwestern-St. Paul,L 1-6,60,10/03/2023,Northwestern-St. Paul,away,L,1,6,False
+10/07/2023,@ Martin Luther,T 0-0,125,10/07/2023,Martin Luther,away,T,0,0,False
+10/11/2023,@ North Central (MN),L 0-2,50,10/11/2023,North Central (MN),away,L,0,2,False
+10/14/2023,Minn.-Morris,L 0-2,43,10/14/2023,Minn.-Morris,home,L,0,2,False
+10/17/2023,Crown (MN),L 1-2,57,10/17/2023,Crown (MN),home,L,1,2,False
+10/21/2023,@ Bethany Lutheran,L 1-6,128,10/21/2023,Bethany Lutheran,away,L,1,6,False
+10/25/2023,@ Wis.-Superior,L 0-3,123,10/25/2023,Wis.-Superior,away,L,0,3,False
+10/28/2023,Northwestern-St. Paul,L 0-2,0,10/28/2023,Northwestern-St. Paul,home,L,0,2,False

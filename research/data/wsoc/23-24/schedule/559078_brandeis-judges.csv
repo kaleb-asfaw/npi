@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,MIT,T 1-1,150,09/01/2023,MIT,home,T,1,1,False
+09/03/2023,Fitchburg St.,W 2-0,50,09/03/2023,Fitchburg St.,home,W,2,0,False
+09/05/2023,@ Babson,W 3-1,175,09/05/2023,Babson,away,W,3,1,False
+09/08/2023,@ Roger Williams,W 2-1,113,09/08/2023,Roger Williams,away,W,2,1,False
+09/12/2023,Clark (MA),T 0-0,67,09/12/2023,Clark (MA),home,T,0,0,False
+09/17/2023,@ JWU (Providence),T 1-1,113,09/17/2023,JWU (Providence),away,T,1,1,False
+09/19/2023,Bridgewater St.,W 2-1,125,09/19/2023,Bridgewater St.,home,W,2,1,False
+09/26/2023,@ Lesley,W 5-1,35,09/26/2023,Lesley,away,W,5,1,False
+09/30/2023,Carnegie Mellon,L 0-1,100,09/30/2023,Carnegie Mellon,home,L,0,1,False
+10/04/2023,Southern Me.,L 0-1,50,10/04/2023,Southern Me.,home,L,0,1,False
+10/07/2023,@ WashU,L 0-4,112,10/07/2023,WashU,away,L,0,4,False
+10/11/2023,@ Wheaton (MA),W 1-0,97,10/11/2023,Wheaton (MA),away,W,1,0,False
+10/14/2023,UChicago,L 0-1,300,10/14/2023,UChicago,home,L,0,1,False
+10/20/2023,@ Emory,L 0-1,435,10/20/2023,Emory,away,L,0,1,False
+10/22/2023,@ Rochester (NY),L 0-1,103,10/22/2023,Rochester (NY),away,L,0,1,False
+10/28/2023,CWRU,L 0-2,150,10/28/2023,CWRU,home,L,0,2,False
+11/04/2023,@ NYU,L 1-4,227,11/04/2023,NYU,away,L,1,4,False

@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/04/2021,"Edgewood @Spokane, WA",W 4-0,40,09/04/2021,Edgewood,neutral,W,4,0,False
+09/05/2021,"Carroll (MT) @Spokane, WA",W 1-0,160,09/05/2021,"Carroll (MT) @Spokane, WA",neutral,W,1,0,False
+09/10/2021,Northwest (WA),W 1-0,100,09/10/2021,Northwest (WA),home,W,1,0,False
+09/11/2021,Wheaton (IL),W 1-0,200,09/11/2021,Wheaton (IL),home,W,1,0,False
+09/18/2021,Whitman,W 1-0,150,09/18/2021,Whitman,home,W,1,0,False
+09/19/2021,Whitworth,T 0-0 (2 OT),125,09/19/2021,Whitworth,home,T,0,0,True
+09/25/2021,@ George Fox,W 2-1,98,09/25/2021,George Fox,away,W,2,1,False
+09/26/2021,@ Pacific (OR),W 1-0 (1 OT),78,09/26/2021,Pacific (OR),away,W,1,0,True
+10/02/2021,@ Willamette,W 3-0,0,10/02/2021,Willamette,away,W,3,0,False
+10/03/2021,@ Linfield,W 2-1,115,10/03/2021,Linfield,away,W,2,1,False
+10/06/2021,Pacific Lutheran,W 1-0 (1 OT),160,10/06/2021,Pacific Lutheran,home,W,1,0,True
+10/10/2021,Lewis & Clark,W 3-0,102,10/10/2021,Lewis & Clark,home,W,3,0,False
+10/16/2021,@ Whitman,W 1-0,1,10/16/2021,Whitman,away,W,1,0,False
+10/17/2021,@ Whitworth,W 2-0,154,10/17/2021,Whitworth,away,W,2,0,False
+10/23/2021,George Fox,T 1-1 (2 OT),123,10/23/2021,George Fox,home,T,1,1,True
+10/24/2021,Pacific (OR),W 1-0,102,10/24/2021,Pacific (OR),home,W,1,0,False
+10/30/2021,Willamette,W 1-0,143,10/30/2021,Willamette,home,W,1,0,False
+10/31/2021,Linfield,W 1-0,135,10/31/2021,Linfield,home,W,1,0,False
+11/03/2021,@ Pacific Lutheran,L 0-1,177,11/03/2021,Pacific Lutheran,away,L,0,1,False
+11/07/2021,@ Lewis & Clark,L 0-1 (2 OT),75,11/07/2021,Lewis & Clark,away,L,0,1,True

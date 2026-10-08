@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Curry,L 1-4,255,09/01/2022,Curry,home,L,1,4,False
+09/04/2022,@ Salve Regina,L 0-2,391,09/04/2022,Salve Regina,away,L,0,2,False
+09/07/2022,Dean,Canceled,,09/07/2022,Dean,home,,,,
+09/09/2022,@ Wheaton (MA),L 0-2,122,09/09/2022,Wheaton (MA),away,L,0,2,False
+09/14/2022,@ Regis (MA),T 1-1,150,09/14/2022,Regis (MA),away,T,1,1,False
+09/17/2022,WestConn,L 1-7,185,09/17/2022,WestConn,home,L,1,7,False
+09/21/2022,@ Mass. Maritime,W 2-0,101,09/21/2022,Mass. Maritime,away,W,2,0,False
+09/24/2022,@ VTSU Castleton,L 0-1,128,09/24/2022,VTSU Castleton,away,L,0,1,False
+09/28/2022,@ UMass Dartmouth,W 2-1,250,09/28/2022,UMass Dartmouth,away,W,2,1,False
+10/01/2022,Plymouth St.,T 1-1,77,10/01/2022,Plymouth St.,home,T,1,1,False
+10/05/2022,Wentworth,Canceled,,10/05/2022,Wentworth,home,,,,
+10/08/2022,@ UMass Boston,L 2-3,100,10/08/2022,UMass Boston,away,L,2,3,False
+10/12/2022,Eastern Conn. St.,L 0-2,225,10/12/2022,Eastern Conn. St.,home,L,0,2,False
+10/15/2022,Southern Me.,L 0-3,288,10/15/2022,Southern Me.,home,L,0,3,False
+10/23/2022,@ Me.-Farmington,L 0-3,85,10/23/2022,Me.-Farmington,away,L,0,3,False
+10/28/2022,@ Keene St.,L 0-2,126,10/28/2022,Keene St.,away,L,0,2,False

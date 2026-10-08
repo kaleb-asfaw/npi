@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2021,Alverno,L 1-2 (2 OT),100,09/03/2021,Alverno,home,L,1,2,True
+09/09/2021,@ Rockford,L 2-3 (1 OT),40,09/09/2021,Rockford,away,L,2,3,True
+09/12/2021,Defiance,W 6-0,80,09/12/2021,Defiance,home,W,6,0,False
+09/15/2021,@ Blackburn,W 3-0,100,09/15/2021,Blackburn,away,W,3,0,False
+09/18/2021,@ Principia,L 0-3,40,09/18/2021,Principia,away,L,0,3,False
+09/21/2021,Greenville,L 0-4,50,09/21/2021,Greenville,home,L,0,4,False
+09/25/2021,@ Spalding,L 0-4,78,09/25/2021,Spalding,away,L,0,4,False
+09/29/2021,@ Webster,L 0-5,100,09/29/2021,Webster,away,L,0,5,False
+10/01/2021,Fontbonne,L 0-4,60,10/01/2021,Fontbonne,home,L,0,4,False
+10/06/2021,Blackburn,W 1-0,60,10/06/2021,Blackburn,home,W,1,0,False
+10/09/2021,@ Westminster (MO),L 1-5,75,10/09/2021,Westminster (MO),away,L,1,5,False
+10/14/2021,Spalding,L 0-3,65,10/14/2021,Spalding,home,L,0,3,False
+10/16/2021,@ Greenville,L 0-6,75,10/16/2021,Greenville,away,L,0,6,False
+10/19/2021,Principia,L 0-3,50,10/19/2021,Principia,home,L,0,3,False
+10/23/2021,Webster,L 0-3,50,10/23/2021,Webster,home,L,0,3,False
+10/24/2021,Mount Mary,W 2-0,40,10/24/2021,Mount Mary,home,W,2,0,False
+10/27/2021,@ Fontbonne,L 0-2,105,10/27/2021,Fontbonne,away,L,0,2,False
+10/29/2021,Westminster (MO),L 0-5,50,10/29/2021,Westminster (MO),home,L,0,5,False

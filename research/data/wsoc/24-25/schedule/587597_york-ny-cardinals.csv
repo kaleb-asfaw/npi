@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/07/2024,Saint Elizabeth,L 1-8,14,09/07/2024,Saint Elizabeth,home,L,1,8,False
+09/11/2024,Old Westbury,L 1-6,15,09/11/2024,Old Westbury,home,L,1,6,False
+09/14/2024,Trinity Washington,Canceled,,09/14/2024,Trinity Washington,home,,,,
+09/19/2024,Five Towns,L 0-2,45,09/19/2024,Five Towns,home,L,0,2,False
+09/21/2024,SUNY Cobleskill,Canceled,,09/21/2024,SUNY Cobleskill,home,,,,
+09/23/2024,Medgar Evers,W 11-0,54,09/23/2024,Medgar Evers,home,W,11,0,False
+09/25/2024,@ Cedar Crest,L 0-4,71,09/25/2024,Cedar Crest,away,L,0,4,False
+09/28/2024,@ Penn St.-Abington,L 0-9,65,09/28/2024,Penn St.-Abington,away,L,0,9,False
+10/01/2024,@ SUNY Maritime,L 1-5,64,10/01/2024,SUNY Maritime,away,L,1,5,False
+10/08/2024,Brooklyn,L 0-9,43,10/08/2024,Brooklyn,home,L,0,9,False
+10/12/2024,@ Medgar Evers,W 10-0,50,10/12/2024,Medgar Evers,away,W,10,0,False
+10/16/2024,Lehman,L 1-8,27,10/16/2024,Lehman,home,L,1,8,False
+10/19/2024,@ John Jay,L 0-9,50,10/19/2024,John Jay,away,L,0,9,False
+10/23/2024,CCNY,L 0-10,28,10/23/2024,CCNY,home,L,0,10,False
+10/26/2024,@ Brooklyn,L 0-4,75,10/26/2024,Brooklyn,away,L,0,4,False
+11/01/2024,Yeshiva,W 6-0,37,11/01/2024,Yeshiva,home,W,6,0,False
+11/04/2024,@ Medgar Evers,W 11-2,50,11/04/2024,Medgar Evers,away,W,11,2,False

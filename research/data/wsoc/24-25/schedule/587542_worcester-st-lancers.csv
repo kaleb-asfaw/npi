@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/04/2024,@ Wheaton (MA),L 0-5,100,09/04/2024,Wheaton (MA),away,L,0,5,False
+09/07/2024,@ Suffolk,L 0-1,232,09/07/2024,Suffolk,away,L,0,1,False
+09/10/2024,@ Eastern Conn. St.,W 1-0,100,09/10/2024,Eastern Conn. St.,away,W,1,0,False
+09/14/2024,WPI,L 3-5,152,09/14/2024,WPI,home,L,3,5,False
+09/18/2024,@ Keene St.,T 0-0,123,09/18/2024,Keene St.,away,T,0,0,False
+09/21/2024,@ Bridgewater St.,L 1-2,75,09/21/2024,Bridgewater St.,away,L,1,2,False
+09/25/2024,Clark (MA),W 1-0,100,09/25/2024,Clark (MA),home,W,1,0,False
+09/28/2024,@ Westfield St.,L 2-3,205,09/28/2024,Westfield St.,away,L,2,3,False
+10/01/2024,WestConn,W 1-0,87,10/01/2024,WestConn,home,W,1,0,False
+10/05/2024,Fitchburg St.,W 1-0,76,10/05/2024,Fitchburg St.,home,W,1,0,False
+10/09/2024,Roger Williams,T 0-0,87,10/09/2024,Roger Williams,home,T,0,0,False
+10/12/2024,MCLA,W 4-1,87,10/12/2024,MCLA,home,W,4,1,False
+10/18/2024,@ Framingham St.,W 1-0,100,10/18/2024,Framingham St.,away,W,1,0,False
+10/26/2024,Salem St.,T 0-0,88,10/26/2024,Salem St.,home,T,0,0,False
+10/29/2024,UMass Dartmouth,W 3-0,96,10/29/2024,UMass Dartmouth,home,W,3,0,False
+11/02/2024,@ Mass. Maritime,W 3-1,51,11/02/2024,Mass. Maritime,away,W,3,1,False
+11/06/2024,#5 Framingham St. MASCAC Women's Soccer Championship,W 4-0,104,11/06/2024,Framingham St.,home,W,4,0,False
+11/08/2024,@ #2 Westfield St. MASCAC Women's Soccer Championship,L 0-3,234,11/08/2024,Westfield St.,away,L,0,3,False

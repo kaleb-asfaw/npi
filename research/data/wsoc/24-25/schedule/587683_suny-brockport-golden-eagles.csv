@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Allegheny,W 5-0,155,08/30/2024,Allegheny,home,W,5,0,False
+08/31/2024,Skidmore,T 0-0,155,08/31/2024,Skidmore,home,T,0,0,False
+09/07/2024,Thiel,W 6-0,0,09/07/2024,Thiel,home,W,6,0,False
+09/11/2024,Buffalo St.,W 2-0,94,09/11/2024,Buffalo St.,home,W,2,0,False
+09/14/2024,@ Russell Sage,W 1-0,481,09/14/2024,Russell Sage,away,W,1,0,False
+09/21/2024,Keuka,W 4-0,155,09/21/2024,Keuka,home,W,4,0,False
+09/25/2024,@ Hilbert,W 3-0,63,09/25/2024,Hilbert,away,W,3,0,False
+09/28/2024,Hartwick,W 4-0,55,09/28/2024,Hartwick,home,W,4,0,False
+10/02/2024,@ Houghton,W 3-0,100,10/02/2024,Houghton,away,W,3,0,False
+10/05/2024,@ SUNY Poly,W 4-0,74,10/05/2024,SUNY Poly,away,W,4,0,False
+10/09/2024,@ Nazareth,W 5-0,145,10/09/2024,Nazareth,away,W,5,0,False
+10/12/2024,St. John Fisher,L 0-2,55,10/12/2024,St. John Fisher,home,L,0,2,False
+10/16/2024,Alfred,W 1-0,55,10/16/2024,Alfred,home,W,1,0,False
+10/19/2024,@ Elmira,W 7-1,399,10/19/2024,Elmira,away,W,7,1,False
+10/26/2024,Utica,W 2-0,155,10/26/2024,Utica,home,W,2,0,False
+10/30/2024,@ SUNY Geneseo,W 3-1,276,10/30/2024,SUNY Geneseo,away,W,3,1,False
+11/02/2024,Elmira Empire 8 Women's Soccer Championship,W 1-0,55,11/02/2024,Elmira,home,W,1,0,False
+11/06/2024,Nazareth Empire 8 Women's Soccer Championship,T 0-0 (2 OT),155,11/06/2024,Nazareth,home,T,0,0,True
+11/16/2024,"Wesleyan (CT) @Scranton, PA (NCAA Division III Women's Soccer Championship)",L 1-4,215,11/16/2024,Wesleyan (CT),neutral,L,1,4,False

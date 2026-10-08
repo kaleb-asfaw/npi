@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Bushnell,W 7-0,0,09/01/2022,@ Bushnell,home,W,7,0,False
+09/03/2022,Multnomah,W 8-0,213,09/03/2022,Multnomah,home,W,8,0,False
+09/14/2022,@ Pacific (OR),W 2-0,89,09/14/2022,Pacific (OR),away,W,2,0,False
+09/18/2022,@ Puget Sound,W 3-0,120,09/18/2022,Puget Sound,away,W,3,0,False
+09/24/2022,Whitworth,T 1-1,142,09/24/2022,Whitworth,home,T,1,1,False
+09/25/2022,Whitman,W 6-1,1,09/25/2022,Whitman,home,W,6,1,False
+10/01/2022,Linfield,T 1-1,205,10/01/2022,Linfield,home,T,1,1,False
+10/02/2022,@ Lewis & Clark,W 1-0,126,10/02/2022,Lewis & Clark,away,W,1,0,False
+10/08/2022,@ Pacific Lutheran,T 1-1,156,10/08/2022,Pacific Lutheran,away,T,1,1,False
+10/09/2022,@ Willamette,W 2-0,125,10/09/2022,Willamette,away,W,2,0,False
+10/12/2022,Pacific (OR),T 0-0,71,10/12/2022,Pacific (OR),home,T,0,0,False
+10/16/2022,Puget Sound,L 0-2,123,10/16/2022,Puget Sound,home,L,0,2,False
+10/22/2022,@ Whitworth,L 1-2,85,10/22/2022,Whitworth,away,L,1,2,False
+10/23/2022,@ Whitman,W 2-0,0,10/23/2022,Whitman,away,W,2,0,False
+10/29/2022,@ Linfield,L 0-2,163,10/29/2022,Linfield,away,L,0,2,False
+10/30/2022,Lewis & Clark,W 2-1,1,10/30/2022,Lewis & Clark,home,W,2,1,False
+11/05/2022,Pacific Lutheran,L 1-3,127,11/05/2022,Pacific Lutheran,home,L,1,3,False
+11/06/2022,Willamette,W 3-0,86,11/06/2022,Willamette,home,W,3,0,False

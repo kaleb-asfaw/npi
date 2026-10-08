@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/07/2024,"DePauw @Kenosha, WI",W 4-2,174,09/07/2024,DePauw,neutral,W,4,2,False
+09/08/2024,@ Carthage,W 2-1,249,09/08/2024,Carthage,away,W,2,1,False
+09/11/2024,@ Northwestern-St. Paul,T 3-3,218,09/11/2024,Northwestern-St. Paul,away,T,3,3,False
+09/13/2024,@ Crown (MN),W 6-0,109,09/13/2024,Crown (MN),away,W,6,0,False
+09/14/2024,Wis.-Stout,W 2-0,314,09/14/2024,Wis.-Stout,home,W,2,0,False
+09/16/2024,@ Wis.-Eau Claire,L 1-5,185,09/16/2024,Wis.-Eau Claire,away,L,1,5,False
+09/18/2024,St. Olaf,L 0-7,199,09/18/2024,St. Olaf,home,L,0,7,False
+09/21/2024,@ St. Scholastica,W 4-1,101,09/21/2024,St. Scholastica,away,W,4,1,False
+09/28/2024,@ Carleton,L 0-6,104,09/28/2024,Carleton,away,L,0,6,False
+10/01/2024,Macalester,T 1-1,75,10/01/2024,Macalester,home,T,1,1,False
+10/05/2024,@ Hamline,L 1-2,127,10/05/2024,Hamline,away,L,1,2,False
+10/12/2024,Saint Mary's (MN),L 0-4,523,10/12/2024,Saint Mary's (MN),home,L,0,4,False
+10/16/2024,Augsburg,T 1-1,138,10/16/2024,Augsburg,home,T,1,1,False
+10/19/2024,@ Saint Benedict,W 1-0,135,10/19/2024,Saint Benedict,away,W,1,0,False
+10/22/2024,@ Concordia-M'head,T 1-1,236,10/22/2024,Concordia-M'head,away,T,1,1,False
+10/26/2024,Gustavus Adolphus,L 1-3,264,10/26/2024,Gustavus Adolphus,home,L,1,3,False
+11/02/2024,St. Catherine,L 0-3,252,11/02/2024,St. Catherine,home,L,0,3,False

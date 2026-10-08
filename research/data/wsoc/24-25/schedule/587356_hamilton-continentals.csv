@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2024,@ Williams,T 0-0,217,09/03/2024,Williams,away,T,0,0,False
+09/07/2024,@ Middlebury,L 0-1,198,09/07/2024,Middlebury,away,L,0,1,False
+09/10/2024,Oswego St.,W 3-0,102,09/10/2024,Oswego St.,home,W,3,0,False
+09/14/2024,Wesleyan (CT),L 1-2,217,09/14/2024,Wesleyan (CT),home,L,1,2,False
+09/18/2024,Utica,W 4-0,76,09/18/2024,Utica,home,W,4,0,False
+09/21/2024,Tufts,T 2-2,214,09/21/2024,Tufts,home,T,2,2,False
+09/22/2024,@ SUNY Morrisville,W 8-0,103,09/22/2024,SUNY Morrisville,away,W,8,0,False
+09/28/2024,@ Bowdoin,W 2-1,205,09/28/2024,Bowdoin,away,W,2,1,False
+10/05/2024,Colby,L 0-4,151,10/05/2024,Colby,home,L,0,4,False
+10/06/2024,Bates,W 5-0,167,10/06/2024,Bates,home,W,5,0,False
+10/12/2024,@ Connecticut Col.,L 0-1,189,10/12/2024,Connecticut Col.,away,L,0,1,False
+10/13/2024,@ Union (NY),L 1-2,101,10/13/2024,Union (NY),away,L,1,2,False
+10/19/2024,Amherst,T 2-2,134,10/19/2024,Amherst,home,T,2,2,False
+10/20/2024,Mt. St. Mary (NY),W 8-1,127,10/20/2024,Mt. St. Mary (NY),home,W,8,1,False
+10/26/2024,@ Trinity (CT),L 0-1,245,10/26/2024,Trinity (CT),away,L,0,1,False
+11/02/2024,@ #2 Tufts NESCAC Women's Soccer Championship,L 0-1,147,11/02/2024,Tufts,away,L,0,1,False

@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Saint Benedict,W 2-0,125,08/30/2024,Saint Benedict,away,W,2,0,False
+09/01/2024,St. Olaf,L 1-2,235,09/01/2024,St. Olaf,home,L,1,2,False
+09/05/2024,@ Hamline,W 3-0,123,09/05/2024,Hamline,away,W,3,0,False
+09/07/2024,@ St. Catherine,L 0-2,200,09/07/2024,St. Catherine,away,L,0,2,False
+09/13/2024,"Albion @Naperville, IL",T 1-1,45,09/13/2024,Albion,neutral,T,1,1,False
+09/14/2024,@ North Central (IL),L 2-3,104,09/14/2024,North Central (IL),away,L,2,3,False
+09/16/2024,Bethel (MN),W 5-1,185,09/16/2024,Bethel (MN),home,W,5,1,False
+09/18/2024,Luther,W 3-0,105,09/18/2024,Luther,home,W,3,0,False
+09/21/2024,@ Simpson,L 2-3,315,09/21/2024,Simpson,away,L,2,3,False
+09/25/2024,@ Wartburg,L 1-2,158,09/25/2024,Wartburg,away,L,1,2,False
+09/29/2024,"Chris. Newport @La Crosse, WI",L 0-4,100,09/29/2024,Chris. Newport,neutral,L,0,4,False
+10/05/2024,@ Wis.-Whitewater,T 1-1,79,10/05/2024,Wis.-Whitewater,away,T,1,1,False
+10/09/2024,@ Wis.-Stevens Point,T 0-0,285,10/09/2024,Wis.-Stevens Point,away,T,0,0,False
+10/12/2024,Wis.-Platteville,T 2-2,213,10/12/2024,Wis.-Platteville,home,T,2,2,False
+10/16/2024,UW-River Falls,W 2-0,210,10/16/2024,UW-River Falls,home,W,2,0,False
+10/19/2024,@ Wis.-Oshkosh,W 1-0,207,10/19/2024,Wis.-Oshkosh,away,W,1,0,False
+10/26/2024,Wis.-La Crosse,L 0-3,150,10/26/2024,Wis.-La Crosse,home,L,0,3,False
+10/27/2024,@ St. Norbert,W 5-0,236,10/27/2024,St. Norbert,away,W,5,0,False
+11/02/2024,@ Wis.-Stout,W 1-0,250,11/02/2024,Wis.-Stout,away,W,1,0,False
+11/05/2024,#6 Wis.-Whitewater WIAC Women's Soccer Championship,T 2-2 (3 OT),87,11/05/2024,Wis.-Whitewater,home,T,2,2,True
+11/07/2024,@ #2 Wis.-Platteville WIAC Women's Soccer Championship,L 1-2,326,11/07/2024,Wis.-Platteville,away,L,1,2,False

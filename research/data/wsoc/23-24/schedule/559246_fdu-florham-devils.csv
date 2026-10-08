@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Ramapo,W 3-2,125,09/01/2023,Ramapo,home,W,3,2,False
+09/03/2023,@ UMSV,W 2-1,156,09/03/2023,UMSV,away,W,2,1,False
+09/06/2023,@ Kean,L 1-2,104,09/06/2023,Kean,away,L,1,2,False
+09/09/2023,Wm. Paterson,T 2-2,95,09/09/2023,Wm. Paterson,home,T,2,2,False
+09/11/2023,Sarah Lawrence,W 5-0,150,09/11/2023,Sarah Lawrence,home,W,5,0,False
+09/13/2023,@ Muhlenberg,L 0-1,115,09/13/2023,Muhlenberg,away,L,0,1,False
+09/16/2023,Marywood,W 3-2,150,09/16/2023,Marywood,home,W,3,2,False
+09/18/2023,@ Centenary (NJ),W 3-2,69,09/18/2023,Centenary (NJ),away,W,3,2,False
+09/20/2023,Rutgers-Newark,W 1-0,85,09/20/2023,Rutgers-Newark,home,W,1,0,False
+09/24/2023,@ Stevenson,W 2-1,98,09/24/2023,Stevenson,away,W,2,1,False
+09/27/2023,Drew,L 1-2,105,09/27/2023,Drew,home,L,1,2,False
+09/30/2023,Stevens,L 0-1,85,09/30/2023,Stevens,home,L,0,1,False
+10/03/2023,@ Alvernia,W 6-0,85,10/03/2023,Alvernia,away,W,6,0,False
+10/07/2023,@ Lebanon Valley,L 0-2,127,10/07/2023,Lebanon Valley,away,L,0,2,False
+10/11/2023,@ SUNY Delhi,W 3-1,85,10/11/2023,SUNY Delhi,away,W,3,1,False
+10/14/2023,@ Arcadia,L 1-4,112,10/14/2023,Arcadia,away,L,1,4,False
+10/17/2023,Misericordia,L 0-6,65,10/17/2023,Misericordia,home,L,0,6,False
+10/21/2023,@ DeSales,L 1-3,200,10/21/2023,DeSales,away,L,1,3,False
+10/25/2023,King's (PA),W 2-1,100,10/25/2023,King's (PA),home,W,2,1,False
+10/28/2023,Delaware Valley,W 3-2,115,10/28/2023,Delaware Valley,home,W,3,2,False
+11/11/2023,#3 Pitt.-Greensburg 2023 ECAC Women's Soccer Championship,L 2-3,50,11/11/2023,Pitt.-Greensburg,home,L,2,3,False

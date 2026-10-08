@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Beloit,T 1-1 (2 OT),249,09/01/2021,Beloit,home,T,1,1,True
+09/04/2021,@ Wis.-Oshkosh,L 0-6,327,09/04/2021,Wis.-Oshkosh,away,L,0,6,False
+09/08/2021,@ Lawrence,L 0-2,172,09/08/2021,Lawrence,away,L,0,2,False
+09/11/2021,Saint Mary's (MN),L 0-4,217,09/11/2021,Saint Mary's (MN),home,L,0,4,False
+09/15/2021,@ Wis. Lutheran,W 4-1,75,09/15/2021,Wis. Lutheran,away,W,4,1,False
+09/18/2021,@ Rockford,W 5-1,30,09/18/2021,Rockford,away,W,5,1,False
+09/22/2021,@ St. Norbert,L 1-4,120,09/22/2021,St. Norbert,away,L,1,4,False
+09/25/2021,Benedictine (IL),W 3-1,117,09/25/2021,Benedictine (IL),home,W,3,1,False
+09/29/2021,MSOE,L 1-5,137,09/29/2021,MSOE,home,L,1,5,False
+10/02/2021,@ Illinois Tech,L 0-5,75,10/02/2021,Illinois Tech,away,L,0,5,False
+10/06/2021,@ Dominican (IL),L 0-4,119,10/06/2021,Dominican (IL),away,L,0,4,False
+10/09/2021,Concordia Chicago,W 3-2,130,10/09/2021,Concordia Chicago,home,W,3,2,False
+10/13/2021,@ Concordia Wisconsin,L 1-2,67,10/13/2021,Concordia Wisconsin,away,L,1,2,False
+10/16/2021,@ Aurora,W 4-3 (1 OT),184,10/16/2021,Aurora,away,W,4,3,True
+10/20/2021,Lakeland,W 3-0,71,10/20/2021,Lakeland,home,W,3,0,False
+10/23/2021,Alverno,W 4-0,139,10/23/2021,Alverno,home,W,4,0,False
+10/24/2021,Ripon,W 5-0,107,10/24/2021,Ripon,home,W,5,0,False
+10/27/2021,Edgewood,W 3-2,164,10/27/2021,Edgewood,home,W,3,2,False
+10/31/2021,@ #3 Dominican (IL) NACC WSOC Tournament,L 2-4,50,10/31/2021,Dominican (IL),away,L,2,4,False

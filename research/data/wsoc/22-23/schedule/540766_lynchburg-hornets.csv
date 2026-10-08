@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2022,@ Rowan,T 1-1,306,09/02/2022,Rowan,away,T,1,1,False
+09/03/2022,@ Rutgers-Camden,W 2-0,125,09/03/2022,Rutgers-Camden,away,W,2,0,False
+09/10/2022,"Sewanee @Salem, VA",T 0-0,0,09/10/2022,Sewanee,neutral,T,0,0,False
+09/11/2022,"Albion @Salem, VA",T 0-0,61,09/11/2022,Albion,neutral,T,0,0,False
+09/14/2022,Roanoke,W 2-0,233,09/14/2022,Roanoke,home,W,2,0,False
+09/18/2022,"Emory @Charlotte, NC",L 1-3,75,09/18/2022,Emory,neutral,L,1,3,False
+09/21/2022,@ Mary Washington,T 0-0,100,09/21/2022,Mary Washington,away,T,0,0,False
+09/24/2022,@ Randolph,W 6-0,125,09/24/2022,Randolph,away,W,6,0,False
+10/01/2022,Averett,W 7-0,102,10/01/2022,Averett,home,W,7,0,False
+10/04/2022,Chris. Newport,L 0-1,331,10/04/2022,Chris. Newport,home,L,0,1,False
+10/05/2022,@ Sweet Briar,W 9-0,50,10/05/2022,Sweet Briar,away,W,9,0,False
+10/07/2022,@ Ferrum,W 5-0,200,10/07/2022,Ferrum,away,W,5,0,False
+10/12/2022,East. Mennonite,W 8-0,88,10/12/2022,East. Mennonite,home,W,8,0,False
+10/15/2022,Guilford,W 3-0,"2,322",10/15/2022,Guilford,home,W,3,0,False
+10/19/2022,@ Batten,T 0-0,183,10/19/2022,Batten,away,T,0,0,False
+10/22/2022,@ Bridgewater (VA),L 0-1,315,10/22/2022,Bridgewater (VA),away,L,0,1,False
+10/26/2022,Wash. & Lee,T 0-0,588,10/26/2022,Wash. & Lee,home,T,0,0,False
+10/29/2022,Randolph-Macon,W 2-0,201,10/29/2022,Randolph-Macon,home,W,2,0,False
+11/01/2022,#5 Randolph-Macon ODAC WSOC Tournament,W 3-0,333,11/01/2022,Randolph-Macon,home,W,3,0,False
+11/04/2022,#8 Shenandoah ODAC WSOC Tournament,W 1-0,332,11/04/2022,Shenandoah,home,W,1,0,False
+11/06/2022,#3 Batten ODAC WSOC Tournament,T 1-1 (3 OT),847,11/06/2022,Batten,home,T,1,1,True
+11/12/2022,@ Montclair St. NCAA Division III Women's Soccer Championship,L 0-1,743,11/12/2022,Montclair St.,away,L,0,1,False

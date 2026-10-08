@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Curry,L 0-1,75,08/30/2024,Curry,away,L,0,1,False
+09/01/2024,Roger Williams,L 0-2,101,09/01/2024,Roger Williams,home,L,0,2,False
+09/04/2024,Rhode Island Col.,L 0-3,123,09/04/2024,Rhode Island Col.,home,L,0,3,False
+09/07/2024,Bridgewater St.,L 1-5,123,09/07/2024,Bridgewater St.,home,L,1,5,False
+09/11/2024,@ Gordon,L 2-3,200,09/11/2024,Gordon,away,L,2,3,False
+09/14/2024,WestConn,L 1-2,209,09/14/2024,WestConn,home,L,1,2,False
+09/18/2024,Framingham St.,W 4-0,222,09/18/2024,Framingham St.,home,W,4,0,False
+09/21/2024,@ Springfield,T 1-1,225,09/21/2024,Springfield,away,T,1,1,False
+09/28/2024,WPI,T 0-0,184,09/28/2024,WPI,home,T,0,0,False
+10/02/2024,@ U New England,L 0-3,174,10/02/2024,U New England,away,L,0,3,False
+10/05/2024,Mount Holyoke,W 2-1,273,10/05/2024,Mount Holyoke,home,W,2,1,False
+10/09/2024,@ Emerson,L 0-2,105,10/09/2024,Emerson,away,L,0,2,False
+10/12/2024,@ Smith,L 0-1,100,10/12/2024,Smith,away,L,0,1,False
+10/16/2024,Clark (MA),T 1-1,123,10/16/2024,Clark (MA),home,T,1,1,False
+10/19/2024,MIT,L 1-6,157,10/19/2024,MIT,home,L,1,6,False
+10/23/2024,@ Wheaton (MA),L 1-2,50,10/23/2024,Wheaton (MA),away,L,1,2,False
+10/26/2024,@ Babson,L 0-1,200,10/26/2024,Babson,away,L,0,1,False
+10/30/2024,Coast Guard,T 2-2,0,10/30/2024,Coast Guard,home,T,2,2,False
+11/02/2024,@ Wellesley,L 0-2,70,11/02/2024,Wellesley,away,L,0,2,False

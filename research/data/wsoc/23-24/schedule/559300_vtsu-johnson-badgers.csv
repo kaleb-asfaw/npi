@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Norwich,L 0-1,"1,700",09/01/2023,Norwich,away,L,0,1,False
+09/03/2023,Paul Smiths,T 1-1,75,09/03/2023,Paul Smiths,home,T,1,1,False
+09/06/2023,VTSU Randolph,W 9-0,80,09/06/2023,VTSU Randolph,home,W,9,0,False
+09/09/2023,@ SUNY Morrisville,T 1-1,60,09/09/2023,SUNY Morrisville,away,T,1,1,False
+09/16/2023,Thomas (ME),W 2-0,220,09/16/2023,Thomas (ME),home,W,2,0,False
+09/23/2023,Eastern Nazarene,W 2-0,120,09/23/2023,Eastern Nazarene,home,W,2,0,False
+09/24/2023,Bay Path,W 18-0,120,09/24/2023,Bay Path,home,W,18,0,False
+09/27/2023,@ Fisher,W 4-0,40,09/27/2023,@ Fisher,home,W,4,0,False
+09/30/2023,@ SUNY Cobleskill,W 4-1,156,09/30/2023,SUNY Cobleskill,away,W,4,1,False
+10/03/2023,VTSU Lyndon,W 5-0,120,10/03/2023,VTSU Lyndon,home,W,5,0,False
+10/07/2023,@ Maine Maritime,L 0-2,69,10/07/2023,Maine Maritime,away,L,0,2,False
+10/08/2023,@ Thomas (ME),W 1-0,100,10/08/2023,Thomas (ME),away,W,1,0,False
+10/14/2023,@ SUNY Delhi,W 2-1,130,10/14/2023,SUNY Delhi,away,W,2,1,False
+10/17/2023,SUNY Canton,W 6-0,110,10/17/2023,SUNY Canton,home,W,6,0,False
+10/21/2023,SUNY Poly,L 1-3,225,10/21/2023,SUNY Poly,home,L,1,3,False
+10/28/2023,"#3 SUNY Delhi @Marcy, NY (North Atlantic Women's Soccer Championship)",T 1-1 (3 OT),194,10/28/2023,SUNY Delhi,neutral,T,1,1,True

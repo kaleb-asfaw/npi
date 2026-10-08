@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ St. Joseph's (Brkln),W 7-0,75,08/30/2024,St. Joseph's (Brkln),away,W,7,0,False
+09/02/2024,@ Ramapo,L 0-3,324,09/02/2024,Ramapo,away,L,0,3,False
+09/07/2024,@ Penn St.-Abington,L 1-2,65,09/07/2024,Penn St.-Abington,away,L,1,2,False
+09/10/2024,Old Westbury,W 3-1,32,09/10/2024,Old Westbury,home,W,3,1,False
+09/14/2024,CCNY,W 6-1,42,09/14/2024,CCNY,home,W,6,1,False
+09/17/2024,@ Saint Elizabeth,L 0-1,75,09/17/2024,Saint Elizabeth,away,L,0,1,False
+09/21/2024,Kean,L 0-2,41,09/21/2024,Kean,home,L,0,2,False
+09/24/2024,@ Lehman,L 2-3,53,09/24/2024,Lehman,away,L,2,3,False
+10/01/2024,@ John Jay,Canceled,,10/01/2024,John Jay,away,,,,
+10/05/2024,SUNY Delhi,L 2-3,47,10/05/2024,SUNY Delhi,home,L,2,3,False
+10/09/2024,@ Gwynedd Mercy,L 2-3,147,10/09/2024,Gwynedd Mercy,away,L,2,3,False
+10/12/2024,Marymount (VA),L 0-4,43,10/12/2024,Marymount (VA),home,L,0,4,False
+10/16/2024,Neumann,L 1-5,29,10/16/2024,Neumann,home,L,1,5,False
+10/19/2024,@ Immaculata,W 3-2,103,10/19/2024,Immaculata,away,W,3,2,False
+10/23/2024,Centenary (NJ),W 6-3,61,10/23/2024,Centenary (NJ),home,W,6,3,False
+10/26/2024,@ Marywood,L 0-10,209,10/26/2024,Marywood,away,L,0,10,False

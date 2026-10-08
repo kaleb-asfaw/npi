@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Kenyon,W 3-0,55,09/01/2021,Kenyon,away,W,3,0,False
+09/04/2021,@ Wheaton (IL),T 1-1 (2 OT),142,09/04/2021,Wheaton (IL),away,T,1,1,True
+09/05/2021,Trine,T 2-2 (2 OT),257,09/05/2021,Trine,home,T,2,2,True
+09/11/2021,Sewanee,Canceled,,09/11/2021,Sewanee,home,,,,
+09/12/2021,@ Spalding,W 3-0,78,09/12/2021,Spalding,away,W,3,0,False
+09/18/2021,Capital,W 4-0,142,09/18/2021,Capital,home,W,4,0,False
+09/21/2021,@ Asbury,W 5-0,0,09/21/2021,Asbury,away,W,5,0,False
+09/25/2021,Ohio Northern,W 2-0,132,09/25/2021,Ohio Northern,home,W,2,0,False
+09/29/2021,Earlham,W 5-0,124,09/29/2021,Earlham,home,W,5,0,False
+10/03/2021,@ Bluffton,W 7-0,200,10/03/2021,Bluffton,away,W,7,0,False
+10/09/2021,Manchester,W 4-0,153,10/09/2021,Manchester,home,W,4,0,False
+10/10/2021,@ Transylvania,W 1-0,0,10/10/2021,Transylvania,away,W,1,0,False
+10/13/2021,Franklin,W 7-0,123,10/13/2021,Franklin,home,W,7,0,False
+10/16/2021,@ Defiance,W 5-0,55,10/16/2021,Defiance,away,W,5,0,False
+10/20/2021,@ Rose-Hulman,T 1-1 (2 OT),75,10/20/2021,Rose-Hulman,away,T,1,1,True
+10/23/2021,Anderson (IN),W 4-2,174,10/23/2021,Anderson (IN),home,W,4,2,False
+10/27/2021,Mt. St. Joseph,L 0-1,187,10/27/2021,Mt. St. Joseph,home,L,0,1,False
+11/03/2021,#3 Rose-Hulman Heartland WSOC Championship,W 2-1,173,11/03/2021,Rose-Hulman,home,W,2,1,False
+11/06/2021,@ #1 Mt. St. Joseph Heartland WSOC Championship,T 1-1 (3 OT),350,11/06/2021,Mt. St. Joseph,away,T,1,1,True
+11/13/2021,"Dominican (IL) @St. Louis, MO (NCAA Division III Women's Soccer Championship)",L 1-2,250,11/13/2021,Dominican (IL),neutral,L,1,2,False

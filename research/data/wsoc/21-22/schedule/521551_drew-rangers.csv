@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Manhattanville,Ppd,,09/01/2021,Manhattanville,home,,,,
+09/05/2021,@ Notre Dame (MD),W 6-0,35,09/05/2021,Notre Dame (MD),away,W,6,0,False
+09/07/2021,@ Stockton,L 2-3,188,09/07/2021,Stockton,away,L,2,3,False
+09/11/2021,Bard,W 3-0,70,09/11/2021,Bard,home,W,3,0,False
+09/12/2021,Coast Guard,W 3-0,100,09/12/2021,Coast Guard,home,W,3,0,False
+09/15/2021,@ Ramapo,W 2-0,100,09/15/2021,Ramapo,away,W,2,0,False
+09/18/2021,NYU,L 0-1,129,09/18/2021,NYU,home,L,0,1,False
+09/21/2021,Centenary (NJ),W 6-3,175,09/21/2021,Centenary (NJ),home,W,6,3,False
+09/25/2021,Juniata,T 0-0 (2 OT),70,09/25/2021,Juniata,home,T,0,0,True
+09/28/2021,@ FDU-Florham,L 0-2,125,09/28/2021,FDU-Florham,away,L,0,2,False
+10/02/2021,@ Susquehanna,L 1-2 (2 OT),89,10/02/2021,Susquehanna,away,L,1,2,True
+10/05/2021,Wm. Paterson,L 1-2 (1 OT),96,10/05/2021,Wm. Paterson,home,L,1,2,True
+10/09/2021,@ Catholic,W 4-1,0,10/09/2021,Catholic,away,W,4,1,False
+10/13/2021,Scranton,L 0-4,108,10/13/2021,Scranton,home,L,0,4,False
+10/16/2021,Goucher,L 1-2,105,10/16/2021,Goucher,home,L,1,2,False
+10/20/2021,@ Rutgers-Newark,L 1-3,200,10/20/2021,Rutgers-Newark,away,L,1,3,False
+10/23/2021,Elizabethtown,L 0-1 (1 OT),153,10/23/2021,Elizabethtown,home,L,0,1,True
+10/30/2021,@ Moravian,T 0-0 (2 OT),152,10/30/2021,Moravian,away,T,0,0,True

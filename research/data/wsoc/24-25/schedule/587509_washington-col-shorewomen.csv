@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Grove City,W 3-2,188,08/30/2024,Grove City,home,W,3,2,False
+09/01/2024,Marymount (VA),W 3-0,88,09/01/2024,Marymount (VA),home,W,3,0,False
+09/04/2024,Salisbury,T 0-0,145,09/04/2024,Salisbury,home,T,0,0,False
+09/07/2024,@ Hood,T 0-0,168,09/07/2024,Hood,away,T,0,0,False
+09/11/2024,Rutgers-Camden,T 0-0,77,09/11/2024,Rutgers-Camden,home,T,0,0,False
+09/15/2024,Randolph-Macon,T 1-1,167,09/15/2024,Randolph-Macon,home,T,1,1,False
+09/21/2024,Dickinson,L 0-1,112,09/21/2024,Dickinson,home,L,0,1,False
+09/25/2024,@ Bryn Mawr,W 1-0,70,09/25/2024,Bryn Mawr,away,W,1,0,False
+09/28/2024,@ Stevenson,W 3-0,200,09/28/2024,Stevenson,away,W,3,0,False
+10/01/2024,DeSales,W 3-0,123,10/01/2024,DeSales,home,W,3,0,False
+10/05/2024,@ Ursinus,T 0-0,305,10/05/2024,Ursinus,away,T,0,0,False
+10/09/2024,Johns Hopkins,L 0-3,75,10/09/2024,Johns Hopkins,home,L,0,3,False
+10/13/2024,@ Haverford,W 2-0,63,10/13/2024,Haverford,away,W,2,0,False
+10/16/2024,McDaniel,T 1-1,115,10/16/2024,McDaniel,home,T,1,1,False
+10/19/2024,Gettysburg,T 1-1,155,10/19/2024,Gettysburg,home,T,1,1,False
+10/26/2024,Muhlenberg,W 2-0,145,10/26/2024,Muhlenberg,home,W,2,0,False
+10/30/2024,@ Swarthmore,L 0-2,124,10/30/2024,Swarthmore,away,L,0,2,False
+11/02/2024,@ Franklin & Marshall,L 0-1,110,11/02/2024,Franklin & Marshall,away,L,0,1,False

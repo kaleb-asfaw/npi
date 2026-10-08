@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Gettysburg,Ppd,,09/01/2021,Gettysburg,away,,,,
+09/04/2021,"Ill. Wesleyan @Lexington, VA",W 1-0,58,09/04/2021,Ill. Wesleyan,neutral,W,1,0,False
+09/05/2021,"Pfeiffer @Lexington, VA",W 4-0,42,09/05/2021,Pfeiffer,neutral,W,4,0,False
+09/10/2021,"Covenant @Maryville, TN",L 1-3,129,09/10/2021,Covenant,neutral,L,1,3,False
+09/11/2021,@ Maryville (TN),W 3-0,186,09/11/2021,Maryville (TN),away,W,3,0,False
+09/15/2021,Greensboro,W 5-1,70,09/15/2021,Greensboro,home,W,5,1,False
+09/18/2021,Salisbury,W 2-0,110,09/18/2021,Salisbury,home,W,2,0,False
+09/23/2021,@ East. Mennonite,W 4-1,55,09/23/2021,East. Mennonite,away,W,4,1,False
+09/25/2021,Mary Washington,W 2-0,110,09/25/2021,Mary Washington,home,W,2,0,False
+09/29/2021,@ Shenandoah,T 0-0 (2 OT),158,09/29/2021,Shenandoah,away,T,0,0,True
+10/02/2021,@ Sweet Briar,W 4-1,100,10/02/2021,Sweet Briar,away,W,4,1,False
+10/05/2021,Hollins,W 1-0,,10/05/2021,Hollins,home,W,1,0,False
+10/09/2021,Wash. & Lee,T 2-2 (2 OT),110,10/09/2021,Wash. & Lee,home,T,2,2,True
+10/13/2021,@ Ferrum,W 3-0,59,10/13/2021,Ferrum,away,W,3,0,False
+10/16/2021,Randolph,W 3-1,120,10/16/2021,Randolph,home,W,3,1,False
+10/19/2021,@ Randolph-Macon,W 1-0,325,10/19/2021,Randolph-Macon,away,W,1,0,False
+10/23/2021,@ Lynchburg,W 1-0,600,10/23/2021,Lynchburg,away,W,1,0,False
+10/27/2021,Roanoke,W 3-1,115,10/27/2021,Roanoke,home,W,3,1,False
+10/30/2021,Batten,T 1-1 (2 OT),125,10/30/2021,Batten,home,T,1,1,True
+11/02/2021,#7 Randolph-Macon ODAC WSOC Tournament,W 2-0,95,11/02/2021,Randolph-Macon,home,W,2,0,False
+11/05/2021,Lynchburg ODAC WSOC Tournament,L 0-4,200,11/05/2021,Lynchburg,home,L,0,4,False

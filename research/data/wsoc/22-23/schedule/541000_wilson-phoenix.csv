@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2022,@ Saint Vincent,L 0-3,88,09/02/2022,Saint Vincent,away,L,0,3,False
+09/03/2022,@ Pitt.-Greensburg,L 0-3,111,09/03/2022,Pitt.-Greensburg,away,L,0,3,False
+09/10/2022,@ Penn St.-Abington,T 2-2,88,09/10/2022,Penn St.-Abington,away,T,2,2,False
+09/14/2022,@ Christendom,W 2-0,0,09/14/2022,@ Christendom,home,W,2,0,False
+09/17/2022,Penn St.-Mont Alto,Ppd,,09/17/2022,Penn St.-Mont Alto,home,,,,
+09/22/2022,@ Mount Aloysius,L 0-1,70,09/22/2022,Mount Aloysius,away,L,0,1,False
+09/24/2022,Clarks Summit,W 3-1,80,09/24/2022,Clarks Summit,home,W,3,1,False
+09/26/2022,Penn St.-Schuylkill,W 14-0,57,09/26/2022,Penn St.-Schuylkill,home,W,14,0,False
+09/28/2022,Valley Forge,W 13-0,53,09/28/2022,Valley Forge,home,W,13,0,False
+10/01/2022,Cedar Crest,T 0-0,63,10/01/2022,Cedar Crest,home,T,0,0,False
+10/05/2022,@ Trinity Washington,W 12-1,61,10/05/2022,Trinity Washington,away,W,12,1,False
+10/08/2022,@ Keystone,W 3-1,70,10/08/2022,Keystone,away,W,3,1,False
+10/12/2022,@ Notre Dame (MD),W 1-0,20,10/12/2022,Notre Dame (MD),away,W,1,0,False
+10/15/2022,@ Saint Elizabeth,W 6-0,57,10/15/2022,Saint Elizabeth,away,W,6,0,False
+10/19/2022,@ Gallaudet,W 6-0,43,10/19/2022,Gallaudet,away,W,6,0,False
+10/22/2022,Cairn,W 4-0,93,10/22/2022,Cairn,home,W,4,0,False
+10/26/2022,Rosemont,W 6-0,68,10/26/2022,Rosemont,home,W,6,0,False
+10/29/2022,Bryn Athyn,L 1-2,205,10/29/2022,Bryn Athyn,home,L,1,2,False
+10/31/2022,#6 Keystone CSAC WSOC Championship,W 3-0,93,10/31/2022,Keystone,home,W,3,0,False
+11/02/2022,@ #2 Bryn Athyn CSAC WSOC Championship,L 0-1,100,11/02/2022,Bryn Athyn,away,L,0,1,False

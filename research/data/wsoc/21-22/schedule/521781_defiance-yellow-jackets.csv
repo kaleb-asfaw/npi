@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Andrews (MI),W 3-2,0,09/01/2021,@ Andrews (MI),home,W,3,2,False
+09/03/2021,Madonna,Canceled,,09/03/2021,Madonna,home,,,,
+09/05/2021,Bethany (WV),L 0-4,95,09/05/2021,Bethany (WV),home,L,0,4,False
+09/08/2021,Heidelberg,Canceled,,09/08/2021,Heidelberg,home,,,,
+09/11/2021,@ St. Mary-Woods,L 0-7,0,09/11/2021,@ St. Mary-Woods,home,L,0,7,False
+09/12/2021,@ Eureka,L 0-6,80,09/12/2021,Eureka,away,L,0,6,False
+09/15/2021,@ Great Lake Christian,Canceled,,09/15/2021,@ Great Lake Christian,home,,,,
+09/19/2021,Andrews (MI),W 2-0,115,09/19/2021,Andrews (MI),home,W,2,0,False
+09/22/2021,@ Rochester Christian,Canceled,,09/22/2021,@ Rochester Christian,home,,,,
+09/25/2021,Thiel,L 0-3,65,09/25/2021,Thiel,home,L,0,3,False
+09/29/2021,Bluffton,L 0-3,80,09/29/2021,Bluffton,home,L,0,3,False
+10/02/2021,Transylvania,L 0-2,60,10/02/2021,Transylvania,home,L,0,2,False
+10/06/2021,@ Manchester,L 0-4,50,10/06/2021,Manchester,away,L,0,4,False
+10/09/2021,@ Rose-Hulman,L 0-5,100,10/09/2021,Rose-Hulman,away,L,0,5,False
+10/13/2021,@ Anderson (IN),L 0-6,60,10/13/2021,Anderson (IN),away,L,0,6,False
+10/16/2021,Hanover,L 0-5,55,10/16/2021,Hanover,home,L,0,5,False
+10/20/2021,Mt. St. Joseph,L 0-5,55,10/20/2021,Mt. St. Joseph,home,L,0,5,False
+10/23/2021,@ Franklin,L 0-5,82,10/23/2021,Franklin,away,L,0,5,False
+10/27/2021,@ Earlham,L 0-5,53,10/27/2021,Earlham,away,L,0,5,False

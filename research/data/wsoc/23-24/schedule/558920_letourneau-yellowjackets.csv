@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Austin,T 0-0,164,09/01/2023,Austin,away,T,0,0,False
+09/04/2023,Dallas,L 0-1,57,09/04/2023,Dallas,home,L,0,1,False
+09/07/2023,Belhaven,T 1-1,57,09/07/2023,Belhaven,home,T,1,1,False
+09/09/2023,Millsaps,W 4-0,56,09/09/2023,Millsaps,home,W,4,0,False
+09/16/2023,Birmingham-So.,W 3-0,57,09/16/2023,Birmingham-So.,home,W,3,0,False
+09/19/2023,@ Dallas Christian,W 7-0,48,09/19/2023,@ Dallas Christian,home,W,7,0,False
+09/22/2023,Schreiner,W 3-0,78,09/22/2023,Schreiner,home,W,3,0,False
+09/26/2023,Centenary (LA),W 2-0,0,09/26/2023,Centenary (LA),home,W,2,0,False
+09/28/2023,@ Concordia (TX),T 2-2,88,09/28/2023,Concordia (TX),away,T,2,2,False
+09/30/2023,@ Mary Hardin-Baylor,L 0-6,215,09/30/2023,Mary Hardin-Baylor,away,L,0,6,False
+10/05/2023,Hardin-Simmons,L 0-5,68,10/05/2023,Hardin-Simmons,home,L,0,5,False
+10/07/2023,McMurry,L 0-3,168,10/07/2023,McMurry,home,L,0,3,False
+10/10/2023,@ Hendrix,W 4-3,50,10/10/2023,Hendrix,away,W,4,3,False
+10/14/2023,East Tex. Baptist,T 3-3,237,10/14/2023,East Tex. Baptist,home,T,3,3,False
+10/19/2023,Ozarks (AR),T 1-1,87,10/19/2023,Ozarks (AR),home,T,1,1,False
+10/21/2023,UT Dallas,L 0-2,157,10/21/2023,UT Dallas,home,L,0,2,False
+10/27/2023,@ Howard Payne,L 1-3,210,10/27/2023,Howard Payne,away,L,1,3,False
+10/28/2023,@ Sul Ross St.,L 1-3,116,10/28/2023,Sul Ross St.,away,L,1,3,False

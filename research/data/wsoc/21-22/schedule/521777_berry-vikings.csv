@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Emory,L 1-3,225,09/01/2021,Emory,away,L,1,3,False
+09/04/2021,@ Piedmont,L 0-1,142,09/04/2021,Piedmont,away,L,0,1,False
+09/08/2021,Covenant,W 3-0,200,09/08/2021,Covenant,home,W,3,0,False
+09/11/2021,@ Brevard,W 2-0,124,09/11/2021,Brevard,away,W,2,0,False
+09/12/2021,@ Wesleyan (GA),W 6-1,120,09/12/2021,Wesleyan (GA),away,W,6,1,False
+09/15/2021,@ Maryville (TN),L 0-1,191,09/15/2021,Maryville (TN),away,L,0,1,False
+09/25/2021,Sewanee,W 2-0,125,09/25/2021,Sewanee,home,W,2,0,False
+09/26/2021,Berea,W 8-1,125,09/26/2021,Berea,home,W,8,1,False
+09/29/2021,@ Huntingdon,W 1-0,0,09/29/2021,Huntingdon,away,W,1,0,False
+10/02/2021,@ Centre,L 1-2,155,10/02/2021,Centre,away,L,1,2,False
+10/08/2021,@ Rhodes,L 0-2,80,10/08/2021,Rhodes,away,L,0,2,False
+10/10/2021,@ Hendrix,W 2-0,167,10/10/2021,Hendrix,away,W,2,0,False
+10/15/2021,Birmingham-So.,W 2-0,150,10/15/2021,Birmingham-So.,home,W,2,0,False
+10/17/2021,Millsaps,W 1-0,150,10/17/2021,Millsaps,home,W,1,0,False
+10/23/2021,@ Oglethorpe,W 3-0,194,10/23/2021,Oglethorpe,away,W,3,0,False
+10/30/2021,#6 Millsaps SAA WSOC Championship,W 4-1,150,10/30/2021,Millsaps,home,W,4,1,False
+11/05/2021,@ #2 Rhodes SAA WSOC Championship,L 1-2,98,11/05/2021,Rhodes,away,L,1,2,False

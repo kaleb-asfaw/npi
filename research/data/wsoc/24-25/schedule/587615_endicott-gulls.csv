@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/31/2024,Lasell,W 1-0,194,08/31/2024,Lasell,home,W,1,0,False
+09/01/2024,North Central (IL),W 3-1,201,09/01/2024,North Central (IL),home,W,3,1,False
+09/04/2024,Wellesley,W 2-0,304,09/04/2024,Wellesley,home,W,2,0,False
+09/07/2024,@ Union (NY),L 0-1,150,09/07/2024,Union (NY),away,L,0,1,False
+09/11/2024,@ Emerson,T 0-0,134,09/11/2024,Emerson,away,T,0,0,False
+09/14/2024,@ Mount Holyoke,T 0-0,90,09/14/2024,Mount Holyoke,away,T,0,0,False
+09/17/2024,Babson,L 0-1,584,09/17/2024,Babson,home,L,0,1,False
+09/21/2024,@ Hartford,W 2-1,197,09/21/2024,Hartford,away,W,2,1,False
+09/25/2024,@ Wheaton (MA),W 1-0,136,09/25/2024,Wheaton (MA),away,W,1,0,False
+09/27/2024,@ Curry,W 3-1,150,09/27/2024,Curry,away,W,3,1,False
+10/01/2024,Tufts,L 1-4,208,10/01/2024,Tufts,home,L,1,4,False
+10/05/2024,Wentworth,W 3-0,232,10/05/2024,Wentworth,home,W,3,0,False
+10/12/2024,Gordon,T 1-1,351,10/12/2024,Gordon,home,T,1,1,False
+10/15/2024,@ Roger Williams,W 2-1,190,10/15/2024,Roger Williams,away,W,2,1,False
+10/19/2024,Western New Eng.,L 0-1,411,10/19/2024,Western New Eng.,home,L,0,1,False
+10/23/2024,@ Suffolk,T 1-1,123,10/23/2024,Suffolk,away,T,1,1,False
+10/26/2024,Nichols,W 2-0,304,10/26/2024,Nichols,home,W,2,0,False
+10/29/2024,@ U New England,L 1-2,120,10/29/2024,U New England,away,L,1,2,False
+11/02/2024,@ #4 Western New Eng. CNE Women's Soccer Championship,W 2-0,200,11/02/2024,Western New Eng.,away,W,2,0,False
+11/05/2024,@ #1 Hartford CNE Women's Soccer Championship,L 0-2,322,11/05/2024,Hartford,away,L,0,2,False

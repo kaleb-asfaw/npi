@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Rivier,W 3-1,397,08/30/2024,Rivier,home,W,3,1,False
+09/01/2024,New England Col.,W 7-0,174,09/01/2024,New England Col.,home,W,7,0,False
+09/04/2024,Colby-Sawyer,W 2-1,157,09/04/2024,Colby-Sawyer,home,W,2,1,False
+09/07/2024,@ Wheaton (MA),L 0-1,111,09/07/2024,Wheaton (MA),away,L,0,1,False
+09/11/2024,@ Westfield St.,L 0-4,150,09/11/2024,Westfield St.,away,L,0,4,False
+09/14/2024,U New England,L 1-2,100,09/14/2024,U New England,home,L,1,2,False
+09/18/2024,Worcester St.,T 0-0,123,09/18/2024,Worcester St.,home,T,0,0,False
+09/21/2024,@ WestConn,L 0-3,189,09/21/2024,WestConn,away,L,0,3,False
+09/25/2024,Western New Eng.,L 0-2,100,09/25/2024,Western New Eng.,home,L,0,2,False
+09/28/2024,@ Eastern Conn. St.,T 0-0,100,09/28/2024,Eastern Conn. St.,away,T,0,0,False
+10/02/2024,VTSU Castleton,L 0-3,125,10/02/2024,VTSU Castleton,home,L,0,3,False
+10/05/2024,@ UMass Dartmouth,W 3-0,75,10/05/2024,UMass Dartmouth,away,W,3,0,False
+10/09/2024,Framingham St.,W 4-0,157,10/09/2024,Framingham St.,home,W,4,0,False
+10/12/2024,UMass Boston,L 1-4,327,10/12/2024,UMass Boston,home,L,1,4,False
+10/16/2024,Plymouth St.,L 1-2,125,10/16/2024,Plymouth St.,home,L,1,2,False
+10/19/2024,@ Southern Me.,L 1-7,244,10/19/2024,Southern Me.,away,L,1,7,False
+10/20/2024,@ Husson,L 1-5,200,10/20/2024,Husson,away,L,1,5,False
+10/23/2024,Salem St.,W 1-0,116,10/23/2024,Salem St.,home,W,1,0,False
+10/26/2024,Rhode Island Col.,T 0-0,253,10/26/2024,Rhode Island Col.,home,T,0,0,False
+10/29/2024,Fitchburg St.,W 1-0,150,10/29/2024,Fitchburg St.,home,W,1,0,False

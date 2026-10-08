@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Carroll (WI),L 0-2,89,09/01/2023,Carroll (WI),away,L,0,2,False
+09/03/2023,Benedictine (IL),W 3-0,100,09/03/2023,Benedictine (IL),home,W,3,0,False
+09/05/2023,Saint Mary's (MN),L 0-1,76,09/05/2023,Saint Mary's (MN),home,L,0,1,False
+09/06/2023,@ Carthage,L 0-1,224,09/06/2023,Carthage,away,L,0,1,False
+09/16/2023,@ Harris-Stowe,L 0-3,0,09/16/2023,@ Harris-Stowe,home,L,0,3,False
+09/17/2023,@ Webster,L 0-1,100,09/17/2023,Webster,away,L,0,1,False
+09/23/2023,Cornell College,W 2-0,67,09/23/2023,Cornell College,home,W,2,0,False
+09/24/2023,Edgewood,T 1-1,78,09/24/2023,Edgewood,home,T,1,1,False
+09/27/2023,@ Wis.-Stevens Point,L 0-2,135,09/27/2023,Wis.-Stevens Point,away,L,0,2,False
+09/30/2023,@ Monmouth (IL),T 1-1,74,09/30/2023,Monmouth (IL),away,T,1,1,False
+10/04/2023,@ Lawrence,T 0-0,256,10/04/2023,Lawrence,away,T,0,0,False
+10/07/2023,Ripon,W 1-0,97,10/07/2023,Ripon,home,W,1,0,False
+10/11/2023,Dubuque,L 0-2,63,10/11/2023,Dubuque,home,L,0,2,False
+10/14/2023,@ Knox,W 1-0,50,10/14/2023,Knox,away,W,1,0,False
+10/18/2023,@ Lake Forest,L 0-5,112,10/18/2023,Lake Forest,away,L,0,5,False
+10/21/2023,Grinnell,T 1-1,50,10/21/2023,Grinnell,home,T,1,1,False
+10/25/2023,Wis.-Platteville,T 2-2,107,10/25/2023,Wis.-Platteville,home,T,2,2,False
+10/28/2023,Illinois Col.,W 5-2,224,10/28/2023,Illinois Col.,home,W,5,2,False
+11/03/2023,@ #1 Lake Forest MWC Women's Soccer Championship,L 0-2,285,11/03/2023,Lake Forest,away,L,0,2,False

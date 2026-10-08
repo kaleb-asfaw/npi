@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Centenary (NJ),T 2-2,75,09/01/2022,Centenary (NJ),away,T,2,2,False
+09/03/2022,FDU-Florham,L 0-1,243,09/03/2022,FDU-Florham,home,L,0,1,False
+09/06/2022,@ Wilkes,L 0-2,97,09/06/2022,Wilkes,away,L,0,2,False
+09/10/2022,"Swarthmore @Newark, NJ",L 0-2,103,09/10/2022,Swarthmore,neutral,L,0,2,False
+09/11/2022,"Arcadia @Newark, NJ",L 0-3,107,09/11/2022,Arcadia,neutral,L,0,3,False
+09/14/2022,St. Joseph's (L.I.),T 1-1,70,09/14/2022,St. Joseph's (L.I.),home,T,1,1,False
+09/17/2022,@ Lehman,W 9-0,50,09/17/2022,Lehman,away,W,9,0,False
+09/21/2022,NYU,T 1-1,64,09/21/2022,NYU,home,T,1,1,False
+09/24/2022,Rutgers-Camden,L 1-4,50,09/24/2022,Rutgers-Camden,home,L,1,4,False
+09/28/2022,@ Rutgers-Newark,L 0-1,182,09/28/2022,Rutgers-Newark,away,L,0,1,False
+10/01/2022,@ TCNJ,L 1-6,0,10/01/2022,TCNJ,away,L,1,6,False
+10/05/2022,Drew,T 1-1,44,10/05/2022,Drew,home,T,1,1,False
+10/08/2022,Stockton,L 0-1,84,10/08/2022,Stockton,home,L,0,1,False
+10/12/2022,New Jersey City,L 0-1,70,10/12/2022,New Jersey City,home,L,0,1,False
+10/15/2022,Kean,T 1-1,73,10/15/2022,Kean,home,T,1,1,False
+10/17/2022,@ Pratt,W 5-0,21,10/17/2022,Pratt,away,W,5,0,False
+10/19/2022,@ Montclair St.,L 0-3,289,10/19/2022,Montclair St.,away,L,0,3,False
+10/22/2022,Rowan,L 0-2,60,10/22/2022,Rowan,home,L,0,2,False
+10/26/2022,@ Ramapo,L 0-3,120,10/26/2022,Ramapo,away,L,0,3,False

@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Rivier,W 1-0,86,09/01/2021,Rivier,home,W,1,0,False
+09/04/2021,@ Maine Maritime,L 0-2,123,09/04/2021,Maine Maritime,away,L,0,2,False
+09/08/2021,@ Anna Maria,W 1-0,119,09/08/2021,Anna Maria,away,W,1,0,False
+09/11/2021,@ Gordon,L 0-7,109,09/11/2021,Gordon,away,L,0,7,False
+09/16/2021,Framingham St.,L 0-1,78,09/16/2021,Framingham St.,home,L,0,1,False
+09/18/2021,@ Wentworth,L 1-5,110,09/18/2021,Wentworth,away,L,1,5,False
+09/21/2021,Suffolk,L 0-6,101,09/21/2021,Suffolk,home,L,0,6,False
+09/28/2021,Mass. Maritime,L 0-2,89,09/28/2021,Mass. Maritime,home,L,0,2,False
+10/02/2021,@ New England Col.,L 2-3 (2 OT),189,10/02/2021,New England Col.,away,L,2,3,True
+10/05/2021,@ Southern Me.,L 0-6,0,10/05/2021,Southern Me.,away,L,0,6,False
+10/12/2021,Fisher,W 5-1,77,10/12/2021,Fisher,home,W,5,1,False
+10/16/2021,Lesley,L 0-4,234,10/16/2021,Lesley,home,L,0,4,False
+10/20/2021,@ Husson,L 0-5,150,10/20/2021,Husson,away,L,0,5,False
+10/23/2021,@ Bry. & Strat. (Syr.),L 1-6,0,10/23/2021,@ Bry. & Strat. (Syr.),home,L,1,6,False
+10/29/2021,@ Mitchell,L 1-2,50,10/29/2021,Mitchell,away,L,1,2,False
+11/03/2021,@ #1 Lesley NECC WSOC Championship,L 2-12,0,11/03/2021,Lesley,away,L,2,12,False

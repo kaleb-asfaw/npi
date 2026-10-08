@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ SUNY Brockport,T 1-1 (2 OT),85,09/01/2021,SUNY Brockport,away,T,1,1,True
+09/04/2021,Cortland,L 1-3,264,09/04/2021,Cortland,home,L,1,3,False
+09/06/2021,Rochester (NY),L 0-3,500,09/06/2021,Rochester (NY),home,L,0,3,False
+09/11/2021,@ St. Lawrence,T 0-0 (2 OT),53,09/11/2021,St. Lawrence,away,T,0,0,True
+09/15/2021,SUNY Geneseo,L 1-2,200,09/15/2021,SUNY Geneseo,home,L,1,2,False
+09/18/2021,@ Ithaca,W 1-0,301,09/18/2021,Ithaca,away,W,1,0,False
+09/22/2021,Misericordia,L 0-3,100,09/22/2021,Misericordia,home,L,0,3,False
+09/25/2021,Keuka,W 3-0,300,09/25/2021,Keuka,home,W,3,0,False
+09/28/2021,@ RIT,T 0-0 (2 OT),122,09/28/2021,RIT,away,T,0,0,True
+10/02/2021,@ Elmira,W 1-0,127,10/02/2021,Elmira,away,W,1,0,False
+10/06/2021,William Smith,L 0-3,200,10/06/2021,William Smith,home,L,0,3,False
+10/09/2021,Utica,W 3-0,200,10/09/2021,Utica,home,W,3,0,False
+10/13/2021,@ Houghton,W 2-0,123,10/13/2021,Houghton,away,W,2,0,False
+10/16/2021,@ Russell Sage,W 2-1,350,10/16/2021,Russell Sage,away,W,2,1,False
+10/20/2021,St. John Fisher,W 3-1,200,10/20/2021,St. John Fisher,home,W,3,1,False
+10/23/2021,Hartwick,W 1-0,534,10/23/2021,Hartwick,home,W,1,0,False
+10/30/2021,@ Alfred,L 0-1,200,10/30/2021,Alfred,away,L,0,1,False
+11/04/2021,#4 Hartwick Empire 8 WSOC Championship,W 3-0,200,11/04/2021,Hartwick,home,W,3,0,False
+11/06/2021,#3 St. John Fisher Empire 8 WSOC Championship,W 3-0,500,11/06/2021,St. John Fisher,home,W,3,0,False
+11/13/2021,@ Scranton NCAA Division III Women's Soccer Championship,L 0-3,397,11/13/2021,Scranton,away,L,0,3,False

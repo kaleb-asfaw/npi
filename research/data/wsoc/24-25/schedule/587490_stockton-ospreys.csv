@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,"Lynchburg @Union, NJ",T 0-0,100,08/30/2024,Lynchburg,neutral,T,0,0,False
+08/31/2024,"Scranton @Union, NJ",L 0-2,102,08/31/2024,Scranton,neutral,L,0,2,False
+09/03/2024,@ Drew,W 1-0,62,09/03/2024,Drew,away,W,1,0,False
+09/07/2024,"SUNY New Paltz @Madison, NJ",L 0-2,50,09/07/2024,SUNY New Paltz,neutral,L,0,2,False
+09/08/2024,"King's (PA) @Madison, NJ",W 3-0,50,09/08/2024,King's (PA),neutral,W,3,0,False
+09/11/2024,Centenary (NJ),W 4-0,56,09/11/2024,Centenary (NJ),home,W,4,0,False
+09/14/2024,Marywood,W 1-0,122,09/14/2024,Marywood,home,W,1,0,False
+09/18/2024,Moravian,W 2-0,106,09/18/2024,Moravian,home,W,2,0,False
+09/28/2024,@ Wm. Paterson,T 1-1,85,09/28/2024,Wm. Paterson,away,T,1,1,False
+10/02/2024,TCNJ,L 1-2,122,10/02/2024,TCNJ,home,L,1,2,False
+10/05/2024,New Jersey City,W 2-1,85,10/05/2024,New Jersey City,home,W,2,1,False
+10/08/2024,@ Eastern,L 0-1,126,10/08/2024,Eastern,away,L,0,1,False
+10/12/2024,@ Rutgers-Camden,W 2-0,174,10/12/2024,Rutgers-Camden,away,W,2,0,False
+10/16/2024,@ Rowan,L 0-2,466,10/16/2024,Rowan,away,L,0,2,False
+10/19/2024,Ramapo,W 3-1,259,10/19/2024,Ramapo,home,W,3,1,False
+10/23/2024,Rutgers-Newark,W 4-0,63,10/23/2024,Rutgers-Newark,home,W,4,0,False
+10/26/2024,@ Montclair St.,L 0-1,258,10/26/2024,Montclair St.,away,L,0,1,False
+10/30/2024,Kean,W 3-1,169,10/30/2024,Kean,home,W,3,1,False
+11/02/2024,#5 New Jersey City NJAC Women's Soccer Championship,T 0-0 (3 OT),82,11/02/2024,New Jersey City,home,T,0,0,True

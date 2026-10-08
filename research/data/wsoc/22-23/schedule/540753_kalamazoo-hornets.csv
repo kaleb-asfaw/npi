@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Ohio Wesleyan,T 1-1,196,09/01/2022,Ohio Wesleyan,away,T,1,1,False
+09/03/2022,Millikin,T 1-1,257,09/03/2022,Millikin,home,T,1,1,False
+09/07/2022,UChicago,L 0-2,105,09/07/2022,UChicago,home,L,0,2,False
+09/10/2022,@ Kenyon,W 2-1,147,09/10/2022,Kenyon,away,W,2,1,False
+09/11/2022,@ Denison,W 1-0,135,09/11/2022,Denison,away,W,1,0,False
+09/14/2022,@ Ohio Northern,L 0-3,103,09/14/2022,Ohio Northern,away,L,0,3,False
+09/15/2022,@ Elmhurst,W 2-0,54,09/15/2022,Elmhurst,away,W,2,0,False
+09/27/2022,@ Alma,L 2-3,77,09/27/2022,Alma,away,L,2,3,False
+10/01/2022,Albion,W 1-0,213,10/01/2022,Albion,home,W,1,0,False
+10/04/2022,Hope,L 0-3,147,10/04/2022,Hope,home,L,0,3,False
+10/08/2022,Olivet,W 2-1,113,10/08/2022,Olivet,home,W,2,1,False
+10/12/2022,@ Trine,L 0-1,143,10/12/2022,Trine,away,L,0,1,False
+10/15/2022,@ St. Mary's (IN),W 2-0,127,10/15/2022,St. Mary's (IN),away,W,2,0,False
+10/18/2022,Calvin,L 1-4,65,10/18/2022,Calvin,home,L,1,4,False
+10/22/2022,@ Adrian,T 1-1,100,10/22/2022,Adrian,away,T,1,1,False
+10/29/2022,@ #3 Hope MIAA WSOC Tournament,L 0-1 (2 OT),413,10/29/2022,Hope,away,L,0,1,True

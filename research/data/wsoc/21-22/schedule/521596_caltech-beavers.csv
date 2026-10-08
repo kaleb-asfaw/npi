@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,St. Katherine,L 1-2,73,09/01/2021,St. Katherine,home,L,1,2,False
+09/04/2021,@ Soka,W 1-0,0,09/04/2021,@ Soka,home,W,1,0,False
+09/11/2021,La Verne,W 1-0,25,09/11/2021,La Verne,home,W,1,0,False
+09/15/2021,Cal Lutheran,L 0-5,36,09/15/2021,Cal Lutheran,home,L,0,5,False
+09/25/2021,@ Pomona-Pitzer,L 0-8,155,09/25/2021,Pomona-Pitzer,away,L,0,8,False
+09/29/2021,@ Occidental,L 0-4,91,09/29/2021,Occidental,away,L,0,4,False
+10/02/2021,CMS,L 1-2,36,10/02/2021,CMS,home,L,1,2,False
+10/04/2021,Redlands,Ppd,,10/04/2021,Redlands,home,,,,
+10/06/2021,@ Chapman,L 0-5,143,10/06/2021,Chapman,away,L,0,5,False
+10/09/2021,@ Whittier,L 1-3,127,10/09/2021,Whittier,away,L,1,3,False
+10/13/2021,La Verne,L 0-2,42,10/13/2021,La Verne,home,L,0,2,False
+10/16/2021,@ Redlands,L 0-5,100,10/16/2021,Redlands,away,L,0,5,False
+10/20/2021,@ Cal Lutheran,L 0-5,200,10/20/2021,Cal Lutheran,away,L,0,5,False
+10/23/2021,Whittier,L 0-1,38,10/23/2021,Whittier,home,L,0,1,False
+10/29/2021,Redlands,L 2-3 (2 OT),42,10/29/2021,Redlands,home,L,2,3,True
+10/30/2021,Occidental,L 0-4,63,10/30/2021,Occidental,home,L,0,4,False

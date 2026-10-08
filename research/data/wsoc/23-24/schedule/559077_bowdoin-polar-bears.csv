@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/05/2023,Bates,T 0-0,230,09/05/2023,Bates,home,T,0,0,False
+09/10/2023,Endicott,W 2-0,112,09/10/2023,Endicott,home,W,2,0,False
+09/13/2023,U New England,T 1-1,110,09/13/2023,U New England,home,T,1,1,False
+09/15/2023,Connecticut Col.,W 1-0,170,09/15/2023,Connecticut Col.,home,W,1,0,False
+09/17/2023,Maine Maritime,W 1-0,111,09/17/2023,Maine Maritime,home,W,1,0,False
+09/19/2023,Southern Me.,L 0-1,110,09/19/2023,Southern Me.,home,L,0,1,False
+09/23/2023,@ Middlebury,W 2-1,145,09/23/2023,Middlebury,away,W,2,1,False
+09/24/2023,@ Williams,L 0-2,142,09/24/2023,Williams,away,L,0,2,False
+10/01/2023,Babson,W 5-2,105,10/01/2023,Babson,home,W,5,2,False
+10/07/2023,Trinity (CT),W 1-0,126,10/07/2023,Trinity (CT),home,W,1,0,False
+10/08/2023,Amherst,L 0-1,101,10/08/2023,Amherst,home,L,0,1,False
+10/14/2023,@ Hamilton,W 3-1,157,10/14/2023,Hamilton,away,W,3,1,False
+10/17/2023,@ Colby,T 0-0,40,10/17/2023,Colby,away,T,0,0,False
+10/21/2023,@ Wesleyan (CT),T 0-0,85,10/21/2023,Wesleyan (CT),away,T,0,0,False
+10/24/2023,Tufts,W 3-2,0,10/24/2023,Tufts,home,W,3,2,False
+10/29/2023,#6 Connecticut Col. NESCAC Women's Soccer Championship,W 1-0,117,10/29/2023,Connecticut Col.,home,W,1,0,False
+11/04/2023,@ #2 Williams NESCAC Women's Soccer Championship,T 1-1 (2 OT),0,11/04/2023,Williams,away,T,1,1,True
+11/05/2023,@ #1 Amherst NESCAC Women's Soccer Championship,L 1-2,247,11/05/2023,Amherst,away,L,1,2,False
+11/11/2023,"Swarthmore @Geneva, NY (NCAA Division III Women's Soccer Championship)",W 1-0,78,11/11/2023,Swarthmore,neutral,W,1,0,False
+11/12/2023,@ William Smith NCAA Division III Women's Soccer Championship,W 1-0 (2 OT),220,11/12/2023,William Smith,away,W,1,0,True
+11/18/2023,"Tufts @Rochester, NY (NCAA Division III Women's Soccer Championship)",L 2-3,192,11/18/2023,Tufts,neutral,L,2,3,False

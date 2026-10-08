@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Rutgers-Camden,L 0-3,70,09/01/2023,Rutgers-Camden,away,L,0,3,False
+09/02/2023,Keystone,W 4-0,224,09/02/2023,Keystone,home,W,4,0,False
+09/09/2023,Albright,L 0-1,256,09/09/2023,Albright,home,L,0,1,False
+09/12/2023,Eastern,W 1-0,317,09/12/2023,Eastern,home,W,1,0,False
+09/16/2023,@ Ramapo,L 0-4,200,09/16/2023,Ramapo,away,L,0,4,False
+09/20/2023,Cedar Crest,T 0-0,152,09/20/2023,Cedar Crest,home,T,0,0,False
+09/23/2023,Bryn Athyn,Ppd,,09/23/2023,Bryn Athyn,home,,,,
+09/26/2023,@ Goucher,L 0-1,107,09/26/2023,Goucher,away,L,0,1,False
+09/28/2023,@ Notre Dame (MD),W 5-0,111,09/28/2023,Notre Dame (MD),away,W,5,0,False
+09/30/2023,Penn St.-Brandywine,W 6-0,350,09/30/2023,Penn St.-Brandywine,home,W,6,0,False
+10/04/2023,@ Centenary (NJ),W 4-3,101,10/04/2023,Centenary (NJ),away,W,4,3,False
+10/07/2023,@ Marywood,T 1-1,102,10/07/2023,Marywood,away,T,1,1,False
+10/11/2023,Cabrini,L 0-1,180,10/11/2023,Cabrini,home,L,0,1,False
+10/18/2023,@ Immaculata,W 5-3,110,10/18/2023,Immaculata,away,W,5,3,False
+10/21/2023,Gwynedd Mercy,T 2-2,245,10/21/2023,Gwynedd Mercy,home,T,2,2,False
+10/25/2023,Marymount (VA),T 0-0,150,10/25/2023,Marymount (VA),home,T,0,0,False
+10/28/2023,#5 Centenary (NJ) Atlantic East Women's Soccer Championship,W 4-0,210,10/28/2023,Centenary (NJ),home,W,4,0,False
+10/31/2023,@ #2 Marymount (VA) Atlantic East Women's Soccer Championship,L 0-2,203,10/31/2023,Marymount (VA),away,L,0,2,False

@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Centre,L 1-2 (1 OT),121,09/01/2021,Centre,away,L,1,2,True
+09/04/2021,Wilmington (OH),W 2-0,212,09/04/2021,Wilmington (OH),home,W,2,0,False
+09/05/2021,Sewanee,L 0-2,136,09/05/2021,Sewanee,home,L,0,2,False
+09/10/2021,@ Ohio Northern,L 0-1,216,09/10/2021,Ohio Northern,away,L,0,1,False
+09/11/2021,@ Capital,W 1-0,130,09/11/2021,Capital,away,W,1,0,False
+09/14/2021,Wittenberg,L 1-2,263,09/14/2021,Wittenberg,home,L,1,2,False
+09/18/2021,Marietta,W 2-1,70,09/18/2021,Marietta,home,W,2,1,False
+09/21/2021,@ Ohio Wesleyan,L 0-1,150,09/21/2021,Ohio Wesleyan,away,L,0,1,False
+09/25/2021,"Olivet @Lansing, MI",L 2-4,127,09/25/2021,Olivet,neutral,L,2,4,False
+09/26/2021,@ Albion,L 1-2,106,09/26/2021,Albion,away,L,1,2,False
+09/29/2021,Rose-Hulman,W 1-0,219,09/29/2021,Rose-Hulman,home,W,1,0,False
+10/02/2021,Manchester,W 1-0,194,10/02/2021,Manchester,home,W,1,0,False
+10/06/2021,Bluffton,W 7-0,210,10/06/2021,Bluffton,home,W,7,0,False
+10/09/2021,@ Anderson (IN),T 1-1 (2 OT),175,10/09/2021,Anderson (IN),away,T,1,1,True
+10/13/2021,Transylvania,W 1-0 (2 OT),132,10/13/2021,Transylvania,home,W,1,0,True
+10/16/2021,Franklin,W 1-0,194,10/16/2021,Franklin,home,W,1,0,False
+10/20/2021,@ Defiance,W 5-0,55,10/20/2021,Defiance,away,W,5,0,False
+10/23/2021,@ Earlham,W 2-0,74,10/23/2021,Earlham,away,W,2,0,False
+10/27/2021,@ Hanover,W 1-0,187,10/27/2021,Hanover,away,W,1,0,False
+11/03/2021,#5 Transylvania Heartland WSOC Championship,T 1-1 (3 OT),250,11/03/2021,Transylvania,home,T,1,1,True
+11/06/2021,#2 Hanover Heartland WSOC Championship,T 1-1 (3 OT),350,11/06/2021,Hanover,home,T,1,1,True

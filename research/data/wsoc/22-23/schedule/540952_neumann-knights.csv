@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ DeSales,L 0-5,165,09/01/2022,DeSales,away,L,0,5,False
+09/03/2022,@ King's (PA),L 0-4,180,09/03/2022,King's (PA),away,L,0,4,False
+09/07/2022,Penn St.-Berks,L 0-1,254,09/07/2022,Penn St.-Berks,home,L,0,1,False
+09/10/2022,@ Albright,T 0-0,50,09/10/2022,Albright,away,T,0,0,False
+09/13/2022,@ Eastern,T 1-1,75,09/13/2022,Eastern,away,T,1,1,False
+09/15/2022,Notre Dame (MD),W 1-0,243,09/15/2022,Notre Dame (MD),home,W,1,0,False
+09/17/2022,Ramapo,L 0-4,227,09/17/2022,Ramapo,home,L,0,4,False
+09/21/2022,@ Cedar Crest,L 1-3,78,09/21/2022,Cedar Crest,away,L,1,3,False
+09/24/2022,@ Rosemont,W 4-0,55,09/24/2022,Rosemont,away,W,4,0,False
+09/27/2022,Goucher,L 0-1,235,09/27/2022,Goucher,home,L,0,1,False
+09/29/2022,Washington Adventist,W 8-0,207,09/29/2022,Washington Adventist,home,W,8,0,False
+10/01/2022,@ Marymount (VA),W 2-0,167,10/01/2022,Marymount (VA),away,W,2,0,False
+10/05/2022,@ Cabrini,L 0-2,98,10/05/2022,Cabrini,away,L,0,2,False
+10/11/2022,Immaculata,W 4-2,345,10/11/2022,Immaculata,home,W,4,2,False
+10/15/2022,@ Gwynedd Mercy,W 4-0,113,10/15/2022,Gwynedd Mercy,away,W,4,0,False
+10/19/2022,@ St. Mary's (MD),L 0-1,146,10/19/2022,St. Mary's (MD),away,L,0,1,False
+10/22/2022,Marywood,T 1-1,354,10/22/2022,Marywood,home,T,1,1,False
+10/26/2022,Centenary (NJ),W 1-0,120,10/26/2022,Centenary (NJ),home,W,1,0,False
+10/31/2022,#6 Immaculata Atlantic East WSOC Championship,W 1-0,200,10/31/2022,Immaculata,home,W,1,0,False
+11/02/2022,@ #2 Cabrini Atlantic East WSOC Championship,T 1-1 (3 OT),306,11/02/2022,Cabrini,away,T,1,1,True
+11/05/2022,@ #1 Marywood Atlantic East WSOC Championship,L 0-1,383,11/05/2022,Marywood,away,L,0,1,False

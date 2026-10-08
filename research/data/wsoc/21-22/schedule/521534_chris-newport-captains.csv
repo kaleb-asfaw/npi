@@ -1,0 +1,25 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Methodist,Ppd,,09/01/2021,Methodist,away,,,,
+09/05/2021,"Catholic @Virginia Beach, VA",W 4-0,132,09/05/2021,Catholic,neutral,W,4,0,False
+09/11/2021,Centre,W 2-1 (1 OT),403,09/11/2021,Centre,home,W,2,1,True
+09/12/2021,Pfeiffer,W 6-0,241,09/12/2021,Pfeiffer,home,W,6,0,False
+09/15/2021,Roanoke,W 4-1,286,09/15/2021,Roanoke,home,W,4,1,False
+09/20/2021,@ Randolph-Macon,W 1-0,275,09/20/2021,Randolph-Macon,away,W,1,0,False
+09/24/2021,@ UC Santa Cruz,W 1-0,80,09/24/2021,UC Santa Cruz,away,W,1,0,False
+09/25/2021,"Cal Lutheran @Santa Cruz, CA",W 3-0,129,09/25/2021,Cal Lutheran,neutral,W,3,0,False
+09/30/2021,Sewanee,W 3-1,147,09/30/2021,Sewanee,home,W,3,1,False
+10/03/2021,Batten,W 3-0,294,10/03/2021,Batten,home,W,3,0,False
+10/06/2021,@ Salisbury,W 3-0,100,10/06/2021,Salisbury,away,W,3,0,False
+10/16/2021,@ Mary Washington,W 3-0,210,10/16/2021,Mary Washington,away,W,3,0,False
+10/20/2021,Salisbury,W 7-1,168,10/20/2021,Salisbury,home,W,7,1,False
+10/24/2021,"Piedmont @Greensboro, NC",W 4-0,112,10/24/2021,Piedmont,neutral,W,4,0,False
+10/27/2021,Mary Washington,T 1-1 (2 OT),240,10/27/2021,Mary Washington,home,T,1,1,True
+10/30/2021,Lynchburg,W 5-1,441,10/30/2021,Lynchburg,home,W,5,1,False
+11/05/2021,@ #4 Salisbury Coast-To-Coast WSOC Championship,W 2-0,150,11/05/2021,Salisbury,away,W,2,0,False
+11/06/2021,#3 UC Santa Cruz Coast-To-Coast WSOC Championship,W 1-0,0,11/06/2021,UC Santa Cruz,home,W,1,0,False
+11/13/2021,Cabrini NCAA Division III Women's Soccer Championship,W 2-0,272,11/13/2021,Cabrini,home,W,2,0,False
+11/14/2021,Franklin & Marshall NCAA Division III Women's Soccer Championship,W 1-0,314,11/14/2021,Franklin & Marshall,home,W,1,0,False
+11/20/2021,"Trinity (TX) @Cleveland, Ohio (NCAA Division III Women's Soccer Championship)",W 1-0,232,11/20/2021,Trinity (TX),neutral,W,1,0,False
+11/21/2021,"UChicago @Cleveland, Ohio (NCAA Division III Women's Soccer Championship)",W 2-1,235,11/21/2021,UChicago,neutral,W,2,1,False
+12/03/2021,"Loras @Greensboro, NC (NCAA Division III Women's Soccer Championship)",W 1-0 (1 OT),821,12/03/2021,Loras,neutral,W,1,0,True
+12/04/2021,"TCNJ @Greensboro, NC (NCAA Division III Women's Soccer Championship)",W 2-0,865,12/04/2021,TCNJ,neutral,W,2,0,False

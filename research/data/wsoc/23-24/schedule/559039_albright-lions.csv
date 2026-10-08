@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Bryn Athyn,L 0-2,75,09/01/2023,Bryn Athyn,away,L,0,2,False
+09/03/2023,Rosemont,W 4-0,132,09/03/2023,Rosemont,home,W,4,0,False
+09/06/2023,@ Rutgers-Camden,T 0-0,76,09/06/2023,Rutgers-Camden,away,T,0,0,False
+09/09/2023,@ Neumann,W 1-0,256,09/09/2023,Neumann,away,W,1,0,False
+09/13/2023,@ Juniata,L 1-3,85,09/13/2023,Juniata,away,L,1,3,False
+09/16/2023,Cedar Crest,W 2-0,101,09/16/2023,Cedar Crest,home,W,2,0,False
+09/20/2023,Wilkes,L 0-1,82,09/20/2023,Wilkes,home,L,0,1,False
+09/23/2023,King's (PA),L 0-1,70,09/23/2023,King's (PA),home,L,0,1,False
+09/27/2023,Delaware Valley,L 0-2,75,09/27/2023,Delaware Valley,home,L,0,2,False
+09/30/2023,Messiah,L 0-2,121,09/30/2023,Messiah,home,L,0,2,False
+10/04/2023,@ Rutgers-Newark,W 1-0,272,10/04/2023,Rutgers-Newark,away,W,1,0,False
+10/07/2023,@ Hood,T 0-0,366,10/07/2023,Hood,away,T,0,0,False
+10/10/2023,@ Penn St.-Berks,L 0-1,144,10/10/2023,Penn St.-Berks,away,L,0,1,False
+10/14/2023,Stevenson,L 0-3,76,10/14/2023,Stevenson,home,L,0,3,False
+10/17/2023,Alvernia,L 0-2,156,10/17/2023,Alvernia,home,L,0,2,False
+10/21/2023,@ Widener,L 0-1,146,10/21/2023,Widener,away,L,0,1,False
+10/25/2023,@ York (PA),L 0-7,209,10/25/2023,York (PA),away,L,0,7,False
+10/28/2023,Eastern,L 1-2,101,10/28/2023,Eastern,home,L,1,2,False

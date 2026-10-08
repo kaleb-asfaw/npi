@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Centre,L 1-5,365,09/01/2022,Centre,home,L,1,5,False
+09/03/2022,@ Sewanee,L 0-1,150,09/03/2022,Sewanee,away,L,0,1,False
+09/04/2022,"Maryville (TN) @Sewanee, TN",L 1-2,77,09/04/2022,Maryville (TN),neutral,L,1,2,False
+09/09/2022,Capital,L 1-4,188,09/09/2022,Capital,home,L,1,4,False
+09/11/2022,@ Marietta,W 1-0,137,09/11/2022,Marietta,away,W,1,0,False
+09/14/2022,Berea,W 3-0,133,09/14/2022,Berea,home,W,3,0,False
+09/17/2022,Asbury,W 3-1,188,09/17/2022,Asbury,home,W,3,1,False
+09/21/2022,@ Wilmington (OH),L 2-4,115,09/21/2022,Wilmington (OH),away,L,2,4,False
+09/24/2022,Albion,W 1-0,123,09/24/2022,Albion,home,W,1,0,False
+09/25/2022,Ohio Wesleyan,T 0-0,126,09/25/2022,Ohio Wesleyan,home,T,0,0,False
+09/28/2022,@ Rose-Hulman,T 0-0,125,09/28/2022,Rose-Hulman,away,T,0,0,False
+10/01/2022,@ Earlham,W 5-0,150,10/01/2022,Earlham,away,W,5,0,False
+10/05/2022,Bluffton,W 2-0,135,10/05/2022,Bluffton,home,W,2,0,False
+10/07/2022,@ Franklin,W 1-0,188,10/07/2022,Franklin,away,W,1,0,False
+10/12/2022,@ Transylvania,W 2-1,135,10/12/2022,Transylvania,away,W,2,1,False
+10/15/2022,Manchester,W 3-0,183,10/15/2022,Manchester,home,W,3,0,False
+10/19/2022,Hanover,L 0-1,900,10/19/2022,Hanover,home,L,0,1,False
+10/22/2022,Anderson (IN),L 0-1,134,10/22/2022,Anderson (IN),home,L,0,1,False
+10/22/2022,#5 Transylvania HCAC WSOC Championships,W 4-0,278,10/22/2022,Transylvania,home,W,4,0,False
+10/26/2022,@ Defiance,W 7-0,52,10/26/2022,Defiance,away,W,7,0,False
+11/02/2022,@ #1 Hanover HCAC WSOC Championships,L 0-2,127,11/02/2022,Hanover,away,L,0,2,False

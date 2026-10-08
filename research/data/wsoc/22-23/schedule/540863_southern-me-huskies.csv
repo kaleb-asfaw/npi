@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Clark (MA),W 2-0,225,09/01/2022,Clark (MA),away,W,2,0,False
+09/04/2022,@ St. Joseph's (ME),W 4-1,125,09/04/2022,St. Joseph's (ME),away,W,4,1,False
+09/07/2022,@ Westfield St.,W 5-0,150,09/07/2022,Westfield St.,away,W,5,0,False
+09/10/2022,U New England,L 1-2,144,09/10/2022,U New England,home,L,1,2,False
+09/14/2022,Me.-Farmington,W 4-0,0,09/14/2022,Me.-Farmington,home,W,4,0,False
+09/17/2022,VTSU Castleton,W 4-0,0,09/17/2022,VTSU Castleton,home,W,4,0,False
+09/24/2022,@ Eastern Conn. St.,W 1-0,100,09/24/2022,Eastern Conn. St.,away,W,1,0,False
+09/28/2022,UMass Boston,W 4-0,224,09/28/2022,UMass Boston,home,W,4,0,False
+10/01/2022,UMass Dartmouth,W 6-2,0,10/01/2022,UMass Dartmouth,home,W,6,2,False
+10/02/2022,Bates,W 1-0,0,10/02/2022,Bates,home,W,1,0,False
+10/05/2022,Lesley,W 6-2,0,10/05/2022,Lesley,home,W,6,2,False
+10/08/2022,Smith,W 2-0,124,10/08/2022,Smith,home,W,2,0,False
+10/12/2022,@ Plymouth St.,W 1-0,72,10/12/2022,Plymouth St.,away,W,1,0,False
+10/15/2022,@ Rhode Island Col.,W 3-0,288,10/15/2022,Rhode Island Col.,away,W,3,0,False
+10/18/2022,Maine Maritime,W 7-0,144,10/18/2022,Maine Maritime,home,W,7,0,False
+10/22/2022,Keene St.,W 6-2,144,10/22/2022,Keene St.,home,W,6,2,False
+10/23/2022,Brandeis,L 3-5,144,10/23/2022,Brandeis,home,L,3,5,False
+10/29/2022,@ WestConn,L 0-1,98,10/29/2022,WestConn,away,L,0,1,False
+11/03/2022,VTSU Castleton Little East WSOC Championship,W 2-0,0,11/03/2022,VTSU Castleton,home,W,2,0,False
+11/05/2022,WestConn Little East WSOC Championship,W 3-1 (2 OT),444,11/05/2022,WestConn,home,W,3,1,True
+11/12/2022,"Williams @Cambridge, MA (NCAA Division III Women's Soccer Championship)",L 0-1,302,11/12/2022,Williams,neutral,L,0,1,False

@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Farmingdale St.,Ppd,,09/01/2021,Farmingdale St.,home,,,,
+09/04/2021,@ WPI,W 2-1,200,09/04/2021,WPI,away,W,2,1,False
+09/05/2021,@ Western New Eng.,W 2-1 (2 OT),170,09/05/2021,Western New Eng.,away,W,2,1,True
+09/08/2021,Ramapo,W 4-1,22,09/08/2021,Ramapo,home,W,4,1,False
+09/11/2021,@ Wentworth,W 2-0,135,09/11/2021,Wentworth,away,W,2,0,False
+09/15/2021,Vassar,W 4-2,66,09/15/2021,Vassar,home,W,4,2,False
+09/18/2021,Rhode Island Col.,W 7-0,122,09/18/2021,Rhode Island Col.,home,W,7,0,False
+09/21/2021,@ Russell Sage,W 3-1,225,09/21/2021,Russell Sage,away,W,3,1,False
+09/25/2021,@ Keene St.,W 5-0,110,09/25/2021,Keene St.,away,W,5,0,False
+09/29/2021,@ Eastern Conn. St.,W 3-0,100,09/29/2021,Eastern Conn. St.,away,W,3,0,False
+10/02/2021,VTSU Castleton,W 1-0 (2 OT),105,10/02/2021,VTSU Castleton,home,W,1,0,True
+10/05/2021,Worcester St.,W 2-0,165,10/05/2021,Worcester St.,home,W,2,0,False
+10/08/2021,Plymouth St.,W 5-0,223,10/08/2021,Plymouth St.,home,W,5,0,False
+10/11/2021,Farmingdale St.,W 2-1 (2 OT),98,10/11/2021,Farmingdale St.,home,W,2,1,True
+10/16/2021,@ UMass Dartmouth,W 6-0,54,10/16/2021,UMass Dartmouth,away,W,6,0,False
+10/20/2021,@ Stevens,L 0-1,222,10/20/2021,Stevens,away,L,0,1,False
+10/23/2021,UMass Boston,W 3-0,355,10/23/2021,UMass Boston,home,W,3,0,False
+10/26/2021,@ Fitchburg St.,Canceled,,10/26/2021,Fitchburg St.,away,,,,
+10/30/2021,@ Southern Me.,W 3-0,124,10/30/2021,Southern Me.,away,W,3,0,False
+11/04/2021,#3 Southern Me. Little East WSOC Championship,W 3-0,333,11/04/2021,Southern Me.,home,W,3,0,False
+11/06/2021,#2 UMass Boston Little East WSOC Championship,W 2-0,444,11/06/2021,UMass Boston,home,W,2,0,False
+11/13/2021,"Franklin & Marshall @Newport News, VA (NCAA Division III Women's Soccer Championship)",L 1-2,180,11/13/2021,Franklin & Marshall,neutral,L,1,2,False

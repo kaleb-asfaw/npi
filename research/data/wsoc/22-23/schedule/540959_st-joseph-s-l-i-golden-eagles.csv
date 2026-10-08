@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Stockton,L 0-1,0,09/01/2022,Stockton,home,L,0,1,False
+09/04/2022,Lehman,Ppd,,09/04/2022,Lehman,home,,,,
+09/07/2022,New Jersey City,T 2-2,150,09/07/2022,New Jersey City,home,T,2,2,False
+09/11/2022,Yeshiva,W 11-0,0,09/11/2022,Yeshiva,home,W,11,0,False
+09/14/2022,@ Wm. Paterson,T 1-1,70,09/14/2022,Wm. Paterson,away,T,1,1,False
+09/20/2022,Purchase,W 3-0,63,09/20/2022,Purchase,home,W,3,0,False
+09/23/2022,@ Old Westbury,W 2-0,63,09/23/2022,Old Westbury,away,W,2,0,False
+09/28/2022,@ SUNY Maritime,W 7-1,84,09/28/2022,SUNY Maritime,away,W,7,1,False
+10/01/2022,@ Merchant Marine,W 2-0,60,10/01/2022,Merchant Marine,away,W,2,0,False
+10/04/2022,Farmingdale St.,L 0-1,134,10/04/2022,Farmingdale St.,home,L,0,1,False
+10/07/2022,Brooklyn,W 5-0,150,10/07/2022,Brooklyn,home,W,5,0,False
+10/12/2022,@ UMSV,L 1-5,127,10/12/2022,UMSV,away,L,1,5,False
+10/15/2022,@ Sarah Lawrence,L 0-3,120,10/15/2022,Sarah Lawrence,away,L,0,3,False
+10/18/2022,@ St. Joseph's (Brkln),W 5-2,74,10/18/2022,St. Joseph's (Brkln),away,W,5,2,False
+10/22/2022,Mt. St. Mary (NY),T 1-1,150,10/22/2022,Mt. St. Mary (NY),home,T,1,1,False
+10/26/2022,Manhattanville,W 1-0,92,10/26/2022,Manhattanville,home,W,1,0,False
+10/29/2022,#5 Manhattanville Skyline WSOC Championship,L 1-2,120,10/29/2022,Manhattanville,home,L,1,2,False

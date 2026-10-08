@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/31/2024,Central Baptist,W 7-0,120,08/31/2024,Central Baptist,home,W,7,0,False
+09/07/2024,@ Southwestern Christ.,T 0-0,85,09/07/2024,@ Southwestern Christ.,home,T,0,0,False
+09/13/2024,@ Millsaps,W 1-0,80,09/13/2024,Millsaps,away,W,1,0,False
+09/14/2024,@ Belhaven,L 0-6,124,09/14/2024,Belhaven,away,L,0,6,False
+09/21/2024,William Woods,L 1-2,85,09/21/2024,William Woods,home,L,1,2,False
+09/24/2024,Rhodes,L 0-6,105,09/24/2024,Rhodes,home,L,0,6,False
+09/27/2024,@ Hendrix,L 0-4,125,09/27/2024,Hendrix,away,L,0,4,False
+10/01/2024,@ Centenary (LA),L 0-2,176,10/01/2024,Centenary (LA),away,L,0,2,False
+10/07/2024,@ St. Thomas (TX),L 0-3,100,10/07/2024,St. Thomas (TX),away,L,0,3,False
+10/11/2024,@ Dallas,T 2-2,65,10/11/2024,Dallas,away,T,2,2,False
+10/13/2024,Austin,L 2-3,150,10/13/2024,Austin,home,L,2,3,False
+10/18/2024,McMurry,L 1-4,225,10/18/2024,McMurry,home,L,1,4,False
+10/20/2024,Concordia (TX),L 0-4,205,10/20/2024,Concordia (TX),home,L,0,4,False
+10/25/2024,Texas Lutheran,L 1-9,110,10/25/2024,Texas Lutheran,home,L,1,9,False
+10/27/2024,Southwestern (TX),L 1-3,105,10/27/2024,Southwestern (TX),home,L,1,3,False
+11/01/2024,@ Trinity (TX),L 0-5,80,11/01/2024,Trinity (TX),away,L,0,5,False
+11/03/2024,@ Schreiner,T 1-1,127,11/03/2024,Schreiner,away,T,1,1,False

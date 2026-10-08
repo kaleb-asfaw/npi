@@ -1,0 +1,25 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Gordon,W 3-0,204,08/30/2024,Gordon,home,W,3,0,False
+09/03/2024,@ Trinity (CT),W 4-0,226,09/03/2024,Trinity (CT),away,W,4,0,False
+09/07/2024,Lesley,W 3-0,78,09/07/2024,Lesley,home,W,3,0,False
+09/14/2024,Brandeis,W 2-1,144,09/14/2024,Brandeis,home,W,2,1,False
+09/15/2024,@ Middlebury,T 2-2,127,09/15/2024,Middlebury,away,T,2,2,False
+09/19/2024,@ JWU (Providence),W 4-0,289,09/19/2024,JWU (Providence),away,W,4,0,False
+09/21/2024,@ Mount Holyoke,W 2-0,80,09/21/2024,Mount Holyoke,away,W,2,0,False
+09/25/2024,Tufts,L 0-2,67,09/25/2024,Tufts,home,L,0,2,False
+09/28/2024,@ Smith,W 5-1,100,09/28/2024,Smith,away,W,5,1,False
+10/05/2024,Clark (MA),W 2-1,116,10/05/2024,Clark (MA),home,W,2,1,False
+10/09/2024,@ Wheaton (MA),W 2-0,74,10/09/2024,Wheaton (MA),away,W,2,0,False
+10/12/2024,@ Springfield,W 2-0,175,10/12/2024,Springfield,away,W,2,0,False
+10/13/2024,@ Williams,W 1-0,83,10/13/2024,Williams,away,W,1,0,False
+10/16/2024,Coast Guard,W 1-0,53,10/16/2024,Coast Guard,home,W,1,0,False
+10/19/2024,@ Salve Regina,W 6-1,157,10/19/2024,Salve Regina,away,W,6,1,False
+10/23/2024,Babson,W 4-0,56,10/23/2024,Babson,home,W,4,0,False
+10/26/2024,@ WPI,W 2-0,100,10/26/2024,WPI,away,W,2,0,False
+10/30/2024,Wellesley,W 4-1,0,10/30/2024,Wellesley,home,W,4,1,False
+11/02/2024,Emerson,W 3-0,229,11/02/2024,Emerson,home,W,3,0,False
+11/05/2024,#8 Coast Guard NEWMAC Women's Soccer Championship,W 2-1,157,11/05/2024,Coast Guard,home,W,2,1,False
+11/07/2024,#4 Babson NEWMAC Women's Soccer Championship,W 1-0,129,11/07/2024,Babson,home,W,1,0,False
+11/09/2024,#7 WPI NEWMAC Women's Soccer Championship,W 3-0,212,11/09/2024,WPI,home,W,3,0,False
+11/16/2024,SUNY Geneseo NCAA Division III Women's Soccer Championship,W 3-1,205,11/16/2024,SUNY Geneseo,home,W,3,1,False
+11/17/2024,Colby NCAA Division III Women's Soccer Championship,L 0-2,351,11/17/2024,Colby,home,L,0,2,False

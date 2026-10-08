@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,"Austin @Redlands, CA",L 0-1,19,08/30/2024,Austin,neutral,L,0,1,False
+09/01/2024,@ Redlands,T 2-2,136,09/01/2024,Redlands,away,T,2,2,False
+09/08/2024,Caltech,W 2-0,95,09/08/2024,Caltech,home,W,2,0,False
+09/14/2024,Cal Lutheran,T 0-0,105,09/14/2024,Cal Lutheran,home,T,0,0,False
+09/18/2024,Lewis & Clark,L 0-3,85,09/18/2024,Lewis & Clark,home,L,0,3,False
+09/21/2024,@ Pacific Lutheran,T 0-0,229,09/21/2024,Pacific Lutheran,away,T,0,0,False
+09/22/2024,@ Puget Sound,T 1-1,100,09/22/2024,Puget Sound,away,T,1,1,False
+09/29/2024,George Fox,W 2-1,96,09/29/2024,George Fox,home,W,2,1,False
+10/05/2024,@ Whitman,L 1-2,100,10/05/2024,Whitman,away,L,1,2,False
+10/06/2024,@ Whitworth,W 3-0,175,10/06/2024,Whitworth,away,W,3,0,False
+10/09/2024,@ Pacific (OR),W 1-0,100,10/09/2024,Pacific (OR),away,W,1,0,False
+10/13/2024,Linfield,W 1-0,113,10/13/2024,Linfield,home,W,1,0,False
+10/16/2024,@ Lewis & Clark,W 1-0,114,10/16/2024,Lewis & Clark,away,W,1,0,False
+10/19/2024,Puget Sound,L 1-2,100,10/19/2024,Puget Sound,home,L,1,2,False
+10/20/2024,Pacific Lutheran,L 0-3,75,10/20/2024,Pacific Lutheran,home,L,0,3,False
+10/26/2024,@ George Fox,T 0-0,121,10/26/2024,George Fox,away,T,0,0,False
+11/02/2024,Whitworth,L 2-3,209,11/02/2024,Whitworth,home,L,2,3,False
+11/03/2024,Whitman,L 1-2,79,11/03/2024,Whitman,home,L,1,2,False
+11/06/2024,Pacific (OR),T 1-1,56,11/06/2024,Pacific (OR),home,T,1,1,False
+11/09/2024,@ Linfield,T 1-1,147,11/09/2024,Linfield,away,T,1,1,False

@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Wells,T 2-2,100,09/01/2022,Wells,away,T,2,2,False
+09/03/2022,SUNY Poly,L 0-4,0,09/03/2022,SUNY Poly,home,L,0,4,False
+09/06/2022,@ Penn St.-Schuylkill,W 9-5,0,09/06/2022,@ Penn St.-Schuylkill,home,W,9,5,False
+09/10/2022,Gwynedd Mercy,T 2-2,50,09/10/2022,Gwynedd Mercy,home,T,2,2,False
+09/13/2022,York (NY),Ppd,,09/13/2022,York (NY),home,,,,
+09/17/2022,St. Joseph's (Brkln),T 2-2,50,09/17/2022,St. Joseph's (Brkln),home,T,2,2,False
+09/21/2022,Penn St.-Hazleton,W 6-0,150,09/21/2022,Penn St.-Hazleton,home,W,6,0,False
+09/24/2022,@ Wilson,L 1-3,80,09/24/2022,Wilson,away,L,1,3,False
+09/28/2022,Cedar Crest,L 1-6,100,09/28/2022,Cedar Crest,home,L,1,6,False
+10/01/2022,Bryn Athyn,L 0-7,300,10/01/2022,Bryn Athyn,home,L,0,7,False
+10/05/2022,@ Keystone,L 0-6,70,10/05/2022,Keystone,away,L,0,6,False
+10/08/2022,@ Rosemont,L 0-1,150,10/08/2022,Rosemont,away,L,0,1,False
+10/12/2022,Pratt,W 3-2,10,10/12/2022,Pratt,home,W,3,2,False
+10/15/2022,@ Notre Dame (MD),W 8-2,20,10/15/2022,Notre Dame (MD),away,W,8,2,False
+10/20/2022,Alvernia,L 0-6,30,10/20/2022,Alvernia,home,L,0,6,False
+10/22/2022,@ Valley Forge,W 10-0,50,10/22/2022,Valley Forge,away,W,10,0,False
+10/26/2022,Saint Elizabeth,L 0-3,50,10/26/2022,Saint Elizabeth,home,L,0,3,False
+10/29/2022,Cairn,Canceled,,10/29/2022,Cairn,home,,,,

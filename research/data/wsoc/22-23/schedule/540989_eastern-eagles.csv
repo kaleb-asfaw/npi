@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Ursinus,L 0-1,305,09/01/2022,Ursinus,home,L,0,1,False
+09/03/2022,@ Goucher,L 0-1,137,09/03/2022,Goucher,away,L,0,1,False
+09/07/2022,@ Cabrini,L 0-1,188,09/07/2022,Cabrini,away,L,0,1,False
+09/10/2022,Marywood,T 1-1,200,09/10/2022,Marywood,home,T,1,1,False
+09/13/2022,Neumann,T 1-1,75,09/13/2022,Neumann,home,T,1,1,False
+09/17/2022,@ Shenandoah,L 0-2,211,09/17/2022,Shenandoah,away,L,0,2,False
+09/21/2022,@ Immaculata,W 4-0,83,09/21/2022,Immaculata,away,W,4,0,False
+09/24/2022,Marymount (VA),T 1-1,274,09/24/2022,Marymount (VA),home,T,1,1,False
+09/28/2022,Moravian,L 0-1,135,09/28/2022,Moravian,home,L,0,1,False
+10/01/2022,@ Stevenson,T 1-1,75,10/01/2022,Stevenson,away,T,1,1,False
+10/04/2022,@ Widener,L 1-2,65,10/04/2022,Widener,away,L,1,2,False
+10/08/2022,Hood,L 1-2,273,10/08/2022,Hood,home,L,1,2,False
+10/12/2022,Lebanon Valley,L 1-2,125,10/12/2022,Lebanon Valley,home,L,1,2,False
+10/15/2022,@ Messiah,L 0-6,589,10/15/2022,Messiah,away,L,0,6,False
+10/18/2022,@ Alvernia,T 0-0,81,10/18/2022,Alvernia,away,T,0,0,False
+10/22/2022,York (PA),L 0-3,250,10/22/2022,York (PA),home,L,0,3,False
+10/26/2022,Albright,L 1-2,150,10/26/2022,Albright,home,L,1,2,False
+10/29/2022,@ Lancaster Bible,L 1-2,252,10/29/2022,Lancaster Bible,away,L,1,2,False

@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Simpson,T 1-1,140,09/01/2022,Simpson,away,T,1,1,False
+09/04/2022,@ Knox,W 5-1,100,09/04/2022,Knox,away,W,5,1,False
+09/10/2022,Wartburg,L 0-3,77,09/10/2022,Wartburg,home,L,0,3,False
+09/11/2022,Wis.-La Crosse,W 2-1,73,09/11/2022,Wis.-La Crosse,home,W,2,1,False
+09/20/2022,@ Albion,T 0-0,82,09/20/2022,Albion,away,T,0,0,False
+09/24/2022,@ Carthage,W 4-0,212,09/24/2022,Carthage,away,W,4,0,False
+09/28/2022,Millikin,W 6-0,43,09/28/2022,Millikin,home,W,6,0,False
+10/01/2022,Wheaton (IL),W 5-0,42,10/01/2022,Wheaton (IL),home,W,5,0,False
+10/05/2022,Augustana (IL),W 3-0,42,10/05/2022,Augustana (IL),home,W,3,0,False
+10/08/2022,Carroll (WI),T 1-1,121,10/08/2022,Carroll (WI),home,T,1,1,False
+10/11/2022,@ Wis.-Whitewater,L 0-1,87,10/11/2022,Wis.-Whitewater,away,L,0,1,False
+10/15/2022,@ North Park,W 5-2,180,10/15/2022,North Park,away,W,5,2,False
+10/19/2022,@ Elmhurst,W 6-0,62,10/19/2022,Elmhurst,away,W,6,0,False
+10/22/2022,@ North Central (IL),L 2-3,342,10/22/2022,North Central (IL),away,L,2,3,False
+10/25/2022,@ WashU,L 2-3,113,10/25/2022,WashU,away,L,2,3,False
+11/02/2022,#4 Carroll (WI) CCIW WSOC Championship,W 4-0,318,11/02/2022,Carroll (WI),home,W,4,0,False
+11/05/2022,#2 North Central (IL) CCIW WSOC Championship,W 4-1,423,11/05/2022,North Central (IL),home,W,4,1,False
+11/11/2022,"Concordia Wisconsin @La Crosse, WI (NCAA Division III Women's Soccer Championship)",W 5-2,115,11/11/2022,Concordia Wisconsin,neutral,W,5,2,False
+11/12/2022,"Wis.-La Crosse @La Crosse, WI (NCAA Division III Women's Soccer Championship)",L 0-1,245,11/12/2022,Wis.-La Crosse,neutral,L,0,1,False

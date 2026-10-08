@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/31/2024,@ Endicott,L 0-1,194,08/31/2024,Endicott,away,L,0,1,False
+09/04/2024,@ Framingham St.,W 2-1,134,09/04/2024,Framingham St.,away,W,2,1,False
+09/06/2024,@ Dean,W 3-0,187,09/06/2024,Dean,away,W,3,0,False
+09/14/2024,@ Regis (MA),T 1-1,120,09/14/2024,Regis (MA),away,T,1,1,False
+09/17/2024,Emmanuel (MA),L 0-3,100,09/17/2024,Emmanuel (MA),home,L,0,3,False
+09/23/2024,St. Joseph's (ME),W 2-1,80,09/23/2024,St. Joseph's (ME),home,W,2,1,False
+09/25/2024,Saint Joseph (CT),T 2-2,75,09/25/2024,Saint Joseph (CT),home,T,2,2,False
+09/28/2024,@ Elms,L 1-2,153,09/28/2024,Elms,away,L,1,2,False
+10/02/2024,New England Col.,W 8-0,75,10/02/2024,New England Col.,home,W,8,0,False
+10/05/2024,@ Colby-Sawyer,W 2-0,131,10/05/2024,Colby-Sawyer,away,W,2,0,False
+10/09/2024,Norwich,W 2-0,48,10/09/2024,Norwich,home,W,2,0,False
+10/12/2024,@ JWU (Providence),L 0-1,411,10/12/2024,JWU (Providence),away,L,0,1,False
+10/16/2024,@ Albertus Magnus,T 1-1,189,10/16/2024,Albertus Magnus,away,T,1,1,False
+10/19/2024,Simmons,W 4-1,250,10/19/2024,Simmons,home,W,4,1,False
+10/22/2024,Anna Maria,W 1-0,50,10/22/2024,Anna Maria,home,W,1,0,False
+10/26/2024,@ Mitchell,W 5-0,250,10/26/2024,Mitchell,away,W,5,0,False
+10/29/2024,@ Rivier,L 0-1,0,10/29/2024,Rivier,away,L,0,1,False
+11/02/2024,#5 Colby-Sawyer Great Northeast Women's Soccer Championship,T 1-1 (2 OT),250,11/02/2024,Colby-Sawyer,home,T,1,1,True
+11/05/2024,@ #1 JWU (Providence) Great Northeast Women's Soccer Championship,L 0-2,403,11/05/2024,JWU (Providence),away,L,0,2,False

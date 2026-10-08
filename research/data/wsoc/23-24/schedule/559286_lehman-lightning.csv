@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/13/2023,@ Bard,L 1-8,50,09/13/2023,Bard,away,L,1,8,False
+09/16/2023,@ Old Westbury,L 0-7,88,09/16/2023,Old Westbury,away,L,0,7,False
+09/18/2023,@ Purchase,T 2-2,82,09/18/2023,Purchase,away,T,2,2,False
+09/20/2023,@ Saint Elizabeth,L 0-1,55,09/20/2023,Saint Elizabeth,away,L,0,1,False
+09/23/2023,@ Valley Forge,Ppd,,09/23/2023,Valley Forge,away,,,,
+09/27/2023,Pratt,L 3-7,20,09/27/2023,Pratt,home,L,3,7,False
+09/28/2023,@ York (NY),W 10-1,13,09/28/2023,York (NY),away,W,10,1,False
+10/02/2023,New Jersey City,L 0-1,50,10/02/2023,New Jersey City,home,L,0,1,False
+10/07/2023,@ Brooklyn,W 5-1,59,10/07/2023,Brooklyn,away,W,5,1,False
+10/11/2023,York (NY),W 3-0,35,10/11/2023,York (NY),home,W,3,0,False
+10/13/2023,CCNY,L 0-3,25,10/13/2023,CCNY,home,L,0,3,False
+10/18/2023,@ Medgar Evers,W 7-0,25,10/18/2023,Medgar Evers,away,W,7,0,False
+10/23/2023,John Jay,L 0-6,50,10/23/2023,John Jay,home,L,0,6,False
+10/26/2023,Yeshiva,W 9-1,50,10/26/2023,Yeshiva,home,W,9,1,False
+10/28/2023,@ #2 John Jay CUNYAC Women's Soccer Championship,L 1-5,75,10/28/2023,John Jay,away,L,1,5,False

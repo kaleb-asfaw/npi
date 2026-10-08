@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Rensselaer,T 1-1,479,09/01/2023,Rensselaer,away,T,1,1,False
+09/04/2023,@ Rochester (NY),L 0-2,87,09/04/2023,Rochester (NY),away,L,0,2,False
+09/08/2023,UMass Boston,W 4-1,181,09/08/2023,UMass Boston,home,W,4,1,False
+09/09/2023,Westfield St.,W 6-2,146,09/09/2023,Westfield St.,home,W,6,2,False
+09/13/2023,Ithaca,W 1-0,163,09/13/2023,Ithaca,home,W,1,0,False
+09/16/2023,@ Clarkson,L 0-1,114,09/16/2023,Clarkson,away,L,0,1,False
+09/20/2023,Misericordia,W 2-1,129,09/20/2023,Misericordia,home,W,2,1,False
+09/23/2023,Fredonia,W 7-0,236,09/23/2023,Fredonia,home,W,7,0,False
+09/27/2023,@ SUNY Potsdam,W 2-0,112,09/27/2023,SUNY Potsdam,away,W,2,0,False
+09/30/2023,@ Buffalo St.,T 0-0,109,09/30/2023,Buffalo St.,away,T,0,0,False
+10/04/2023,@ SUNY Oneonta,W 3-2,120,10/04/2023,SUNY Oneonta,away,W,3,2,False
+10/07/2023,SUNY Geneseo,T 0-0,234,10/07/2023,SUNY Geneseo,home,T,0,0,False
+10/11/2023,Plattsburgh St.,T 1-1,122,10/11/2023,Plattsburgh St.,home,T,1,1,False
+10/14/2023,@ SUNY Brockport,T 0-0,55,10/14/2023,SUNY Brockport,away,T,0,0,False
+10/18/2023,SUNY New Paltz,W 1-0,89,10/18/2023,SUNY New Paltz,home,W,1,0,False
+10/21/2023,@ Oswego St.,W 3-0,68,10/21/2023,Oswego St.,away,W,3,0,False
+10/24/2023,William Smith,Canceled,,10/24/2023,William Smith,home,,,,
+11/01/2023,#5 Oswego St. SUNYAC Women's Soccer Championship,W 2-1,122,11/01/2023,Oswego St.,home,W,2,1,False
+11/04/2023,#2 SUNY Brockport SUNYAC Women's Soccer Championship,W 3-0,287,11/04/2023,SUNY Brockport,home,W,3,0,False
+11/11/2023,"John Carroll @Cleveland, OH (NCAA Division III Women's Soccer Championship)",L 0-3,736,11/11/2023,John Carroll,neutral,L,0,3,False

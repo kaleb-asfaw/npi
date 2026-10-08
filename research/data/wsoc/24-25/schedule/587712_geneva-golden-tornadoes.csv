@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Juniata,T 2-2,145,08/30/2024,Juniata,home,T,2,2,False
+08/31/2024,Baldwin Wallace,L 0-1,370,08/31/2024,Baldwin Wallace,home,L,0,1,False
+09/03/2024,@ Alfred,L 0-1,195,09/03/2024,Alfred,away,L,0,1,False
+09/07/2024,@ Oberlin,L 1-3,153,09/07/2024,Oberlin,away,L,1,3,False
+09/10/2024,La Roche,W 4-0,130,09/10/2024,La Roche,home,W,4,0,False
+09/14/2024,@ Marietta,L 0-3,168,09/14/2024,Marietta,away,L,0,3,False
+09/21/2024,@ Heidelberg,L 1-3,72,09/21/2024,Heidelberg,away,L,1,3,False
+09/25/2024,@ Wash. & Jeff.,L 1-2,285,09/25/2024,Wash. & Jeff.,away,L,1,2,False
+09/28/2024,Westminster (PA),L 1-5,271,09/28/2024,Westminster (PA),home,L,1,5,False
+10/02/2024,@ Grove City,L 2-5,225,10/02/2024,Grove City,away,L,2,5,False
+10/05/2024,@ Allegheny,L 2-3,176,10/05/2024,Allegheny,away,L,2,3,False
+10/08/2024,Saint Vincent,L 0-2,137,10/08/2024,Saint Vincent,home,L,0,2,False
+10/12/2024,Bethany (WV),L 0-2,181,10/12/2024,Bethany (WV),home,L,0,2,False
+10/16/2024,@ Thiel,W 5-0,68,10/16/2024,Thiel,away,W,5,0,False
+10/22/2024,Chatham,L 0-1,164,10/22/2024,Chatham,home,L,0,1,False
+10/26/2024,@ Waynesburg,L 2-5,94,10/26/2024,Waynesburg,away,L,2,5,False
+10/29/2024,Franciscan,W 4-0,173,10/29/2024,Franciscan,home,W,4,0,False

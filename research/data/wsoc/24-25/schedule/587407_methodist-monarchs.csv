@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2024,@ East. Mennonite,W 1-0,137,09/01/2024,East. Mennonite,away,W,1,0,False
+09/07/2024,@ Salisbury,L 1-4,131,09/07/2024,Salisbury,away,L,1,4,False
+09/08/2024,"St. Mary's (MD) @Salisbury, MD",L 0-2,79,09/08/2024,St. Mary's (MD),neutral,L,0,2,False
+09/18/2024,Guilford,L 0-2,50,09/18/2024,Guilford,home,L,0,2,False
+09/21/2024,@ Mary Washington,L 0-7,231,09/21/2024,Mary Washington,away,L,0,7,False
+09/24/2024,Greensboro,W 2-0,154,09/24/2024,Greensboro,home,W,2,0,False
+09/29/2024,Salem (NC),W 2-1,148,09/29/2024,Salem (NC),home,W,2,1,False
+10/05/2024,@ Brevard,L 0-1,115,10/05/2024,Brevard,away,L,0,1,False
+10/08/2024,Meredith,W 3-0,168,10/08/2024,Meredith,home,W,3,0,False
+10/12/2024,Southern Va.,L 0-1,85,10/12/2024,Southern Va.,home,L,0,1,False
+10/13/2024,Warren Wilson,Canceled,,10/13/2024,Warren Wilson,home,,,,
+10/16/2024,@ Pfeiffer,W 3-1,135,10/16/2024,Pfeiffer,away,W,3,1,False
+10/19/2024,Mary Baldwin,W 1-0,240,10/19/2024,Mary Baldwin,home,W,1,0,False
+10/22/2024,@ Chris. Newport,L 1-5,197,10/22/2024,Chris. Newport,away,L,1,5,False
+10/26/2024,@ William Peace,W 3-0,78,10/26/2024,William Peace,away,W,3,0,False
+10/30/2024,N.C. Wesleyan,W 1-0,117,10/30/2024,N.C. Wesleyan,home,W,1,0,False
+11/02/2024,#7 Mary Baldwin USA South Women's Soccer Championship,W 1-0,175,11/02/2024,Mary Baldwin,home,W,1,0,False
+11/06/2024,#3 Greensboro USA South Women's Soccer Championship,W 2-0,250,11/06/2024,Greensboro,home,W,2,0,False
+11/09/2024,#4 Southern Va. USA South Women's Soccer Championship,W 2-0,405,11/09/2024,Southern Va.,home,W,2,0,False
+11/16/2024,@ Emory NCAA Division III Women's Soccer Championship,L 0-6,215,11/16/2024,Emory,away,L,0,6,False

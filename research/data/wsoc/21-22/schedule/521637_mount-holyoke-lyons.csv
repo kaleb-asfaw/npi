@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Colby-Sawyer,W 2-1,75,09/01/2021,Colby-Sawyer,away,W,2,1,False
+09/04/2021,Skidmore,L 0-7,54,09/04/2021,Skidmore,home,L,0,7,False
+09/09/2021,Amherst,L 0-9,35,09/09/2021,Amherst,home,L,0,9,False
+09/18/2021,Springfield,L 1-9,110,09/18/2021,Springfield,home,L,1,9,False
+09/21/2021,@ Mitchell,W 3-0,75,09/21/2021,Mitchell,away,W,3,0,False
+09/25/2021,@ MIT,L 0-4,84,09/25/2021,MIT,away,L,0,4,False
+10/02/2021,@ Emerson,L 0-6,50,10/02/2021,Emerson,away,L,0,6,False
+10/06/2021,Wesleyan (CT),Ppd,,10/06/2021,Wesleyan (CT),home,,,,
+10/09/2021,@ Wheaton (MA),L 0-9,129,10/09/2021,Wheaton (MA),away,L,0,9,False
+10/13/2021,Clark (MA),L 0-2,35,10/13/2021,Clark (MA),home,L,0,2,False
+10/16/2021,Babson,L 0-9,115,10/16/2021,Babson,home,L,0,9,False
+10/20/2021,@ Smith,L 0-6,50,10/20/2021,Smith,away,L,0,6,False
+10/23/2021,WPI,L 0-6,78,10/23/2021,WPI,home,L,0,6,False
+10/25/2021,Wesleyan (CT),L 0-5,24,10/25/2021,Wesleyan (CT),home,L,0,5,False
+10/27/2021,Coast Guard,L 1-4,34,10/27/2021,Coast Guard,home,L,1,4,False
+10/30/2021,@ Wellesley,T 0-0 (2 OT),50,10/30/2021,Wellesley,away,T,0,0,True

@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/05/2021,Wesleyan (GA),Ppd,,09/05/2021,Wesleyan (GA),home,,,,
+09/08/2021,@ Trinity Washington,L 0-3,47,09/08/2021,Trinity Washington,away,L,0,3,False
+09/12/2021,Penn St.-Mont Alto,Ppd,,09/12/2021,Penn St.-Mont Alto,home,,,,
+09/17/2021,@ JWU (Charlotte),L 1-4,30,09/17/2021,@ JWU (Charlotte),home,L,1,4,False
+09/19/2021,@ Agnes Scott,Canceled,,09/19/2021,Agnes Scott,away,,,,
+09/25/2021,@ Batten,L 0-1,,09/25/2021,Batten,away,L,0,1,False
+09/28/2021,Ferrum,L 0-1,,09/28/2021,Ferrum,home,L,0,1,False
+10/01/2021,@ Shenandoah,Canceled,,10/01/2021,Shenandoah,away,,,,
+10/05/2021,@ Bridgewater (VA),L 0-1,,10/05/2021,Bridgewater (VA),away,L,0,1,False
+10/09/2021,Sweet Briar,Ppd,,10/09/2021,Sweet Briar,home,,,,
+10/13/2021,Roanoke,T 0-0,,10/13/2021,Roanoke,home,T,0,0,False
+10/19/2021,@ Guilford,L 0-9,83,10/19/2021,Guilford,away,L,0,9,False
+10/23/2021,Randolph,L 0-9,122,10/23/2021,Randolph,home,L,0,9,False
+10/27/2021,Lynchburg,L 0-11,77,10/27/2021,Lynchburg,home,L,0,11,False
+10/30/2021,@ East. Mennonite,L 0-8,26,10/30/2021,East. Mennonite,away,L,0,8,False

@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Redlands,W 6-1,100,09/01/2023,Redlands,away,W,6,1,False
+09/03/2023,@ Pomona-Pitzer,L 1-2,127,09/03/2023,Pomona-Pitzer,away,L,1,2,False
+09/08/2023,"Cal Lutheran @Georgetown, TX",L 0-2,100,09/08/2023,Cal Lutheran,neutral,L,0,2,False
+09/10/2023,CMS,W 1-0,136,09/10/2023,CMS,home,W,1,0,False
+09/15/2023,@ Hardin-Simmons,T 3-3,306,09/15/2023,Hardin-Simmons,away,T,3,3,False
+09/16/2023,@ Hardin-Simmons,Canceled,,09/16/2023,Hardin-Simmons,away,,,,
+09/17/2023,@ UT Dallas,L 0-1,221,09/17/2023,UT Dallas,away,L,0,1,False
+09/20/2023,Concordia (TX),T 2-2,50,09/20/2023,Concordia (TX),home,T,2,2,False
+09/25/2023,Mary Hardin-Baylor,L 0-1,101,09/25/2023,Mary Hardin-Baylor,home,L,0,1,False
+10/01/2023,Texas Lutheran,W 4-0,40,10/01/2023,Texas Lutheran,home,W,4,0,False
+10/06/2023,Dallas,W 2-0,138,10/06/2023,Dallas,home,W,2,0,False
+10/08/2023,Austin,W 6-0,189,10/08/2023,Austin,home,W,6,0,False
+10/13/2023,@ Southwestern (TX),W 4-0,225,10/13/2023,Southwestern (TX),away,W,4,0,False
+10/15/2023,@ Texas Lutheran,W 2-1,120,10/15/2023,Texas Lutheran,away,W,2,1,False
+10/20/2023,@ St. Thomas (TX),W 1-0,400,10/20/2023,St. Thomas (TX),away,W,1,0,False
+10/22/2023,Centenary (LA),W 9-0,100,10/22/2023,Centenary (LA),home,W,9,0,False
+10/27/2023,Schreiner,W 3-0,523,10/27/2023,Schreiner,home,W,3,0,False
+11/03/2023,"#4 Dallas @Houston, TX (SCAC Women's Soccer Championship)",W 2-0,200,11/03/2023,Dallas,neutral,W,2,0,False
+11/05/2023,"#3 Southwestern (TX) @Houston, TX (SCAC Women's Soccer Championship)",W 1-0,200,11/05/2023,Southwestern (TX),neutral,W,1,0,False
+11/11/2023,"Hardin-Simmons @Belton, TX (NCAA Division III Women's Soccer Championship)",L 0-1,384,11/11/2023,Hardin-Simmons,neutral,L,0,1,False

@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Hiram,W 3-1,84,09/01/2021,Hiram,home,W,3,1,False
+09/04/2021,@ Waynesburg,W 2-1,52,09/04/2021,Waynesburg,away,W,2,1,False
+09/08/2021,@ Allegheny,W 3-2,233,09/08/2021,Allegheny,away,W,3,2,False
+09/11/2021,@ Adrian,L 1-2,75,09/11/2021,Adrian,away,L,1,2,False
+09/15/2021,Penn St.-Behrend,L 1-2,52,09/15/2021,Penn St.-Behrend,home,L,1,2,False
+09/18/2021,Chatham,T 1-1 (2 OT),132,09/18/2021,Chatham,home,T,1,1,True
+09/22/2021,@ Wooster,L 0-4,77,09/22/2021,Wooster,away,L,0,4,False
+09/25/2021,Grove City,W 2-1,81,09/25/2021,Grove City,home,W,2,1,False
+10/02/2021,@ Otterbein,L 0-2,144,10/02/2021,Otterbein,away,L,0,2,False
+10/06/2021,John Carroll,W 3-0,65,10/06/2021,John Carroll,home,W,3,0,False
+10/09/2021,Wilmington (OH),W 2-0,50,10/09/2021,Wilmington (OH),home,W,2,0,False
+10/13/2021,@ Muskingum,W 3-0,89,10/13/2021,Muskingum,away,W,3,0,False
+10/16/2021,@ Capital,L 0-2,185,10/16/2021,Capital,away,L,0,2,False
+10/20/2021,Marietta,W 2-0,65,10/20/2021,Marietta,home,W,2,0,False
+10/23/2021,Heidelberg,W 3-1,100,10/23/2021,Heidelberg,home,W,3,1,False
+10/27/2021,@ Baldwin Wallace,W 2-1,93,10/27/2021,Baldwin Wallace,away,W,2,1,False
+10/30/2021,@ Ohio Northern,L 0-3,111,10/30/2021,Ohio Northern,away,L,0,3,False
+11/02/2021,#5 Baldwin Wallace OAC WSOC Championship,L 3-7,75,11/02/2021,Baldwin Wallace,home,L,3,7,False

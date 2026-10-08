@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Framingham St.,W 7-0,101,08/30/2024,Framingham St.,away,W,7,0,False
+09/01/2024,@ Salve Regina,W 2-0,101,09/01/2024,Salve Regina,away,W,2,0,False
+09/03/2024,Anna Maria,W 6-0,197,09/03/2024,Anna Maria,home,W,6,0,False
+09/07/2024,@ WPI,L 1-4,300,09/07/2024,WPI,away,L,1,4,False
+09/09/2024,Wheaton (MA),L 1-2,110,09/09/2024,Wheaton (MA),home,L,1,2,False
+09/11/2024,@ UMass Dartmouth,W 2-1,63,09/11/2024,UMass Dartmouth,away,W,2,1,False
+09/16/2024,UMass Boston,W 1-0,225,09/16/2024,UMass Boston,home,W,1,0,False
+09/21/2024,@ Western New Eng.,T 0-0,170,09/21/2024,Western New Eng.,away,T,0,0,False
+09/25/2024,Bridgewater St.,W 2-1,150,09/25/2024,Bridgewater St.,home,W,2,1,False
+09/28/2024,@ Hartford,T 1-1,213,09/28/2024,Hartford,away,T,1,1,False
+10/01/2024,Fitchburg St.,T 1-1,100,10/01/2024,Fitchburg St.,home,T,1,1,False
+10/05/2024,@ Gordon,T 1-1,468,10/05/2024,Gordon,away,T,1,1,False
+10/09/2024,@ Worcester St.,T 0-0,87,10/09/2024,Worcester St.,away,T,0,0,False
+10/12/2024,@ U New England,L 0-1,214,10/12/2024,U New England,away,L,0,1,False
+10/15/2024,Endicott,L 1-2,190,10/15/2024,Endicott,home,L,1,2,False
+10/19/2024,Nichols,W 5-0,376,10/19/2024,Nichols,home,W,5,0,False
+10/23/2024,@ Wentworth,W 2-1,132,10/23/2024,Wentworth,away,W,2,1,False
+10/26/2024,@ Suffolk,T 0-0,135,10/26/2024,Suffolk,away,T,0,0,False
+10/29/2024,Curry,W 2-0,150,10/29/2024,Curry,home,W,2,0,False
+11/02/2024,@ #3 Gordon CNE Women's Soccer Championship,L 1-3,265,11/02/2024,Gordon,away,L,1,3,False

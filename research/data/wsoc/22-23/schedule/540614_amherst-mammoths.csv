@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/07/2022,Springfield,W 5-2,100,09/07/2022,Springfield,home,W,5,2,False
+09/10/2022,Middlebury,W 4-3,71,09/10/2022,Middlebury,home,W,4,3,False
+09/11/2022,@ Smith,W 2-1,50,09/11/2022,Smith,away,W,2,1,False
+09/17/2022,Tufts,L 0-2,70,09/17/2022,Tufts,home,L,0,2,False
+09/20/2022,@ Emerson,W 4-0,50,09/20/2022,Emerson,away,W,4,0,False
+09/24/2022,@ Bates,W 2-0,245,09/24/2022,Bates,away,W,2,0,False
+09/25/2022,@ Colby,W 2-0,231,09/25/2022,Colby,away,W,2,0,False
+10/01/2022,@ Williams,L 0-1,187,10/01/2022,Williams,away,L,0,1,False
+10/02/2022,Lesley,W 7-0,40,10/02/2022,Lesley,home,W,7,0,False
+10/08/2022,Wesleyan (CT),W 3-0,40,10/08/2022,Wesleyan (CT),home,W,3,0,False
+10/09/2022,Bowdoin,W 2-1,40,10/09/2022,Bowdoin,home,W,2,1,False
+10/16/2022,@ New England Col.,W 9-0,135,10/16/2022,New England Col.,away,W,9,0,False
+10/18/2022,Connecticut Col.,W 3-1,100,10/18/2022,Connecticut Col.,home,W,3,1,False
+10/22/2022,@ Hamilton,W 1-0,104,10/22/2022,Hamilton,away,W,1,0,False
+10/25/2022,@ Trinity (CT),W 1-0,200,10/25/2022,Trinity (CT),away,W,1,0,False
+10/29/2022,#8 Connecticut Col. NESCAC WSOC Championship,W 3-0,70,10/29/2022,Connecticut Col.,home,W,3,0,False
+11/05/2022,#7 Tufts NESCAC WSOC Championship,W 1-0 (2 OT),328,11/05/2022,Tufts,home,W,1,0,True
+11/06/2022,#6 Wesleyan (CT) NESCAC WSOC Championship,W 2-0,100,11/06/2022,Wesleyan (CT),home,W,2,0,False
+11/12/2022,"Westminster (PA) @Rochester, NY (NCAA Division III Women's Soccer Championship)",W 3-0,64,11/12/2022,Westminster (PA),neutral,W,3,0,False
+11/13/2022,"RIT @Rochester, NY (NCAA Division III Women's Soccer Championship)",W 1-0,171,11/13/2022,RIT,neutral,W,1,0,False
+11/19/2022,"William Smith @Cleveland, OH (NCAA Division III Women's Soccer Championship)",L 1-2,367,11/19/2022,William Smith,neutral,L,1,2,False

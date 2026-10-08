@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Hanover,L 0-3,55,09/01/2021,Hanover,home,L,0,3,False
+09/03/2021,Alma,W 3-0,70,09/03/2021,Alma,home,W,3,0,False
+09/04/2021,George Fox,L 1-2,60,09/04/2021,George Fox,home,L,1,2,False
+09/10/2021,Calvin,L 2-6,60,09/10/2021,Calvin,home,L,2,6,False
+09/11/2021,Transylvania,L 1-2,50,09/11/2021,Transylvania,home,L,1,2,False
+09/15/2021,John Carroll,W 1-0 (1 OT),50,09/15/2021,John Carroll,home,W,1,0,True
+09/18/2021,@ Franklin,W 1-0,142,09/18/2021,Franklin,away,W,1,0,False
+09/22/2021,@ Otterbein,L 0-2,35,09/22/2021,Otterbein,away,L,0,2,False
+09/25/2021,Allegheny,W 4-1,100,09/25/2021,Allegheny,home,W,4,1,False
+09/28/2021,@ Wilmington (OH),L 0-1,114,09/28/2021,Wilmington (OH),away,L,0,1,False
+10/02/2021,@ Wittenberg,W 1-0,123,10/02/2021,Wittenberg,away,W,1,0,False
+10/09/2021,@ Denison,L 0-3,150,10/09/2021,Denison,away,L,0,3,False
+10/12/2021,@ Ohio Wesleyan,T 0-0 (2 OT),222,10/12/2021,Ohio Wesleyan,away,T,0,0,True
+10/20/2021,Wooster,W 1-0,58,10/20/2021,Wooster,home,W,1,0,False
+10/23/2021,Hiram,W 3-0,275,10/23/2021,Hiram,home,W,3,0,False
+10/26/2021,Oberlin,W 1-0,50,10/26/2021,Oberlin,home,W,1,0,False
+10/30/2021,@ DePauw,L 0-1,120,10/30/2021,DePauw,away,L,0,1,False
+11/02/2021,#3 Wooster NCAC WSOC Tournament,T 0-0 (3 OT),94,11/02/2021,Wooster,home,T,0,0,True

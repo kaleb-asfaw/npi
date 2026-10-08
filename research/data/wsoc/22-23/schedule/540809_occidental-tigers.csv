@@ -1,0 +1,15 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/04/2022,McMurry,W 1-0,561,09/04/2022,McMurry,home,W,1,0,False
+09/11/2022,WashU,L 0-1,560,09/11/2022,WashU,home,L,0,1,False
+09/14/2022,@ Chapman,T 1-1,106,09/14/2022,Chapman,away,T,1,1,False
+09/17/2022,Pomona-Pitzer,T 0-0,0,09/17/2022,Pomona-Pitzer,home,T,0,0,False
+09/21/2022,Redlands,L 1-2,540,09/21/2022,Redlands,home,L,1,2,False
+09/24/2022,CMS,T 1-1,150,09/24/2022,CMS,home,T,1,1,False
+09/28/2022,@ Caltech,L 0-1,33,09/28/2022,Caltech,away,L,0,1,False
+10/01/2022,@ La Verne,T 2-2,107,10/01/2022,La Verne,away,T,2,2,False
+10/08/2022,@ Whittier,L 0-1,75,10/08/2022,Whittier,away,L,0,1,False
+10/12/2022,Cal Lutheran,T 0-0,512,10/12/2022,Cal Lutheran,home,T,0,0,False
+10/19/2022,@ Redlands,W 1-0,82,10/19/2022,Redlands,away,W,1,0,False
+10/22/2022,La Verne,T 0-0,0,10/22/2022,La Verne,home,T,0,0,False
+10/26/2022,Chapman,L 0-1,217,10/26/2022,Chapman,home,L,0,1,False
+10/29/2022,@ CMS,L 0-1,0,10/29/2022,CMS,away,L,0,1,False

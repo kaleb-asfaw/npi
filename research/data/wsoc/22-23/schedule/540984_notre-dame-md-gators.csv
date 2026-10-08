@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2022,@ Gallaudet,W 6-2,88,09/02/2022,Gallaudet,away,W,6,2,False
+09/07/2022,Trinity Washington,Ppd,,09/07/2022,Trinity Washington,home,,,,
+09/09/2022,Penn St.-Scranton,Canceled,,09/09/2022,Penn St.-Scranton,home,,,,
+09/15/2022,@ Neumann,L 0-1,243,09/15/2022,Neumann,away,L,0,1,False
+09/18/2022,Marymount (VA),L 0-5,34,09/18/2022,Marymount (VA),home,L,0,5,False
+09/24/2022,Valley Forge,W 8-0,35,09/24/2022,Valley Forge,home,W,8,0,False
+09/28/2022,@ Rosemont,L 0-3,0,09/28/2022,Rosemont,away,L,0,3,False
+10/01/2022,@ Saint Elizabeth,W 1-0,125,10/01/2022,Saint Elizabeth,away,W,1,0,False
+10/08/2022,@ Cairn,L 0-4,107,10/08/2022,Cairn,away,L,0,4,False
+10/12/2022,Wilson,L 0-1,20,10/12/2022,Wilson,home,L,0,1,False
+10/15/2022,Clarks Summit,L 2-8,20,10/15/2022,Clarks Summit,home,L,2,8,False
+10/19/2022,Trinity Washington,W 9-5,0,10/19/2022,Trinity Washington,home,W,9,5,False
+10/22/2022,@ Cedar Crest,L 0-12,78,10/22/2022,Cedar Crest,away,L,0,12,False
+10/26/2022,@ Bryn Athyn,L 0-11,90,10/26/2022,Bryn Athyn,away,L,0,11,False
+10/29/2022,Keystone,L 0-8,25,10/29/2022,Keystone,home,L,0,8,False

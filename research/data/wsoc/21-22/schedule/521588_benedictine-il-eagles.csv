@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Clarke,L 0-1,117,09/01/2021,Clarke,home,L,0,1,False
+09/04/2021,@ Simpson,L 0-1,89,09/04/2021,Simpson,away,L,0,1,False
+09/05/2021,Wis.-Stout,L 0-3,87,09/05/2021,Wis.-Stout,home,L,0,3,False
+09/08/2021,Augustana (IL),L 1-2,117,09/08/2021,Augustana (IL),home,L,1,2,False
+09/11/2021,@ Webster,L 1-2 (1 OT),100,09/11/2021,Webster,away,L,1,2,True
+09/12/2021,@ North Central (IL),L 0-4,175,09/12/2021,North Central (IL),away,L,0,4,False
+09/15/2021,@ Concordia Chicago,W 1-0,50,09/15/2021,Concordia Chicago,away,W,1,0,False
+09/18/2021,Concordia Wisconsin,L 0-4,134,09/18/2021,Concordia Wisconsin,home,L,0,4,False
+09/22/2021,Dominican (IL),L 1-3,121,09/22/2021,Dominican (IL),home,L,1,3,False
+09/25/2021,@ Marian (WI),L 1-3,117,09/25/2021,Marian (WI),away,L,1,3,False
+09/29/2021,@ Illinois Tech,L 0-5,40,09/29/2021,Illinois Tech,away,L,0,5,False
+10/02/2021,Lakeland,W 4-1,89,10/02/2021,Lakeland,home,W,4,1,False
+10/06/2021,@ Alverno,W 4-0,19,10/06/2021,Alverno,away,W,4,0,False
+10/09/2021,@ Edgewood,W 3-1,135,10/09/2021,Edgewood,away,W,3,1,False
+10/13/2021,Rockford,W 5-0,53,10/13/2021,Rockford,home,W,5,0,False
+10/16/2021,MSOE,L 0-4,123,10/16/2021,MSOE,home,L,0,4,False
+10/17/2021,@ Elmhurst,L 0-1 (1 OT),125,10/17/2021,Elmhurst,away,L,0,1,True
+10/20/2021,@ Wis. Lutheran,W 1-0,51,10/20/2021,Wis. Lutheran,away,W,1,0,False
+10/24/2021,@ St. Norbert,L 0-2,100,10/24/2021,St. Norbert,away,L,0,2,False
+10/27/2021,Aurora,L 0-1,88,10/27/2021,Aurora,home,L,0,1,False

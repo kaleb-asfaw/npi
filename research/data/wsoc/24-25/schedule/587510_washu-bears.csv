@@ -1,0 +1,26 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Trine,W 8-1,204,08/30/2024,Trine,home,W,8,1,False
+09/01/2024,Centre,W 2-1,256,09/01/2024,Centre,home,W,2,1,False
+09/06/2024,North Central (IL),W 5-1,107,09/06/2024,North Central (IL),home,W,5,1,False
+09/10/2024,@ Westminster (MO),W 3-0,150,09/10/2024,Westminster (MO),away,W,3,0,False
+09/13/2024,@ DePauw,W 4-0,56,09/13/2024,DePauw,away,W,4,0,False
+09/14/2024,"Rhodes @Greencastle, IN",W 3-0,50,09/14/2024,Rhodes,neutral,W,3,0,False
+09/17/2024,Ill. Wesleyan,W 4-0,176,09/17/2024,Ill. Wesleyan,home,W,4,0,False
+09/21/2024,@ Rose-Hulman,W 5-0,150,09/21/2024,Rose-Hulman,away,W,5,0,False
+09/23/2024,@ Calvin,T 0-0,108,09/23/2024,Calvin,away,T,0,0,False
+09/25/2024,@ Webster,W 3-0,220,09/25/2024,Webster,away,W,3,0,False
+10/01/2024,Greenville,W 7-0,171,10/01/2024,Greenville,home,W,7,0,False
+10/05/2024,@ Emory,W 2-1,245,10/05/2024,Emory,away,W,2,1,False
+10/06/2024,@ Piedmont,W 9-0,78,10/06/2024,Piedmont,away,W,9,0,False
+10/11/2024,@ Brandeis,W 1-0,400,10/11/2024,Brandeis,away,W,1,0,False
+10/19/2024,NYU,W 3-0,300,10/19/2024,NYU,home,W,3,0,False
+10/25/2024,Carnegie Mellon,W 3-0,400,10/25/2024,Carnegie Mellon,home,W,3,0,False
+10/27/2024,CWRU,W 3-1,300,10/27/2024,CWRU,home,W,3,1,False
+11/03/2024,@ Rochester (NY),W 2-0,240,11/03/2024,Rochester (NY),away,W,2,0,False
+11/09/2024,@ UChicago,T 1-1,70,11/09/2024,UChicago,away,T,1,1,False
+11/16/2024,DePauw NCAA Division III Women's Soccer Championship,W 2-0,545,11/16/2024,DePauw,home,W,2,0,False
+11/17/2024,"Simpson @St. Louis, MO (NCAA Division III Women's Soccer Championship)",W 5-1,437,11/17/2024,Simpson,neutral,W,5,1,False
+11/23/2024,Colby NCAA Division III Women's Soccer Championship,W 1-0,491,11/23/2024,Colby,home,W,1,0,False
+11/24/2024,"UChicago @St. Louis, MO (NCAA Division III Women's Soccer Championship)",W 1-0,612,11/24/2024,UChicago,neutral,W,1,0,False
+12/06/2024,"Chris. Newport @Las Vegas, NV (NCAA Division III Women's Soccer Championship)",W 3-0,399,12/06/2024,Chris. Newport,neutral,W,3,0,False
+12/08/2024,"William Smith @Las Vegas, NV (NCAA Division III Women's Soccer Championship)",W 3-0,252,12/08/2024,William Smith,neutral,W,3,0,False

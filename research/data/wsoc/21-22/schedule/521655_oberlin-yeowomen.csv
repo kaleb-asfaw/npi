@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Bluffton,W 4-0,100,09/01/2021,Bluffton,away,W,4,0,False
+09/04/2021,@ Penn St.-Altoona,W 5-0,82,09/04/2021,Penn St.-Altoona,away,W,5,0,False
+09/05/2021,@ Juniata,L 0-1,122,09/05/2021,Juniata,away,L,0,1,False
+09/08/2021,@ Baldwin Wallace,L 1-2,236,09/08/2021,Baldwin Wallace,away,L,1,2,False
+09/11/2021,@ Chatham,W 1-0,100,09/11/2021,Chatham,away,W,1,0,False
+09/14/2021,Heidelberg,L 1-2 (1 OT),0,09/14/2021,Heidelberg,home,L,1,2,True
+09/18/2021,Franciscan,W 2-1,0,09/18/2021,Franciscan,home,W,2,1,False
+09/22/2021,Westminster (PA),L 0-1,47,09/22/2021,Westminster (PA),home,L,0,1,False
+09/25/2021,DePauw,W 2-1,111,09/25/2021,DePauw,home,W,2,1,False
+10/02/2021,@ Ohio Wesleyan,W 1-0,125,10/02/2021,Ohio Wesleyan,away,W,1,0,False
+10/09/2021,Wittenberg,L 0-1,207,10/09/2021,Wittenberg,home,L,0,1,False
+10/12/2021,@ Allegheny,T 1-1 (2 OT),89,10/12/2021,Allegheny,away,T,1,1,True
+10/15/2021,Hiram,W 2-1,78,10/15/2021,Hiram,home,W,2,1,False
+10/20/2021,@ Denison,L 0-1 (1 OT),50,10/20/2021,Denison,away,L,0,1,True
+10/23/2021,Wooster,L 2-4,98,10/23/2021,Wooster,home,L,2,4,False
+10/26/2021,@ Kenyon,L 0-1,50,10/26/2021,Kenyon,away,L,0,1,False

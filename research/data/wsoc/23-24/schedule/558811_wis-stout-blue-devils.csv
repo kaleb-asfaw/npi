@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Macalester,L 0-3,348,09/01/2023,Macalester,away,L,0,3,False
+09/09/2023,"Neb. Wesleyan @Moorhead, MN",W 4-0,64,09/09/2023,Neb. Wesleyan,neutral,W,4,0,False
+09/10/2023,@ Concordia-M'head,W 1-0,123,09/10/2023,Concordia-M'head,away,W,1,0,False
+09/13/2023,@ Viterbo,T 2-2,56,09/13/2023,@ Viterbo,home,T,2,2,False
+09/16/2023,@ Luther,W 1-0,67,09/16/2023,Luther,away,W,1,0,False
+09/19/2023,@ Augsburg,L 0-1,175,09/19/2023,Augsburg,away,L,0,1,False
+09/21/2023,Bethel (MN),T 1-1,104,09/21/2023,Bethel (MN),home,T,1,1,False
+09/24/2023,Saint Mary's (MN),L 0-1,160,09/24/2023,Saint Mary's (MN),home,L,0,1,False
+09/30/2023,@ Wis.-Stevens Point,L 0-2,133,09/30/2023,Wis.-Stevens Point,away,L,0,2,False
+10/04/2023,St. Catherine,L 0-1,182,10/04/2023,St. Catherine,home,L,0,1,False
+10/07/2023,@ Wis.-Oshkosh,L 0-1,182,10/07/2023,Wis.-Oshkosh,away,L,0,1,False
+10/11/2023,UW-River Falls,L 0-1,145,10/11/2023,UW-River Falls,home,L,0,1,False
+10/14/2023,Wis.-Platteville,L 1-7,152,10/14/2023,Wis.-Platteville,home,L,1,7,False
+10/15/2023,@ Saint Benedict,L 1-2,78,10/15/2023,Saint Benedict,away,L,1,2,False
+10/18/2023,Wis.-La Crosse,L 1-6,128,10/18/2023,Wis.-La Crosse,home,L,1,6,False
+10/21/2023,@ Wis.-Whitewater,W 4-2,143,10/21/2023,Wis.-Whitewater,away,W,4,2,False
+10/24/2023,Wis.-Superior,W 3-2,57,10/24/2023,Wis.-Superior,home,W,3,2,False
+10/28/2023,@ Wis.-Eau Claire,L 0-2,120,10/28/2023,Wis.-Eau Claire,away,L,0,2,False

@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2021,Alvernia,W 2-1,75,09/03/2021,Alvernia,home,W,2,1,False
+09/06/2021,@ New Jersey City,T 0-0 (2 OT),201,09/06/2021,New Jersey City,away,T,0,0,True
+09/14/2021,@ Penn St.-Scranton,W 7-1,25,09/14/2021,@ Penn St.-Scranton,home,W,7,1,False
+09/16/2021,@ Neumann,W 3-1,314,09/16/2021,Neumann,away,W,3,1,False
+09/18/2021,@ John Jay,W 1-0,0,09/18/2021,John Jay,away,W,1,0,False
+09/25/2021,Wilson,W 2-1 (2 OT),67,09/25/2021,Wilson,home,W,2,1,True
+09/29/2021,@ Centenary (NJ),W 1-0,100,09/29/2021,Centenary (NJ),away,W,1,0,False
+10/02/2021,Keystone,W 4-0,67,10/02/2021,Keystone,home,W,4,0,False
+10/05/2021,Bryn Athyn,L 0-1,87,10/05/2021,Bryn Athyn,home,L,0,1,False
+10/09/2021,@ Saint Elizabeth,W 9-0,25,10/09/2021,Saint Elizabeth,away,W,9,0,False
+10/13/2021,@ Cairn,W 2-0,164,10/13/2021,Cairn,away,W,2,0,False
+10/16/2021,@ Notre Dame (MD),W 2-0,67,10/16/2021,Notre Dame (MD),away,W,2,0,False
+10/23/2021,Valley Forge,W 10-0,74,10/23/2021,Valley Forge,home,W,10,0,False
+10/27/2021,Clarks Summit,W 9-0,82,10/27/2021,Clarks Summit,home,W,9,0,False
+10/30/2021,@ Rosemont,W 4-0,0,10/30/2021,Rosemont,away,W,4,0,False
+11/03/2021,#4 Cairn Colonial States WSOC Championship,L 0-1,75,11/03/2021,Cairn,home,L,0,1,False

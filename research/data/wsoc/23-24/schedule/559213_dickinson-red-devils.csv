@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ St. Mary's (MD),W 5-0,135,09/01/2023,St. Mary's (MD),away,W,5,0,False
+09/02/2023,"Salisbury @Saint Mary's City, MD",W 4-0,66,09/02/2023,Salisbury,neutral,W,4,0,False
+09/06/2023,@ DeSales,W 1-0,200,09/06/2023,DeSales,away,W,1,0,False
+09/10/2023,Pitt.-Greensburg,W 6-1,150,09/10/2023,Pitt.-Greensburg,home,W,6,1,False
+09/13/2023,York (PA),L 0-2,50,09/13/2023,York (PA),home,L,0,2,False
+09/16/2023,Washington Col.,W 2-0,95,09/16/2023,Washington Col.,home,W,2,0,False
+09/20/2023,@ Johns Hopkins,L 0-1,150,09/20/2023,Johns Hopkins,away,L,0,1,False
+09/23/2023,@ Muhlenberg,W 3-0,30,09/23/2023,Muhlenberg,away,W,3,0,False
+09/27/2023,Messiah,L 0-2,75,09/27/2023,Messiah,home,L,0,2,False
+09/30/2023,Haverford,W 5-0,40,09/30/2023,Haverford,home,W,5,0,False
+10/04/2023,@ Gettysburg,L 0-1,112,10/04/2023,Gettysburg,away,L,0,1,False
+10/07/2023,McDaniel,T 1-1,50,10/07/2023,McDaniel,home,T,1,1,False
+10/11/2023,Franklin & Marshall,L 1-2,175,10/11/2023,Franklin & Marshall,home,L,1,2,False
+10/14/2023,@ Swarthmore,L 0-1,82,10/14/2023,Swarthmore,away,L,0,1,False
+10/21/2023,@ Ursinus,W 2-0,204,10/21/2023,Ursinus,away,W,2,0,False
+10/25/2023,Susquehanna,L 0-1,20,10/25/2023,Susquehanna,home,L,0,1,False
+10/28/2023,Bryn Mawr,W 2-0,50,10/28/2023,Bryn Mawr,home,W,2,0,False
+10/31/2023,@ #3 McDaniel Centennial Women's Soccer Championship,L 1-2,0,10/31/2023,McDaniel,away,L,1,2,False

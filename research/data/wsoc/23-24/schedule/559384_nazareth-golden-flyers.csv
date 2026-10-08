@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ St. Lawrence,T 1-1,220,09/01/2023,St. Lawrence,away,T,1,1,False
+09/02/2023,@ Clarkson,L 0-3,122,09/02/2023,Clarkson,away,L,0,3,False
+09/08/2023,Penn St.-Behrend,L 1-2,200,09/08/2023,Penn St.-Behrend,home,L,1,2,False
+09/09/2023,Wheaton (IL),W 2-1,188,09/09/2023,Wheaton (IL),home,W,2,1,False
+09/13/2023,SUNY Geneseo,T 0-0,233,09/13/2023,SUNY Geneseo,home,T,0,0,False
+09/16/2023,@ Ithaca,L 0-2,267,09/16/2023,Ithaca,away,L,0,2,False
+09/23/2023,Hartwick,T 1-1,500,09/23/2023,Hartwick,home,T,1,1,False
+09/27/2023,@ Houghton,W 1-0,0,09/27/2023,Houghton,away,W,1,0,False
+09/30/2023,Keuka,W 6-0,212,09/30/2023,Keuka,home,W,6,0,False
+10/03/2023,RIT,T 1-1,100,10/03/2023,RIT,home,T,1,1,False
+10/07/2023,@ Elmira,W 2-0,90,10/07/2023,Elmira,away,W,2,0,False
+10/11/2023,St. John Fisher,T 0-0,387,10/11/2023,St. John Fisher,home,T,0,0,False
+10/14/2023,Utica,W 1-0,301,10/14/2023,Utica,home,W,1,0,False
+10/18/2023,@ William Smith,L 0-2,158,10/18/2023,William Smith,away,L,0,2,False
+10/21/2023,@ Russell Sage,T 0-0,123,10/21/2023,Russell Sage,away,T,0,0,False
+10/25/2023,@ Alfred,W 2-0,225,10/25/2023,Alfred,away,W,2,0,False
+11/01/2023,#5 Russell Sage Empire 8 Women's Soccer Championship,W 3-0,325,11/01/2023,Russell Sage,home,W,3,0,False
+11/04/2023,#2 St. John Fisher Empire 8 Women's Soccer Championship,W 3-0,428,11/04/2023,St. John Fisher,home,W,3,0,False
+11/11/2023,@ William Smith NCAA Division III Women's Soccer Championship,L 1-4,239,11/11/2023,William Smith,away,L,1,4,False

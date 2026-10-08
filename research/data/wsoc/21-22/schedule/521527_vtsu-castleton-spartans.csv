@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Plattsburgh St.,T 2-2 (2 OT),150,09/01/2021,Plattsburgh St.,away,T,2,2,True
+09/04/2021,Colby-Sawyer,W 3-0,155,09/04/2021,Colby-Sawyer,home,W,3,0,False
+09/08/2021,@ Norwich,T 0-0,128,09/08/2021,Norwich,away,T,0,0,False
+09/11/2021,SUNY Morrisville,W 6-1,150,09/11/2021,SUNY Morrisville,home,W,6,1,False
+09/12/2021,Williams,L 0-2,125,09/12/2021,Williams,home,L,0,2,False
+09/18/2021,Southern Me.,W 1-0,210,09/18/2021,Southern Me.,home,W,1,0,False
+09/21/2021,@ Middlebury,L 0-2,30,09/21/2021,Middlebury,away,L,0,2,False
+09/25/2021,@ Rhode Island Col.,W 7-1,125,09/25/2021,Rhode Island Col.,away,W,7,1,False
+09/29/2021,@ Springfield,L 0-3,200,09/29/2021,Springfield,away,L,0,3,False
+10/02/2021,@ WestConn,L 0-1 (2 OT),105,10/02/2021,WestConn,away,L,0,1,True
+10/06/2021,@ New England Col.,W 1-0,140,10/06/2021,New England Col.,away,W,1,0,False
+10/09/2021,Eastern Conn. St.,T 0-0 (2 OT),120,10/09/2021,Eastern Conn. St.,home,T,0,0,True
+10/13/2021,Keene St.,W 2-1,145,10/13/2021,Keene St.,home,W,2,1,False
+10/16/2021,@ Plymouth St.,T 0-0 (2 OT),330,10/16/2021,Plymouth St.,away,T,0,0,True
+10/19/2021,@ SUNY Potsdam,T 0-0 (2 OT),63,10/19/2021,SUNY Potsdam,away,T,0,0,True
+10/24/2021,UMass Dartmouth,W 5-0,380,10/24/2021,UMass Dartmouth,home,W,5,0,False
+10/27/2021,MCLA,W 7-0,130,10/27/2021,MCLA,home,W,7,0,False
+10/30/2021,@ UMass Boston,L 0-2,176,10/30/2021,UMass Boston,away,L,0,2,False
+11/02/2021,#3 Keene St. Little East WSOC Championship,W 3-0,410,11/02/2021,Keene St.,home,W,3,0,False
+11/04/2021,@ #2 UMass Boston Little East WSOC Championship,L 1-4,215,11/04/2021,UMass Boston,away,L,1,4,False

@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2021,@ Hope,L 1-4,442,09/03/2021,Hope,away,L,1,4,False
+09/04/2021,@ Kalamazoo,L 0-1 (1 OT),162,09/04/2021,Kalamazoo,away,L,0,1,True
+09/08/2021,Franklin,W 1-0,100,09/08/2021,Franklin,home,W,1,0,False
+09/12/2021,Olivet,Canceled,,09/12/2021,Olivet,home,,,,
+09/15/2021,@ Centre,L 0-9,70,09/15/2021,Centre,away,L,0,9,False
+09/18/2021,@ Rhodes,T 2-2 (2 OT),200,09/18/2021,Rhodes,away,T,2,2,True
+09/19/2021,"WashU @Memphis, TN",L 1-4,50,09/19/2021,WashU,neutral,L,1,4,False
+09/22/2021,@ Rose-Hulman,Canceled,,09/22/2021,Rose-Hulman,away,,,,
+09/25/2021,@ Oberlin,L 1-2,111,09/25/2021,Oberlin,away,L,1,2,False
+10/02/2021,Wooster,T 0-0 (2 OT),0,10/02/2021,Wooster,home,T,0,0,True
+10/09/2021,@ Hiram,W 3-0,92,10/09/2021,Hiram,away,W,3,0,False
+10/12/2021,@ Wittenberg,L 1-2,200,10/12/2021,Wittenberg,away,L,1,2,False
+10/16/2021,Denison,L 0-1,125,10/16/2021,Denison,home,L,0,1,False
+10/20/2021,@ Ohio Wesleyan,L 1-3,225,10/20/2021,Ohio Wesleyan,away,L,1,3,False
+10/23/2021,Allegheny,Canceled,,10/23/2021,Allegheny,home,,,,
+10/30/2021,Kenyon,W 1-0,120,10/30/2021,Kenyon,home,W,1,0,False

@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Sarah Lawrence,Ppd,,09/01/2022,Sarah Lawrence,away,,,,
+09/03/2022,@ Rutgers-Newark,L 1-9,261,09/03/2022,Rutgers-Newark,away,L,1,9,False
+09/07/2022,St. Joseph's (Brkln),L 0-5,43,09/07/2022,St. Joseph's (Brkln),home,L,0,5,False
+09/09/2022,@ Saint Elizabeth,L 4-5,50,09/09/2022,Saint Elizabeth,away,L,4,5,False
+09/14/2022,New Jersey City,L 0-7,30,09/14/2022,New Jersey City,home,L,0,7,False
+09/17/2022,Mitchell,L 0-3,33,09/17/2022,Mitchell,home,L,0,3,False
+09/21/2022,Pratt,L 1-4,32,09/21/2022,Pratt,home,L,1,4,False
+09/26/2022,@ Purchase,L 0-2,45,09/26/2022,Purchase,away,L,0,2,False
+09/28/2022,Old Westbury,L 1-9,27,09/28/2022,Old Westbury,home,L,1,9,False
+10/04/2022,@ Bard,L 0-1,35,10/04/2022,Bard,away,L,0,1,False
+10/07/2022,@ St. Joseph's (L.I.),L 0-5,150,10/07/2022,St. Joseph's (L.I.),away,L,0,5,False
+10/08/2022,@ Medgar Evers,W 7-0,25,10/08/2022,Medgar Evers,away,W,7,0,False
+10/12/2022,CCNY,L 0-5,22,10/12/2022,CCNY,home,L,0,5,False
+10/15/2022,John Jay,L 0-5,57,10/15/2022,John Jay,home,L,0,5,False
+10/19/2022,York (NY),Canceled,,10/19/2022,York (NY),home,,,,
+10/22/2022,@ Lehman,W 4-0,95,10/22/2022,Lehman,away,W,4,0,False
+10/29/2022,@ #2 CCNY CUNYAC WSOC Championship,L 0-4,75,10/29/2022,CCNY,away,L,0,4,False

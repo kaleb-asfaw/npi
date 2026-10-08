@@ -1,0 +1,14 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2022,@ Guilford,L 0-6,95,09/03/2022,Guilford,away,L,0,6,False
+09/06/2022,@ Brevard,L 0-4,147,09/06/2022,Brevard,away,L,0,4,False
+09/10/2022,Wesleyan (GA),W 3-0,0,09/10/2022,Wesleyan (GA),home,W,3,0,False
+09/16/2022,Agnes Scott,W 1-0,0,09/16/2022,Agnes Scott,home,W,1,0,False
+09/25/2022,Piedmont,L 1-2,89,09/25/2022,Piedmont,home,L,1,2,False
+09/29/2022,@ Covenant,Canceled,,09/29/2022,Covenant,away,,,,
+10/01/2022,Camp. Harrodsburg,W 4-0,0,10/01/2022,Camp. Harrodsburg,home,W,4,0,False
+10/09/2022,JWU (Charlotte),L 0-2,52,10/09/2022,JWU (Charlotte),home,L,0,2,False
+10/15/2022,MUW,L 1-3,0,10/15/2022,MUW,home,L,1,3,False
+10/17/2022,Huntingdon,Canceled,,10/17/2022,Huntingdon,home,,,,
+10/20/2022,@ Bob Jones,L 1-5,175,10/20/2022,Bob Jones,away,L,1,5,False
+10/22/2022,@ Toccoa Falls,T 1-1,0,10/22/2022,@ Toccoa Falls,home,T,1,1,False
+10/29/2022,@ JWU (Charlotte),,,10/29/2022,@ JWU (Charlotte),home,,,,

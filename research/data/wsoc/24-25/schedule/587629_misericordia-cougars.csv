@@ -1,0 +1,24 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Susquehanna,W 8-0,0,08/30/2024,Susquehanna,away,W,8,0,False
+09/01/2024,Emerson,W 2-0,136,09/01/2024,Emerson,home,W,2,0,False
+09/04/2024,Penn St.-Berks,W 5-0,129,09/04/2024,Penn St.-Berks,home,W,5,0,False
+09/07/2024,Shenandoah,W 1-0,97,09/07/2024,Shenandoah,home,W,1,0,False
+09/08/2024,John Carroll,W 1-0,138,09/08/2024,John Carroll,home,W,1,0,False
+09/11/2024,Montclair St.,W 1-0,87,09/11/2024,Montclair St.,home,W,1,0,False
+09/14/2024,@ Moravian,W 2-1,310,09/14/2024,Moravian,away,W,2,1,False
+09/18/2024,Cortland,W 3-2,135,09/18/2024,Cortland,home,W,3,2,False
+09/20/2024,Messiah,L 0-2,211,09/20/2024,Messiah,home,L,0,2,False
+09/25/2024,@ Scranton,T 0-0,163,09/25/2024,Scranton,away,T,0,0,False
+10/05/2024,@ Lebanon Valley,W 5-1,176,10/05/2024,Lebanon Valley,away,W,5,1,False
+10/12/2024,FDU-Florham,W 9-0,143,10/12/2024,FDU-Florham,home,W,9,0,False
+10/16/2024,@ York (PA),T 1-1,307,10/16/2024,York (PA),away,T,1,1,False
+10/18/2024,King's (PA),W 6-0,89,10/18/2024,King's (PA),home,W,6,0,False
+10/22/2024,@ Delaware Valley,W 5-1,61,10/22/2024,Delaware Valley,away,W,5,1,False
+10/26/2024,@ DeSales,W 3-0,100,10/26/2024,DeSales,away,W,3,0,False
+10/30/2024,Arcadia,W 3-0,129,10/30/2024,Arcadia,home,W,3,0,False
+11/02/2024,@ Stevens,W 1-0,429,11/02/2024,Stevens,away,W,1,0,False
+11/06/2024,#4 Arcadia MAC Freedom Women's Soccer Championship,W 5-1,152,11/06/2024,Arcadia,home,W,5,1,False
+11/09/2024,#2 Stevens MAC Freedom Women's Soccer Championship,W 1-0,186,11/09/2024,Stevens,home,W,1,0,False
+11/16/2024,Grove City NCAA Division III Women's Soccer Championship,W 3-1,202,11/16/2024,Grove City,home,W,3,1,False
+11/17/2024,"Ithaca @Dallas, PA (NCAA Division III Women's Soccer Championship)",W 3-1,136,11/17/2024,Ithaca,neutral,W,3,1,False
+11/23/2024,@ Chris. Newport NCAA Division III Women's Soccer Championship,L 0-1,712,11/23/2024,Chris. Newport,away,L,0,1,False

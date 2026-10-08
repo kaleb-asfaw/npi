@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,MIT,T 2-2 (2 OT),50,09/01/2021,MIT,home,T,2,2,True
+09/04/2021,Lasell,W 6-0,125,09/04/2021,Lasell,home,W,6,0,False
+09/08/2021,Clark (MA),L 1-2,100,09/08/2021,Clark (MA),home,L,1,2,False
+09/11/2021,Eastern Conn. St.,W 5-0,175,09/11/2021,Eastern Conn. St.,home,W,5,0,False
+09/14/2021,@ Babson,T 1-1 (2 OT),185,09/14/2021,Babson,away,T,1,1,True
+09/18/2021,@ Emerson,W 2-0,75,09/18/2021,Emerson,away,W,2,0,False
+09/22/2021,UMass Boston,W 1-0,75,09/22/2021,UMass Boston,home,W,1,0,False
+09/28/2021,Lesley,W 2-1,100,09/28/2021,Lesley,home,W,2,1,False
+10/02/2021,@ Carnegie Mellon,L 0-3,145,10/02/2021,Carnegie Mellon,away,L,0,3,False
+10/09/2021,CWRU,L 1-2,270,10/09/2021,CWRU,home,L,1,2,False
+10/15/2021,@ UChicago,W 3-2,67,10/15/2021,UChicago,away,W,3,2,False
+10/17/2021,@ WashU,L 1-2,150,10/17/2021,WashU,away,L,1,2,False
+10/20/2021,Bridgewater St.,W 2-1,75,10/20/2021,Bridgewater St.,home,W,2,1,False
+10/23/2021,@ Springfield,W 4-1,120,10/23/2021,Springfield,away,W,4,1,False
+10/26/2021,@ JWU (Providence),Canceled,,10/26/2021,JWU (Providence),away,,,,
+10/29/2021,Emory,W 1-0,150,10/29/2021,Emory,home,W,1,0,False
+10/31/2021,Rochester (NY),W 2-1,200,10/31/2021,Rochester (NY),home,W,2,1,False
+11/06/2021,@ NYU,W 2-1,131,11/06/2021,NYU,away,W,2,1,False
+11/13/2021,"Farmingdale St. @Cambridge, Mass. (NCAA Division III Women's Soccer Championship)",W 2-1,169,11/13/2021,Farmingdale St.,neutral,W,2,1,False
+11/14/2021,@ MIT NCAA Division III Women's Soccer Championship,L 0-2,304,11/14/2021,MIT,away,L,0,2,False

@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Spalding,L 1-4,75,09/01/2021,Spalding,home,L,1,4,False
+09/03/2021,Johnson (TN),L 3-4,75,09/03/2021,Johnson (TN),home,L,3,4,False
+09/05/2021,Blackburn,W 10-0,50,09/05/2021,Blackburn,home,W,10,0,False
+09/09/2021,@ Oakland City,L 3-5,0,09/09/2021,Oakland City,away,L,3,5,False
+09/11/2021,@ Midway,W 4-1,107,09/11/2021,@ Midway,home,W,4,1,False
+09/12/2021,@ Marietta,L 0-6,211,09/12/2021,Marietta,away,L,0,6,False
+09/15/2021,UC Clermont,Canceled,,09/15/2021,UC Clermont,home,,,,
+09/18/2021,@ Earlham,Canceled,,09/18/2021,Earlham,away,,,,
+09/22/2021,@ Transylvania,L 1-4,75,09/22/2021,Transylvania,away,L,1,4,False
+09/25/2021,@ Piedmont,L 0-6,134,09/25/2021,Piedmont,away,L,0,6,False
+09/26/2021,@ Berry,L 1-8,125,09/26/2021,Berry,away,L,1,8,False
+09/29/2021,@ Asbury,Ppd,,09/29/2021,Asbury,away,,,,
+10/02/2021,Huntingdon,L 2-4,100,10/02/2021,Huntingdon,home,L,2,4,False
+10/05/2021,Covenant,L 0-3,100,10/05/2021,Covenant,home,L,0,3,False
+10/09/2021,@ Agnes Scott,W 5-1,30,10/09/2021,Agnes Scott,away,W,5,1,False
+10/10/2021,@ Wesleyan (GA),W 5-4 (1 OT),71,10/10/2021,Wesleyan (GA),away,W,5,4,True
+10/14/2021,MUW,W 5-0,100,10/14/2021,MUW,home,W,5,0,False
+10/16/2021,LaGrange,L 1-4,75,10/16/2021,LaGrange,home,L,1,4,False
+10/19/2021,Maryville (TN),L 0-6,100,10/19/2021,Maryville (TN),home,L,0,6,False
+10/23/2021,Brevard,L 1-4,100,10/23/2021,Brevard,home,L,1,4,False

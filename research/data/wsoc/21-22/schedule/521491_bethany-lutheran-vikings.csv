@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Martin Luther,W 3-0,140,09/01/2021,Martin Luther,away,W,3,0,False
+09/04/2021,@ Buena Vista,W 2-0,70,09/04/2021,Buena Vista,away,W,2,0,False
+09/08/2021,Waldorf,W 1-0,50,09/08/2021,Waldorf,home,W,1,0,False
+09/12/2021,Alverno,Canceled,,09/12/2021,Alverno,home,,,,
+09/13/2021,Viterbo,L 0-2,50,09/13/2021,Viterbo,home,L,0,2,False
+09/18/2021,@ UW-River Falls,L 0-1 (1 OT),161,09/18/2021,UW-River Falls,away,L,0,1,True
+09/21/2021,Faith Bapt. Bible,W 4-0,75,09/21/2021,Faith Bapt. Bible,home,W,4,0,False
+09/24/2021,@ Wis.-Superior,L 0-2,92,09/24/2021,Wis.-Superior,away,L,0,2,False
+09/25/2021,@ Northland,W 2-0,120,09/25/2021,Northland,away,W,2,0,False
+09/28/2021,North Central (MN),W 6-0,75,09/28/2021,North Central (MN),home,W,6,0,False
+10/02/2021,Northwestern-St. Paul,L 1-2,100,10/02/2021,Northwestern-St. Paul,home,L,1,2,False
+10/09/2021,@ Crown (MN),W 3-0,200,10/09/2021,Crown (MN),away,W,3,0,False
+10/12/2021,Martin Luther,W 4-0,50,10/12/2021,Martin Luther,home,W,4,0,False
+10/15/2021,Northland,W 4-0,75,10/15/2021,Northland,home,W,4,0,False
+10/16/2021,Wis.-Superior,L 0-2,100,10/16/2021,Wis.-Superior,home,L,0,2,False
+10/22/2021,Crown (MN),W 6-0,75,10/22/2021,Crown (MN),home,W,6,0,False
+10/23/2021,Minn.-Morris,W 2-1,90,10/23/2021,Minn.-Morris,home,W,2,1,False
+10/25/2021,@ Minn.-Morris,W 5-0,50,10/25/2021,Minn.-Morris,away,W,5,0,False
+10/27/2021,@ Northwestern-St. Paul,T 0-0 (2 OT),62,10/27/2021,Northwestern-St. Paul,away,T,0,0,True
+10/30/2021,@ North Central (MN),W 5-2,57,10/30/2021,North Central (MN),away,W,5,2,False
+11/03/2021,@ #2 Northwestern-St. Paul UMAC WSOC Championship,L 0-1,118,11/03/2021,Northwestern-St. Paul,away,L,0,1,False

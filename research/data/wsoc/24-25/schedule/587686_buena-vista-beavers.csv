@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Martin Luther,T 1-1,100,08/30/2024,Martin Luther,home,T,1,1,False
+09/01/2024,Monmouth (IL),W 2-1,100,09/01/2024,Monmouth (IL),home,W,2,1,False
+09/04/2024,North Central (MN),W 5-1,50,09/04/2024,North Central (MN),home,W,5,1,False
+09/08/2024,Waldorf,W 3-1,75,09/08/2024,Waldorf,home,W,3,1,False
+09/12/2024,@ Maranatha Baptist,W 11-0,10,09/12/2024,Maranatha Baptist,away,W,11,0,False
+09/14/2024,@ Illinois Col.,L 0-7,225,09/14/2024,Illinois Col.,away,L,0,7,False
+09/17/2024,Spurgeon,W 7-0,35,09/17/2024,Spurgeon,home,W,7,0,False
+09/22/2024,Ripon,L 0-2,80,09/22/2024,Ripon,home,L,0,2,False
+09/25/2024,@ Neb. Wesleyan,L 0-1,135,09/25/2024,Neb. Wesleyan,away,L,0,1,False
+09/28/2024,Loras,L 0-7,70,09/28/2024,Loras,home,L,0,7,False
+10/03/2024,Faith Bapt. Bible,W 3-1,40,10/03/2024,Faith Bapt. Bible,home,W,3,1,False
+10/05/2024,@ Luther,L 1-4,69,10/05/2024,Luther,away,L,1,4,False
+10/09/2024,Central (IA),L 0-4,55,10/09/2024,Central (IA),home,L,0,4,False
+10/12/2024,@ Simpson,L 0-9,435,10/12/2024,Simpson,away,L,0,9,False
+10/15/2024,@ Coe,W 2-1,47,10/15/2024,Coe,away,W,2,1,False
+10/23/2024,Neb. Wesleyan,L 0-1,45,10/23/2024,Neb. Wesleyan,home,L,0,1,False
+10/26/2024,@ Dubuque,L 0-2,150,10/26/2024,Dubuque,away,L,0,2,False
+10/29/2024,Wartburg,L 0-4,105,10/29/2024,Wartburg,home,L,0,4,False

@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ St. John Fisher,L 0-9,60,09/01/2021,St. John Fisher,away,L,0,9,False
+09/04/2021,Utica,L 0-5,75,09/04/2021,Utica,home,L,0,5,False
+09/07/2021,Cazenovia,W 1-0,75,09/07/2021,Cazenovia,home,W,1,0,False
+09/11/2021,Penn St.-Behrend,L 0-4,65,09/11/2021,Penn St.-Behrend,home,L,0,4,False
+09/12/2021,Medaille,W 2-1,25,09/12/2021,Medaille,home,W,2,1,False
+09/14/2021,Houghton,L 0-3,55,09/14/2021,Houghton,home,L,0,3,False
+09/22/2021,Alfred,L 1-3,85,09/22/2021,Alfred,home,L,1,3,False
+09/25/2021,@ Fredonia,L 0-5,43,09/25/2021,Fredonia,away,L,0,5,False
+09/28/2021,@ Allegheny,L 0-1,165,09/28/2021,Allegheny,away,L,0,1,False
+10/01/2021,@ Oswego St.,L 0-3,70,10/01/2021,Oswego St.,away,L,0,3,False
+10/02/2021,@ Cortland,L 0-9,142,10/02/2021,Cortland,away,L,0,9,False
+10/08/2021,Plattsburgh St.,L 0-5,72,10/08/2021,Plattsburgh St.,home,L,0,5,False
+10/09/2021,SUNY Potsdam,L 2-3,45,10/09/2021,SUNY Potsdam,home,L,2,3,False
+10/15/2021,@ SUNY Oneonta,L 0-3,109,10/15/2021,SUNY Oneonta,away,L,0,3,False
+10/16/2021,@ SUNY New Paltz,L 1-2 (2 OT),65,10/16/2021,SUNY New Paltz,away,L,1,2,True
+10/19/2021,Hilbert,W 1-0 (2 OT),250,10/19/2021,Hilbert,home,W,1,0,True
+10/22/2021,SUNY Geneseo,L 0-7,25,10/22/2021,SUNY Geneseo,home,L,0,7,False
+10/23/2021,SUNY Brockport,L 0-1,100,10/23/2021,SUNY Brockport,home,L,0,1,False

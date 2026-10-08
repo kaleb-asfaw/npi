@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ St. Joseph's (ME),W 5-1,200,09/01/2023,St. Joseph's (ME),away,W,5,1,False
+09/02/2023,WPI,W 3-0,262,09/02/2023,WPI,home,W,3,0,False
+09/09/2023,Southern Me.,T 1-1,193,09/09/2023,Southern Me.,home,T,1,1,False
+09/13/2023,@ Bowdoin,T 1-1,110,09/13/2023,Bowdoin,away,T,1,1,False
+09/15/2023,Gordon,W 2-1,142,09/15/2023,Gordon,home,W,2,1,False
+09/19/2023,Bates,T 1-1,163,09/19/2023,Bates,home,T,1,1,False
+09/23/2023,Nichols,W 5-0,210,09/23/2023,Nichols,home,W,5,0,False
+09/27/2023,@ Emerson,L 1-2,0,09/27/2023,Emerson,away,L,1,2,False
+10/01/2023,@ Western New Eng.,L 0-1,215,10/01/2023,Western New Eng.,away,L,0,1,False
+10/04/2023,@ Husson,W 3-1,150,10/04/2023,Husson,away,W,3,1,False
+10/07/2023,Hartford,L 1-4,241,10/07/2023,Hartford,home,L,1,4,False
+10/10/2023,Wentworth,W 3-1,76,10/10/2023,Wentworth,home,W,3,1,False
+10/14/2023,@ Roger Williams,L 0-1,203,10/14/2023,Roger Williams,away,L,0,1,False
+10/18/2023,Suffolk,W 3-0,118,10/18/2023,Suffolk,home,W,3,0,False
+10/21/2023,@ Curry,T 1-1,94,10/21/2023,Curry,away,T,1,1,False
+10/24/2023,@ Endicott,T 1-1,213,10/24/2023,Endicott,away,T,1,1,False
+10/29/2023,@ #4 Gordon CCC Women's Soccer Championship,L 0-1,259,10/29/2023,Gordon,away,L,0,1,False

@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,North Central (IL),L 0-4,188,09/01/2023,North Central (IL),home,L,0,4,False
+09/03/2023,St. Norbert,L 1-2,114,09/03/2023,St. Norbert,home,L,1,2,False
+09/06/2023,@ Wartburg,W 1-0,145,09/06/2023,Wartburg,away,W,1,0,False
+09/09/2023,Luther,W 2-1,321,09/09/2023,Luther,home,W,2,1,False
+09/12/2023,Bethel (MN),W 2-1,147,09/12/2023,Bethel (MN),home,W,2,1,False
+09/16/2023,@ St. Catherine,L 1-3,123,09/16/2023,St. Catherine,away,L,1,3,False
+09/19/2023,Wis.-Eau Claire,T 0-0,104,09/19/2023,Wis.-Eau Claire,home,T,0,0,False
+09/23/2023,St. Scholastica,T 1-1,123,09/23/2023,St. Scholastica,home,T,1,1,False
+09/27/2023,@ Carleton,T 0-0,292,09/27/2023,Carleton,away,T,0,0,False
+09/30/2023,Macalester,L 0-1,124,09/30/2023,Macalester,home,L,0,1,False
+10/07/2023,@ Hamline,W 1-0,73,10/07/2023,Hamline,away,W,1,0,False
+10/10/2023,Saint Mary's (MN),W 1-0,64,10/10/2023,Saint Mary's (MN),home,W,1,0,False
+10/14/2023,@ Augsburg,T 3-3,250,10/14/2023,Augsburg,away,T,3,3,False
+10/18/2023,Gustavus Adolphus,W 4-3,147,10/18/2023,Gustavus Adolphus,home,W,4,3,False
+10/21/2023,@ Saint Benedict,L 0-1,125,10/21/2023,Saint Benedict,away,L,0,1,False
+10/28/2023,@ Concordia-M'head,T 1-1,163,10/28/2023,Concordia-M'head,away,T,1,1,False

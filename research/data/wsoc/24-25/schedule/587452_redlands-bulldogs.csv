@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Wis.-Stout,W 6-0,109,08/30/2024,Wis.-Stout,home,W,6,0,False
+09/01/2024,Willamette,T 2-2,136,09/01/2024,Willamette,home,T,2,2,False
+09/08/2024,"Macalester @La Verne, CA",W 2-0,65,09/08/2024,Macalester,neutral,W,2,0,False
+09/11/2024,@ La Sierra,W 2-1,0,09/11/2024,@ La Sierra,home,W,2,1,False
+09/14/2024,@ Vanguard,L 0-2,125,09/14/2024,Vanguard,away,L,0,2,False
+09/18/2024,@ Chapman,L 2-4,175,09/18/2024,Chapman,away,L,2,4,False
+09/21/2024,Elmhurst,W 3-0,118,09/21/2024,Elmhurst,home,W,3,0,False
+09/25/2024,CMS,L 1-8,145,09/25/2024,CMS,home,L,1,8,False
+09/28/2024,Occidental,W 2-0,91,09/28/2024,Occidental,home,W,2,0,False
+10/02/2024,Pomona-Pitzer,L 0-3,0,10/02/2024,Pomona-Pitzer,home,L,0,3,False
+10/05/2024,@ Whittier,L 0-1,97,10/05/2024,Whittier,away,L,0,1,False
+10/09/2024,@ Caltech,W 4-2,67,10/09/2024,Caltech,away,W,4,2,False
+10/12/2024,Cal Lutheran,L 0-1,127,10/12/2024,Cal Lutheran,home,L,0,1,False
+10/16/2024,@ La Verne,L 1-2,45,10/16/2024,La Verne,away,L,1,2,False
+10/19/2024,Whittier,W 1-0,109,10/19/2024,Whittier,home,W,1,0,False
+10/23/2024,La Verne,L 1-3,109,10/23/2024,La Verne,home,L,1,3,False
+10/26/2024,UC Santa Cruz,L 0-3,181,10/26/2024,UC Santa Cruz,home,L,0,3,False
+10/30/2024,@ Cal Lutheran,L 1-4,200,10/30/2024,Cal Lutheran,away,L,1,4,False
+11/02/2024,@ Occidental,W 2-1,242,11/02/2024,Occidental,away,W,2,1,False

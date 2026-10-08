@@ -1,0 +1,25 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/08/2021,Keene St.,W 7-0,179,09/08/2021,Keene St.,home,W,7,0,False
+09/11/2021,@ Middlebury,W 2-0,75,09/11/2021,Middlebury,away,W,2,0,False
+09/15/2021,@ Springfield,Ppd,,09/15/2021,Springfield,away,,,,
+09/18/2021,@ Williams,W 1-0,50,09/18/2021,Williams,away,W,1,0,False
+09/21/2021,Coast Guard,W 4-0,189,09/21/2021,Coast Guard,home,W,4,0,False
+09/25/2021,Bowdoin,W 3-2,280,09/25/2021,Bowdoin,home,W,3,2,False
+09/28/2021,@ Tufts,W 3-1,100,09/28/2021,Tufts,away,W,3,1,False
+10/06/2021,@ Mount Holyoke,Ppd,,10/06/2021,Mount Holyoke,away,,,,
+10/09/2021,Amherst,L 0-1,305,10/09/2021,Amherst,home,L,0,1,False
+10/12/2021,Trinity (CT),W 2-1,56,10/12/2021,Trinity (CT),home,W,2,1,False
+10/16/2021,@ Bates,W 3-0,200,10/16/2021,Bates,away,W,3,0,False
+10/17/2021,@ Colby,W 5-0,75,10/17/2021,Colby,away,W,5,0,False
+10/20/2021,@ Eastern Conn. St.,W 3-0,100,10/20/2021,Eastern Conn. St.,away,W,3,0,False
+10/23/2021,Hamilton,W 3-0,235,10/23/2021,Hamilton,home,W,3,0,False
+10/25/2021,@ Mount Holyoke,W 5-0,24,10/25/2021,Mount Holyoke,away,W,5,0,False
+10/26/2021,Connecticut Col.,T 1-1 (2 OT),78,10/26/2021,Connecticut Col.,home,T,1,1,True
+10/30/2021,#7 Bowdoin NESCAC WSOC Championship,W 2-1,150,10/30/2021,Bowdoin,home,W,2,1,False
+11/06/2021,"#3 Hamilton @Amherst, MA (NESCAC WSOC Championship)",W 2-0,0,11/06/2021,Hamilton,neutral,W,2,0,False
+11/07/2021,"#4 Middlebury @Amherst, Mass. (NESCAC WSOC Championship)",T 1-1 (2 OT),200,11/07/2021,Middlebury,neutral,T,1,1,True
+11/13/2021,Penn St.-Behrend NCAA Division III Women's Soccer Championship,W 1-0,330,11/13/2021,Penn St.-Behrend,home,W,1,0,False
+11/14/2021,Stevens NCAA Division III Women's Soccer Championship,W 1-0,350,11/14/2021,Stevens,home,W,1,0,False
+11/20/2021,"Johns Hopkins @Cambridge, Mass. (NCAA Division III Women's Soccer Championship)",W 2-1,307,11/20/2021,Johns Hopkins,neutral,W,2,1,False
+11/21/2021,MIT NCAA Division III Women's Soccer Championship,W 2-1 (1 OT),814,11/21/2021,MIT,home,W,2,1,True
+12/03/2021,"TCNJ @Greensboro, NC (NCAA Division III Women's Soccer Championship)",L 0-1,842,12/03/2021,TCNJ,neutral,L,0,1,False

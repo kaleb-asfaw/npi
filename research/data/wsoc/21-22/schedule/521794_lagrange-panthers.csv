@@ -1,0 +1,14 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Toccoa Falls,Canceled,,09/01/2021,@ Toccoa Falls,home,,,,
+09/05/2021,@ Oglethorpe,L 1-3,170,09/05/2021,Oglethorpe,away,L,1,3,False
+09/19/2021,Millsaps,L 1-3,113,09/19/2021,Millsaps,home,L,1,3,False
+09/21/2021,Allen,W 17-0,73,09/21/2021,Allen,home,W,17,0,False
+09/25/2021,Covenant,L 0-5,133,09/25/2021,Covenant,home,L,0,5,False
+09/26/2021,Brevard,L 1-2 (2 OT),151,09/26/2021,Brevard,home,L,1,2,True
+09/29/2021,@ Agnes Scott,W 4-1,45,09/29/2021,Agnes Scott,away,W,4,1,False
+10/02/2021,Piedmont,L 0-2,101,10/02/2021,Piedmont,home,L,0,2,False
+10/07/2021,@ Huntingdon,T 2-2 (2 OT),0,10/07/2021,Huntingdon,away,T,2,2,True
+10/09/2021,@ MUW,W 4-1,112,10/09/2021,MUW,away,W,4,1,False
+10/13/2021,@ Wesleyan (GA),W 1-0,41,10/13/2021,Wesleyan (GA),away,W,1,0,False
+10/16/2021,@ Berea,W 4-1,75,10/16/2021,Berea,away,W,4,1,False
+10/23/2021,@ Maryville (TN),L 1-5,658,10/23/2021,Maryville (TN),away,L,1,5,False

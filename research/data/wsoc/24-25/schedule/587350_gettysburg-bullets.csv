@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Emerson,L 0-1,122,08/30/2024,Emerson,home,L,0,1,False
+09/04/2024,@ York (PA),L 0-1,227,09/04/2024,York (PA),away,L,0,1,False
+09/07/2024,@ Randolph-Macon,L 0-6,139,09/07/2024,Randolph-Macon,away,L,0,6,False
+09/11/2024,Elizabethtown,W 2-1,123,09/11/2024,Elizabethtown,home,W,2,1,False
+09/14/2024,@ Shenandoah,T 0-0,207,09/14/2024,Shenandoah,away,T,0,0,False
+09/21/2024,Swarthmore,L 0-1,212,09/21/2024,Swarthmore,home,L,0,1,False
+09/25/2024,@ McDaniel,L 1-2,87,09/25/2024,McDaniel,away,L,1,2,False
+09/28/2024,Haverford,L 0-1,184,09/28/2024,Haverford,home,L,0,1,False
+10/02/2024,Hood,T 0-0,30,10/02/2024,Hood,home,T,0,0,False
+10/05/2024,Muhlenberg,T 1-1,80,10/05/2024,Muhlenberg,home,T,1,1,False
+10/09/2024,@ Dickinson,L 0-2,61,10/09/2024,Dickinson,away,L,0,2,False
+10/12/2024,@ Johns Hopkins,L 0-2,150,10/12/2024,Johns Hopkins,away,L,0,2,False
+10/16/2024,@ Messiah,L 0-2,487,10/16/2024,Messiah,away,L,0,2,False
+10/19/2024,@ Washington Col.,T 1-1,155,10/19/2024,Washington Col.,away,T,1,1,False
+10/26/2024,Bryn Mawr,W 2-1,80,10/26/2024,Bryn Mawr,home,W,2,1,False
+10/30/2024,Franklin & Marshall,L 0-1,40,10/30/2024,Franklin & Marshall,home,L,0,1,False
+11/02/2024,@ Ursinus,T 2-2,143,11/02/2024,Ursinus,away,T,2,2,False

@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Augsburg,T 0-0 (2 OT),260,09/01/2021,Augsburg,home,T,0,0,True
+09/03/2021,@ Concordia-M'head,W 4-1,101,09/03/2021,Concordia-M'head,away,W,4,1,False
+09/05/2021,@ St. Scholastica,T 2-2 (2 OT),158,09/05/2021,St. Scholastica,away,T,2,2,True
+09/08/2021,St. Catherine,L 0-1,115,09/08/2021,St. Catherine,home,L,0,1,False
+09/11/2021,Saint Benedict,W 2-0,100,09/11/2021,Saint Benedict,home,W,2,0,False
+09/15/2021,Wartburg,L 1-4,163,09/15/2021,Wartburg,home,L,1,4,False
+09/18/2021,Simpson,W 3-1,60,09/18/2021,Simpson,home,W,3,1,False
+09/19/2021,St. Norbert,W 2-0,80,09/19/2021,St. Norbert,home,W,2,0,False
+09/22/2021,@ St. Olaf,W 4-2,100,09/22/2021,St. Olaf,away,W,4,2,False
+09/29/2021,@ Luther,L 0-1,92,09/29/2021,Luther,away,L,0,1,False
+10/02/2021,Wis.-Oshkosh,L 1-2,0,10/02/2021,Wis.-Oshkosh,home,L,1,2,False
+10/06/2021,@ Macalester,L 0-2,238,10/06/2021,Macalester,away,L,0,2,False
+10/09/2021,@ Wis.-La Crosse,L 0-3,350,10/09/2021,Wis.-La Crosse,away,L,0,3,False
+10/13/2021,Wis.-Stout,W 2-1,187,10/13/2021,Wis.-Stout,home,W,2,1,False
+10/16/2021,Wis.-Whitewater,L 0-1,155,10/16/2021,Wis.-Whitewater,home,L,0,1,False
+10/17/2021,@ Gustavus Adolphus,W 3-1,89,10/17/2021,Gustavus Adolphus,away,W,3,1,False
+10/20/2021,Wis.-Stevens Point,L 0-1,105,10/20/2021,Wis.-Stevens Point,home,L,0,1,False
+10/24/2021,@ UW-River Falls,W 5-1,178,10/24/2021,UW-River Falls,away,W,5,1,False
+10/30/2021,@ Wis.-Platteville,W 1-0,143,10/30/2021,Wis.-Platteville,away,W,1,0,False
+11/02/2021,@ #4 Wis.-Whitewater WIAC WSOC Tournament,W 1-0,133,11/02/2021,Wis.-Whitewater,away,W,1,0,False
+11/04/2021,@ #1 Wis.-Oshkosh WIAC WSOC Tournament,L 2-3 (1 OT),145,11/04/2021,Wis.-Oshkosh,away,L,2,3,True

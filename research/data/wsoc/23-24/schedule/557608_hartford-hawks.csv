@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Saint Joseph (CT),W 9-0,215,09/01/2023,Saint Joseph (CT),away,W,9,0,False
+09/03/2023,@ Montclair St.,W 4-1,164,09/03/2023,Montclair St.,away,W,4,1,False
+09/10/2023,@ Emory,W 3-1,78,09/10/2023,Emory,away,W,3,1,False
+09/13/2023,Merrimack,L 1-2,215,09/13/2023,Merrimack,home,L,1,2,False
+09/16/2023,@ Roger Williams,W 6-0,173,09/16/2023,Roger Williams,away,W,6,0,False
+09/19/2023,@ Colby,L 1-2,45,09/19/2023,Colby,away,L,1,2,False
+09/23/2023,Gordon,W 6-3,310,09/23/2023,Gordon,home,W,6,3,False
+09/30/2023,Suffolk,W 7-1,396,09/30/2023,Suffolk,home,W,7,1,False
+10/04/2023,Eastern Nazarene,W 9-0,115,10/04/2023,Eastern Nazarene,home,W,9,0,False
+10/07/2023,@ U New England,W 4-1,241,10/07/2023,U New England,away,W,4,1,False
+10/10/2023,Curry,W 5-1,175,10/10/2023,Curry,home,W,5,1,False
+10/14/2023,@ Endicott,W 3-0,303,10/14/2023,Endicott,away,W,3,0,False
+10/18/2023,@ Wentworth,W 7-0,183,10/18/2023,Wentworth,away,W,7,0,False
+10/21/2023,Nichols,W 8-0,410,10/21/2023,Nichols,home,W,8,0,False
+10/24/2023,Western New Eng.,W 3-0,256,10/24/2023,Western New Eng.,home,W,3,0,False
+10/25/2023,Southern Me.,W 4-1,265,10/25/2023,Southern Me.,home,W,4,1,False
+11/11/2023,"#4 New Jersey City @Madison, NJ (2023 ECAC Women's Soccer Championship)",W 7-2,115,11/11/2023,New Jersey City,neutral,W,7,2,False
+11/12/2023,"#3 Pitt.-Greensburg @Madison, NJ (2023 ECAC Women's Soccer Championship)",W 6-0,75,11/12/2023,Pitt.-Greensburg,neutral,W,6,0,False

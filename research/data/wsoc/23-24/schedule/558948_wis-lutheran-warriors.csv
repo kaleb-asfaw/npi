@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Ripon,W 2-0,50,09/01/2023,Ripon,away,W,2,0,False
+09/03/2023,Martin Luther,W 3-0,312,09/03/2023,Martin Luther,home,W,3,0,False
+09/05/2023,Lawrence,T 2-2,113,09/05/2023,Lawrence,home,T,2,2,False
+09/10/2023,Mount Mary,W 9-0,115,09/10/2023,Mount Mary,home,W,9,0,False
+09/13/2023,Marian (WI),L 0-1,92,09/13/2023,Marian (WI),home,L,0,1,False
+09/16/2023,@ Rockford,W 2-1,31,09/16/2023,Rockford,away,W,2,1,False
+09/20/2023,@ Concordia Wisconsin,L 0-3,245,09/20/2023,Concordia Wisconsin,away,L,0,3,False
+09/23/2023,Concordia Chicago,W 2-1,169,09/23/2023,Concordia Chicago,home,W,2,1,False
+09/28/2023,@ Alverno,W 8-1,40,09/28/2023,Alverno,away,W,8,1,False
+09/30/2023,@ Edgewood,L 0-3,187,09/30/2023,Edgewood,away,L,0,3,False
+10/04/2023,@ Lakeland,L 0-1,79,10/04/2023,Lakeland,away,L,0,1,False
+10/07/2023,Benedictine (IL),W 4-0,120,10/07/2023,Benedictine (IL),home,W,4,0,False
+10/11/2023,@ St. Norbert,L 0-2,150,10/11/2023,St. Norbert,away,L,0,2,False
+10/14/2023,@ Dominican (IL),L 2-4,100,10/14/2023,Dominican (IL),away,L,2,4,False
+10/18/2023,Aurora,L 1-3,80,10/18/2023,Aurora,home,L,1,3,False
+10/21/2023,Illinois Tech,L 0-7,103,10/21/2023,Illinois Tech,home,L,0,7,False
+10/25/2023,MSOE,L 0-2,109,10/25/2023,MSOE,home,L,0,2,False

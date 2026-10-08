@@ -1,0 +1,7 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/08/2021,@ Centre,L 0-4,105,09/08/2021,Centre,away,L,0,4,False
+09/15/2021,@ Transylvania,L 0-3,0,09/15/2021,Transylvania,away,L,0,3,False
+09/21/2021,Hanover,L 0-5,0,09/21/2021,Hanover,home,L,0,5,False
+09/29/2021,Berea,Ppd,,09/29/2021,Berea,home,,,,
+10/02/2021,@ Covenant,L 0-2,124,10/02/2021,Covenant,away,L,0,2,False
+10/15/2021,@ Maryville (TN),L 2-4,119,10/15/2021,Maryville (TN),away,L,2,4,False

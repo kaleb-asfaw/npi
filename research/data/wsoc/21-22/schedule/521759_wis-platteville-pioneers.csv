@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Monmouth (IL),W 1-0 (2 OT),322,09/01/2021,Monmouth (IL),home,W,1,0,True
+09/03/2021,Gustavus Adolphus,W 2-1,62,09/03/2021,Gustavus Adolphus,home,W,2,1,False
+09/08/2021,@ Carroll (WI),T 1-1 (2 OT),71,09/08/2021,Carroll (WI),away,T,1,1,True
+09/11/2021,Simpson,T 1-1 (2 OT),0,09/11/2021,Simpson,home,T,1,1,True
+09/12/2021,Lakeland,W 6-0,83,09/12/2021,Lakeland,home,W,6,0,False
+09/14/2021,Coe,W 3-0,124,09/14/2021,Coe,home,W,3,0,False
+09/19/2021,Neb. Wesleyan,W 5-0,117,09/19/2021,Neb. Wesleyan,home,W,5,0,False
+09/21/2021,@ Saint Mary's (MN),Ppd,,09/21/2021,Saint Mary's (MN),away,,,,
+09/23/2021,@ Loras,Canceled,,09/23/2021,Loras,away,,,,
+09/26/2021,@ Edgewood,Canceled,,09/26/2021,Edgewood,away,,,,
+09/29/2021,Dubuque,W 1-0,137,09/29/2021,Dubuque,home,W,1,0,False
+10/01/2021,@ Wis.-Stout,L 1-2 (1 OT),75,10/01/2021,Wis.-Stout,away,L,1,2,True
+10/06/2021,Wis.-Whitewater,L 0-1 (2 OT),112,10/06/2021,Wis.-Whitewater,home,L,0,1,True
+10/09/2021,@ UW-River Falls,T 2-2 (2 OT),134,10/09/2021,UW-River Falls,away,T,2,2,True
+10/13/2021,@ Beloit,W 2-1,46,10/13/2021,Beloit,away,W,2,1,False
+10/16/2021,Wis.-Oshkosh,L 0-1 (2 OT),105,10/16/2021,Wis.-Oshkosh,home,L,0,1,True
+10/18/2021,North Park,W 4-2,88,10/18/2021,North Park,home,W,4,2,False
+10/20/2021,@ Wis.-La Crosse,L 0-2,102,10/20/2021,Wis.-La Crosse,away,L,0,2,False
+10/23/2021,@ Wis.-Stevens Point,L 1-2,124,10/23/2021,Wis.-Stevens Point,away,L,1,2,False
+10/24/2021,@ Finlandia,W 2-0,112,10/24/2021,Finlandia,away,W,2,0,False
+10/30/2021,Wis.-Eau Claire,L 0-1,143,10/30/2021,Wis.-Eau Claire,home,L,0,1,False

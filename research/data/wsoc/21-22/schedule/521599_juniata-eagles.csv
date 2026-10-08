@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/04/2021,Westminster (PA),T 1-1 (2 OT),178,09/04/2021,Westminster (PA),home,T,1,1,True
+09/05/2021,Oberlin,W 1-0,122,09/05/2021,Oberlin,home,W,1,0,False
+09/07/2021,@ Chatham,L 0-3,75,09/07/2021,Chatham,away,L,0,3,False
+09/09/2021,Albright,L 0-3,133,09/09/2021,Albright,home,L,0,3,False
+09/11/2021,Cabrini,W 1-0 (2 OT),167,09/11/2021,Cabrini,home,W,1,0,True
+09/15/2021,@ King's (PA),Canceled,,09/15/2021,King's (PA),away,,,,
+09/18/2021,Hood,T 1-1 (2 OT),179,09/18/2021,Hood,home,T,1,1,True
+09/22/2021,@ Penn St.-Altoona,W 3-1,53,09/22/2021,Penn St.-Altoona,away,W,3,1,False
+09/25/2021,@ Drew,T 0-0 (2 OT),70,09/25/2021,Drew,away,T,0,0,True
+09/28/2021,@ Penn College,W 2-1 (2 OT),0,09/28/2021,Penn College,away,W,2,1,True
+10/02/2021,Scranton,L 0-4,135,10/02/2021,Scranton,home,L,0,4,False
+10/06/2021,Pitt.-Greensburg,W 2-0,75,10/06/2021,Pitt.-Greensburg,home,W,2,0,False
+10/09/2021,Elizabethtown,T 1-1 (2 OT),80,10/09/2021,Elizabethtown,home,T,1,1,True
+10/13/2021,@ Susquehanna,L 0-3,102,10/13/2021,Susquehanna,away,L,0,3,False
+10/16/2021,@ Moravian,L 0-1,139,10/16/2021,Moravian,away,L,0,1,False
+10/23/2021,@ Goucher,L 0-1,233,10/23/2021,Goucher,away,L,0,1,False
+10/26/2021,@ Pitt.-Bradford,W 6-2,30,10/26/2021,Pitt.-Bradford,away,W,6,2,False
+10/30/2021,Catholic,L 0-4,130,10/30/2021,Catholic,home,L,0,4,False

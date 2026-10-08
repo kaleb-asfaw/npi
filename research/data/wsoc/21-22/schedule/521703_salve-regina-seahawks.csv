@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Emmanuel (MA),W 2-1,115,09/01/2021,Emmanuel (MA),home,W,2,1,False
+09/03/2021,@ JWU (Providence),L 1-4,0,09/03/2021,JWU (Providence),away,L,1,4,False
+09/04/2021,"Rhode Island Col. @Providence, RI",W 3-0,60,09/04/2021,Rhode Island Col.,neutral,W,3,0,False
+09/08/2021,@ Coast Guard,L 1-6,75,09/08/2021,Coast Guard,away,L,1,6,False
+09/11/2021,Keene St.,W 3-0,119,09/11/2021,Keene St.,home,W,3,0,False
+09/14/2021,Bridgewater St.,L 0-4,119,09/14/2021,Bridgewater St.,home,L,0,4,False
+09/16/2021,@ Worcester St.,L 0-2,0,09/16/2021,Worcester St.,away,L,0,2,False
+09/18/2021,Nichols,W 1-0,75,09/18/2021,Nichols,home,W,1,0,False
+09/23/2021,@ UMass Dartmouth,Canceled,,09/23/2021,UMass Dartmouth,away,,,,
+09/25/2021,@ Suffolk,L 0-1,103,09/25/2021,Suffolk,away,L,0,1,False
+09/29/2021,Clark (MA),W 4-3,121,09/29/2021,Clark (MA),home,W,4,3,False
+10/02/2021,Curry,W 3-0,174,10/02/2021,Curry,home,W,3,0,False
+10/06/2021,UMass Boston,L 2-6,213,10/06/2021,UMass Boston,home,L,2,6,False
+10/09/2021,@ Wentworth,T 0-0 (2 OT),125,10/09/2021,Wentworth,away,T,0,0,True
+10/12/2021,@ Endicott,L 0-3,125,10/12/2021,Endicott,away,L,0,3,False
+10/17/2021,Gordon,L 1-2,123,10/17/2021,Gordon,home,L,1,2,False
+10/20/2021,Western New Eng.,L 1-2,175,10/20/2021,Western New Eng.,home,L,1,2,False
+10/23/2021,@ Roger Williams,L 0-2,400,10/23/2021,Roger Williams,away,L,0,2,False
+10/26/2021,@ U New England,L 0-2,35,10/26/2021,U New England,away,L,0,2,False
+10/30/2021,@ #2 U New England CCC WSOC Championship,L 0-3,107,10/30/2021,U New England,away,L,0,3,False

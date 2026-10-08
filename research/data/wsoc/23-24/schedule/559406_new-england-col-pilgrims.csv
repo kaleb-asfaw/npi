@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Plymouth St.,T 0-0,55,09/01/2023,Plymouth St.,home,T,0,0,False
+09/03/2023,Keene St.,L 0-4,50,09/03/2023,Keene St.,home,L,0,4,False
+09/06/2023,Rivier,L 1-2,253,09/06/2023,Rivier,home,L,1,2,False
+09/09/2023,@ Saint Joseph (CT),L 1-5,112,09/09/2023,Saint Joseph (CT),away,L,1,5,False
+09/13/2023,Colby-Sawyer,L 1-4,154,09/13/2023,Colby-Sawyer,home,L,1,4,False
+09/16/2023,@ Elms,L 0-3,103,09/16/2023,Elms,away,L,0,3,False
+09/20/2023,@ Regis (MA),L 0-3,120,09/20/2023,Regis (MA),away,L,0,3,False
+09/23/2023,Dean,L 0-1,117,09/23/2023,Dean,home,L,0,1,False
+09/26/2023,@ Simmons,W 1-0,124,09/26/2023,Simmons,away,W,1,0,False
+09/30/2023,@ Emmanuel (MA),L 1-4,132,09/30/2023,Emmanuel (MA),away,L,1,4,False
+10/04/2023,@ Norwich,W 2-1,223,10/04/2023,Norwich,away,W,2,1,False
+10/07/2023,Lasell,L 0-3,117,10/07/2023,Lasell,home,L,0,3,False
+10/11/2023,St. Joseph's (ME),L 0-3,128,10/11/2023,St. Joseph's (ME),home,L,0,3,False
+10/14/2023,@ JWU (Providence),L 1-8,147,10/14/2023,JWU (Providence),away,L,1,8,False
+10/18/2023,@ Anna Maria,W 3-1,200,10/18/2023,Anna Maria,away,W,3,1,False
+10/21/2023,Albertus Magnus,W 4-3,0,10/21/2023,Albertus Magnus,home,W,4,3,False
+10/24/2023,Mitchell,W 3-2,110,10/24/2023,Mitchell,home,W,3,2,False
+10/29/2023,@ VTSU Castleton,L 1-6,94,10/29/2023,VTSU Castleton,away,L,1,6,False

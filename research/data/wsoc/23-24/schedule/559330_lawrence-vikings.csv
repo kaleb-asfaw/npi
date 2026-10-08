@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Concordia Wisconsin,L 0-1,599,09/01/2023,Concordia Wisconsin,home,L,0,1,False
+09/03/2023,@ Lakeland,W 2-0,130,09/03/2023,Lakeland,away,W,2,0,False
+09/05/2023,@ Wis. Lutheran,T 2-2,113,09/05/2023,Wis. Lutheran,away,T,2,2,False
+09/07/2023,Marian (WI),T 0-0,364,09/07/2023,Marian (WI),home,T,0,0,False
+09/09/2023,Saint Mary's (MN),L 0-1,532,09/09/2023,Saint Mary's (MN),home,L,0,1,False
+09/12/2023,St. Norbert,L 1-3,518,09/12/2023,St. Norbert,home,L,1,3,False
+09/16/2023,@ Loras,Ppd,,09/16/2023,Loras,away,,,,
+09/17/2023,@ Augustana (IL),L 0-1,137,09/17/2023,Augustana (IL),away,L,0,1,False
+09/22/2023,Monmouth (IL),W 2-0,572,09/22/2023,Monmouth (IL),home,W,2,0,False
+09/30/2023,@ Cornell College,W 5-0,50,09/30/2023,Cornell College,away,W,5,0,False
+10/04/2023,Beloit,T 0-0,256,10/04/2023,Beloit,home,T,0,0,False
+10/07/2023,@ Lake Forest,L 1-2,350,10/07/2023,Lake Forest,away,L,1,2,False
+10/14/2023,@ Illinois Col.,W 4-2,89,10/14/2023,Illinois Col.,away,W,4,2,False
+10/18/2023,Carroll (WI),Canceled,,10/18/2023,Carroll (WI),home,,,,
+10/21/2023,Knox,W 6-0,297,10/21/2023,Knox,home,W,6,0,False
+10/22/2023,@ Mount Mary,Canceled,,10/22/2023,Mount Mary,away,,,,
+10/25/2023,Ripon,W 1-0,318,10/25/2023,Ripon,home,W,1,0,False
+10/28/2023,@ Grinnell,T 1-1,72,10/28/2023,Grinnell,away,T,1,1,False
+11/03/2023,"#2 Grinnell @Lake Forest, IL (MWC Women's Soccer Championship)",L 0-1,82,11/03/2023,Grinnell,neutral,L,0,1,False

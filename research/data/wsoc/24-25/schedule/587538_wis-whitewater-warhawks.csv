@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Central (IA),L 0-3,150,08/30/2024,Central (IA),away,L,0,3,False
+09/04/2024,@ MSOE,L 0-1,235,09/04/2024,MSOE,away,L,0,1,False
+09/08/2024,@ Marian (WI),W 3-1,341,09/08/2024,Marian (WI),away,W,3,1,False
+09/10/2024,Luther,T 2-2,146,09/10/2024,Luther,home,T,2,2,False
+09/14/2024,@ Carleton,L 1-3,183,09/14/2024,Carleton,away,L,1,3,False
+09/15/2024,@ St. Scholastica,W 4-0,126,09/15/2024,St. Scholastica,away,W,4,0,False
+09/18/2024,@ Carthage,T 0-0,213,09/18/2024,Carthage,away,T,0,0,False
+09/21/2024,Lawrence,L 0-2,116,09/21/2024,Lawrence,home,L,0,2,False
+09/25/2024,Wheaton (IL),W 4-1,123,09/25/2024,Wheaton (IL),home,W,4,1,False
+09/28/2024,Coe,W 4-0,212,09/28/2024,Coe,home,W,4,0,False
+10/01/2024,Loras,L 0-4,268,10/01/2024,Loras,home,L,0,4,False
+10/05/2024,Wis.-Eau Claire,T 1-1,79,10/05/2024,Wis.-Eau Claire,home,T,1,1,False
+10/06/2024,@ Benedictine (IL),T 1-1,346,10/06/2024,Benedictine (IL),away,T,1,1,False
+10/09/2024,@ Wis.-Oshkosh,W 4-3,123,10/09/2024,Wis.-Oshkosh,away,W,4,3,False
+10/12/2024,Wis.-La Crosse,L 0-5,235,10/12/2024,Wis.-La Crosse,home,L,0,5,False
+10/19/2024,@ Wis.-Stevens Point,L 1-2,345,10/19/2024,Wis.-Stevens Point,away,L,1,2,False
+10/23/2024,Wis.-Platteville,T 0-0,197,10/23/2024,Wis.-Platteville,home,T,0,0,False
+10/26/2024,@ Wis.-Stout,W 2-0,155,10/26/2024,Wis.-Stout,away,W,2,0,False
+10/28/2024,Illinois Tech,L 0-6,143,10/28/2024,Illinois Tech,home,L,0,6,False
+11/02/2024,@ UW-River Falls,L 0-4,135,11/02/2024,UW-River Falls,away,L,0,4,False
+11/05/2024,@ #3 Wis.-Eau Claire WIAC Women's Soccer Championship,T 2-2 (3 OT),87,11/05/2024,Wis.-Eau Claire,away,T,2,2,True

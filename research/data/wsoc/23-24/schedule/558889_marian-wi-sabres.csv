@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Southern Me.,L 0-4,0,09/01/2023,Southern Me.,away,L,0,4,False
+09/03/2023,@ Husson,W 5-2,250,09/03/2023,Husson,away,W,5,2,False
+09/07/2023,@ Lawrence,T 0-0,364,09/07/2023,Lawrence,away,T,0,0,False
+09/10/2023,@ Carthage,T 1-1,103,09/10/2023,Carthage,away,T,1,1,False
+09/13/2023,@ Wis. Lutheran,W 1-0,92,09/13/2023,Wis. Lutheran,away,W,1,0,False
+09/16/2023,@ Illinois Tech,L 0-2,130,09/16/2023,Illinois Tech,away,L,0,2,False
+09/20/2023,@ St. Norbert,W 4-1,100,09/20/2023,St. Norbert,away,W,4,1,False
+09/23/2023,Aurora,W 3-1,419,09/23/2023,Aurora,home,W,3,1,False
+09/24/2023,Cornell College,T 2-2,196,09/24/2023,Cornell College,home,T,2,2,False
+09/27/2023,MSOE,L 1-4,145,09/27/2023,MSOE,home,L,1,4,False
+09/30/2023,@ Rockford,W 2-0,22,09/30/2023,Rockford,away,W,2,0,False
+10/04/2023,@ Concordia Chicago,W 2-1,54,10/04/2023,Concordia Chicago,away,W,2,1,False
+10/07/2023,Dominican (IL),W 2-1,121,10/07/2023,Dominican (IL),home,W,2,1,False
+10/11/2023,Concordia Wisconsin,T 1-1,131,10/11/2023,Concordia Wisconsin,home,T,1,1,False
+10/14/2023,@ Benedictine (IL),W 3-0,141,10/14/2023,Benedictine (IL),away,W,3,0,False
+10/18/2023,Lakeland,W 2-0,132,10/18/2023,Lakeland,home,W,2,0,False
+10/21/2023,Edgewood,W 3-1,161,10/21/2023,Edgewood,home,W,3,1,False
+10/25/2023,Alverno,Canceled,,10/25/2023,Alverno,home,,,,
+10/29/2023,#6 Aurora NACC Women's Soccer Championship,W 3-1,281,10/29/2023,Aurora,home,W,3,1,False
+11/01/2023,@ #2 MSOE NACC Women's Soccer Championship,L 0-1,94,11/01/2023,MSOE,away,L,0,1,False

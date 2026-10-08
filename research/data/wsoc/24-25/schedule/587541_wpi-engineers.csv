@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Union (NY),W 1-0,200,08/30/2024,Union (NY),home,W,1,0,False
+09/03/2024,Amherst,L 0-3,100,09/03/2024,Amherst,home,L,0,3,False
+09/07/2024,Roger Williams,W 4-1,300,09/07/2024,Roger Williams,home,W,4,1,False
+09/11/2024,@ Wesleyan (CT),L 0-2,101,09/11/2024,Wesleyan (CT),away,L,0,2,False
+09/14/2024,@ Worcester St.,W 5-3,152,09/14/2024,Worcester St.,away,W,5,3,False
+09/18/2024,UMass Dartmouth,T 1-1,100,09/18/2024,UMass Dartmouth,home,T,1,1,False
+09/21/2024,@ Wellesley,W 4-1,54,09/21/2024,Wellesley,away,W,4,1,False
+09/25/2024,@ UMass Boston,T 1-1,125,09/25/2024,UMass Boston,away,T,1,1,False
+09/28/2024,@ Salve Regina,T 0-0,184,09/28/2024,Salve Regina,away,T,0,0,False
+10/02/2024,@ Babson,W 3-1,150,10/02/2024,Babson,away,W,3,1,False
+10/05/2024,Smith,T 0-0,300,10/05/2024,Smith,home,T,0,0,False
+10/12/2024,@ Clark (MA),W 2-1,270,10/12/2024,Clark (MA),away,W,2,1,False
+10/16/2024,Wheaton (MA),L 1-2,200,10/16/2024,Wheaton (MA),home,L,1,2,False
+10/19/2024,@ Coast Guard,W 2-1,50,10/19/2024,Coast Guard,away,W,2,1,False
+10/23/2024,Springfield,L 0-1,100,10/23/2024,Springfield,home,L,0,1,False
+10/26/2024,MIT,L 0-2,100,10/26/2024,MIT,home,L,0,2,False
+10/30/2024,@ Emerson,L 1-2,131,10/30/2024,Emerson,away,L,1,2,False
+11/02/2024,Mount Holyoke,W 2-1,200,11/02/2024,Mount Holyoke,home,W,2,1,False
+11/05/2024,@ #2 Springfield NEWMAC Women's Soccer Championship,W 3-0,300,11/05/2024,Springfield,away,W,3,0,False
+11/07/2024,@ #6 Emerson NEWMAC Women's Soccer Championship,W 1-0,266,11/07/2024,Emerson,away,W,1,0,False
+11/09/2024,@ #1 MIT NEWMAC Women's Soccer Championship,L 0-3,212,11/09/2024,MIT,away,L,0,3,False

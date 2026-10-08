@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/04/2021,Mount Union,L 1-2,52,09/04/2021,Mount Union,home,L,1,2,False
+09/07/2021,La Roche,W 5-0,67,09/07/2021,La Roche,home,W,5,0,False
+09/11/2021,@ Mount Aloysius,W 1-0,139,09/11/2021,Mount Aloysius,away,W,1,0,False
+09/15/2021,@ Muskingum,W 3-1,73,09/15/2021,Muskingum,away,W,3,1,False
+09/18/2021,@ Baldwin Wallace,L 0-4,150,09/18/2021,Baldwin Wallace,away,L,0,4,False
+09/20/2021,Lancaster Bible,W 1-0,33,09/20/2021,Lancaster Bible,home,W,1,0,False
+09/25/2021,Rochester (NY),L 2-7,64,09/25/2021,Rochester (NY),home,L,2,7,False
+09/29/2021,@ Franciscan,L 1-2,100,09/29/2021,Franciscan,away,L,1,2,False
+10/02/2021,Grove City,L 0-1,0,10/02/2021,Grove City,home,L,0,1,False
+10/06/2021,@ Chatham,L 0-1,100,10/06/2021,Chatham,away,L,0,1,False
+10/09/2021,@ Bethany (WV),W 1-0,150,10/09/2021,Bethany (WV),away,W,1,0,False
+10/13/2021,@ Wash. & Jeff.,T 0-0 (2 OT),130,10/13/2021,Wash. & Jeff.,away,T,0,0,True
+10/16/2021,Westminster (PA),L 0-4,60,10/16/2021,Westminster (PA),home,L,0,4,False
+10/20/2021,@ Saint Vincent,W 2-1,80,10/20/2021,Saint Vincent,away,W,2,1,False
+10/23/2021,Thiel,W 4-1,100,10/23/2021,Thiel,home,W,4,1,False
+10/26/2021,Geneva,W 7-1,50,10/26/2021,Geneva,home,W,7,1,False
+10/30/2021,@ #4 Wash. & Jeff. PAC WSOC Championship Tournament,L 0-1 (2 OT),213,10/30/2021,Wash. & Jeff.,away,L,0,1,True

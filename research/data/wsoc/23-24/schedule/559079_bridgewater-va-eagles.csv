@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Southern Va.,W 2-1,200,09/01/2023,Southern Va.,away,W,2,1,False
+09/03/2023,@ Swarthmore,L 2-3,93,09/03/2023,Swarthmore,away,L,2,3,False
+09/06/2023,Catholic,W 5-3,78,09/06/2023,Catholic,home,W,5,3,False
+09/09/2023,"Carnegie Mellon @Winchester, VA",L 0-2,151,09/09/2023,Carnegie Mellon,neutral,L,0,2,False
+09/10/2023,"Susquehanna @Winchester, VA",W 3-1,52,09/10/2023,Susquehanna,neutral,W,3,1,False
+09/17/2023,Salisbury,W 1-0,187,09/17/2023,Salisbury,home,W,1,0,False
+09/19/2023,Mary Washington,W 2-0,105,09/19/2023,Mary Washington,home,W,2,0,False
+09/23/2023,Wash. & Lee,L 0-1,276,09/23/2023,Wash. & Lee,home,L,0,1,False
+09/30/2023,@ Lynchburg,L 1-2,341,09/30/2023,Lynchburg,away,L,1,2,False
+10/04/2023,Randolph,W 5-0,78,10/04/2023,Randolph,home,W,5,0,False
+10/07/2023,Guilford,L 0-1,112,10/07/2023,Guilford,home,L,0,1,False
+10/11/2023,@ Randolph-Macon,W 2-1,107,10/11/2023,Randolph-Macon,away,W,2,1,False
+10/14/2023,@ Averett,W 6-0,175,10/14/2023,Averett,away,W,6,0,False
+10/17/2023,East. Mennonite,W 5-0,167,10/17/2023,East. Mennonite,home,W,5,0,False
+10/20/2023,@ Ferrum,W 5-0,137,10/20/2023,Ferrum,away,W,5,0,False
+10/25/2023,@ Shenandoah,W 1-0,259,10/25/2023,Shenandoah,away,W,1,0,False
+10/28/2023,Roanoke,W 3-2,302,10/28/2023,Roanoke,home,W,3,2,False
+10/31/2023,#5 Guilford ODAC Women's Soccer Championship,T 1-1 (3 OT),246,10/31/2023,Guilford,home,T,1,1,True
+11/03/2023,@ #1 Batten ODAC Women's Soccer Championship,L 0-2,187,11/03/2023,Batten,away,L,0,2,False

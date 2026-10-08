@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Concordia Wisconsin,L 0-2,167,09/01/2021,Concordia Wisconsin,home,L,0,2,False
+09/03/2021,@ Lakeland,W 3-1,65,09/03/2021,Lakeland,away,W,3,1,False
+09/05/2021,@ Wis. Lutheran,W 2-1 (2 OT),126,09/05/2021,Wis. Lutheran,away,W,2,1,True
+09/08/2021,Marian (WI),W 2-0,172,09/08/2021,Marian (WI),home,W,2,0,False
+09/09/2021,Finlandia,W 3-0,112,09/09/2021,Finlandia,home,W,3,0,False
+09/11/2021,@ Maranatha Baptist,W 3-0,59,09/11/2021,Maranatha Baptist,away,W,3,0,False
+09/12/2021,St. Norbert,L 1-2,212,09/12/2021,St. Norbert,home,L,1,2,False
+09/15/2021,Carroll (WI),L 0-2,169,09/15/2021,Carroll (WI),home,L,0,2,False
+09/17/2021,@ Crown (MN),Canceled,,09/17/2021,Crown (MN),away,,,,
+09/25/2021,@ Lake Forest,L 0-3,85,09/25/2021,Lake Forest,away,L,0,3,False
+09/27/2021,Wis.-Oshkosh,T 1-1 (2 OT),500,09/27/2021,Wis.-Oshkosh,home,T,1,1,True
+10/02/2021,@ Illinois Col.,W 5-1,33,10/02/2021,Illinois Col.,away,W,5,1,False
+10/03/2021,@ Mount Mary,W 5-0,55,10/03/2021,Mount Mary,away,W,5,0,False
+10/09/2021,Knox,L 1-4,184,10/09/2021,Knox,home,L,1,4,False
+10/12/2021,Ripon,W 1-0,282,10/12/2021,Ripon,home,W,1,0,False
+10/16/2021,@ Grinnell,W 1-0,64,10/16/2021,Grinnell,away,W,1,0,False
+10/23/2021,@ Cornell College,W 1-0,73,10/23/2021,Cornell College,away,W,1,0,False
+10/26/2021,Beloit,L 0-2,101,10/26/2021,Beloit,home,L,0,2,False
+10/30/2021,Monmouth (IL),W 1-0 (2 OT),373,10/30/2021,Monmouth (IL),home,W,1,0,True
+11/05/2021,@ #1 Knox Midwest Conference WSOC Tournament,L 0-3,100,11/05/2021,Knox,away,L,0,3,False

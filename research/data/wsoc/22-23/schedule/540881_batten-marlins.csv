@@ -1,0 +1,26 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2022,McDaniel,W 1-0,500,09/02/2022,McDaniel,home,W,1,0,False
+09/04/2022,Saint Benedict,W 1-0,475,09/04/2022,Saint Benedict,home,W,1,0,False
+09/07/2022,Chris. Newport,L 1-2,425,09/07/2022,Chris. Newport,home,L,1,2,False
+09/10/2022,Methodist,W 4-0,283,09/10/2022,Methodist,home,W,4,0,False
+09/11/2022,"Susquehanna @Newport News, VA",W 3-1,178,09/11/2022,Susquehanna,neutral,W,3,1,False
+09/17/2022,@ Mary Washington,T 1-1,150,09/17/2022,Mary Washington,away,T,1,1,False
+09/21/2022,Salisbury,W 1-0,107,09/21/2022,Salisbury,home,W,1,0,False
+09/24/2022,@ Averett,W 3-0,50,09/24/2022,Averett,away,W,3,0,False
+10/01/2022,East. Mennonite,W 3-0,178,10/01/2022,East. Mennonite,home,W,3,0,False
+10/05/2022,@ Shenandoah,W 4-1,277,10/05/2022,Shenandoah,away,W,4,1,False
+10/08/2022,Hollins,W 9-0,189,10/08/2022,Hollins,home,W,9,0,False
+10/11/2022,Ferrum,W 2-0,82,10/11/2022,Ferrum,home,W,2,0,False
+10/15/2022,@ Wash. & Lee,L 0-1,172,10/15/2022,Wash. & Lee,away,L,0,1,False
+10/19/2022,Lynchburg,T 0-0,183,10/19/2022,Lynchburg,home,T,0,0,False
+10/22/2022,Randolph,W 3-0,211,10/22/2022,Randolph,home,W,3,0,False
+10/26/2022,@ Randolph-Macon,W 4-1,58,10/26/2022,Randolph-Macon,away,W,4,1,False
+10/29/2022,Roanoke,W 4-0,216,10/29/2022,Roanoke,home,W,4,0,False
+11/01/2022,#6 Guilford ODAC WSOC Tournament,W 1-0,162,11/01/2022,Guilford,home,W,1,0,False
+11/04/2022,#2 Wash. & Lee ODAC WSOC Tournament,W 2-1,207,11/04/2022,Wash. & Lee,home,W,2,1,False
+11/06/2022,@ #4 Lynchburg ODAC WSOC Tournament,T 1-1 (3 OT),847,11/06/2022,Lynchburg,away,T,1,1,True
+11/12/2022,Puget Sound NCAA Division III Women's Soccer Championship,W 3-0,315,11/12/2022,Puget Sound,home,W,3,0,False
+11/13/2022,"Rowan @Virginia Beach, VA (NCAA Division III Women's Soccer Championship)",W 1-0,366,11/13/2022,Rowan,neutral,W,1,0,False
+11/19/2022,"Wis.-La Crosse @Newport News, VA (NCAA Division III Women's Soccer Championship)",W 2-1,511,11/19/2022,Wis.-La Crosse,neutral,W,2,1,False
+11/20/2022,@ Chris. Newport NCAA Division III Women's Soccer Championship,T 0-0 (2 OT),712,11/20/2022,Chris. Newport,away,T,0,0,True
+12/02/2022,"CWRU @Salem, VA (NCAA Division III Women's Soccer Championship)",L 0-3,833,12/02/2022,CWRU,neutral,L,0,3,False

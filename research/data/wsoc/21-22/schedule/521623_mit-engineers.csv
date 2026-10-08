@@ -1,0 +1,26 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Brandeis,T 2-2 (2 OT),50,09/01/2021,Brandeis,away,T,2,2,True
+09/04/2021,Bridgewater St.,W 2-0,84,09/04/2021,Bridgewater St.,home,W,2,0,False
+09/07/2021,JWU (Providence),W 1-0,84,09/07/2021,JWU (Providence),home,W,1,0,False
+09/10/2021,Lesley,W 6-0,104,09/10/2021,Lesley,home,W,6,0,False
+09/12/2021,@ Trinity (CT),W 3-2,74,09/12/2021,Trinity (CT),away,W,3,2,False
+09/14/2021,Roger Williams,W 4-0,54,09/14/2021,Roger Williams,home,W,4,0,False
+09/18/2021,@ Clark (MA),W 3-0,60,09/18/2021,Clark (MA),away,W,3,0,False
+09/21/2021,@ Tufts,W 3-0,100,09/21/2021,Tufts,away,W,3,0,False
+09/25/2021,Mount Holyoke,W 4-0,84,09/25/2021,Mount Holyoke,home,W,4,0,False
+09/26/2021,@ Williams,W 1-0,72,09/26/2021,Williams,away,W,1,0,False
+09/29/2021,@ Worcester St.,W 4-1,129,09/29/2021,Worcester St.,away,W,4,1,False
+10/02/2021,Wheaton (MA),W 5-1,215,10/02/2021,Wheaton (MA),home,W,5,1,False
+10/06/2021,@ Babson,W 1-0,145,10/06/2021,Babson,away,W,1,0,False
+10/09/2021,Springfield,W 3-0,154,10/09/2021,Springfield,home,W,3,0,False
+10/13/2021,@ Wellesley,W 3-0,30,10/13/2021,Wellesley,away,W,3,0,False
+10/16/2021,@ Emerson,W 2-0,200,10/16/2021,Emerson,away,W,2,0,False
+10/20/2021,WPI,L 1-2,84,10/20/2021,WPI,home,L,1,2,False
+10/23/2021,@ Coast Guard,W 2-0,150,10/23/2021,Coast Guard,away,W,2,0,False
+10/30/2021,Smith,W 3-0,114,10/30/2021,Smith,home,W,3,0,False
+11/04/2021,#5 WPI NEWMAC WSOC Championship,W 3-0,148,11/04/2021,WPI,home,W,3,0,False
+11/06/2021,#6 Springfield NEWMAC WSOC Championship,W 6-0,225,11/06/2021,Springfield,home,W,6,0,False
+11/13/2021,Maine Maritime NCAA Division III Women's Soccer Championship,W 4-0,224,11/13/2021,Maine Maritime,home,W,4,0,False
+11/14/2021,Brandeis NCAA Division III Women's Soccer Championship,W 2-0,304,11/14/2021,Brandeis,home,W,2,0,False
+11/20/2021,Carnegie Mellon NCAA Division III Women's Soccer Championship,W 2-1 (1 OT),304,11/20/2021,Carnegie Mellon,home,W,2,1,True
+11/21/2021,@ Wesleyan (CT) NCAA Division III Women's Soccer Championship,L 1-2 (1 OT),814,11/21/2021,Wesleyan (CT),away,L,1,2,True

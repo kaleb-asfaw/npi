@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2021,"Stockton @Union, NJ",W 2-1 (1 OT),45,09/03/2021,Stockton,neutral,W,2,1,True
+09/04/2021,@ Kean,W 5-0,35,09/04/2021,Kean,away,W,5,0,False
+09/08/2021,@ Marywood,Ppd,,09/08/2021,Marywood,away,,,,
+09/11/2021,@ Vassar,W 2-0,125,09/11/2021,Vassar,away,W,2,0,False
+09/16/2021,Lebanon Valley,W 4-0,134,09/16/2021,Lebanon Valley,home,W,4,0,False
+09/18/2021,@ Stevens,W 1-0,218,09/18/2021,Stevens,away,W,1,0,False
+09/21/2021,Wilkes,W 3-0,167,09/21/2021,Wilkes,home,W,3,0,False
+09/25/2021,Susquehanna,W 2-1,277,09/25/2021,Susquehanna,home,W,2,1,False
+09/29/2021,@ Misericordia,W 1-0,150,09/29/2021,Misericordia,away,W,1,0,False
+10/02/2021,@ Juniata,W 4-0,135,10/02/2021,Juniata,away,W,4,0,False
+10/05/2021,Farmingdale St.,W 3-0,178,10/05/2021,Farmingdale St.,home,W,3,0,False
+10/09/2021,@ Goucher,W 4-0,0,10/09/2021,Goucher,away,W,4,0,False
+10/13/2021,@ Drew,W 4-0,108,10/13/2021,Drew,away,W,4,0,False
+10/16/2021,Catholic,W 5-0,201,10/16/2021,Catholic,home,W,5,0,False
+10/23/2021,Moravian,W 4-0,0,10/23/2021,Moravian,home,W,4,0,False
+10/26/2021,Penn St.-Berks,Canceled,,10/26/2021,Penn St.-Berks,home,,,,
+10/30/2021,@ Elizabethtown,T 2-2 (2 OT),133,10/30/2021,Elizabethtown,away,T,2,2,True
+11/03/2021,#4 Moravian Landmark WSOC Championship,W 2-0,127,11/03/2021,Moravian,home,W,2,0,False
+11/06/2021,#3 Elizabethtown Landmark WSOC Championship,W 2-0,327,11/06/2021,Elizabethtown,home,W,2,0,False
+11/13/2021,Nazareth NCAA Division III Women's Soccer Championship,W 3-0,397,11/13/2021,Nazareth,home,W,3,0,False
+11/14/2021,@ SUNY Geneseo NCAA Division III Women's Soccer Championship,W 1-0,428,11/14/2021,SUNY Geneseo,away,W,1,0,False
+11/20/2021,@ TCNJ NCAA Division III Women's Soccer Championship,L 1-3,637,11/20/2021,TCNJ,away,L,1,3,False

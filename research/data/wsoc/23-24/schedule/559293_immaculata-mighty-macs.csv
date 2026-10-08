@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Cedar Crest,T 0-0,89,09/01/2023,Cedar Crest,home,T,0,0,False
+09/03/2023,@ Lancaster Bible,L 0-4,287,09/03/2023,Lancaster Bible,away,L,0,4,False
+09/06/2023,@ King's (PA),L 0-3,50,09/06/2023,King's (PA),away,L,0,3,False
+09/09/2023,@ Goucher,L 1-4,224,09/09/2023,Goucher,away,L,1,4,False
+09/14/2023,@ Delaware Valley,L 2-8,107,09/14/2023,Delaware Valley,away,L,2,8,False
+09/16/2023,Rosemont,W 2-1,101,09/16/2023,Rosemont,home,W,2,1,False
+09/20/2023,@ Penn St.-Abington,W 4-0,74,09/20/2023,Penn St.-Abington,away,W,4,0,False
+09/26/2023,Haverford,L 0-7,87,09/26/2023,Haverford,home,L,0,7,False
+09/28/2023,Moravian,L 1-4,88,09/28/2023,Moravian,home,L,1,4,False
+10/01/2023,Pratt,W 4-1,88,10/01/2023,Pratt,home,W,4,1,False
+10/04/2023,@ Marymount (VA),L 0-1,120,10/04/2023,Marymount (VA),away,L,0,1,False
+10/07/2023,Centenary (NJ),L 1-2,135,10/07/2023,Centenary (NJ),home,L,1,2,False
+10/11/2023,Stevenson,L 1-2,78,10/11/2023,Stevenson,home,L,1,2,False
+10/14/2023,@ Gwynedd Mercy,L 0-1,103,10/14/2023,Gwynedd Mercy,away,L,0,1,False
+10/18/2023,Neumann,L 3-5,110,10/18/2023,Neumann,home,L,3,5,False
+10/21/2023,@ Cabrini,L 0-3,90,10/21/2023,Cabrini,away,L,0,3,False
+10/25/2023,Marywood,L 0-7,66,10/25/2023,Marywood,home,L,0,7,False

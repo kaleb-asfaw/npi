@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Western New Eng.,L 2-3,345,09/01/2023,Western New Eng.,away,L,2,3,False
+09/03/2023,JWU (Providence),T 1-1,0,09/03/2023,JWU (Providence),home,T,1,1,False
+09/09/2023,"Springfield @Farmingdale, NY",T 1-1,94,09/09/2023,Springfield,neutral,T,1,1,False
+09/10/2023,"Rowan @Farmingdale, NY",L 1-5,96,09/10/2023,Rowan,neutral,L,1,5,False
+09/13/2023,Vassar,L 0-2,220,09/13/2023,Vassar,home,L,0,2,False
+09/16/2023,@ Keene St.,T 1-1,200,09/16/2023,Keene St.,away,T,1,1,False
+09/17/2023,Framingham St.,W 6-0,125,09/17/2023,Framingham St.,home,W,6,0,False
+09/19/2023,@ Russell Sage,T 1-1,811,09/19/2023,Russell Sage,away,T,1,1,False
+09/23/2023,VTSU Castleton,W 3-0,0,09/23/2023,VTSU Castleton,home,W,3,0,False
+09/27/2023,@ WPI,L 0-3,200,09/27/2023,WPI,away,L,0,3,False
+09/30/2023,Plymouth St.,W 5-0,100,09/30/2023,Plymouth St.,home,W,5,0,False
+10/04/2023,Worcester St.,W 6-0,165,10/04/2023,Worcester St.,home,W,6,0,False
+10/07/2023,@ UMass Dartmouth,W 6-0,121,10/07/2023,UMass Dartmouth,away,W,6,0,False
+10/09/2023,CCNY,W 7-0,100,10/09/2023,CCNY,home,W,7,0,False
+10/11/2023,@ Eastern Conn. St.,W 1-0,200,10/11/2023,Eastern Conn. St.,away,W,1,0,False
+10/14/2023,UMass Boston,L 1-2,150,10/14/2023,UMass Boston,home,L,1,2,False
+10/17/2023,@ Wesleyan (CT),L 0-7,87,10/17/2023,Wesleyan (CT),away,L,0,7,False
+10/21/2023,@ Southern Me.,L 2-3,224,10/21/2023,Southern Me.,away,L,2,3,False
+10/25/2023,Salem St.,W 6-1,227,10/25/2023,Salem St.,home,W,6,1,False
+10/28/2023,Rhode Island Col.,W 5-0,400,10/28/2023,Rhode Island Col.,home,W,5,0,False
+11/02/2023,#3 Keene St. Little East Women's Soccer Championship,W 7-2,288,11/02/2023,Keene St.,home,W,7,2,False
+11/04/2023,@ #1 Southern Me. Little East Women's Soccer Championship,L 0-3,344,11/04/2023,Southern Me.,away,L,0,3,False

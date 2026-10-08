@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/04/2022,Yeshiva,W 9-0,37,09/04/2022,Yeshiva,home,W,9,0,False
+09/08/2022,@ Five Towns,W 5-0,22,09/08/2022,@ Five Towns,home,W,5,0,False
+09/14/2022,@ CCNY,L 0-1,50,09/14/2022,CCNY,away,L,0,1,False
+09/17/2022,York (NY),Ppd,,09/17/2022,York (NY),home,,,,
+09/20/2022,@ Manhattanville,L 1-7,68,09/20/2022,Manhattanville,away,L,1,7,False
+09/23/2022,St. Joseph's (L.I.),L 0-2,63,09/23/2022,St. Joseph's (L.I.),home,L,0,2,False
+09/28/2022,@ Brooklyn,W 9-1,27,09/28/2022,Brooklyn,away,W,9,1,False
+10/01/2022,Sarah Lawrence,L 1-3,38,10/01/2022,Sarah Lawrence,home,L,1,3,False
+10/04/2022,@ Merchant Marine,T 1-1,55,10/04/2022,Merchant Marine,away,T,1,1,False
+10/06/2022,@ Mitchell,W 3-1,100,10/06/2022,Mitchell,away,W,3,1,False
+10/08/2022,UMSV,L 0-4,54,10/08/2022,UMSV,home,L,0,4,False
+10/10/2022,@ Pratt,L 1-2,45,10/10/2022,Pratt,away,L,1,2,False
+10/12/2022,@ St. Joseph's (Brkln),L 0-3,42,10/12/2022,St. Joseph's (Brkln),away,L,0,3,False
+10/15/2022,@ Farmingdale St.,L 0-5,126,10/15/2022,Farmingdale St.,away,L,0,5,False
+10/18/2022,@ Mt. St. Mary (NY),L 0-6,37,10/18/2022,Mt. St. Mary (NY),away,L,0,6,False
+10/22/2022,@ Purchase,W 3-1,85,10/22/2022,Purchase,away,W,3,1,False
+10/24/2022,@ Lehman,W 7-0,55,10/24/2022,Lehman,away,W,7,0,False
+10/26/2022,SUNY Maritime,W 5-1,102,10/26/2022,SUNY Maritime,home,W,5,1,False

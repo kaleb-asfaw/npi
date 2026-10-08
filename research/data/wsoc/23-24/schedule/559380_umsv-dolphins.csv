@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Vassar,L 0-4,103,09/01/2023,Vassar,away,L,0,4,False
+09/03/2023,FDU-Florham,L 1-2,156,09/03/2023,FDU-Florham,home,L,1,2,False
+09/08/2023,Kean,W 3-0,125,09/08/2023,Kean,home,W,3,0,False
+09/13/2023,Ramapo,W 1-0,158,09/13/2023,Ramapo,home,W,1,0,False
+09/16/2023,Wesleyan (CT),L 1-3,167,09/16/2023,Wesleyan (CT),home,L,1,3,False
+09/20/2023,Sarah Lawrence,T 1-1,167,09/20/2023,Sarah Lawrence,home,T,1,1,False
+09/23/2023,Purchase,W 7-0,104,09/23/2023,Purchase,home,W,7,0,False
+09/26/2023,@ Manhattanville,W 1-0,100,09/26/2023,Manhattanville,away,W,1,0,False
+09/30/2023,@ Mt. St. Mary (NY),T 2-2,137,09/30/2023,Mt. St. Mary (NY),away,T,2,2,False
+10/02/2023,CCNY,W 2-0,77,10/02/2023,CCNY,home,W,2,0,False
+10/04/2023,Old Westbury,W 10-0,134,10/04/2023,Old Westbury,home,W,10,0,False
+10/07/2023,@ St. Joseph's (L.I.),W 1-0,78,10/07/2023,St. Joseph's (L.I.),away,W,1,0,False
+10/10/2023,@ St. Joseph's (Brkln),W 5-0,86,10/10/2023,St. Joseph's (Brkln),away,W,5,0,False
+10/11/2023,Stevens,L 0-3,127,10/11/2023,Stevens,home,L,0,3,False
+10/14/2023,SUNY Maritime,W 9-0,101,10/14/2023,SUNY Maritime,home,W,9,0,False
+10/18/2023,Yeshiva,W 6-0,106,10/18/2023,Yeshiva,home,W,6,0,False
+10/21/2023,@ Farmingdale St.,L 1-3,112,10/21/2023,Farmingdale St.,away,L,1,3,False
+10/24/2023,Merchant Marine,T 1-1,173,10/24/2023,Merchant Marine,home,T,1,1,False
+10/28/2023,#6 Mt. St. Mary (NY) Skyline Women's Soccer Championship,W 6-0,250,10/28/2023,Mt. St. Mary (NY),home,W,6,0,False
+11/01/2023,@ #2 Farmingdale St. Skyline Women's Soccer Championship,W 4-0,114,11/01/2023,Farmingdale St.,away,W,4,0,False
+11/04/2023,#5 Merchant Marine Skyline Women's Soccer Championship,W 1-0,"1,650",11/04/2023,Merchant Marine,home,W,1,0,False
+11/11/2023,@ MIT NCAA Division III Women's Soccer Championship,L 1-3,321,11/11/2023,MIT,away,L,1,3,False

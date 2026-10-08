@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2022,Alverno,W 7-0,54,09/02/2022,Alverno,home,W,7,0,False
+09/06/2022,SUNY Delhi,L 0-3,82,09/06/2022,SUNY Delhi,home,L,0,3,False
+09/09/2022,@ Pratt,L 0-3,44,09/09/2022,Pratt,away,L,0,3,False
+09/13/2022,@ Yeshiva,W 6-1,25,09/13/2022,Yeshiva,away,W,6,1,False
+09/17/2022,Bard,L 1-4,44,09/17/2022,Bard,home,L,1,4,False
+09/20/2022,Farmingdale St.,L 0-1,234,09/20/2022,Farmingdale St.,home,L,0,1,False
+09/23/2022,Purchase,W 3-2,43,09/23/2022,Purchase,home,W,3,2,False
+09/28/2022,St. Joseph's (L.I.),L 1-7,84,09/28/2022,St. Joseph's (L.I.),home,L,1,7,False
+10/01/2022,@ Mt. St. Mary (NY),L 1-9,117,10/01/2022,Mt. St. Mary (NY),away,L,1,9,False
+10/04/2022,Sarah Lawrence,L 0-5,28,10/04/2022,Sarah Lawrence,home,L,0,5,False
+10/07/2022,@ Manhattanville,L 0-4,136,10/07/2022,Manhattanville,away,L,0,4,False
+10/10/2022,CCNY,Ppd,,10/10/2022,CCNY,home,,,,
+10/15/2022,@ Merchant Marine,L 2-4,160,10/15/2022,Merchant Marine,away,L,2,4,False
+10/18/2022,UMSV,L 0-5,56,10/18/2022,UMSV,home,L,0,5,False
+10/22/2022,@ St. Joseph's (Brkln),L 1-6,57,10/22/2022,St. Joseph's (Brkln),away,L,1,6,False
+10/26/2022,@ Old Westbury,L 1-5,102,10/26/2022,Old Westbury,away,L,1,5,False

@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Pomona-Pitzer,L 1-2,275,09/01/2021,Pomona-Pitzer,away,L,1,2,False
+09/04/2021,La Verne,W 2-0,230,09/04/2021,La Verne,home,W,2,0,False
+09/08/2021,@ Occidental,L 0-1 (2 OT),0,09/08/2021,Occidental,away,L,0,1,True
+09/15/2021,CMS,L 3-4,123,09/15/2021,CMS,home,L,3,4,False
+09/18/2021,@ Cal Lutheran,L 0-6,367,09/18/2021,Cal Lutheran,away,L,0,6,False
+09/22/2021,Occidental,W 2-1,100,09/22/2021,Occidental,home,W,2,1,False
+09/29/2021,Pomona-Pitzer,L 1-2,150,09/29/2021,Pomona-Pitzer,home,L,1,2,False
+10/02/2021,@ Whittier,W 2-1,100,10/02/2021,Whittier,away,W,2,1,False
+10/04/2021,@ Caltech,Ppd,,10/04/2021,Caltech,away,,,,
+10/09/2021,@ La Verne,W 1-0,0,10/09/2021,La Verne,away,W,1,0,False
+10/13/2021,@ Chapman,L 0-3,150,10/13/2021,Chapman,away,L,0,3,False
+10/16/2021,Caltech,W 5-0,100,10/16/2021,Caltech,home,W,5,0,False
+10/19/2021,Chapman,W 3-2,125,10/19/2021,Chapman,home,W,3,2,False
+10/23/2021,Cal Lutheran,L 0-2,235,10/23/2021,Cal Lutheran,home,L,0,2,False
+10/27/2021,@ CMS,L 1-2,300,10/27/2021,CMS,away,L,1,2,False
+10/29/2021,@ Caltech,W 3-2 (2 OT),42,10/29/2021,Caltech,away,W,3,2,True

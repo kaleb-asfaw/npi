@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ St. Joseph's (Brkln),Ppd,,09/01/2021,St. Joseph's (Brkln),away,,,,
+09/08/2021,@ Sarah Lawrence,L 0-2,123,09/08/2021,Sarah Lawrence,away,L,0,2,False
+09/11/2021,@ Delaware Valley,L 0-7,75,09/11/2021,Delaware Valley,away,L,0,7,False
+09/15/2021,Old Westbury,W 8-0,0,09/15/2021,Old Westbury,home,W,8,0,False
+09/20/2021,@ New Jersey City,L 2-5,307,09/20/2021,New Jersey City,away,L,2,5,False
+09/22/2021,@ Albertus Magnus,L 0-3,88,09/22/2021,Albertus Magnus,away,L,0,3,False
+09/25/2021,Pratt,W 4-0,0,09/25/2021,Pratt,home,W,4,0,False
+09/29/2021,@ Lehman,W 3-1,20,09/29/2021,Lehman,away,W,3,1,False
+10/02/2021,@ Mitchell,L 0-3,75,10/02/2021,Mitchell,away,L,0,3,False
+10/06/2021,Lehman,W 2-0,50,10/06/2021,Lehman,home,W,2,0,False
+10/13/2021,Brooklyn,W 5-2,50,10/13/2021,Brooklyn,home,W,5,2,False
+10/16/2021,York (NY),W 8-0,50,10/16/2021,York (NY),home,W,8,0,False
+10/21/2021,@ SUNY Maritime,W 4-1,0,10/21/2021,SUNY Maritime,away,W,4,1,False
+10/23/2021,@ John Jay,L 0-3,0,10/23/2021,John Jay,away,L,0,3,False
+10/30/2021,#3 Lehman CUNYAC WSOC Championship,L 1-2,100,10/30/2021,Lehman,home,L,1,2,False

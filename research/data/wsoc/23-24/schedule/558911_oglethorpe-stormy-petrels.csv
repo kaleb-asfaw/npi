@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Agnes Scott,W 4-0,212,09/01/2023,Agnes Scott,home,W,4,0,False
+09/03/2023,Transylvania,L 0-2,175,09/03/2023,Transylvania,home,L,0,2,False
+09/08/2023,"Roanoke @Piedmont, GA",T 1-1,71,09/08/2023,Roanoke,neutral,T,1,1,False
+09/10/2023,Meredith,T 0-0,89,09/10/2023,Meredith,home,T,0,0,False
+09/15/2023,@ Huntingdon,W 4-2,50,09/15/2023,Huntingdon,away,W,4,2,False
+09/19/2023,LaGrange,W 1-0,121,09/19/2023,LaGrange,home,W,1,0,False
+09/23/2023,Centre,L 0-5,143,09/23/2023,Centre,home,L,0,5,False
+09/29/2023,@ Sewanee,L 0-3,114,09/29/2023,Sewanee,away,L,0,3,False
+10/02/2023,Wesleyan (GA),W 10-0,107,10/02/2023,Wesleyan (GA),home,W,10,0,False
+10/06/2023,Birmingham-So.,T 1-1,134,10/06/2023,Birmingham-So.,home,T,1,1,False
+10/08/2023,Millsaps,W 4-1,168,10/08/2023,Millsaps,home,W,4,1,False
+10/13/2023,@ Rhodes,L 0-4,50,10/13/2023,Rhodes,away,L,0,4,False
+10/15/2023,@ Hendrix,L 0-1,70,10/15/2023,Hendrix,away,L,0,1,False
+10/21/2023,Berry,W 1-0,286,10/21/2023,Berry,home,W,1,0,False
+10/28/2023,@ #4 Hendrix SAA Women's Soccer Championship,T 0-0 (3 OT),75,10/28/2023,Hendrix,away,T,0,0,True

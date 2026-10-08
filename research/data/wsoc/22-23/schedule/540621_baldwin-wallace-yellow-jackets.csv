@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2022,Fredonia,W 1-0,98,09/02/2022,Fredonia,home,W,1,0,False
+09/03/2022,@ Penn St.-Behrend,W 3-2,277,09/03/2022,Penn St.-Behrend,away,W,3,2,False
+09/07/2022,@ Oberlin,W 2-1,247,09/07/2022,Oberlin,away,W,2,1,False
+09/09/2022,CWRU,L 0-1,167,09/09/2022,CWRU,home,L,0,1,False
+09/14/2022,Geneva,W 4-0,134,09/14/2022,Geneva,home,W,4,0,False
+09/17/2022,@ Waynesburg,W 3-1,56,09/17/2022,Waynesburg,away,W,3,1,False
+09/21/2022,Adrian,L 1-2,137,09/21/2022,Adrian,home,L,1,2,False
+09/23/2022,@ Carnegie Mellon,L 0-5,163,09/23/2022,Carnegie Mellon,away,L,0,5,False
+09/28/2022,@ Wooster,L 1-3,82,09/28/2022,Wooster,away,L,1,3,False
+10/01/2022,@ Marietta,L 0-1,125,10/01/2022,Marietta,away,L,0,1,False
+10/05/2022,Mount Union,L 0-6,158,10/05/2022,Mount Union,home,L,0,6,False
+10/08/2022,@ Wilmington (OH),W 2-1,62,10/08/2022,Wilmington (OH),away,W,2,1,False
+10/12/2022,John Carroll,W 4-1,108,10/12/2022,John Carroll,home,W,4,1,False
+10/15/2022,Muskingum,W 3-0,134,10/15/2022,Muskingum,home,W,3,0,False
+10/19/2022,@ Heidelberg,W 4-0,75,10/19/2022,Heidelberg,away,W,4,0,False
+10/22/2022,Otterbein,L 0-2,142,10/22/2022,Otterbein,home,L,0,2,False
+10/26/2022,@ Ohio Northern,L 0-2,101,10/26/2022,Ohio Northern,away,L,0,2,False
+10/29/2022,@ Capital,T 2-2,492,10/29/2022,Capital,away,T,2,2,False
+11/01/2022,@ #3 Otterbein OAC WSOC Championship,L 1-2,167,11/01/2022,Otterbein,away,L,1,2,False

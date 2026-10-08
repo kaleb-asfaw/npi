@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Elms,T 0-0,0,09/01/2022,Elms,away,T,0,0,False
+09/03/2022,@ Framingham St.,W 1-0,98,09/03/2022,Framingham St.,away,W,1,0,False
+09/06/2022,Bridgewater St.,L 0-5,120,09/06/2022,Bridgewater St.,home,L,0,5,False
+09/10/2022,Wellesley,L 0-1,132,09/10/2022,Wellesley,home,L,0,1,False
+09/15/2022,@ Nichols,L 2-3,100,09/15/2022,Nichols,away,L,2,3,False
+09/21/2022,@ Lesley,L 1-2,0,09/21/2022,Lesley,away,L,1,2,False
+09/24/2022,Endicott,T 0-0,189,09/24/2022,Endicott,home,T,0,0,False
+09/27/2022,Fisher,W 3-0,89,09/27/2022,Fisher,home,W,3,0,False
+10/01/2022,Roger Williams,L 1-2,118,10/01/2022,Roger Williams,home,L,1,2,False
+10/04/2022,New England Col.,W 3-0,43,10/04/2022,New England Col.,home,W,3,0,False
+10/08/2022,U New England,T 1-1,151,10/08/2022,U New England,home,T,1,1,False
+10/11/2022,@ Wentworth,W 2-0,137,10/11/2022,Wentworth,away,W,2,0,False
+10/15/2022,@ Curry,L 1-3,253,10/15/2022,Curry,away,L,1,3,False
+10/19/2022,Western New Eng.,L 0-1,89,10/19/2022,Western New Eng.,home,L,0,1,False
+10/22/2022,@ Gordon,L 2-4,201,10/22/2022,Gordon,away,L,2,4,False
+10/25/2022,@ Salve Regina,L 0-2,119,10/25/2022,Salve Regina,away,L,0,2,False

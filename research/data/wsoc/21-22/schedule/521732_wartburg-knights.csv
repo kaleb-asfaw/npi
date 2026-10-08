@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Wis.-Stevens Point,W 1-0 (2 OT),75,09/01/2021,Wis.-Stevens Point,home,W,1,0,True
+09/04/2021,@ Saint Benedict,W 4-0,120,09/04/2021,Saint Benedict,away,W,4,0,False
+09/07/2021,St. Olaf,W 2-1,50,09/07/2021,St. Olaf,home,W,2,1,False
+09/11/2021,"Ill. Wesleyan @La Crosse, WI",W 2-0,70,09/11/2021,Ill. Wesleyan,neutral,W,2,0,False
+09/12/2021,"Dominican (IL) @La Crosse, Wis.",T 0-0 (2 OT),61,09/12/2021,Dominican (IL),neutral,T,0,0,True
+09/15/2021,@ Wis.-Eau Claire,W 4-1,163,09/15/2021,Wis.-Eau Claire,away,W,4,1,False
+09/18/2021,Augsburg,W 4-0,50,09/18/2021,Augsburg,home,W,4,0,False
+09/21/2021,Wis.-La Crosse,L 0-1,40,09/21/2021,Wis.-La Crosse,home,L,0,1,False
+09/25/2021,Dubuque,W 4-1,50,09/25/2021,Dubuque,home,W,4,1,False
+10/02/2021,Coe,W 2-0,50,10/02/2021,Coe,home,W,2,0,False
+10/03/2021,@ Grinnell,W 3-0,195,10/03/2021,Grinnell,away,W,3,0,False
+10/09/2021,@ Simpson,W 3-1,180,10/09/2021,Simpson,away,W,3,1,False
+10/12/2021,Buena Vista,W 11-0,50,10/12/2021,Buena Vista,home,W,11,0,False
+10/16/2021,@ Central (IA),W 2-0,125,10/16/2021,Central (IA),away,W,2,0,False
+10/20/2021,Loras,L 1-2,100,10/20/2021,Loras,home,L,1,2,False
+10/23/2021,@ Neb. Wesleyan,W 5-1,100,10/23/2021,Neb. Wesleyan,away,W,5,1,False
+10/26/2021,@ Luther,W 1-0,75,10/26/2021,Luther,away,W,1,0,False
+11/03/2021,Simpson American Rivers WSOC Championship,W 1-0,100,11/03/2021,Simpson,home,W,1,0,False
+11/06/2021,@ Loras American Rivers WSOC Championship,L 1-4,300,11/06/2021,Loras,away,L,1,4,False
+11/13/2021,"Wis.-La Crosse @St. Paul, MN (NCAA Division III Women's Soccer Championship)",L 0-1,200,11/13/2021,Wis.-La Crosse,neutral,L,0,1,False

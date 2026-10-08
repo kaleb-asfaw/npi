@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Ursinus,L 0-2,131,09/01/2023,Ursinus,away,L,0,2,False
+09/02/2023,Gwynedd Mercy,W 5-1,113,09/02/2023,Gwynedd Mercy,home,W,5,1,False
+09/06/2023,Stevenson,L 3-5,124,09/06/2023,Stevenson,home,L,3,5,False
+09/07/2023,@ Cairn,W 6-1,150,09/07/2023,Cairn,away,W,6,1,False
+09/12/2023,@ Bryn Mawr,L 2-3,54,09/12/2023,Bryn Mawr,away,L,2,3,False
+09/14/2023,Immaculata,W 8-2,107,09/14/2023,Immaculata,home,W,8,2,False
+09/16/2023,Keystone,W 10-1,119,09/16/2023,Keystone,home,W,10,1,False
+09/19/2023,@ Drew,L 0-7,80,09/19/2023,Drew,away,L,0,7,False
+09/20/2023,Rosemont,W 8-1,79,09/20/2023,Rosemont,home,W,8,1,False
+09/23/2023,@ Eastern,T 2-2,150,09/23/2023,Eastern,away,T,2,2,False
+09/27/2023,@ Albright,W 2-0,75,09/27/2023,Albright,away,W,2,0,False
+09/30/2023,@ DeSales,L 2-4,150,09/30/2023,DeSales,away,L,2,4,False
+10/07/2023,King's (PA),T 2-2,137,10/07/2023,King's (PA),home,T,2,2,False
+10/10/2023,@ Widener,W 3-2,106,10/10/2023,Widener,away,W,3,2,False
+10/14/2023,@ Lebanon Valley,L 1-3,146,10/14/2023,Lebanon Valley,away,L,1,3,False
+10/17/2023,Arcadia,L 0-3,77,10/17/2023,Arcadia,home,L,0,3,False
+10/21/2023,@ Misericordia,L 0-8,125,10/21/2023,Misericordia,away,L,0,8,False
+10/25/2023,Stevens,L 1-7,81,10/25/2023,Stevens,home,L,1,7,False
+10/28/2023,@ FDU-Florham,L 2-3,115,10/28/2023,FDU-Florham,away,L,2,3,False

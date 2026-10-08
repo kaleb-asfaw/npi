@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Allen,W 4-1,0,09/01/2022,Allen,away,W,4,1,False
+09/03/2022,@ Agnes Scott,W 5-0,122,09/03/2022,Agnes Scott,away,W,5,0,False
+09/08/2022,@ Principia,T 1-1,30,09/08/2022,Principia,away,T,1,1,False
+09/09/2022,@ Blackburn,W 9-0,100,09/09/2022,Blackburn,away,W,9,0,False
+09/11/2022,Oakwood,Canceled,,09/11/2022,Oakwood,home,,,,
+09/14/2022,@ Huntingdon,L 0-3,65,09/14/2022,Huntingdon,away,L,0,3,False
+09/20/2022,@ LaGrange,L 0-5,72,09/20/2022,LaGrange,away,L,0,5,False
+09/30/2022,@ Oakwood,Canceled,,09/30/2022,@ Oakwood,home,,,,
+09/30/2022,"Johnson (TN) @Murfreesboro, TN",L 1-4,0,09/30/2022,"Johnson (TN) @Murfreesboro, TN",neutral,L,1,4,False
+10/04/2022,Blue Mountain (MS),L 1-5,64,10/04/2022,Blue Mountain (MS),home,L,1,5,False
+10/06/2022,Tougaloo,W 9-1,68,10/06/2022,Tougaloo,home,W,9,1,False
+10/10/2022,Talladega,W 8-0,53,10/10/2022,Talladega,home,W,8,0,False
+10/13/2022,@ Brevard,L 0-1,204,10/13/2022,Brevard,away,L,0,1,False
+10/15/2022,@ Warren Wilson,W 3-1,0,10/15/2022,Warren Wilson,away,W,3,1,False
+10/19/2022,Rhodes,L 0-1,82,10/19/2022,Rhodes,home,L,0,1,False
+10/21/2022,S'western Adventist,W 9-0,63,10/21/2022,S'western Adventist,home,W,9,0,False
+10/26/2022,Tougaloo,W 12-0,43,10/26/2022,Tougaloo,home,W,12,0,False
+10/27/2022,Belhaven,Canceled,,10/27/2022,Belhaven,home,,,,

@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2022,@ Maranatha Baptist,W 4-0,412,09/03/2022,Maranatha Baptist,away,W,4,0,False
+09/05/2022,Viterbo,L 2-8,200,09/05/2022,Viterbo,home,L,2,8,False
+09/10/2022,Finlandia,T 0-0,100,09/10/2022,Finlandia,home,T,0,0,False
+09/13/2022,@ Buena Vista,W 3-1,40,09/13/2022,Buena Vista,away,W,3,1,False
+09/17/2022,@ Bethany Lutheran,L 0-1,171,09/17/2022,Bethany Lutheran,away,L,0,1,False
+09/23/2022,Northland,W 3-2,50,09/23/2022,Northland,home,W,3,2,False
+09/24/2022,Wis.-Superior,L 0-3,128,09/24/2022,Wis.-Superior,home,L,0,3,False
+09/27/2022,UW-River Falls,L 0-5,79,09/27/2022,UW-River Falls,home,L,0,5,False
+09/29/2022,@ Northwestern-St. Paul,L 0-5,103,09/29/2022,Northwestern-St. Paul,away,L,0,5,False
+10/01/2022,@ North Central (MN),W 4-1,30,10/01/2022,North Central (MN),away,W,4,1,False
+10/05/2022,Crown (MN),L 1-3,30,10/05/2022,Crown (MN),home,L,1,3,False
+10/08/2022,Minn.-Morris,T 2-2,178,10/08/2022,Minn.-Morris,home,T,2,2,False
+10/11/2022,Bethany Lutheran,L 0-2,78,10/11/2022,Bethany Lutheran,home,L,0,2,False
+10/14/2022,@ Wis.-Superior,L 1-8,50,10/14/2022,Wis.-Superior,away,L,1,8,False
+10/15/2022,@ Northland,T 0-0,89,10/15/2022,Northland,away,T,0,0,False
+10/20/2022,@ Minn.-Morris,W 1-0,55,10/20/2022,Minn.-Morris,away,W,1,0,False
+10/22/2022,@ Crown (MN),T 0-0,0,10/22/2022,Crown (MN),away,T,0,0,False
+10/26/2022,North Central (MN),W 7-0,123,10/26/2022,North Central (MN),home,W,7,0,False
+10/29/2022,Northwestern-St. Paul,L 0-3,100,10/29/2022,Northwestern-St. Paul,home,L,0,3,False

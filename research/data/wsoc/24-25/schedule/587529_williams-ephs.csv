@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2024,Hamilton,T 0-0,217,09/03/2024,Hamilton,home,T,0,0,False
+09/07/2024,Tufts,W 2-1,173,09/07/2024,Tufts,home,W,2,1,False
+09/08/2024,@ Springfield,L 0-1,200,09/08/2024,Springfield,away,L,0,1,False
+09/14/2024,Amherst,L 0-1,184,09/14/2024,Amherst,home,L,0,1,False
+09/15/2024,Clark (MA),W 5-0,97,09/15/2024,Clark (MA),home,W,5,0,False
+09/21/2024,@ Trinity (CT),W 2-0,256,09/21/2024,Trinity (CT),away,W,2,0,False
+09/28/2024,@ Colby,W 1-0,242,09/28/2024,Colby,away,W,1,0,False
+09/29/2024,@ Bowdoin,W 1-0,317,09/29/2024,Bowdoin,away,W,1,0,False
+10/05/2024,Bates,W 1-0,103,10/05/2024,Bates,home,W,1,0,False
+10/06/2024,Southern Me.,T 0-0,76,10/06/2024,Southern Me.,home,T,0,0,False
+10/12/2024,@ Wesleyan (CT),L 0-1,213,10/12/2024,Wesleyan (CT),away,L,0,1,False
+10/13/2024,MIT,L 0-1,83,10/13/2024,MIT,home,L,0,1,False
+10/20/2024,VTSU Castleton,W 10-0,117,10/20/2024,VTSU Castleton,home,W,10,0,False
+10/26/2024,Connecticut Col.,W 3-0,238,10/26/2024,Connecticut Col.,home,W,3,0,False
+10/29/2024,@ Middlebury,T 0-0,234,10/29/2024,Middlebury,away,T,0,0,False
+11/02/2024,#6 Colby NESCAC Women's Soccer Championship,L 1-2 (1 OT),200,11/02/2024,Colby,home,L,1,2,True

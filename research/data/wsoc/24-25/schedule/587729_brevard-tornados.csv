@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/04/2024,Agnes Scott,W 6-0,137,09/04/2024,Agnes Scott,home,W,6,0,False
+09/06/2024,@ East. Mennonite,W 4-0,63,09/06/2024,East. Mennonite,away,W,4,0,False
+09/07/2024,@ Hollins,W 11-0,128,09/07/2024,Hollins,away,W,11,0,False
+09/11/2024,@ Piedmont,T 1-1,123,09/11/2024,Piedmont,away,T,1,1,False
+09/18/2024,@ CarolinaU,W 4-1,0,09/18/2024,@ CarolinaU,home,W,4,1,False
+09/21/2024,@ Meredith,T 1-1,324,09/21/2024,Meredith,away,T,1,1,False
+09/23/2024,@ Toccoa Falls,W 2-0,55,09/23/2024,@ Toccoa Falls,home,W,2,0,False
+09/30/2024,Warren Wilson,Canceled,,09/30/2024,Warren Wilson,home,,,,
+10/02/2024,Greensboro,W 7-0,127,10/02/2024,Greensboro,home,W,7,0,False
+10/05/2024,Methodist,W 1-0,115,10/05/2024,Methodist,home,W,1,0,False
+10/09/2024,@ Warren Wilson,Canceled,,10/09/2024,Warren Wilson,away,,,,
+10/13/2024,@ Mary Baldwin,W 3-1,100,10/13/2024,Mary Baldwin,away,W,3,1,False
+10/16/2024,Salem (NC),W 3-0,133,10/16/2024,Salem (NC),home,W,3,0,False
+10/19/2024,@ N.C. Wesleyan,W 3-0,96,10/19/2024,N.C. Wesleyan,away,W,3,0,False
+10/22/2024,@ JWU (Charlotte),W 3-0,114,10/22/2024,@ JWU (Charlotte),home,W,3,0,False
+10/24/2024,William Peace,W 3-1,192,10/24/2024,William Peace,home,W,3,1,False
+10/26/2024,Southern Va.,W 2-0,120,10/26/2024,Southern Va.,home,W,2,0,False
+10/30/2024,@ Pfeiffer,W 2-1,135,10/30/2024,Pfeiffer,away,W,2,1,False
+11/02/2024,#8 William Peace USA South Women's Soccer Championship,W 3-0,206,11/02/2024,William Peace,home,W,3,0,False
+11/06/2024,#4 Southern Va. USA South Women's Soccer Championship,T 0-0 (3 OT),236,11/06/2024,Southern Va.,home,T,0,0,True

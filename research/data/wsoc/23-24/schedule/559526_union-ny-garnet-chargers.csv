@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Rutgers-Newark,L 1-2,274,09/01/2023,Rutgers-Newark,away,L,1,2,False
+09/03/2023,Wheaton (MA),W 3-0,218,09/03/2023,Wheaton (MA),home,W,3,0,False
+09/07/2023,Smith,Ppd,,09/07/2023,Smith,home,,,,
+09/09/2023,WPI,W 2-0,137,09/09/2023,WPI,home,W,2,0,False
+09/13/2023,SUNY Oneonta,T 1-1,129,09/13/2023,SUNY Oneonta,home,T,1,1,False
+09/15/2023,@ Utica,L 1-2,297,09/15/2023,Utica,away,L,1,2,False
+09/19/2023,St. Lawrence,L 0-2,63,09/19/2023,St. Lawrence,home,L,0,2,False
+09/23/2023,@ Vassar,T 0-0,0,09/23/2023,Vassar,away,T,0,0,False
+09/27/2023,@ Western New Eng.,W 1-0,215,09/27/2023,Western New Eng.,away,W,1,0,False
+09/30/2023,Rensselaer,W 2-0,160,09/30/2023,Rensselaer,home,W,2,0,False
+10/03/2023,@ SUNY Morrisville,W 5-0,57,10/03/2023,SUNY Morrisville,away,W,5,0,False
+10/07/2023,Bard,W 3-0,30,10/07/2023,Bard,home,W,3,0,False
+10/13/2023,@ Ithaca,L 0-1,82,10/13/2023,Ithaca,away,L,0,1,False
+10/14/2023,@ William Smith,L 0-2,172,10/14/2023,William Smith,away,L,0,2,False
+10/18/2023,@ Hamilton,L 0-2,67,10/18/2023,Hamilton,away,L,0,2,False
+10/21/2023,RIT,L 1-3,55,10/21/2023,RIT,home,L,1,3,False
+10/25/2023,@ Skidmore,T 1-1,110,10/25/2023,Skidmore,away,T,1,1,False
+10/28/2023,Clarkson,L 1-2,165,10/28/2023,Clarkson,home,L,1,2,False

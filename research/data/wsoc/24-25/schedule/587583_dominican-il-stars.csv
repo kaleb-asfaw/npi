@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ UChicago,L 0-3,233,08/30/2024,UChicago,away,L,0,3,False
+09/04/2024,North Central (IL),L 2-4,200,09/04/2024,North Central (IL),home,L,2,4,False
+09/07/2024,Wis.-La Crosse,L 0-2,200,09/07/2024,Wis.-La Crosse,home,L,0,2,False
+09/08/2024,Wartburg,L 1-3,200,09/08/2024,Wartburg,home,L,1,3,False
+09/14/2024,Wheaton (IL),W 3-2,300,09/14/2024,Wheaton (IL),home,W,3,2,False
+09/18/2024,Aurora,W 2-0,150,09/18/2024,Aurora,home,W,2,0,False
+09/22/2024,@ Ill. Wesleyan,T 3-3,68,09/22/2024,Ill. Wesleyan,away,T,3,3,False
+09/25/2024,@ Benedictine (IL),W 5-0,88,09/25/2024,Benedictine (IL),away,W,5,0,False
+09/28/2024,St. Norbert,W 5-2,100,09/28/2024,St. Norbert,home,W,5,2,False
+10/02/2024,Lakeland,W 5-0,100,10/02/2024,Lakeland,home,W,5,0,False
+10/05/2024,@ MSOE,T 1-1,232,10/05/2024,MSOE,away,T,1,1,False
+10/09/2024,@ Illinois Tech,L 2-4,0,10/09/2024,Illinois Tech,away,L,2,4,False
+10/12/2024,Marian (WI),W 5-0,150,10/12/2024,Marian (WI),home,W,5,0,False
+10/16/2024,Edgewood,W 4-0,50,10/16/2024,Edgewood,home,W,4,0,False
+10/19/2024,@ Wis. Lutheran,W 2-0,146,10/19/2024,Wis. Lutheran,away,W,2,0,False
+10/23/2024,Rockford,W 9-0,150,10/23/2024,Rockford,home,W,9,0,False
+10/26/2024,Concordia Wisconsin,T 0-0,250,10/26/2024,Concordia Wisconsin,home,T,0,0,False
+10/30/2024,@ Concordia Chicago,W 4-1,333,10/30/2024,Concordia Chicago,away,W,4,1,False
+11/02/2024,#6 Marian (WI) NACC Women's Championship,W 2-0,50,11/02/2024,Marian (WI),home,W,2,0,False
+11/05/2024,@ #2 MSOE NACC Women's Championship,L 0-1,77,11/05/2024,MSOE,away,L,0,1,False

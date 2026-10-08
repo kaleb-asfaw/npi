@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/04/2021,@ MIT,L 0-2,84,09/04/2021,MIT,away,L,0,2,False
+09/09/2021,Wheaton (MA),L 0-3,125,09/09/2021,Wheaton (MA),home,L,0,3,False
+09/14/2021,@ Salve Regina,W 4-0,119,09/14/2021,Salve Regina,away,W,4,0,False
+09/16/2021,@ Emmanuel (MA),W 2-0,100,09/16/2021,Emmanuel (MA),away,W,2,0,False
+09/23/2021,@ Keene St.,L 0-1 (2 OT),111,09/23/2021,Keene St.,away,L,0,1,True
+09/25/2021,@ Framingham St.,W 3-0,206,09/25/2021,Framingham St.,away,W,3,0,False
+09/29/2021,Roger Williams,L 0-2,125,09/29/2021,Roger Williams,home,L,0,2,False
+10/02/2021,Fitchburg St.,W 6-0,125,10/02/2021,Fitchburg St.,home,W,6,0,False
+10/05/2021,@ UMass Dartmouth,W 2-0,212,10/05/2021,UMass Dartmouth,away,W,2,0,False
+10/09/2021,@ Worcester St.,T 1-1 (2 OT),158,10/09/2021,Worcester St.,away,T,1,1,True
+10/16/2021,Westfield St.,L 2-3,225,10/16/2021,Westfield St.,home,L,2,3,False
+10/20/2021,@ Brandeis,L 1-2,75,10/20/2021,Brandeis,away,L,1,2,False
+10/22/2021,@ Mass. Maritime,W 5-0,100,10/22/2021,Mass. Maritime,away,W,5,0,False
+10/26/2021,UMass Boston,L 0-1,75,10/26/2021,UMass Boston,home,L,0,1,False
+10/28/2021,Salem St.,W 2-1,125,10/28/2021,Salem St.,home,W,2,1,False
+10/30/2021,MCLA,W 6-0,100,10/30/2021,MCLA,home,W,6,0,False
+11/02/2021,#6 Fitchburg St. MASCAC WSOC Championship,W 2-1,175,11/02/2021,Fitchburg St.,home,W,2,1,False
+11/05/2021,@ #2 Worcester St. MASCAC WSOC Championship,L 2-3,0,11/05/2021,Worcester St.,away,L,2,3,False

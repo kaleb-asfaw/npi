@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Nazareth,T 1-1,220,09/01/2023,Nazareth,home,T,1,1,False
+09/02/2023,DeSales,W 2-1,215,09/02/2023,DeSales,home,W,2,1,False
+09/05/2023,@ SUNY Potsdam,L 0-1,200,09/05/2023,SUNY Potsdam,away,L,0,1,False
+09/09/2023,"Babson @Manchester, Vt.",L 0-1,225,09/09/2023,Babson,neutral,L,0,1,False
+09/10/2023,VTSU Castleton,W 3-0,200,09/10/2023,VTSU Castleton,home,W,3,0,False
+09/16/2023,@ Oswego St.,T 0-0,74,09/16/2023,Oswego St.,away,T,0,0,False
+09/19/2023,@ Union (NY),W 2-0,63,09/19/2023,Union (NY),away,W,2,0,False
+09/23/2023,@ Rensselaer,T 0-0,212,09/23/2023,Rensselaer,away,T,0,0,False
+09/30/2023,Ithaca,L 0-2,115,09/30/2023,Ithaca,home,L,0,2,False
+10/04/2023,@ Plattsburgh St.,W 3-1,112,10/04/2023,Plattsburgh St.,away,W,3,1,False
+10/07/2023,@ RIT,L 0-2,250,10/07/2023,RIT,away,L,0,2,False
+10/13/2023,Vassar,W 1-0,153,10/13/2023,Vassar,home,W,1,0,False
+10/14/2023,Bard,W 2-0,60,10/14/2023,Bard,home,W,2,0,False
+10/18/2023,@ Utica,W 3-0,77,10/18/2023,Utica,away,W,3,0,False
+10/21/2023,@ Skidmore,T 0-0,285,10/21/2023,Skidmore,away,T,0,0,False
+10/24/2023,Clarkson,L 0-2,72,10/24/2023,Clarkson,home,L,0,2,False
+10/28/2023,William Smith,L 0-6,310,10/28/2023,William Smith,home,L,0,6,False
+10/31/2023,@ #3 Ithaca Liberty League Women's Soccer Championship,L 0-2,85,10/31/2023,Ithaca,away,L,0,2,False

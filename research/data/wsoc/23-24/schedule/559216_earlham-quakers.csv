@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Wilmington (OH),L 2-4,271,09/01/2023,Wilmington (OH),home,L,2,4,False
+09/06/2023,@ Spalding,L 2-3,216,09/06/2023,Spalding,away,L,2,3,False
+09/09/2023,UC Clermont,W 4-1,167,09/09/2023,UC Clermont,home,W,4,1,False
+09/16/2023,Bethany (WV),L 0-1,162,09/16/2023,Bethany (WV),home,L,0,1,False
+09/20/2023,@ Muskingum,T 3-3,170,09/20/2023,Muskingum,away,T,3,3,False
+09/23/2023,Adrian,L 0-3,157,09/23/2023,Adrian,home,L,0,3,False
+09/27/2023,Hanover,L 0-4,106,09/27/2023,Hanover,home,L,0,4,False
+09/30/2023,Rose-Hulman,L 0-2,206,09/30/2023,Rose-Hulman,home,L,0,2,False
+10/04/2023,@ Defiance,W 4-0,48,10/04/2023,Defiance,away,W,4,0,False
+10/07/2023,@ Mt. St. Joseph,L 0-2,232,10/07/2023,Mt. St. Joseph,away,L,0,2,False
+10/11/2023,Bluffton,T 1-1,102,10/11/2023,Bluffton,home,T,1,1,False
+10/14/2023,Manchester,W 4-0,256,10/14/2023,Manchester,home,W,4,0,False
+10/18/2023,@ Transylvania,L 1-2,196,10/18/2023,Transylvania,away,L,1,2,False
+10/21/2023,@ Franklin,L 1-2,222,10/21/2023,Franklin,away,L,1,2,False
+10/25/2023,@ Anderson (IN),L 0-4,113,10/25/2023,Anderson (IN),away,L,0,4,False

@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Wis.-La Crosse,L 2-3,40,09/01/2021,Wis.-La Crosse,home,L,2,3,False
+09/04/2021,@ Carthage,L 1-2 (2 OT),207,09/04/2021,Carthage,away,L,1,2,True
+09/05/2021,"MSOE @Kenosha, WI",L 0-2,73,09/05/2021,MSOE,neutral,L,0,2,False
+09/08/2021,St. Scholastica,W 4-1,55,09/08/2021,St. Scholastica,home,W,4,1,False
+09/12/2021,@ Wis.-Stevens Point,W 3-2,102,09/12/2021,Wis.-Stevens Point,away,W,3,2,False
+09/15/2021,Wis.-Whitewater,L 0-2,45,09/15/2021,Wis.-Whitewater,home,L,0,2,False
+09/18/2021,Grinnell,W 1-0,98,09/18/2021,Grinnell,home,W,1,0,False
+09/19/2021,Carleton,L 0-1,68,09/19/2021,Carleton,home,L,0,1,False
+09/25/2021,Central (IA),L 0-2,135,09/25/2021,Central (IA),home,L,0,2,False
+09/29/2021,Wis.-Eau Claire,W 1-0,92,09/29/2021,Wis.-Eau Claire,home,W,1,0,False
+10/02/2021,@ Buena Vista,W 9-1,49,10/02/2021,Buena Vista,away,W,9,1,False
+10/06/2021,@ Coe,W 4-1,67,10/06/2021,Coe,away,W,4,1,False
+10/09/2021,Neb. Wesleyan,W 6-0,105,10/09/2021,Neb. Wesleyan,home,W,6,0,False
+10/12/2021,Loras,L 1-4,65,10/12/2021,Loras,home,L,1,4,False
+10/16/2021,@ Simpson,L 0-2,78,10/16/2021,Simpson,away,L,0,2,False
+10/20/2021,@ Dubuque,W 2-0,258,10/20/2021,Dubuque,away,W,2,0,False
+10/26/2021,Wartburg,L 0-1,75,10/26/2021,Wartburg,home,L,0,1,False
+10/30/2021,Dubuque American Rivers WSOC Championship,W 1-0,95,10/30/2021,Dubuque,home,W,1,0,False
+11/03/2021,@ Loras American Rivers WSOC Championship,L 0-1 (2 OT),235,11/03/2021,Loras,away,L,0,1,True

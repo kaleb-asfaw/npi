@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Wash. & Jeff.,W 6-0,80,09/01/2021,Wash. & Jeff.,home,W,6,0,False
+09/03/2021,La Roche,W 12-0,142,09/03/2021,La Roche,home,W,12,0,False
+09/05/2021,Capital,W 1-0,157,09/05/2021,Capital,home,W,1,0,False
+09/11/2021,"Farmingdale St. @Dallas, PA",W 3-0,50,09/11/2021,Farmingdale St.,neutral,W,3,0,False
+09/12/2021,@ Misericordia,L 0-1 (1 OT),80,09/12/2021,Misericordia,away,L,0,1,True
+09/15/2021,@ Grove City,W 4-0,140,09/15/2021,Grove City,away,W,4,0,False
+09/19/2021,@ Wittenberg,W 1-0,0,09/19/2021,Wittenberg,away,W,1,0,False
+09/26/2021,Marietta,W 3-0,112,09/26/2021,Marietta,home,W,3,0,False
+09/29/2021,@ Johns Hopkins,L 1-2,75,09/29/2021,Johns Hopkins,away,L,1,2,False
+10/02/2021,Brandeis,W 3-0,145,10/02/2021,Brandeis,home,W,3,0,False
+10/09/2021,@ NYU,W 2-1,119,10/09/2021,NYU,away,W,2,1,False
+10/15/2021,@ Rochester (NY),T 0-0 (2 OT),152,10/15/2021,Rochester (NY),away,T,0,0,True
+10/17/2021,@ Emory,L 0-1,0,10/17/2021,Emory,away,L,0,1,False
+10/23/2021,Penn St.-Altoona,W 7-0,110,10/23/2021,Penn St.-Altoona,home,W,7,0,False
+10/29/2021,WashU,L 0-1,148,10/29/2021,WashU,home,L,0,1,False
+10/31/2021,UChicago,W 4-0,175,10/31/2021,UChicago,home,W,4,0,False
+11/07/2021,CWRU,L 0-1,285,11/07/2021,CWRU,home,L,0,1,False
+11/13/2021,"Trine @Westminster, MD (NCAA Division III Women's Soccer Championship)",W 2-1 (2 OT),44,11/13/2021,Trine,neutral,W,2,1,True
+11/14/2021,@ McDaniel NCAA Division III Women's Soccer Championship,W 2-0,600,11/14/2021,McDaniel,away,W,2,0,False
+11/20/2021,@ MIT NCAA Division III Women's Soccer Championship,L 1-2 (1 OT),304,11/20/2021,MIT,away,L,1,2,True

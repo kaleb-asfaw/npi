@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Maine Maritime,W 10-2,0,08/30/2024,Maine Maritime,home,W,10,2,False
+09/04/2024,U New England,W 4-3,224,09/04/2024,U New England,home,W,4,3,False
+09/07/2024,@ Westfield St.,W 2-1,150,09/07/2024,Westfield St.,away,W,2,1,False
+09/11/2024,Colby,L 2-3,224,09/11/2024,Colby,home,L,2,3,False
+09/14/2024,Me.-Fort Kent,W 8-0,244,09/14/2024,Me.-Fort Kent,home,W,8,0,False
+09/17/2024,Bowdoin,T 0-0,244,09/17/2024,Bowdoin,home,T,0,0,False
+09/21/2024,@ Eastern Conn. St.,W 3-2,100,09/21/2024,Eastern Conn. St.,away,W,3,2,False
+09/25/2024,Hartford,L 0-2,124,09/25/2024,Hartford,home,L,0,2,False
+09/28/2024,UMass Dartmouth,W 6-0,244,09/28/2024,UMass Dartmouth,home,W,6,0,False
+10/02/2024,@ Plymouth St.,W 6-1,73,10/02/2024,Plymouth St.,away,W,6,1,False
+10/06/2024,@ Williams,T 0-0,76,10/06/2024,Williams,away,T,0,0,False
+10/09/2024,@ St. Joseph's (ME),W 9-0,150,10/09/2024,St. Joseph's (ME),away,W,9,0,False
+10/12/2024,@ Rhode Island Col.,W 1-0,315,10/12/2024,Rhode Island Col.,away,W,1,0,False
+10/16/2024,UMass Boston,W 5-1,244,10/16/2024,UMass Boston,home,W,5,1,False
+10/19/2024,Keene St.,W 7-1,244,10/19/2024,Keene St.,home,W,7,1,False
+10/23/2024,Bates,W 2-1,144,10/23/2024,Bates,home,W,2,1,False
+10/26/2024,@ WestConn,T 0-0,223,10/26/2024,WestConn,away,T,0,0,False
+11/02/2024,VTSU Castleton,W 3-0,244,11/02/2024,VTSU Castleton,home,W,3,0,False
+11/07/2024,#5 VTSU Castleton Little East Women's Soccer Championship,W 2-0,344,11/07/2024,VTSU Castleton,home,W,2,0,False
+11/09/2024,#3 WestConn Little East Women's Soccer Championship,W 3-0,444,11/09/2024,WestConn,home,W,3,0,False
+11/16/2024,@ Johns Hopkins NCAA Division III Women's Soccer Championship,L 0-2,202,11/16/2024,Johns Hopkins,away,L,0,2,False

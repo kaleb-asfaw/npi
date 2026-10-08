@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/04/2021,@ Penn St.-Berks,T 1-1 (2 OT),143,09/04/2021,Penn St.-Berks,away,T,1,1,True
+09/09/2021,@ Muhlenberg,T 0-0 (2 OT),100,09/09/2021,Muhlenberg,away,T,0,0,True
+09/15/2021,Swarthmore,Ppd,,09/15/2021,Swarthmore,home,,,,
+09/18/2021,@ Misericordia,L 0-5,130,09/18/2021,Misericordia,away,L,0,5,False
+09/22/2021,Ramapo,W 3-0,172,09/22/2021,Ramapo,home,W,3,0,False
+09/25/2021,@ Catholic,W 1-0,180,09/25/2021,Catholic,away,W,1,0,False
+09/29/2021,John Jay,Canceled,,09/29/2021,John Jay,home,,,,
+10/02/2021,Goucher,W 2-0,237,10/02/2021,Goucher,home,W,2,0,False
+10/04/2021,Lancaster Bible,W 2-0,183,10/04/2021,Lancaster Bible,home,W,2,0,False
+10/06/2021,@ Ursinus,W 1-0,137,10/06/2021,Ursinus,away,W,1,0,False
+10/09/2021,@ Susquehanna,L 0-1,120,10/09/2021,Susquehanna,away,L,0,1,False
+10/13/2021,@ Elizabethtown,L 0-1,166,10/13/2021,Elizabethtown,away,L,0,1,False
+10/16/2021,Juniata,W 1-0,139,10/16/2021,Juniata,home,W,1,0,False
+10/23/2021,@ Scranton,L 0-4,0,10/23/2021,Scranton,away,L,0,4,False
+10/27/2021,Lebanon Valley,T 1-1 (2 OT),0,10/27/2021,Lebanon Valley,home,T,1,1,True
+10/30/2021,Drew,T 0-0 (2 OT),152,10/30/2021,Drew,home,T,0,0,True
+11/03/2021,@ #1 Scranton Landmark WSOC Championship,L 0-2,127,11/03/2021,Scranton,away,L,0,2,False

@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/08/2021,St. Joseph's (L.I.),L 0-11,10,09/08/2021,St. Joseph's (L.I.),home,L,0,11,False
+09/13/2021,Sarah Lawrence,L 0-3,10,09/13/2021,Sarah Lawrence,home,L,0,3,False
+09/15/2021,Rutgers-Newark,L 0-9,10,09/15/2021,Rutgers-Newark,home,L,0,9,False
+09/18/2021,@ Cairn,L 1-7,77,09/18/2021,Cairn,away,L,1,7,False
+09/22/2021,@ New Jersey City,L 0-5,69,09/22/2021,New Jersey City,away,L,0,5,False
+09/25/2021,Delaware Valley,L 0-7,10,09/25/2021,Delaware Valley,home,L,0,7,False
+09/27/2021,@ St. Joseph's (Brkln),L 1-2,25,09/27/2021,St. Joseph's (Brkln),away,L,1,2,False
+09/29/2021,Purchase,L 1-5,5,09/29/2021,Purchase,home,L,1,5,False
+10/04/2021,Old Westbury,L 2-3,5,10/04/2021,Old Westbury,home,L,2,3,False
+10/06/2021,Medgar Evers,Canceled,,10/06/2021,Medgar Evers,home,,,,
+10/13/2021,@ CCNY,L 2-5,50,10/13/2021,CCNY,away,L,2,5,False
+10/16/2021,@ John Jay,L 0-4,0,10/16/2021,John Jay,away,L,0,4,False
+10/19/2021,@ York (NY),W 4-0,0,10/19/2021,York (NY),away,W,4,0,False
+10/23/2021,Lehman,L 1-4,3,10/23/2021,Lehman,home,L,1,4,False
+10/26/2021,Saint Elizabeth,Canceled,,10/26/2021,Saint Elizabeth,home,,,,
+10/30/2021,@ #1 John Jay CUNYAC WSOC Championship,L 0-4,0,10/30/2021,John Jay,away,L,0,4,False

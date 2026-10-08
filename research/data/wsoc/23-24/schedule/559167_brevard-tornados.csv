@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Berry,L 0-3,187,09/01/2023,Berry,away,L,0,3,False
+09/03/2023,Carlow,W 2-0,137,09/03/2023,Carlow,home,W,2,0,False
+09/06/2023,@ Guilford,L 0-3,105,09/06/2023,Guilford,away,L,0,3,False
+09/09/2023,Toccoa Falls,W 5-0,142,09/09/2023,Toccoa Falls,home,W,5,0,False
+09/11/2023,@ Agnes Scott,W 6-0,84,09/11/2023,Agnes Scott,away,W,6,0,False
+09/13/2023,@ Warren Wilson,W 7-0,30,09/13/2023,Warren Wilson,away,W,7,0,False
+09/16/2023,CarolinaU,W 2-1,101,09/16/2023,CarolinaU,home,W,2,1,False
+09/23/2023,N.C. Wesleyan,W 3-0,142,09/23/2023,N.C. Wesleyan,home,W,3,0,False
+09/27/2023,@ Greensboro,T 1-1,167,09/27/2023,Greensboro,away,T,1,1,False
+09/30/2023,Meredith,T 0-0,123,09/30/2023,Meredith,home,T,0,0,False
+10/03/2023,@ Salem (NC),W 4-0,87,10/03/2023,Salem (NC),away,W,4,0,False
+10/07/2023,@ Southern Va.,L 0-1,156,10/07/2023,Southern Va.,away,L,0,1,False
+10/11/2023,Pfeiffer,W 1-0,123,10/11/2023,Pfeiffer,home,W,1,0,False
+10/14/2023,@ Methodist,L 0-1,90,10/14/2023,Methodist,away,L,0,1,False
+10/16/2023,Warren Wilson,W 4-0,106,10/16/2023,Warren Wilson,home,W,4,0,False
+10/21/2023,Mary Baldwin,W 3-0,126,10/21/2023,Mary Baldwin,home,W,3,0,False
+10/24/2023,JWU (Charlotte),W 1-0,114,10/24/2023,JWU (Charlotte),home,W,1,0,False
+10/28/2023,@ William Peace,W 4-1,90,10/28/2023,William Peace,away,W,4,1,False
+10/31/2023,#6 Meredith USA South Women's Soccer Championship,T 0-0 (3 OT),204,10/31/2023,Meredith,home,T,0,0,True
+11/02/2023,@ #2 Methodist USA South Women's Soccer Championship,W 2-0,106,11/02/2023,Methodist,away,W,2,0,False
+11/04/2023,@ #1 Southern Va. USA South Women's Soccer Championship,L 1-3,274,11/04/2023,Southern Va.,away,L,1,3,False

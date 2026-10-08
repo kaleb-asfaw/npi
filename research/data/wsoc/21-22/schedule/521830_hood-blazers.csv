@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ St. Mary's (MD),Ppd,,09/01/2021,St. Mary's (MD),away,,,,
+09/04/2021,Pitt.-Greensburg,L 1-6,100,09/04/2021,Pitt.-Greensburg,home,L,1,6,False
+09/06/2021,@ Washington Col.,L 0-2,270,09/06/2021,Washington Col.,away,L,0,2,False
+09/11/2021,@ Dickinson,L 0-1,100,09/11/2021,Dickinson,away,L,0,1,False
+09/13/2021,@ Goucher,L 1-2,0,09/13/2021,Goucher,away,L,1,2,False
+09/16/2021,Shenandoah,L 2-3,75,09/16/2021,Shenandoah,home,L,2,3,False
+09/18/2021,@ Juniata,T 1-1 (2 OT),179,09/18/2021,Juniata,away,T,1,1,True
+09/22/2021,Marymount (VA),W 7-1,75,09/22/2021,Marymount (VA),home,W,7,1,False
+09/26/2021,@ Washington Adventist,W 5-0,75,09/26/2021,@ Washington Adventist,home,W,5,0,False
+09/29/2021,@ Franklin & Marshall,L 0-6,143,09/29/2021,Franklin & Marshall,away,L,0,6,False
+10/02/2021,Eastern,W 4-3 (1 OT),0,10/02/2021,Eastern,home,W,4,3,True
+10/06/2021,@ Stevenson,L 1-2,121,10/06/2021,Stevenson,away,L,1,2,False
+10/09/2021,Albright,W 3-1,132,10/09/2021,Albright,home,W,3,1,False
+10/13/2021,Salisbury,L 0-1,112,10/13/2021,Salisbury,home,L,0,1,False
+10/15/2021,@ Widener,L 0-2,100,10/15/2021,Widener,away,L,0,2,False
+10/20/2021,York (PA),L 1-2 (2 OT),123,10/20/2021,York (PA),home,L,1,2,True
+10/23/2021,Lebanon Valley,L 0-3,112,10/23/2021,Lebanon Valley,home,L,0,3,False
+10/26/2021,@ Messiah,L 0-5,51,10/26/2021,Messiah,away,L,0,5,False
+10/30/2021,@ Alvernia,W 5-0,93,10/30/2021,Alvernia,away,W,5,0,False

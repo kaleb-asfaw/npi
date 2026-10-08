@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Wells,W 8-0,62,09/01/2021,Wells,away,W,8,0,False
+09/04/2021,Nichols,W 3-0,120,09/04/2021,Nichols,home,W,3,0,False
+09/05/2021,Smith,T 1-1 (2 OT),125,09/05/2021,Smith,home,T,1,1,True
+09/11/2021,Penn St. Harrisburg,T 1-1 (2 OT),85,09/11/2021,Penn St. Harrisburg,home,T,1,1,True
+09/12/2021,Roanoke,L 0-6,0,09/12/2021,Roanoke,home,L,0,6,False
+09/18/2021,@ Keuka,T 0-0 (2 OT),100,09/18/2021,Keuka,away,T,0,0,True
+09/25/2021,St. John Fisher,W 2-0,150,09/25/2021,St. John Fisher,home,W,2,0,False
+10/06/2021,Skidmore,L 0-1,75,10/06/2021,Skidmore,home,L,0,1,False
+10/09/2021,Houghton,W 2-0,75,10/09/2021,Houghton,home,W,2,0,False
+10/13/2021,@ Elmira,W 2-1 (1 OT),40,10/13/2021,Elmira,away,W,2,1,True
+10/16/2021,@ Alfred,T 1-1 (2 OT),176,10/16/2021,Alfred,away,T,1,1,True
+10/20/2021,Russell Sage,W 4-2,76,10/20/2021,Russell Sage,home,W,4,2,False
+10/23/2021,@ Nazareth,L 0-1,534,10/23/2021,Nazareth,away,L,0,1,False
+10/27/2021,@ SUNY Oneonta,L 0-3,103,10/27/2021,SUNY Oneonta,away,L,0,3,False
+10/30/2021,Utica,L 0-1,150,10/30/2021,Utica,home,L,0,1,False
+11/02/2021,#5 Utica Empire 8 WSOC Championship,W 4-1,175,11/02/2021,Utica,home,W,4,1,False
+11/04/2021,@ #1 Nazareth Empire 8 WSOC Championship,L 0-3,200,11/04/2021,Nazareth,away,L,0,3,False

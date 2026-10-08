@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,SUNY Oneonta,T 1-1,322,08/30/2024,SUNY Oneonta,home,T,1,1,False
+09/03/2024,@ SUNY Morrisville,W 3-0,80,09/03/2024,SUNY Morrisville,away,W,3,0,False
+09/07/2024,Susquehanna,L 1-2,120,09/07/2024,Susquehanna,home,L,1,2,False
+09/08/2024,Marywood,W 1-0,200,09/08/2024,Marywood,home,W,1,0,False
+09/14/2024,SUNY Geneseo,L 0-3,105,09/14/2024,SUNY Geneseo,home,L,0,3,False
+09/17/2024,@ SUNY Delhi,W 1-0,117,09/17/2024,SUNY Delhi,away,W,1,0,False
+09/21/2024,Nazareth,T 2-2,155,09/21/2024,Nazareth,home,T,2,2,False
+09/25/2024,@ SUNY Poly,W 5-2,57,09/25/2024,SUNY Poly,away,W,5,2,False
+09/28/2024,@ SUNY Brockport,L 0-4,55,09/28/2024,SUNY Brockport,away,L,0,4,False
+10/05/2024,Keuka,T 0-0,105,10/05/2024,Keuka,home,T,0,0,False
+10/09/2024,@ Elmira,L 0-1,128,10/09/2024,Elmira,away,L,0,1,False
+10/12/2024,@ Houghton,T 1-1,200,10/12/2024,Houghton,away,T,1,1,False
+10/16/2024,Utica,T 1-1,48,10/16/2024,Utica,home,T,1,1,False
+10/19/2024,@ St. John Fisher,T 1-1,0,10/19/2024,St. John Fisher,away,T,1,1,False
+10/25/2024,Alfred,T 0-0,89,10/25/2024,Alfred,home,T,0,0,False
+10/30/2024,@ Russell Sage,T 0-0,215,10/30/2024,Russell Sage,away,T,0,0,False

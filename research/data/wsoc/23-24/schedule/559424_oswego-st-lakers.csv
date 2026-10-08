@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/05/2023,@ SUNY Canton,W 4-1,65,09/05/2023,SUNY Canton,away,W,4,1,False
+09/08/2023,"Utica @Fredonia, NY",W 1-0,100,09/08/2023,Utica,neutral,W,1,0,False
+09/09/2023,"Wash. & Jeff. @Fredonia, NY",T 1-1,46,09/09/2023,Wash. & Jeff.,neutral,T,1,1,False
+09/12/2023,Hamilton,L 0-2,68,09/12/2023,Hamilton,home,L,0,2,False
+09/16/2023,St. Lawrence,T 0-0,74,09/16/2023,St. Lawrence,home,T,0,0,False
+09/19/2023,@ Keuka,W 1-0,87,09/19/2023,Keuka,away,W,1,0,False
+09/23/2023,@ SUNY Potsdam,T 0-0,132,09/23/2023,SUNY Potsdam,away,T,0,0,False
+09/27/2023,@ SUNY Brockport,W 1-0,55,09/27/2023,SUNY Brockport,away,W,1,0,False
+09/30/2023,Plattsburgh St.,L 0-1,78,09/30/2023,Plattsburgh St.,home,L,0,1,False
+10/04/2023,Fredonia,T 2-2,99,10/04/2023,Fredonia,home,T,2,2,False
+10/07/2023,@ SUNY Oneonta,W 2-0,88,10/07/2023,SUNY Oneonta,away,W,2,0,False
+10/11/2023,SUNY Geneseo,T 1-1,73,10/11/2023,SUNY Geneseo,home,T,1,1,False
+10/14/2023,SUNY New Paltz,T 0-0,76,10/14/2023,SUNY New Paltz,home,T,0,0,False
+10/18/2023,@ Buffalo St.,W 2-0,100,10/18/2023,Buffalo St.,away,W,2,0,False
+10/21/2023,Cortland,L 0-3,68,10/21/2023,Cortland,home,L,0,3,False
+10/28/2023,@ #4 SUNY New Paltz SUNYAC Women's Soccer Championship,T 0-0 (3 OT),275,10/28/2023,SUNY New Paltz,away,T,0,0,True
+11/01/2023,@ #1 Cortland SUNYAC Women's Soccer Championship,L 1-2,122,11/01/2023,Cortland,away,L,1,2,False

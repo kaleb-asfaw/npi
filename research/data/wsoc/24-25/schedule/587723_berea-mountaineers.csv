@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/27/2024,Midway,L 0-4 *,67,08/27/2024,Midway,home,L,0,4,False
+08/31/2024,Covenant,L 0-3,200,08/31/2024,Covenant,home,L,0,3,False
+09/02/2024,@ Asbury,L 0-2,100,09/02/2024,Asbury,away,L,0,2,False
+09/04/2024,Johnson (TN),L 0-1,71,09/04/2024,Johnson (TN),home,L,0,1,False
+09/08/2024,Eureka,W 11-0,74,09/08/2024,Eureka,home,W,11,0,False
+09/14/2024,@ Ohio Christian,L 0-3,0,09/14/2024,@ Ohio Christian,home,L,0,3,False
+09/18/2024,@ Spalding,L 0-7,162,09/18/2024,Spalding,away,L,0,7,False
+09/21/2024,@ Warren Wilson,W 5-2,42,09/21/2024,Warren Wilson,away,W,5,2,False
+09/29/2024,@ Transylvania,L 1-3,0,09/29/2024,Transylvania,away,L,1,3,False
+10/05/2024,Franklin,L 0-1,200,10/05/2024,Franklin,home,L,0,1,False
+10/06/2024,Columbia (SC),L 1-5,23,10/06/2024,Columbia (SC),home,L,1,5,False
+10/09/2024,Mt. St. Joseph,L 0-7,45,10/09/2024,Mt. St. Joseph,home,L,0,7,False
+10/12/2024,Rose-Hulman,L 1-3,30,10/12/2024,Rose-Hulman,home,L,1,3,False
+10/16/2024,@ Bluffton,T 1-1,75,10/16/2024,Bluffton,away,T,1,1,False
+10/19/2024,@ Hanover,L 0-10,0,10/19/2024,Hanover,away,L,0,10,False
+10/23/2024,Earlham,L 0-5,33,10/23/2024,Earlham,home,L,0,5,False
+10/26/2024,Manchester,T 1-1,42,10/26/2024,Manchester,home,T,1,1,False
+10/27/2024,Wesleyan (GA),W 4-0,78,10/27/2024,Wesleyan (GA),home,W,4,0,False
+10/30/2024,@ Anderson (IN),L 0-6,108,10/30/2024,Anderson (IN),away,L,0,6,False

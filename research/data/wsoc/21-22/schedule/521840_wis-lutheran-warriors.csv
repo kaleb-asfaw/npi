@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Mount Mary,W 9-0,87,09/01/2021,Mount Mary,away,W,9,0,False
+09/05/2021,Lawrence,L 1-2 (2 OT),126,09/05/2021,Lawrence,home,L,1,2,True
+09/07/2021,@ Lake Forest,L 0-4,60,09/07/2021,Lake Forest,away,L,0,4,False
+09/10/2021,@ Beloit,L 0-4,86,09/10/2021,Beloit,away,L,0,4,False
+09/12/2021,Carroll (WI),L 0-5,126,09/12/2021,Carroll (WI),home,L,0,5,False
+09/15/2021,Marian (WI),L 1-4,75,09/15/2021,Marian (WI),home,L,1,4,False
+09/18/2021,@ Illinois Tech,L 1-5,50,09/18/2021,Illinois Tech,away,L,1,5,False
+09/22/2021,@ Concordia Wisconsin,L 0-4,73,09/22/2021,Concordia Wisconsin,away,L,0,4,False
+09/25/2021,Dominican (IL),L 0-5,122,09/25/2021,Dominican (IL),home,L,0,5,False
+09/29/2021,@ Edgewood,L 1-2,87,09/29/2021,Edgewood,away,L,1,2,False
+10/02/2021,@ Alverno,Canceled,,10/02/2021,Alverno,away,,,,
+10/03/2021,Finlandia,W 2-0,58,10/03/2021,Finlandia,home,W,2,0,False
+10/06/2021,@ Lakeland,W 8-0,0,10/06/2021,Lakeland,away,W,8,0,False
+10/10/2021,Aurora,T 1-1 (2 OT),63,10/10/2021,Aurora,home,T,1,1,True
+10/13/2021,@ St. Norbert,L 1-2,100,10/13/2021,St. Norbert,away,L,1,2,False
+10/17/2021,@ Concordia Chicago,L 1-2,107,10/17/2021,Concordia Chicago,away,L,1,2,False
+10/20/2021,Benedictine (IL),L 0-1,51,10/20/2021,Benedictine (IL),home,L,0,1,False
+10/23/2021,Rockford,W 5-0,182,10/23/2021,Rockford,home,W,5,0,False
+10/28/2021,@ MSOE,L 0-5,58,10/28/2021,MSOE,away,L,0,5,False

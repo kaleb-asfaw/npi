@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Keystone,W 7-0,150,09/01/2022,Keystone,away,W,7,0,False
+09/03/2022,Swarthmore,L 1-3,142,09/03/2022,Swarthmore,home,L,1,3,False
+09/07/2022,@ Scranton,L 0-6,154,09/07/2022,Scranton,away,L,0,6,False
+09/10/2022,@ Eastern,T 1-1,200,09/10/2022,Eastern,away,T,1,1,False
+09/13/2022,@ Franklin & Marshall,L 0-7,87,09/13/2022,Franklin & Marshall,away,L,0,7,False
+09/17/2022,FDU-Florham,L 1-2,125,09/17/2022,FDU-Florham,home,L,1,2,False
+09/21/2022,Kean,L 1-3,135,09/21/2022,Kean,home,L,1,3,False
+09/24/2022,@ Alvernia,W 3-2,179,09/24/2022,Alvernia,away,W,3,2,False
+09/28/2022,Wilkes,W 3-1,172,09/28/2022,Wilkes,home,W,3,1,False
+10/02/2022,Cazenovia,W 7-0,178,10/02/2022,Cazenovia,home,W,7,0,False
+10/05/2022,@ Centenary (NJ),W 7-0,50,10/05/2022,Centenary (NJ),away,W,7,0,False
+10/08/2022,Cabrini,W 2-1,160,10/08/2022,Cabrini,home,W,2,1,False
+10/12/2022,@ Gwynedd Mercy,W 7-0,100,10/12/2022,Gwynedd Mercy,away,W,7,0,False
+10/15/2022,Marymount (VA),W 1-0,128,10/15/2022,Marymount (VA),home,W,1,0,False
+10/19/2022,Immaculata,W 4-0,67,10/19/2022,Immaculata,home,W,4,0,False
+10/22/2022,@ Neumann,T 1-1,354,10/22/2022,Neumann,away,T,1,1,False
+10/26/2022,@ Penn College,L 1-6,137,10/26/2022,Penn College,away,L,1,6,False
+11/02/2022,#5 Marymount (VA) Atlantic East WSOC Championship,W 3-0,275,11/02/2022,Marymount (VA),home,W,3,0,False
+11/05/2022,#3 Neumann Atlantic East WSOC Championship,W 1-0,383,11/05/2022,Neumann,home,W,1,0,False
+11/12/2022,@ Misericordia NCAA Division III Women's Soccer Championship,L 0-6,354,11/12/2022,Misericordia,away,L,0,6,False

@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2022,Arcadia,W 1-0,316,09/03/2022,Arcadia,home,W,1,0,False
+09/04/2022,Stevens,T 2-2,137,09/04/2022,Stevens,home,T,2,2,False
+09/07/2022,Delaware Valley,W 8-0,57,09/07/2022,Delaware Valley,home,W,8,0,False
+09/10/2022,@ Lebanon Valley,W 2-1,234,09/10/2022,Lebanon Valley,away,W,2,1,False
+09/13/2022,DeSales,L 1-2,89,09/13/2022,DeSales,home,L,1,2,False
+09/17/2022,Dickinson,T 1-1,200,09/17/2022,Dickinson,home,T,1,1,False
+09/21/2022,Washington Col.,T 0-0,103,09/21/2022,Washington Col.,home,T,0,0,False
+09/24/2022,@ Johns Hopkins,L 0-3,150,09/24/2022,Johns Hopkins,away,L,0,3,False
+09/27/2022,Immaculata,W 5-0,138,09/27/2022,Immaculata,home,W,5,0,False
+10/01/2022,@ Muhlenberg,W 3-0,90,10/01/2022,Muhlenberg,away,W,3,0,False
+10/05/2022,@ Rowan,Ppd,,10/05/2022,Rowan,away,,,,
+10/08/2022,@ Ursinus,T 0-0,117,10/08/2022,Ursinus,away,T,0,0,False
+10/12/2022,@ Franklin & Marshall,L 0-3,76,10/12/2022,Franklin & Marshall,away,L,0,3,False
+10/15/2022,McDaniel,W 1-0,173,10/15/2022,McDaniel,home,W,1,0,False
+10/19/2022,Bryn Mawr,T 1-1,121,10/19/2022,Bryn Mawr,home,T,1,1,False
+10/22/2022,Gettysburg,L 0-1,70,10/22/2022,Gettysburg,home,L,0,1,False
+10/29/2022,@ Swarthmore,W 2-1,220,10/29/2022,Swarthmore,away,W,2,1,False

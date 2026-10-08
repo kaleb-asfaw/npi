@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,St. Mary-Woods,T 2-2,200,09/01/2023,St. Mary-Woods,home,T,2,2,False
+09/03/2023,Knox,W 4-0,250,09/03/2023,Knox,home,W,4,0,False
+09/06/2023,@ Greenville,T 0-0,100,09/06/2023,Greenville,away,T,0,0,False
+09/09/2023,Millikin,W 6-0,150,09/09/2023,Millikin,home,W,6,0,False
+09/12/2023,DePauw,T 0-0,200,09/12/2023,DePauw,home,T,0,0,False
+09/20/2023,Webster,T 3-3,125,09/20/2023,Webster,home,T,3,3,False
+09/22/2023,@ WashU,L 0-3,175,09/22/2023,WashU,away,L,0,3,False
+09/27/2023,@ Mt. St. Joseph,L 1-2,412,09/27/2023,Mt. St. Joseph,away,L,1,2,False
+09/30/2023,@ Earlham,W 2-0,206,09/30/2023,Earlham,away,W,2,0,False
+10/04/2023,Anderson (IN),W 1-0,200,10/04/2023,Anderson (IN),home,W,1,0,False
+10/07/2023,Defiance,Canceled,,10/07/2023,Defiance,home,,,,
+10/11/2023,Manchester,W 6-0,200,10/11/2023,Manchester,home,W,6,0,False
+10/14/2023,@ Transylvania,L 0-2,180,10/14/2023,Transylvania,away,L,0,2,False
+10/18/2023,Franklin,W 1-0,150,10/18/2023,Franklin,home,W,1,0,False
+10/21/2023,Bluffton,W 3-1,250,10/21/2023,Bluffton,home,W,3,1,False
+10/25/2023,@ Hanover,T 0-0,279,10/25/2023,Hanover,away,T,0,0,False
+10/28/2023,#5 Anderson (IN) HCAC Women's Soccer Championship,W 2-1 (2 OT),148,10/28/2023,Anderson (IN),home,W,2,1,True
+10/31/2023,@ #1 Hanover HCAC Women's Soccer Championship,L 0-2,296,10/31/2023,Hanover,away,L,0,2,False

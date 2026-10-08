@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Clarkson,L 0-4,219,08/30/2024,Clarkson,away,L,0,4,False
+08/31/2024,@ St. Lawrence,L 1-2,389,08/31/2024,St. Lawrence,away,L,1,2,False
+09/04/2024,SUNY Poly,W 5-2,150,09/04/2024,SUNY Poly,home,W,5,2,False
+09/07/2024,@ Stevens,L 0-1,213,09/07/2024,Stevens,away,L,0,1,False
+09/08/2024,"Husson @Hoboken, NJ",L 3-6,98,09/08/2024,Husson,neutral,L,3,6,False
+09/11/2024,Utica,L 0-2,122,09/11/2024,Utica,home,L,0,2,False
+09/14/2024,@ VTSU Castleton,L 1-4,104,09/14/2024,VTSU Castleton,away,L,1,4,False
+09/17/2024,@ Gordon,Canceled,,09/17/2024,Gordon,away,,,,
+09/21/2024,VTSU-Johnson,W 4-1,168,09/21/2024,VTSU-Johnson,home,W,4,1,False
+09/28/2024,@ Buffalo St.,L 0-2,85,09/28/2024,Buffalo St.,away,L,0,2,False
+10/02/2024,SUNY New Paltz,L 0-5,140,10/02/2024,SUNY New Paltz,home,L,0,5,False
+10/05/2024,SUNY Oneonta,L 0-1,186,10/05/2024,SUNY Oneonta,home,L,0,1,False
+10/09/2024,@ SUNY Canton,W 4-1,103,10/09/2024,SUNY Canton,away,W,4,1,False
+10/12/2024,@ Cortland,L 0-1,187,10/12/2024,Cortland,away,L,0,1,False
+10/16/2024,@ Oswego St.,L 0-1,57,10/16/2024,Oswego St.,away,L,0,1,False
+10/19/2024,Fredonia,L 0-2,154,10/19/2024,Fredonia,home,L,0,2,False
+10/23/2024,@ Plattsburgh St.,L 0-3,83,10/23/2024,Plattsburgh St.,away,L,0,3,False
+10/26/2024,SUNY Morrisville,W 2-1,163,10/26/2024,SUNY Morrisville,home,W,2,1,False

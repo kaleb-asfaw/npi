@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2023,TCNJ,W 1-0,150,09/02/2023,TCNJ,home,W,1,0,False
+09/03/2023,"Arcadia @Ardmore, PA",W 4-1,100,09/03/2023,Arcadia,neutral,W,4,1,False
+09/06/2023,SUNY Geneseo,W 2-1,232,09/06/2023,SUNY Geneseo,home,W,2,1,False
+09/10/2023,Rochester (NY),T 2-2,323,09/10/2023,Rochester (NY),home,T,2,2,False
+09/16/2023,@ Messiah,W 3-1,656,09/16/2023,Messiah,away,W,3,1,False
+09/20/2023,@ RIT,T 1-1,247,09/20/2023,RIT,away,T,1,1,False
+09/23/2023,Skidmore,T 1-1,175,09/23/2023,Skidmore,home,T,1,1,False
+09/27/2023,Ithaca,W 1-0,175,09/27/2023,Ithaca,home,W,1,0,False
+09/30/2023,Clarkson,W 3-0,183,09/30/2023,Clarkson,home,W,3,0,False
+10/13/2023,Rensselaer,W 3-0,155,10/13/2023,Rensselaer,home,W,3,0,False
+10/14/2023,Union (NY),W 2-0,172,10/14/2023,Union (NY),home,W,2,0,False
+10/18/2023,Nazareth,W 2-0,158,10/18/2023,Nazareth,home,W,2,0,False
+10/21/2023,@ Bard,W 3-0,60,10/21/2023,Bard,away,W,3,0,False
+10/22/2023,@ Vassar,T 0-0,127,10/22/2023,Vassar,away,T,0,0,False
+10/24/2023,@ Cortland,Canceled,,10/24/2023,Cortland,away,,,,
+10/28/2023,@ St. Lawrence,W 6-0,310,10/28/2023,St. Lawrence,away,W,6,0,False
+11/03/2023,#5 Rensselaer Liberty League Women's Soccer Championship,W 7-0,225,11/03/2023,Rensselaer,home,W,7,0,False
+11/05/2023,#2 RIT Liberty League Women's Soccer Championship,W 1-0,325,11/05/2023,RIT,home,W,1,0,False
+11/11/2023,Nazareth NCAA Division III Women's Soccer Championship,W 4-1,239,11/11/2023,Nazareth,home,W,4,1,False
+11/12/2023,Bowdoin NCAA Division III Women's Soccer Championship,L 0-1 (2 OT),220,11/12/2023,Bowdoin,home,L,0,1,True

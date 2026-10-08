@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2021,Goucher,Canceled,,09/02/2021,Goucher,home,,,,
+09/04/2021,Lycoming,L 0-8,100,09/04/2021,Lycoming,home,L,0,8,False
+09/09/2021,@ Delaware Valley,L 0-3,153,09/09/2021,Delaware Valley,away,L,0,3,False
+09/11/2021,@ DeSales,L 0-9,175,09/11/2021,DeSales,away,L,0,9,False
+09/16/2021,Valley Forge,W 7-0,44,09/16/2021,Valley Forge,home,W,7,0,False
+09/18/2021,@ Bryn Athyn,W 2-1 (2 OT),125,09/18/2021,Bryn Athyn,away,W,2,1,True
+09/22/2021,Cairn,W 3-2,60,09/22/2021,Cairn,home,W,3,2,False
+09/28/2021,@ Eastern,L 1-9,100,09/28/2021,Eastern,away,L,1,9,False
+10/02/2021,@ Rosemont,W 1-0,0,10/02/2021,Rosemont,away,W,1,0,False
+10/06/2021,@ Neumann,L 0-4,100,10/06/2021,Neumann,away,L,0,4,False
+10/09/2021,@ Cabrini,L 0-4,123,10/09/2021,Cabrini,away,L,0,4,False
+10/13/2021,Marymount (VA),L 0-3,47,10/13/2021,Marymount (VA),home,L,0,3,False
+10/16/2021,@ Marywood,L 0-6,137,10/16/2021,Marywood,away,L,0,6,False
+10/23/2021,Immaculata,L 0-2,127,10/23/2021,Immaculata,home,L,0,2,False
+10/27/2021,Centenary (NJ),L 0-4,79,10/27/2021,Centenary (NJ),home,L,0,4,False
+11/01/2021,@ #2 Cabrini Atlantic East WSOC Championship,L 0-2,143,11/01/2021,Cabrini,away,L,0,2,False

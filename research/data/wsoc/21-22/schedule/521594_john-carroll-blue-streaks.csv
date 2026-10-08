@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Westminster (PA),L 0-3,44,09/01/2021,Westminster (PA),away,L,0,3,False
+09/04/2021,@ Earlham,W 4-1,0,09/04/2021,Earlham,away,W,4,1,False
+09/05/2021,@ Franklin,W 1-0,168,09/05/2021,Franklin,away,W,1,0,False
+09/08/2021,Hiram,W 4-0,458,09/08/2021,Hiram,home,W,4,0,False
+09/11/2021,@ Allegheny,W 1-0 (2 OT),178,09/11/2021,Allegheny,away,W,1,0,True
+09/15/2021,@ Kenyon,L 0-1 (1 OT),50,09/15/2021,Kenyon,away,L,0,1,True
+09/18/2021,Ohio Wesleyan,T 3-3 (2 OT),225,09/18/2021,Ohio Wesleyan,home,T,3,3,True
+09/23/2021,@ CWRU,L 0-7,55,09/23/2021,CWRU,away,L,0,7,False
+09/25/2021,@ Wash. & Jeff.,W 1-0,134,09/25/2021,Wash. & Jeff.,away,W,1,0,False
+09/28/2021,Penn St.-Behrend,L 1-5,278,09/28/2021,Penn St.-Behrend,home,L,1,5,False
+10/02/2021,@ Muskingum,W 3-0,96,10/02/2021,Muskingum,away,W,3,0,False
+10/06/2021,@ Mount Union,L 0-3,65,10/06/2021,Mount Union,away,L,0,3,False
+10/09/2021,Capital,L 1-2,122,10/09/2021,Capital,home,L,1,2,False
+10/13/2021,Otterbein,L 0-4,462,10/13/2021,Otterbein,home,L,0,4,False
+10/16/2021,@ Ohio Northern,L 0-1,154,10/16/2021,Ohio Northern,away,L,0,1,False
+10/20/2021,@ Baldwin Wallace,L 0-2,142,10/20/2021,Baldwin Wallace,away,L,0,2,False
+10/23/2021,Marietta,W 3-1,144,10/23/2021,Marietta,home,W,3,1,False
+10/27/2021,Heidelberg,L 0-3,122,10/27/2021,Heidelberg,home,L,0,3,False
+10/30/2021,@ Wilmington (OH),L 1-2,197,10/30/2021,Wilmington (OH),away,L,1,2,False
+11/04/2021,Capital,Ppd,,11/04/2021,Capital,home,,,,

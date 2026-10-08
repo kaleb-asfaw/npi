@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Muhlenberg,Ppd,,09/01/2021,Muhlenberg,home,,,,
+09/03/2021,@ SUNY Poly,L 1-4,136,09/03/2021,SUNY Poly,away,L,1,4,False
+09/07/2021,Penn St.-Schuylkill,W 5-3,50,09/07/2021,Penn St.-Schuylkill,home,W,5,3,False
+09/11/2021,@ Houghton,L 0-9,125,09/11/2021,Houghton,away,L,0,9,False
+09/15/2021,@ Alvernia,L 2-7,47,09/15/2021,Alvernia,away,L,2,7,False
+09/25/2021,@ Bryn Athyn,L 1-5,75,09/25/2021,Bryn Athyn,away,L,1,5,False
+09/29/2021,@ Saint Elizabeth,W 7-6,55,09/29/2021,Saint Elizabeth,away,W,7,6,False
+10/02/2021,Notre Dame (MD),W 6-4,400,10/02/2021,Notre Dame (MD),home,W,6,4,False
+10/06/2021,@ Penn St.-Abington,L 0-7,75,10/06/2021,Penn St.-Abington,away,L,0,7,False
+10/09/2021,@ Cairn,L 0-11,107,10/09/2021,Cairn,away,L,0,11,False
+10/12/2021,Valley Forge,W 13-0,50,10/12/2021,Valley Forge,home,W,13,0,False
+10/16/2021,Wilson,L 1-6,40,10/16/2021,Wilson,home,L,1,6,False
+10/20/2021,Keystone,W 5-0,75,10/20/2021,Keystone,home,W,5,0,False
+10/23/2021,Rosemont,L 0-2,45,10/23/2021,Rosemont,home,L,0,2,False
+10/27/2021,@ Cedar Crest,L 0-9,82,10/27/2021,Cedar Crest,away,L,0,9,False

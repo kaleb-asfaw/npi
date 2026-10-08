@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Caltech,W 2-0,68,08/30/2024,Caltech,away,W,2,0,False
+08/31/2024,@ La Verne,W 1-0,55,08/31/2024,La Verne,away,W,1,0,False
+09/06/2024,Eastern Ore.,L 0-2,"2,000",09/06/2024,Eastern Ore.,home,L,0,2,False
+09/15/2024,Corban,W 5-0,100,09/15/2024,Corban,home,W,5,0,False
+09/21/2024,Pacific (OR),T 0-0,100,09/21/2024,Pacific (OR),home,T,0,0,False
+09/22/2024,George Fox,W 1-0,300,09/22/2024,George Fox,home,W,1,0,False
+09/25/2024,@ Whitworth,L 0-1,50,09/25/2024,Whitworth,away,L,0,1,False
+09/28/2024,@ Linfield,L 0-1,75,09/28/2024,Linfield,away,L,0,1,False
+10/05/2024,Willamette,W 2-1,100,10/05/2024,Willamette,home,W,2,1,False
+10/06/2024,Lewis & Clark,W 6-0,165,10/06/2024,Lewis & Clark,home,W,6,0,False
+10/12/2024,@ Pacific Lutheran,L 0-1,189,10/12/2024,Pacific Lutheran,away,L,0,1,False
+10/13/2024,@ Puget Sound,T 1-1,400,10/13/2024,Puget Sound,away,T,1,1,False
+10/19/2024,@ George Fox,W 1-0,127,10/19/2024,George Fox,away,W,1,0,False
+10/20/2024,@ Pacific (OR),W 2-1,40,10/20/2024,Pacific (OR),away,W,2,1,False
+10/23/2024,Whitworth,L 0-1,100,10/23/2024,Whitworth,home,L,0,1,False
+10/27/2024,Linfield,W 1-0,185,10/27/2024,Linfield,home,W,1,0,False
+11/02/2024,@ Lewis & Clark,W 1-0,126,11/02/2024,Lewis & Clark,away,W,1,0,False
+11/03/2024,@ Willamette,W 2-1,79,11/03/2024,Willamette,away,W,2,1,False
+11/09/2024,Puget Sound,T 1-1,131,11/09/2024,Puget Sound,home,T,1,1,False
+11/10/2024,Pacific Lutheran,L 0-1,156,11/10/2024,Pacific Lutheran,home,L,0,1,False

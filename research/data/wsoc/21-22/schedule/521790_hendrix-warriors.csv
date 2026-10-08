@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ East Tex. Baptist,L 0-2,125,09/01/2021,East Tex. Baptist,away,L,0,2,False
+09/09/2021,@ Ozarks (AR),T 0-0 (2 OT),85,09/09/2021,Ozarks (AR),away,T,0,0,True
+09/12/2021,"Austin @Clarksville, AR",W 5-2,75,09/12/2021,Austin,neutral,W,5,2,False
+09/15/2021,Ozarks (AR),W 3-1,275,09/15/2021,Ozarks (AR),home,W,3,1,False
+09/18/2021,Huntingdon,L 0-1,270,09/18/2021,Huntingdon,home,L,0,1,False
+09/21/2021,Williams Baptist,Canceled,,09/21/2021,Williams Baptist,home,,,,
+09/25/2021,@ Birmingham-So.,W 2-0,189,09/25/2021,Birmingham-So.,away,W,2,0,False
+09/29/2021,@ Lyon,W 4-0,0,09/29/2021,@ Lyon,home,W,4,0,False
+10/03/2021,Millsaps,W 2-1,95,10/03/2021,Millsaps,home,W,2,1,False
+10/04/2021,Texas Lutheran,W 1-0,39,10/04/2021,Texas Lutheran,home,W,1,0,False
+10/05/2021,Ecclesia,Canceled,,10/05/2021,Ecclesia,home,,,,
+10/08/2021,Oglethorpe,W 2-0,60,10/08/2021,Oglethorpe,home,W,2,0,False
+10/10/2021,Berry,L 0-2,167,10/10/2021,Berry,home,L,0,2,False
+10/15/2021,@ Sewanee,L 0-2,87,10/15/2021,Sewanee,away,L,0,2,False
+10/17/2021,@ Centre,L 0-3,201,10/17/2021,Centre,away,L,0,3,False
+10/19/2021,Ecclesia,Canceled,,10/19/2021,Ecclesia,home,,,,
+10/23/2021,@ Rhodes,L 0-5,105,10/23/2021,Rhodes,away,L,0,5,False
+10/27/2021,Belhaven,W 1-0,62,10/27/2021,Belhaven,home,W,1,0,False
+10/30/2021,@ #4 Sewanee SAA WSOC Championship,L 1-2,59,10/30/2021,Sewanee,away,L,1,2,False

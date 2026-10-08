@@ -1,0 +1,25 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Babson,T 1-1,257,09/01/2023,Babson,home,T,1,1,False
+09/03/2023,@ WestConn,T 1-1,0,09/03/2023,WestConn,away,T,1,1,False
+09/06/2023,@ Lasell,W 5-0,200,09/06/2023,Lasell,away,W,5,0,False
+09/09/2023,@ Elms,W 5-1,123,09/09/2023,Elms,away,W,5,1,False
+09/13/2023,Regis (MA),W 2-0,189,09/13/2023,Regis (MA),home,W,2,0,False
+09/16/2023,@ Norwich,W 3-0,250,09/16/2023,Norwich,away,W,3,0,False
+09/17/2023,Brandeis,T 1-1,113,09/17/2023,Brandeis,home,T,1,1,False
+09/20/2023,St. Joseph's (ME),W 5-0,141,09/20/2023,St. Joseph's (ME),home,W,5,0,False
+09/23/2023,@ Anna Maria,W 8-0,75,09/23/2023,Anna Maria,away,W,8,0,False
+09/24/2023,Connecticut Col.,L 0-2,107,09/24/2023,Connecticut Col.,home,L,0,2,False
+09/27/2023,Mitchell,W 4-0,117,09/27/2023,Mitchell,home,W,4,0,False
+09/30/2023,Colby-Sawyer,W 4-0,199,09/30/2023,Colby-Sawyer,home,W,4,0,False
+10/04/2023,@ Saint Joseph (CT),W 4-0,243,10/04/2023,Saint Joseph (CT),away,W,4,0,False
+10/07/2023,Emmanuel (MA),W 2-0,243,10/07/2023,Emmanuel (MA),home,W,2,0,False
+10/11/2023,Dean,W 4-0,121,10/11/2023,Dean,home,W,4,0,False
+10/14/2023,New England Col.,W 8-1,147,10/14/2023,New England Col.,home,W,8,1,False
+10/15/2023,@ Trinity (CT),L 0-2,0,10/15/2023,Trinity (CT),away,L,0,2,False
+10/18/2023,@ Simmons,W 10-1,112,10/18/2023,Simmons,away,W,10,1,False
+10/21/2023,@ Rivier,W 4-2,120,10/21/2023,Rivier,away,W,4,2,False
+10/24/2023,Albertus Magnus,W 12-0,423,10/24/2023,Albertus Magnus,home,W,12,0,False
+10/29/2023,#9 Elms Great Northeast Women's Soccer Championship,W 5-0,127,10/29/2023,Elms,home,W,5,0,False
+11/01/2023,#4 Colby-Sawyer Great Northeast Women's Soccer Championship,W 5-0,311,11/01/2023,Colby-Sawyer,home,W,5,0,False
+11/04/2023,#2 Emmanuel (MA) Great Northeast Women's Soccer Championship,W 2-1,"1,017",11/04/2023,Emmanuel (MA),home,W,2,1,False
+11/11/2023,@ TCNJ NCAA Division III Women's Soccer Championship,L 0-3,450,11/11/2023,TCNJ,away,L,0,3,False

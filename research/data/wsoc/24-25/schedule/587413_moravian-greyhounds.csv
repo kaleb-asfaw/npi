@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Lebanon Valley,W 1-0,311,08/30/2024,Lebanon Valley,home,W,1,0,False
+09/01/2024,Colby-Sawyer,W 1-0,153,09/01/2024,Colby-Sawyer,home,W,1,0,False
+09/06/2024,Muhlenberg,W 3-0,240,09/06/2024,Muhlenberg,home,W,3,0,False
+09/08/2024,Coast Guard,W 1-0,163,09/08/2024,Coast Guard,home,W,1,0,False
+09/14/2024,Misericordia,L 1-2,310,09/14/2024,Misericordia,home,L,1,2,False
+09/18/2024,@ Stockton,L 0-2,106,09/18/2024,Stockton,away,L,0,2,False
+09/21/2024,Rutgers-Newark,T 0-0,167,09/21/2024,Rutgers-Newark,home,T,0,0,False
+09/25/2024,@ Montclair St.,T 0-0,63,09/25/2024,Montclair St.,away,T,0,0,False
+09/28/2024,Catholic,T 0-0,230,09/28/2024,Catholic,home,T,0,0,False
+10/02/2024,Eastern,W 3-0,146,10/02/2024,Eastern,home,W,3,0,False
+10/05/2024,@ Wilkes,W 2-1,120,10/05/2024,Wilkes,away,W,2,1,False
+10/09/2024,@ Goucher,T 0-0,63,10/09/2024,Goucher,away,T,0,0,False
+10/12/2024,Lycoming,T 0-0,193,10/12/2024,Lycoming,home,T,0,0,False
+10/16/2024,Drew,L 1-2,101,10/16/2024,Drew,home,L,1,2,False
+10/19/2024,@ Susquehanna,W 2-1,187,10/19/2024,Susquehanna,away,W,2,1,False
+10/23/2024,@ Elizabethtown,T 0-0,133,10/23/2024,Elizabethtown,away,T,0,0,False
+10/26/2024,@ Juniata,W 1-0,187,10/26/2024,Juniata,away,W,1,0,False
+11/02/2024,Scranton,L 0-1,317,11/02/2024,Scranton,home,L,0,1,False
+11/05/2024,@ #3 Elizabethtown Landmark Women's Soccer Championship,W 1-0 (2 OT),145,11/05/2024,Elizabethtown,away,W,1,0,True
+11/07/2024,@ #2 Lycoming Landmark Women's Soccer Championship,L 1-2,275,11/07/2024,Lycoming,away,L,1,2,False

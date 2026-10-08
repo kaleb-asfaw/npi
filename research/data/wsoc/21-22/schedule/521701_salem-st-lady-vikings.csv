@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,WPI,L 0-9,30,09/01/2021,WPI,home,L,0,9,False
+09/04/2021,UMass Dartmouth,L 0-5,30,09/04/2021,UMass Dartmouth,home,L,0,5,False
+09/08/2021,Plymouth St.,L 0-5,30,09/08/2021,Plymouth St.,home,L,0,5,False
+09/13/2021,@ UMass Boston,L 2-6,78,09/13/2021,UMass Boston,away,L,2,6,False
+09/22/2021,Elms,L 1-4,100,09/22/2021,Elms,home,L,1,4,False
+09/25/2021,Mass. Maritime,W 2-0,100,09/25/2021,Mass. Maritime,home,W,2,0,False
+09/29/2021,@ Gordon,L 0-5,78,09/29/2021,Gordon,away,L,0,5,False
+10/02/2021,@ Framingham St.,L 0-1,167,10/02/2021,Framingham St.,away,L,0,1,False
+10/05/2021,Endicott,L 0-10,100,10/05/2021,Endicott,home,L,0,10,False
+10/09/2021,Fitchburg St.,W 3-1,100,10/09/2021,Fitchburg St.,home,W,3,1,False
+10/13/2021,@ Rivier,W 2-1 (2 OT),500,10/13/2021,Rivier,away,W,2,1,True
+10/16/2021,Worcester St.,L 0-2,100,10/16/2021,Worcester St.,home,L,0,2,False
+10/19/2021,Keene St.,L 2-3,100,10/19/2021,Keene St.,home,L,2,3,False
+10/23/2021,@ MCLA,W 1-0 (1 OT),136,10/23/2021,MCLA,away,W,1,0,True
+10/28/2021,@ Bridgewater St.,L 1-2,125,10/28/2021,Bridgewater St.,away,L,1,2,False
+10/30/2021,@ Westfield St.,L 1-6,150,10/30/2021,Westfield St.,away,L,1,6,False
+11/02/2021,@ #4 Framingham St. MASCAC WSOC Championship,T 0-0 (2 OT),221,11/02/2021,Framingham St.,away,T,0,0,True

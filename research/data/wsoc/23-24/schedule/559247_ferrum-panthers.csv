@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Mary Baldwin,W 4-1,125,09/01/2023,Mary Baldwin,home,W,4,1,False
+09/03/2023,@ Pfeiffer,W 6-1,175,09/03/2023,Pfeiffer,away,W,6,1,False
+09/06/2023,Greensboro,L 0-1,100,09/06/2023,Greensboro,home,L,0,1,False
+09/09/2023,@ Southern Va.,T 1-1,87,09/09/2023,Southern Va.,away,T,1,1,False
+09/13/2023,Meredith,W 1-0,90,09/13/2023,Meredith,home,W,1,0,False
+09/16/2023,@ William Peace,W 3-1,78,09/16/2023,William Peace,away,W,3,1,False
+09/20/2023,East. Mennonite,W 1-0,78,09/20/2023,East. Mennonite,home,W,1,0,False
+09/22/2023,Batten,L 0-3,120,09/22/2023,Batten,home,L,0,3,False
+09/27/2023,@ Roanoke,L 0-1,167,09/27/2023,Roanoke,away,L,0,1,False
+10/04/2023,@ Hollins,W 9-0,148,10/04/2023,Hollins,away,W,9,0,False
+10/07/2023,@ Randolph,L 0-1,125,10/07/2023,Randolph,away,L,0,1,False
+10/10/2023,Averett,W 2-0,257,10/10/2023,Averett,home,W,2,0,False
+10/14/2023,Randolph-Macon,L 0-5,158,10/14/2023,Randolph-Macon,home,L,0,5,False
+10/18/2023,@ Guilford,L 0-1,132,10/18/2023,Guilford,away,L,0,1,False
+10/20/2023,Bridgewater (VA),L 0-5,137,10/20/2023,Bridgewater (VA),home,L,0,5,False
+10/24/2023,Wash. & Lee,L 0-5,218,10/24/2023,Wash. & Lee,home,L,0,5,False
+10/28/2023,@ Lynchburg,L 0-3,93,10/28/2023,Lynchburg,away,L,0,3,False

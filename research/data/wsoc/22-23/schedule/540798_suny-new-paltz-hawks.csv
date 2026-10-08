@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Russell Sage,W 3-0,255,09/01/2022,Russell Sage,away,W,3,0,False
+09/03/2022,Rensselaer,T 0-0,100,09/03/2022,Rensselaer,home,T,0,0,False
+09/06/2022,@ UMSV,Canceled,,09/06/2022,UMSV,away,,,,
+09/08/2022,Mt. St. Mary (NY),W 4-0,59,09/08/2022,Mt. St. Mary (NY),home,W,4,0,False
+09/10/2022,Skidmore,L 1-3,125,09/10/2022,Skidmore,home,L,1,3,False
+09/14/2022,@ Bard,W 3-0,100,09/14/2022,Bard,away,W,3,0,False
+09/17/2022,@ SUNY Potsdam,W 3-0,80,09/17/2022,SUNY Potsdam,away,W,3,0,False
+09/21/2022,Plattsburgh St.,W 2-1,50,09/21/2022,Plattsburgh St.,home,W,2,1,False
+09/24/2022,Fredonia,W 3-0,60,09/24/2022,Fredonia,home,W,3,0,False
+09/28/2022,@ SUNY Oneonta,W 4-0,75,09/28/2022,SUNY Oneonta,away,W,4,0,False
+10/01/2022,@ Buffalo St.,W 3-1,125,10/01/2022,Buffalo St.,away,W,3,1,False
+10/08/2022,SUNY Geneseo,L 0-1,100,10/08/2022,SUNY Geneseo,home,L,0,1,False
+10/12/2022,Cortland,L 0-2,120,10/12/2022,Cortland,home,L,0,2,False
+10/15/2022,@ SUNY Brockport,W 2-0,0,10/15/2022,SUNY Brockport,away,W,2,0,False
+10/19/2022,@ Manhattanville,W 2-0,0,10/19/2022,Manhattanville,away,W,2,0,False
+10/22/2022,Oswego St.,T 2-2,200,10/22/2022,Oswego St.,home,T,2,2,False
+10/29/2022,#6 SUNY Brockport SUNYAC WSOC Championship,W 5-2,150,10/29/2022,SUNY Brockport,home,W,5,2,False
+11/02/2022,@ #2 SUNY Geneseo SUNYAC WSOC Championship,L 2-3,344,11/02/2022,SUNY Geneseo,away,L,2,3,False

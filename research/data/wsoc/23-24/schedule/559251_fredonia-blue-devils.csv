@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2023,"Carnegie Mellon @Erie, PA",L 1-4,143,09/02/2023,Carnegie Mellon,neutral,L,1,4,False
+09/03/2023,"Baldwin Wallace @Erie, PA",L 2-3,74,09/03/2023,Baldwin Wallace,neutral,L,2,3,False
+09/08/2023,Wash. & Jeff.,W 4-2,250,09/08/2023,Wash. & Jeff.,home,W,4,2,False
+09/09/2023,Utica,W 2-0,115,09/09/2023,Utica,home,W,2,0,False
+09/12/2023,Alfred,T 1-1,48,09/12/2023,Alfred,home,T,1,1,False
+09/14/2023,@ Hilbert,W 8-1,115,09/14/2023,Hilbert,away,W,8,1,False
+09/20/2023,SUNY Geneseo,L 0-2,43,09/20/2023,SUNY Geneseo,home,L,0,2,False
+09/23/2023,@ Cortland,L 0-7,236,09/23/2023,Cortland,away,L,0,7,False
+09/27/2023,Buffalo St.,W 7-2,60,09/27/2023,Buffalo St.,home,W,7,2,False
+09/30/2023,SUNY Potsdam,W 4-0,132,09/30/2023,SUNY Potsdam,home,W,4,0,False
+10/04/2023,@ Oswego St.,T 2-2,99,10/04/2023,Oswego St.,away,T,2,2,False
+10/07/2023,@ Plattsburgh St.,L 0-1,177,10/07/2023,Plattsburgh St.,away,L,0,1,False
+10/11/2023,@ SUNY Brockport,L 0-1,0,10/11/2023,SUNY Brockport,away,L,0,1,False
+10/14/2023,@ SUNY Oneonta,L 0-2,250,10/14/2023,SUNY Oneonta,away,L,0,2,False
+10/17/2023,Penn St.-Behrend,L 1-2,85,10/17/2023,Penn St.-Behrend,home,L,1,2,False
+10/21/2023,SUNY New Paltz,W 1-0,122,10/21/2023,SUNY New Paltz,home,W,1,0,False

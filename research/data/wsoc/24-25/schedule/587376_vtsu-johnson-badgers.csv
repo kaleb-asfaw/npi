@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Norwich,L 0-3,250,08/30/2024,Norwich,away,L,0,3,False
+09/01/2024,Paul Smiths,W 3-0,100,09/01/2024,Paul Smiths,home,W,3,0,False
+09/06/2024,@ VTSU Randolph,W 5-1,0,09/06/2024,@ VTSU Randolph,home,W,5,1,False
+09/12/2024,@ VTSU Lyndon,Canceled,,09/12/2024,VTSU Lyndon,away,,,,
+09/15/2024,@ Me.-Farmington,L 3-4,85,09/15/2024,Me.-Farmington,away,L,3,4,False
+09/17/2024,Fisher,W 6-2,100,09/17/2024,Fisher,home,W,6,2,False
+09/21/2024,@ SUNY Potsdam,L 1-4,168,09/21/2024,SUNY Potsdam,away,L,1,4,False
+09/28/2024,SUNY Cobleskill,W 1-0,150,09/28/2024,SUNY Cobleskill,home,W,1,0,False
+09/29/2024,SUNY Delhi,W 2-0,150,09/29/2024,SUNY Delhi,home,W,2,0,False
+10/05/2024,VTSU Lyndon,Canceled,,10/05/2024,VTSU Lyndon,home,,,,
+10/13/2024,@ SUNY Delhi,L 1-4,75,10/13/2024,SUNY Delhi,away,L,1,4,False
+10/16/2024,MCLA,W 2-1,100,10/16/2024,MCLA,home,W,2,1,False
+10/20/2024,@ SUNY Cobleskill,W 1-0,134,10/20/2024,SUNY Cobleskill,away,W,1,0,False
+10/22/2024,@ Saint Michael's,L 0-5,214,10/22/2024,Saint Michael's,away,L,0,5,False
+11/02/2024,@ #1 SUNY Delhi North Atlantic WSOC Tournament,L 0-1,100,11/02/2024,SUNY Delhi,away,L,0,1,False

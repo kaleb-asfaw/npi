@@ -1,0 +1,27 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Pacific Lutheran,T 0-0,150,09/01/2023,Pacific Lutheran,home,T,0,0,False
+09/03/2023,Willamette,W 3-0,150,09/03/2023,Willamette,home,W,3,0,False
+09/06/2023,@ Concordia (TX),W 3-0,79,09/06/2023,Concordia (TX),away,W,3,0,False
+09/08/2023,"Trinity (TX) @Georgetown, TX",W 2-0,100,09/08/2023,Trinity (TX),neutral,W,2,0,False
+09/10/2023,@ Southwestern (TX),W 2-0,115,09/10/2023,Southwestern (TX),away,W,2,0,False
+09/13/2023,CMS,W 3-1,112,09/13/2023,CMS,home,W,3,1,False
+09/16/2023,@ La Verne,W 1-0,157,09/16/2023,La Verne,away,W,1,0,False
+09/20/2023,@ Chapman,W 2-0,134,09/20/2023,Chapman,away,W,2,0,False
+09/27/2023,Occidental,W 2-0,125,09/27/2023,Occidental,home,W,2,0,False
+09/30/2023,@ Caltech,W 3-0,41,09/30/2023,Caltech,away,W,3,0,False
+10/04/2023,@ Whittier,T 1-1,124,10/04/2023,Whittier,away,T,1,1,False
+10/07/2023,Redlands,W 2-1,200,10/07/2023,Redlands,home,W,2,1,False
+10/11/2023,Pomona-Pitzer,T 1-1,175,10/11/2023,Pomona-Pitzer,home,T,1,1,False
+10/15/2023,UC Santa Cruz,W 2-0,160,10/15/2023,UC Santa Cruz,home,W,2,0,False
+10/18/2023,@ Occidental,W 1-0,243,10/18/2023,Occidental,away,W,1,0,False
+10/21/2023,La Verne,W 2-1,200,10/21/2023,La Verne,home,W,2,1,False
+10/25/2023,@ CMS,T 2-2,177,10/25/2023,CMS,away,T,2,2,False
+10/28/2023,Chapman,W 3-1,150,10/28/2023,Chapman,home,W,3,1,False
+11/02/2023,#4 Chapman SCIAC Women's Soccer Championship,W 2-0,750,11/02/2023,Chapman,home,W,2,0,False
+11/04/2023,#2 Pomona-Pitzer SCIAC Women's Soccer Championship,L 0-1,250,11/04/2023,Pomona-Pitzer,home,L,0,1,False
+11/11/2023,"Carleton @Claremont, CA (NCAA Division III Women's Soccer Championship)",W 3-2,167,11/11/2023,Carleton,neutral,W,3,2,False
+11/12/2023,@ Pomona-Pitzer NCAA Division III Women's Soccer Championship,W 1-0,367,11/12/2023,Pomona-Pitzer,away,W,1,0,False
+11/18/2023,"Hardin-Simmons @Newport News, VA (NCAA Division III Women's Soccer Championship)",W 1-0,212,11/18/2023,Hardin-Simmons,neutral,W,1,0,False
+11/19/2023,@ Chris. Newport NCAA Division III Women's Soccer Championship,T 1-1 (2 OT),523,11/19/2023,Chris. Newport,away,T,1,1,True
+11/30/2023,"Tufts @Salem, VA (NCAA Division III Women's Soccer Championship)",T 1-1 (3 OT),431,11/30/2023,Tufts,neutral,T,1,1,True
+12/02/2023,"WashU @Salem, VA (NCAA Division III Women's Soccer Championship)",W 1-0,306,12/02/2023,WashU,neutral,W,1,0,False

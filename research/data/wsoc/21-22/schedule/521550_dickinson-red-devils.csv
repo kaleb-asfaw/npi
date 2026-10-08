@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Batten,Canceled,,09/01/2021,Batten,home,,,,
+09/04/2021,@ Mount Aloysius,W 4-0,136,09/04/2021,Mount Aloysius,away,W,4,0,False
+09/09/2021,Susquehanna,W 2-0,58,09/09/2021,Susquehanna,home,W,2,0,False
+09/11/2021,Hood,W 1-0,100,09/11/2021,Hood,home,W,1,0,False
+09/14/2021,@ Penn St.-Berks,W 2-0,203,09/14/2021,Penn St.-Berks,away,W,2,0,False
+09/18/2021,Haverford,W 2-1,100,09/18/2021,Haverford,home,W,2,1,False
+09/22/2021,@ Arcadia,W 2-0,103,09/22/2021,Arcadia,away,W,2,0,False
+09/25/2021,@ Ursinus,W 4-1,189,09/25/2021,Ursinus,away,W,4,1,False
+09/29/2021,Messiah,L 0-3,197,09/29/2021,Messiah,home,L,0,3,False
+10/02/2021,Franklin & Marshall,L 2-4,40,10/02/2021,Franklin & Marshall,home,L,2,4,False
+10/06/2021,@ Muhlenberg,W 1-0,102,10/06/2021,Muhlenberg,away,W,1,0,False
+10/09/2021,McDaniel,L 0-1,367,10/09/2021,McDaniel,home,L,0,1,False
+10/13/2021,Gettysburg,L 0-1,4,10/13/2021,Gettysburg,home,L,0,1,False
+10/16/2021,@ Bryn Mawr,W 1-0,97,10/16/2021,Bryn Mawr,away,W,1,0,False
+10/23/2021,@ Swarthmore,L 0-1,223,10/23/2021,Swarthmore,away,L,0,1,False
+10/27/2021,@ Johns Hopkins,L 0-2,100,10/27/2021,Johns Hopkins,away,L,0,2,False
+10/30/2021,Washington Col.,W 3-0,25,10/30/2021,Washington Col.,home,W,3,0,False

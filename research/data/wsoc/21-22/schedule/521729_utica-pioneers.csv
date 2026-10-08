@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/04/2021,@ Buffalo St.,W 5-0,75,09/04/2021,Buffalo St.,away,W,5,0,False
+09/07/2021,@ MCLA,W 4-0,0,09/07/2021,MCLA,away,W,4,0,False
+09/10/2021,"Oswego St. @Fredonia, NY",Ppd,,09/10/2021,Oswego St.,neutral,,,,
+09/11/2021,@ Fredonia,L 1-2,134,09/11/2021,Fredonia,away,L,1,2,False
+09/14/2021,SUNY Potsdam,W 1-0,267,09/14/2021,SUNY Potsdam,home,W,1,0,False
+09/18/2021,Houghton,W 2-1,269,09/18/2021,Houghton,home,W,2,1,False
+09/22/2021,@ SUNY Poly,W 2-1,109,09/22/2021,SUNY Poly,away,W,2,1,False
+09/28/2021,Rensselaer,L 0-4,37,09/28/2021,Rensselaer,home,L,0,4,False
+10/02/2021,Alfred,W 4-3 (1 OT),227,10/02/2021,Alfred,home,W,4,3,True
+10/05/2021,Union (NY),L 1-2,76,10/05/2021,Union (NY),home,L,1,2,False
+10/09/2021,@ Nazareth,L 0-3,200,10/09/2021,Nazareth,away,L,0,3,False
+10/13/2021,St. John Fisher,L 1-2,179,10/13/2021,St. John Fisher,home,L,1,2,False
+10/16/2021,@ Elmira,W 1-0,75,10/16/2021,Elmira,away,W,1,0,False
+10/20/2021,@ Keuka,T 0-0 (2 OT),105,10/20/2021,Keuka,away,T,0,0,True
+10/23/2021,Russell Sage,L 1-2,250,10/23/2021,Russell Sage,home,L,1,2,False
+10/28/2021,@ Hamilton,L 0-7,75,10/28/2021,Hamilton,away,L,0,7,False
+10/30/2021,@ Hartwick,W 1-0,150,10/30/2021,Hartwick,away,W,1,0,False
+11/02/2021,@ #4 Hartwick Empire 8 WSOC Championship,L 1-4,175,11/02/2021,Hartwick,away,L,1,4,False

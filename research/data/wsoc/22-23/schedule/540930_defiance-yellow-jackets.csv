@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Andrews (MI),W 9-0,0,09/01/2022,@ Andrews (MI),home,W,9,0,False
+09/04/2022,Eureka,L 0-1,100,09/04/2022,Eureka,home,L,0,1,False
+09/07/2022,@ Heidelberg,L 0-9,139,09/07/2022,Heidelberg,away,L,0,9,False
+09/11/2022,@ Bethany (WV),L 1-7,50,09/11/2022,Bethany (WV),away,L,1,7,False
+09/12/2022,@ Penn St.-Beaver,W 7-1,0,09/12/2022,@ Penn St.-Beaver,home,W,7,1,False
+09/17/2022,Thiel,L 0-4,0,09/17/2022,Thiel,home,L,0,4,False
+09/24/2022,Asbury,L 0-5,71,09/24/2022,Asbury,home,L,0,5,False
+09/25/2022,Mount Mary,W 3-2,57,09/25/2022,Mount Mary,home,W,3,2,False
+09/28/2022,@ Manchester,L 0-7,50,09/28/2022,Manchester,away,L,0,7,False
+10/01/2022,Rose-Hulman,L 0-7,0,10/01/2022,Rose-Hulman,home,L,0,7,False
+10/05/2022,@ Earlham,L 0-1,36,10/05/2022,Earlham,away,L,0,1,False
+10/08/2022,@ Hanover,L 0-7,85,10/08/2022,Hanover,away,L,0,7,False
+10/12/2022,Anderson (IN),L 0-8,62,10/12/2022,Anderson (IN),home,L,0,8,False
+10/15/2022,@ Transylvania,L 0-5,0,10/15/2022,Transylvania,away,L,0,5,False
+10/19/2022,@ Bluffton,L 0-3,100,10/19/2022,Bluffton,away,L,0,3,False
+10/22/2022,Franklin,L 0-3,148,10/22/2022,Franklin,home,L,0,3,False
+10/26/2022,Mt. St. Joseph,L 0-7,52,10/26/2022,Mt. St. Joseph,home,L,0,7,False

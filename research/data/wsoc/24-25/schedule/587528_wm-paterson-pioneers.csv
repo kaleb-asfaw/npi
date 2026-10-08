@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Centenary (NJ),W 4-0,105,08/30/2024,Centenary (NJ),away,W,4,0,False
+09/01/2024,Sarah Lawrence,L 0-2,76,09/01/2024,Sarah Lawrence,home,L,0,2,False
+09/04/2024,@ Wilkes,T 2-2,128,09/04/2024,Wilkes,away,T,2,2,False
+09/07/2024,FDU-Florham,L 1-3,95,09/07/2024,FDU-Florham,home,L,1,3,False
+09/14/2024,@ Penn St.-Abington,W 2-1,86,09/14/2024,Penn St.-Abington,away,W,2,1,False
+09/18/2024,NYU,L 1-5,57,09/18/2024,NYU,home,L,1,5,False
+09/20/2024,@ Bard,W 1-0,150,09/20/2024,Bard,away,W,1,0,False
+09/23/2024,@ Merchant Marine,T 0-0,200,09/23/2024,Merchant Marine,away,T,0,0,False
+09/28/2024,Stockton,T 1-1,85,09/28/2024,Stockton,home,T,1,1,False
+09/30/2024,St. Joseph's (L.I.),W 1-0,57,09/30/2024,St. Joseph's (L.I.),home,W,1,0,False
+10/02/2024,@ Ramapo,W 2-0,85,10/02/2024,Ramapo,away,W,2,0,False
+10/05/2024,@ Rutgers-Newark,T 0-0,155,10/05/2024,Rutgers-Newark,away,T,0,0,False
+10/08/2024,Alvernia,L 0-1,59,10/08/2024,Alvernia,home,L,0,1,False
+10/12/2024,Rowan,L 0-2,126,10/12/2024,Rowan,home,L,0,2,False
+10/16/2024,@ Montclair St.,L 0-4,107,10/16/2024,Montclair St.,away,L,0,4,False
+10/19/2024,Kean,T 0-0,146,10/19/2024,Kean,home,T,0,0,False
+10/23/2024,Rutgers-Camden,T 1-1,65,10/23/2024,Rutgers-Camden,home,T,1,1,False
+10/26/2024,@ TCNJ,L 0-4,244,10/26/2024,TCNJ,away,L,0,4,False
+10/30/2024,New Jersey City,T 0-0,180,10/30/2024,New Jersey City,home,T,0,0,False

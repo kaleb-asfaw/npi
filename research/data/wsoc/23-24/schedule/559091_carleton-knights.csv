@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,St. Norbert,W 5-0,161,09/01/2023,St. Norbert,home,W,5,0,False
+09/03/2023,North Central (IL),W 2-0,217,09/03/2023,North Central (IL),home,W,2,0,False
+09/06/2023,@ Simpson,L 0-1,200,09/06/2023,Simpson,away,L,0,1,False
+09/09/2023,Grinnell,W 2-0,137,09/09/2023,Grinnell,home,W,2,0,False
+09/12/2023,Gustavus Adolphus,W 3-1,107,09/12/2023,Gustavus Adolphus,home,W,3,1,False
+09/16/2023,@ Concordia-M'head,W 2-0,134,09/16/2023,Concordia-M'head,away,W,2,0,False
+09/23/2023,@ Bethel (MN),W 6-1,150,09/23/2023,Bethel (MN),away,W,6,1,False
+09/24/2023,@ Wis.-Whitewater,W 4-1,174,09/24/2023,Wis.-Whitewater,away,W,4,1,False
+09/27/2023,St. Olaf,T 0-0,292,09/27/2023,St. Olaf,home,T,0,0,False
+09/30/2023,@ St. Scholastica,W 2-0,53,09/30/2023,St. Scholastica,away,W,2,0,False
+10/04/2023,Augsburg,W 2-1,127,10/04/2023,Augsburg,home,W,2,1,False
+10/07/2023,St. Catherine,W 2-1,109,10/07/2023,St. Catherine,home,W,2,1,False
+10/10/2023,Macalester,W 1-0,112,10/10/2023,Macalester,home,W,1,0,False
+10/14/2023,@ Hamline,W 5-0,127,10/14/2023,Hamline,away,W,5,0,False
+10/16/2023,UW-River Falls,W 6-0,145,10/16/2023,UW-River Falls,home,W,6,0,False
+10/18/2023,@ Wartburg,W 4-1,132,10/18/2023,Wartburg,away,W,4,1,False
+10/21/2023,Saint Mary's (MN),W 3-0,247,10/21/2023,Saint Mary's (MN),home,W,3,0,False
+10/28/2023,@ Saint Benedict,T 0-0,76,10/28/2023,Saint Benedict,away,T,0,0,False
+11/02/2023,#6 Augsburg MIAC Women's Soccer Championship,W 3-0,238,11/02/2023,Augsburg,home,W,3,0,False
+11/04/2023,#2 St. Catherine MIAC Women's Soccer Championship,L 0-1,244,11/04/2023,St. Catherine,home,L,0,1,False
+11/11/2023,"Cal Lutheran @Claremont, CA (NCAA Division III Women's Soccer Championship)",L 2-3,167,11/11/2023,Cal Lutheran,neutral,L,2,3,False

@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Geneva,W 3-1,120,09/01/2021,Geneva,home,W,3,1,False
+09/03/2021,@ Carnegie Mellon,L 0-12,142,09/03/2021,Carnegie Mellon,away,L,0,12,False
+09/07/2021,@ Waynesburg,L 0-5,67,09/07/2021,Waynesburg,away,L,0,5,False
+09/10/2021,Westminster (PA),L 1-5,207,09/10/2021,Westminster (PA),home,L,1,5,False
+09/15/2021,@ Franciscan,L 0-6,30,09/15/2021,Franciscan,away,L,0,6,False
+09/17/2021,@ Saint Vincent,L 0-3,95,09/17/2021,Saint Vincent,away,L,0,3,False
+09/21/2021,Thiel,W 2-1 (1 OT),74,09/21/2021,Thiel,home,W,2,1,True
+09/25/2021,Hilbert,T 1-1,96,09/25/2021,Hilbert,home,T,1,1,False
+09/28/2021,Muskingum,L 2-3,132,09/28/2021,Muskingum,home,L,2,3,False
+10/02/2021,@ Pitt.-Bradford,W 4-2,75,10/02/2021,Pitt.-Bradford,away,W,4,2,False
+10/09/2021,Medaille,W 5-0,180,10/09/2021,Medaille,home,W,5,0,False
+10/12/2021,@ Penn St.-Altoona,L 0-3,78,10/12/2021,Penn St.-Altoona,away,L,0,3,False
+10/16/2021,@ Penn St.-Behrend,L 0-9,114,10/16/2021,Penn St.-Behrend,away,L,0,9,False
+10/20/2021,Mount Aloysius,L 1-2,67,10/20/2021,Mount Aloysius,home,L,1,2,False
+10/23/2021,Alfred St.,W 4-0,37,10/23/2021,Alfred St.,home,W,4,0,False
+10/26/2021,@ Pitt.-Greensburg,L 0-5,33,10/26/2021,Pitt.-Greensburg,away,L,0,5,False
+10/30/2021,@ #4 Penn St.-Altoona Allegheny Mountain WSOC Championship,L 2-3 (1 OT),81,10/30/2021,Penn St.-Altoona,away,L,2,3,True

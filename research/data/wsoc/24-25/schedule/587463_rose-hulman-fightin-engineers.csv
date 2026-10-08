@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,St. Mary-Woods,Ppd,,08/30/2024,St. Mary-Woods,home,,,,
+09/01/2024,@ Ohio Northern,L 0-3,393,09/01/2024,Ohio Northern,away,L,0,3,False
+09/04/2024,@ Webster,L 0-1,172,09/04/2024,Webster,away,L,0,1,False
+09/07/2024,@ Illinois Tech,L 0-2,68,09/07/2024,Illinois Tech,away,L,0,2,False
+09/10/2024,DePauw,L 0-1,42,09/10/2024,DePauw,home,L,0,1,False
+09/15/2024,@ Centre,L 0-3,164,09/15/2024,Centre,away,L,0,3,False
+09/18/2024,Greenville,W 3-1,70,09/18/2024,Greenville,home,W,3,1,False
+09/21/2024,WashU,L 0-5,150,09/21/2024,WashU,home,L,0,5,False
+09/28/2024,@ Bluffton,W 2-0,125,09/28/2024,Bluffton,away,W,2,0,False
+10/05/2024,Transylvania,T 1-1,350,10/05/2024,Transylvania,home,T,1,1,False
+10/09/2024,Hanover,W 1-0,100,10/09/2024,Hanover,home,W,1,0,False
+10/12/2024,@ Berea,W 3-1,30,10/12/2024,Berea,away,W,3,1,False
+10/16/2024,@ Franklin,W 5-0,80,10/16/2024,Franklin,away,W,5,0,False
+10/19/2024,Earlham,W 3-0,143,10/19/2024,Earlham,home,W,3,0,False
+10/23/2024,Anderson (IN),W 2-1,162,10/23/2024,Anderson (IN),home,W,2,1,False
+10/26/2024,Mt. St. Joseph,L 0-1,234,10/26/2024,Mt. St. Joseph,home,L,0,1,False
+10/30/2024,@ Manchester,W 6-0,75,10/30/2024,Manchester,away,W,6,0,False
+11/06/2024,#3 Transylvania HCAC Women's Soccer Championship,W 1-0,237,11/06/2024,Transylvania,home,W,1,0,False
+11/09/2024,@ #1 Mt. St. Joseph HCAC Women's Soccer Championship,L 0-1 (1 OT),247,11/09/2024,Mt. St. Joseph,away,L,0,1,True

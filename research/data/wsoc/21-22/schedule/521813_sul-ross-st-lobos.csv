@@ -1,0 +1,15 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2021,@ Southwestern (TX),L 1-4,150,09/03/2021,Southwestern (TX),away,L,1,4,False
+09/05/2021,@ Schreiner,W 1-0,63,09/05/2021,Schreiner,away,W,1,0,False
+09/18/2021,@ St. Thomas (TX),Canceled,,09/18/2021,St. Thomas (TX),away,,,,
+09/23/2021,@ UT Dallas,L 0-3,120,09/23/2021,UT Dallas,away,L,0,3,False
+09/25/2021,@ Ozarks (AR),L 0-1,105,09/25/2021,Ozarks (AR),away,L,0,1,False
+09/30/2021,Belhaven,L 1-4,50,09/30/2021,Belhaven,home,L,1,4,False
+10/07/2021,Mary Hardin-Baylor,L 0-7,75,10/07/2021,Mary Hardin-Baylor,home,L,0,7,False
+10/09/2021,Concordia (TX),L 1-4,50,10/09/2021,Concordia (TX),home,L,1,4,False
+10/14/2021,@ Hardin-Simmons,L 0-3,146,10/14/2021,Hardin-Simmons,away,L,0,3,False
+10/16/2021,@ McMurry,L 1-2,191,10/16/2021,McMurry,away,L,1,2,False
+10/22/2021,LeTourneau,L 1-2,50,10/22/2021,LeTourneau,home,L,1,2,False
+10/23/2021,East Tex. Baptist,L 0-2,60,10/23/2021,East Tex. Baptist,home,L,0,2,False
+10/29/2021,@ Howard Payne,L 2-3,200,10/29/2021,Howard Payne,away,L,2,3,False
+10/30/2021,@ LeTourneau,W 5-1,36,10/30/2021,LeTourneau,away,W,5,1,False

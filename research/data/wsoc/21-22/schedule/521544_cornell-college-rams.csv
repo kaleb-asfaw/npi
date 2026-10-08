@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Mt. Mercy,W 1-0,75,09/01/2021,Mt. Mercy,home,W,1,0,False
+09/03/2021,Carleton,L 2-3,50,09/03/2021,Carleton,home,L,2,3,False
+09/05/2021,Central (IA),L 0-1,125,09/05/2021,Central (IA),home,L,0,1,False
+09/11/2021,@ Viterbo,L 1-3,40,09/11/2021,@ Viterbo,home,L,1,3,False
+09/12/2021,@ Wis.-Stout,L 0-1,108,09/12/2021,Wis.-Stout,away,L,0,1,False
+09/18/2021,Coe,W 2-0,115,09/18/2021,Coe,home,W,2,0,False
+09/22/2021,Clarke,L 1-2,45,09/22/2021,Clarke,home,L,1,2,False
+09/23/2021,Iowa Wesleyan,W 3-1,25,09/23/2021,Iowa Wesleyan,home,W,3,1,False
+09/24/2021,Maranatha Baptist,W 4-0,30,09/24/2021,Maranatha Baptist,home,W,4,0,False
+09/26/2021,Waldorf,W 2-0,65,09/26/2021,Waldorf,home,W,2,0,False
+10/02/2021,@ Ripon,W 3-0,47,10/02/2021,Ripon,away,W,3,0,False
+10/05/2021,Grinnell,T 1-1 (2 OT),50,10/05/2021,Grinnell,home,T,1,1,True
+10/09/2021,@ Valparaiso,L 0-5,227,10/09/2021,Valparaiso,away,L,0,5,False
+10/16/2021,Lake Forest,L 0-1,45,10/16/2021,Lake Forest,home,L,0,1,False
+10/19/2021,Knox,L 0-2,52,10/19/2021,Knox,home,L,0,2,False
+10/23/2021,Lawrence,L 0-1,73,10/23/2021,Lawrence,home,L,0,1,False
+10/24/2021,@ Illinois Col.,W 2-0,38,10/24/2021,Illinois Col.,away,W,2,0,False
+10/26/2021,@ Monmouth (IL),L 0-2,75,10/26/2021,Monmouth (IL),away,L,0,2,False
+10/30/2021,@ Beloit,L 0-1,67,10/30/2021,Beloit,away,L,0,1,False

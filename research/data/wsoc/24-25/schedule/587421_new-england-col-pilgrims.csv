@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Plymouth St.,L 0-7,139,08/30/2024,Plymouth St.,away,L,0,7,False
+09/01/2024,@ Keene St.,L 0-7,174,09/01/2024,Keene St.,away,L,0,7,False
+09/07/2024,JWU (Providence),L 0-9,155,09/07/2024,JWU (Providence),home,L,0,9,False
+09/08/2024,VTSU Castleton,L 1-3,155,09/08/2024,VTSU Castleton,home,L,1,3,False
+09/11/2024,@ Rivier,L 2-3,186,09/11/2024,Rivier,away,L,2,3,False
+09/14/2024,@ Dean,T 0-0,210,09/14/2024,Dean,away,T,0,0,False
+09/18/2024,Anna Maria,L 0-1,102,09/18/2024,Anna Maria,home,L,0,1,False
+09/25/2024,@ Colby-Sawyer,L 2-3,66,09/25/2024,Colby-Sawyer,away,L,2,3,False
+09/28/2024,Saint Joseph (CT),L 0-2,0,09/28/2024,Saint Joseph (CT),home,L,0,2,False
+10/02/2024,@ Lasell,L 0-8,75,10/02/2024,Lasell,away,L,0,8,False
+10/05/2024,Elms,L 1-3,0,10/05/2024,Elms,home,L,1,3,False
+10/09/2024,Simmons,L 2-5,114,10/09/2024,Simmons,home,L,2,5,False
+10/12/2024,@ Mitchell,W 3-2,88,10/12/2024,Mitchell,away,W,3,2,False
+10/16/2024,@ St. Joseph's (ME),L 1-2,100,10/16/2024,St. Joseph's (ME),away,L,1,2,False
+10/19/2024,@ Albertus Magnus,L 0-1,206,10/19/2024,Albertus Magnus,away,L,0,1,False
+10/23/2024,Norwich,L 0-5,145,10/23/2024,Norwich,home,L,0,5,False
+10/26/2024,Regis (MA),L 1-7,117,10/26/2024,Regis (MA),home,L,1,7,False
+10/29/2024,Emmanuel (MA),L 1-11,93,10/29/2024,Emmanuel (MA),home,L,1,11,False

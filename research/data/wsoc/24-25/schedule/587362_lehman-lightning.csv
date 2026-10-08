@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/07/2024,@ Valley Forge,W 4-0,25,09/07/2024,Valley Forge,away,W,4,0,False
+09/10/2024,@ Yeshiva,W 9-1,45,09/10/2024,Yeshiva,away,W,9,1,False
+09/14/2024,Old Westbury,L 2-3,76,09/14/2024,Old Westbury,home,L,2,3,False
+09/21/2024,@ New Jersey City,L 0-10,47,09/21/2024,New Jersey City,away,L,0,10,False
+09/24/2024,Pratt,W 3-2,53,09/24/2024,Pratt,home,W,3,2,False
+09/28/2024,Medgar Evers,W 9-0,25,09/28/2024,Medgar Evers,home,W,9,0,False
+10/03/2024,SUNY Maritime,W 1-0,48,10/03/2024,SUNY Maritime,home,W,1,0,False
+10/05/2024,@ Centenary (NJ),L 0-4,350,10/05/2024,Centenary (NJ),away,L,0,4,False
+10/12/2024,Brooklyn,W 1-0,79,10/12/2024,Brooklyn,home,W,1,0,False
+10/14/2024,St. Joseph's (Brkln),W 3-0,65,10/14/2024,St. Joseph's (Brkln),home,W,3,0,False
+10/16/2024,@ York (NY),W 8-1,27,10/16/2024,York (NY),away,W,8,1,False
+10/19/2024,@ CCNY,W 1-0,103,10/19/2024,CCNY,away,W,1,0,False
+10/23/2024,@ Medgar Evers,W 9-1,50,10/23/2024,Medgar Evers,away,W,9,1,False
+10/26/2024,@ John Jay,L 1-6,85,10/26/2024,John Jay,away,L,1,6,False
+11/02/2024,CCNY CUNYAC Women's Soccer Championship,W 3-2,67,11/02/2024,CCNY,home,W,3,2,False
+11/09/2024,"John Jay @Queens, NY (CUNYAC Women's Soccer Championship)",L 0-4,111,11/09/2024,John Jay,neutral,L,0,4,False

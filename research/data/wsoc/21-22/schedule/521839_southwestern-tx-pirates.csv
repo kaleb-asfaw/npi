@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,UT Dallas,W 2-1,0,09/01/2021,UT Dallas,home,W,2,1,False
+09/03/2021,Sul Ross St.,W 4-1,150,09/03/2021,Sul Ross St.,home,W,4,1,False
+09/07/2021,Mary Hardin-Baylor,W 1-0 (1 OT),0,09/07/2021,Mary Hardin-Baylor,home,W,1,0,True
+09/09/2021,McMurry,W 1-0,150,09/09/2021,McMurry,home,W,1,0,False
+09/11/2021,Hardin-Simmons,W 1-0,150,09/11/2021,Hardin-Simmons,home,W,1,0,False
+09/17/2021,Texas Lutheran,W 1-0,150,09/17/2021,Texas Lutheran,home,W,1,0,False
+09/19/2021,@ East Tex. Baptist,L 0-2,40,09/19/2021,East Tex. Baptist,away,L,0,2,False
+09/24/2021,St. Thomas (TX),W 2-1,150,09/24/2021,St. Thomas (TX),home,W,2,1,False
+09/26/2021,Centenary (LA),W 2-0,150,09/26/2021,Centenary (LA),home,W,2,0,False
+10/03/2021,@ Austin,Ppd,,10/03/2021,Austin,away,,,,
+10/08/2021,Schreiner,W 5-2,125,10/08/2021,Schreiner,home,W,5,2,False
+10/10/2021,Trinity (TX),W 2-1,0,10/10/2021,Trinity (TX),home,W,2,1,False
+10/15/2021,@ Centenary (LA),W 4-0,150,10/15/2021,Centenary (LA),away,W,4,0,False
+10/17/2021,@ St. Thomas (TX),W 2-1,100,10/17/2021,St. Thomas (TX),away,W,2,1,False
+10/22/2021,Austin,W 6-0,0,10/22/2021,Austin,home,W,6,0,False
+10/24/2021,Dallas,T 0-0 (2 OT),85,10/24/2021,Dallas,home,T,0,0,True
+10/30/2021,@ Texas Lutheran,W 2-0,160,10/30/2021,Texas Lutheran,away,W,2,0,False
+11/05/2021,Texas Lutheran SCAC WSOC Tournament,W 4-0,70,11/05/2021,Texas Lutheran,home,W,4,0,False
+11/07/2021,Trinity (TX) SCAC WSOC Tournament,L 0-5,80,11/07/2021,Trinity (TX),home,L,0,5,False

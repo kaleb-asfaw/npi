@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Alfred,W 2-0,279,09/01/2023,Alfred,home,W,2,0,False
+09/02/2023,"Eastern Nazarene @Marcy, NY",W 8-0,28,09/02/2023,Eastern Nazarene,neutral,W,8,0,False
+09/06/2023,@ William Smith,L 1-2,232,09/06/2023,William Smith,away,L,1,2,False
+09/09/2023,St. John Fisher,W 2-0,250,09/09/2023,St. John Fisher,home,W,2,0,False
+09/13/2023,@ Nazareth,T 0-0,233,09/13/2023,Nazareth,away,T,0,0,False
+09/16/2023,RIT,W 2-1,297,09/16/2023,RIT,home,W,2,1,False
+09/20/2023,@ Fredonia,W 2-0,43,09/20/2023,Fredonia,away,W,2,0,False
+09/23/2023,@ SUNY Oneonta,T 0-0,312,09/23/2023,SUNY Oneonta,away,T,0,0,False
+09/26/2023,@ Rochester (NY),L 0-1,111,09/26/2023,Rochester (NY),away,L,0,1,False
+09/30/2023,SUNY New Paltz,T 1-1,289,09/30/2023,SUNY New Paltz,home,T,1,1,False
+10/04/2023,Buffalo St.,T 0-0,198,10/04/2023,Buffalo St.,home,T,0,0,False
+10/07/2023,@ Cortland,T 0-0,234,10/07/2023,Cortland,away,T,0,0,False
+10/11/2023,@ Oswego St.,T 1-1,73,10/11/2023,Oswego St.,away,T,1,1,False
+10/14/2023,@ SUNY Potsdam,W 2-0,141,10/14/2023,SUNY Potsdam,away,W,2,0,False
+10/18/2023,SUNY Brockport,T 0-0,194,10/18/2023,SUNY Brockport,home,T,0,0,False
+10/21/2023,Plattsburgh St.,L 0-1,447,10/21/2023,Plattsburgh St.,home,L,0,1,False
+10/28/2023,@ #3 Plattsburgh St. SUNYAC Women's Soccer Championship,W 4-0,251,10/28/2023,Plattsburgh St.,away,W,4,0,False
+11/01/2023,@ #2 SUNY Brockport SUNYAC Women's Soccer Championship,T 2-2 (2 OT),300,11/01/2023,SUNY Brockport,away,T,2,2,True

@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,St. Thomas (TX),W 1-0,173,08/30/2024,St. Thomas (TX),home,W,1,0,False
+09/07/2024,East Tex. Baptist,L 1-2,132,09/07/2024,East Tex. Baptist,home,L,1,2,False
+09/09/2024,@ Rhodes,L 0-4,45,09/09/2024,Rhodes,away,L,0,4,False
+09/11/2024,Delta St.,Ppd,,09/11/2024,Delta St.,home,,,,
+09/14/2024,Ozarks (AR),W 6-0,124,09/14/2024,Ozarks (AR),home,W,6,0,False
+09/17/2024,MUW,W 5-0,132,09/17/2024,MUW,home,W,5,0,False
+09/19/2024,Tougaloo,W 7-0,132,09/19/2024,Tougaloo,home,W,7,0,False
+09/21/2024,"Sewanee @Vestavia Hills, AL",W 1-0,75,09/21/2024,Sewanee,neutral,W,1,0,False
+09/29/2024,@ Maryville (TN),L 1-4,269,09/29/2024,Maryville (TN),away,L,1,4,False
+10/01/2024,Huntingdon,W 6-0,116,10/01/2024,Huntingdon,home,W,6,0,False
+10/05/2024,LaGrange,W 3-0,124,10/05/2024,LaGrange,home,W,3,0,False
+10/08/2024,Centenary (LA),Canceled,,10/08/2024,Centenary (LA),home,,,,
+10/09/2024,@ Piedmont,L 1-2,50,10/09/2024,Piedmont,away,L,1,2,False
+10/10/2024,@ Wesleyan (GA),W 8-0,125,10/10/2024,Wesleyan (GA),away,W,8,0,False
+10/12/2024,@ Agnes Scott,W 5-0,72,10/12/2024,Agnes Scott,away,W,5,0,False
+10/15/2024,Millsaps,W 2-0,116,10/15/2024,Millsaps,home,W,2,0,False
+10/19/2024,Asbury,T 0-0,113,10/19/2024,Asbury,home,T,0,0,False
+10/23/2024,@ Hendrix,L 1-2,275,10/23/2024,Hendrix,away,L,1,2,False
+10/26/2024,Covenant,W 3-1,121,10/26/2024,Covenant,home,W,3,1,False
+11/01/2024,#6 LaGrange CCS Women's Soccer Championship,W 4-1,162,11/01/2024,LaGrange,home,W,4,1,False
+11/06/2024,@ #2 Piedmont CCS Women's Soccer Championship,W 1-0,78,11/06/2024,Piedmont,away,W,1,0,False
+11/09/2024,@ #1 Maryville (TN) CCS Women's Soccer Championship,L 0-1,448,11/09/2024,Maryville (TN),away,L,0,1,False

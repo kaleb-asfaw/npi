@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Wm. Paterson,T 0-0,20,09/01/2021,Wm. Paterson,away,T,0,0,False
+09/04/2021,@ Rowan,L 0-6,100,09/04/2021,Rowan,away,L,0,6,False
+09/08/2021,@ Purchase,Ppd,,09/08/2021,Purchase,away,,,,
+09/11/2021,@ Valley Forge,W 16-0,25,09/11/2021,Valley Forge,away,W,16,0,False
+09/15/2021,Stockton,L 1-6,125,09/15/2021,Stockton,home,L,1,6,False
+09/21/2021,@ Drew,L 3-6,175,09/21/2021,Drew,away,L,3,6,False
+09/25/2021,NYU,Ppd,,09/25/2021,NYU,home,,,,
+09/29/2021,Cedar Crest,L 0-1,100,09/29/2021,Cedar Crest,home,L,0,1,False
+10/02/2021,Marymount (VA),L 0-2,175,10/02/2021,Marymount (VA),home,L,0,2,False
+10/06/2021,@ Rosemont,W 5-0,0,10/06/2021,Rosemont,away,W,5,0,False
+10/09/2021,@ Immaculata,L 0-3,112,10/09/2021,Immaculata,away,L,0,3,False
+10/13/2021,Neumann,L 1-2,125,10/13/2021,Neumann,home,L,1,2,False
+10/16/2021,@ Cairn,W 2-1,68,10/16/2021,Cairn,away,W,2,1,False
+10/18/2021,@ Wm. Paterson,L 1-2,20,10/18/2021,Wm. Paterson,away,L,1,2,False
+10/23/2021,@ Marywood,L 1-8,177,10/23/2021,Marywood,away,L,1,8,False
+10/27/2021,@ Gwynedd Mercy,W 4-0,79,10/27/2021,Gwynedd Mercy,away,W,4,0,False
+10/30/2021,Cabrini,T 1-1 (2 OT),100,10/30/2021,Cabrini,home,T,1,1,True
+11/01/2021,@ #3 Marymount (VA) Atlantic East WSOC Championship,W 2-1,75,11/01/2021,Marymount (VA),away,W,2,1,False
+11/03/2021,@ #1 Marywood Atlantic East WSOC Championship,L 0-4,0,11/03/2021,Marywood,away,L,0,4,False

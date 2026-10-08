@@ -1,0 +1,12 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Salem (NC),L 0-9,0,09/01/2021,Salem (NC),home,L,0,9,False
+09/04/2021,Covenant,L 0-5,0,09/04/2021,Covenant,home,L,0,5,False
+09/07/2021,@ Montreat,L 0-6,,09/07/2021,@ Montreat,home,L,0,6,False
+09/12/2021,Emory & Henry,L 0-4,60,09/12/2021,Emory & Henry,home,L,0,4,False
+09/19/2021,@ Meredith,Canceled,,09/19/2021,Meredith,away,,,,
+09/21/2021,@ Maryville (TN),L 0-10,144,09/21/2021,Maryville (TN),away,L,0,10,False
+10/04/2021,@ Piedmont,L 0-4,83,10/04/2021,Piedmont,away,L,0,4,False
+10/07/2021,@ Brevard,L 0-4,47,10/07/2021,Brevard,away,L,0,4,False
+10/18/2021,Brevard,L 0-3,64,10/18/2021,Brevard,home,L,0,3,False
+10/26/2021,Bob Jones,,,10/26/2021,Bob Jones,home,,,,
+10/31/2021,@ Emory & Henry,L 0-2,223,10/31/2021,Emory & Henry,away,L,0,2,False

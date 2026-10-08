@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Capital,W 4-2,525,09/01/2022,Capital,home,W,4,2,False
+09/04/2022,Otterbein,W 4-0,207,09/04/2022,Otterbein,home,W,4,0,False
+09/09/2022,@ Baldwin Wallace,W 1-0,167,09/09/2022,Baldwin Wallace,away,W,1,0,False
+09/14/2022,@ Kenyon,W 2-0,20,09/14/2022,Kenyon,away,W,2,0,False
+09/17/2022,Ohio Northern,W 2-1,154,09/17/2022,Ohio Northern,home,W,2,1,False
+09/21/2022,Penn St.-Behrend,W 3-0,92,09/21/2022,Penn St.-Behrend,home,W,3,0,False
+09/24/2022,@ Muskingum,W 5-1,75,09/24/2022,Muskingum,away,W,5,1,False
+09/27/2022,Denison,W 3-1,63,09/27/2022,Denison,home,W,3,1,False
+10/01/2022,Brandeis,W 2-1,107,10/01/2022,Brandeis,home,W,2,1,False
+10/08/2022,@ NYU,W 3-0,125,10/08/2022,NYU,away,W,3,0,False
+10/14/2022,@ WashU,W 2-1,550,10/14/2022,WashU,away,W,2,1,False
+10/16/2022,@ UChicago,W 1-0,228,10/16/2022,UChicago,away,W,1,0,False
+10/21/2022,Asbury,W 11-0,75,10/21/2022,Asbury,home,W,11,0,False
+10/28/2022,Rochester (NY),T 2-2,200,10/28/2022,Rochester (NY),home,T,2,2,False
+10/30/2022,Emory,W 1-0,141,10/30/2022,Emory,home,W,1,0,False
+11/05/2022,Carnegie Mellon,W 1-0,333,11/05/2022,Carnegie Mellon,home,W,1,0,False
+11/12/2022,Pitt.-Greensburg NCAA Division III Women's Soccer Championship,W 6-1,517,11/12/2022,Pitt.-Greensburg,home,W,6,1,False
+11/13/2022,Ithaca NCAA Division III Women's Soccer Championship,W 6-0,286,11/13/2022,Ithaca,home,W,6,0,False
+11/19/2022,Loras NCAA Division III Women's Soccer Championship,W 3-1,582,11/19/2022,Loras,home,W,3,1,False
+11/20/2022,William Smith NCAA Division III Women's Soccer Championship,W 4-2,626,11/20/2022,William Smith,home,W,4,2,False
+12/02/2022,"Batten @Salem, VA (NCAA Division III Women's Soccer Championship)",W 3-0,833,12/02/2022,Batten,neutral,W,3,0,False
+12/04/2022,"Johns Hopkins @Salem, VA (NCAA Division III Women's Soccer Championship)",L 1-2,743,12/04/2022,Johns Hopkins,neutral,L,1,2,False

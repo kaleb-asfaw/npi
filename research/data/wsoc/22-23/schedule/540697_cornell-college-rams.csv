@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Mt. Mercy,L 0-3,0,09/01/2022,@ Mt. Mercy,home,L,0,3,False
+09/04/2022,Edgewood,L 0-2,75,09/04/2022,Edgewood,home,L,0,2,False
+09/07/2022,@ Coe,W 2-1,74,09/07/2022,Coe,away,W,2,1,False
+09/09/2022,@ Clarke,L 0-1,100,09/09/2022,@ Clarke,home,L,0,1,False
+09/11/2022,Aurora,T 1-1,65,09/11/2022,Aurora,home,T,1,1,False
+09/14/2022,Iowa Wesleyan,L 2-3,30,09/14/2022,Iowa Wesleyan,home,L,2,3,False
+09/17/2022,@ Central (IA),L 0-3,100,09/17/2022,Central (IA),away,L,0,3,False
+09/18/2022,@ Carleton,L 1-5,207,09/18/2022,Carleton,away,L,1,5,False
+09/22/2022,Wis.-Platteville,L 0-5,70,09/22/2022,Wis.-Platteville,home,L,0,5,False
+09/25/2022,@ UW-River Falls,L 0-2,155,09/25/2022,UW-River Falls,away,L,0,2,False
+10/01/2022,Ripon,W 3-0,90,10/01/2022,Ripon,home,W,3,0,False
+10/02/2022,Waldorf,L 1-2,65,10/02/2022,Waldorf,home,L,1,2,False
+10/05/2022,@ Grinnell,L 0-2,60,10/05/2022,Grinnell,away,L,0,2,False
+10/10/2022,@ Knox,T 0-0,20,10/10/2022,Knox,away,T,0,0,False
+10/13/2022,Illinois Col.,W 4-0,55,10/13/2022,Illinois Col.,home,W,4,0,False
+10/15/2022,@ Lake Forest,L 0-1,83,10/15/2022,Lake Forest,away,L,0,1,False
+10/22/2022,@ Lawrence,W 2-0,286,10/22/2022,Lawrence,away,W,2,0,False
+10/26/2022,Monmouth (IL),T 1-1,75,10/26/2022,Monmouth (IL),home,T,1,1,False
+10/29/2022,Beloit,L 0-1,80,10/29/2022,Beloit,home,L,0,1,False
+11/05/2022,@ #1 Grinnell MWC WSOC Championship,L 1-2,70,11/05/2022,Grinnell,away,L,1,2,False

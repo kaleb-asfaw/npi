@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Earlham,W 4-2,271,09/01/2023,Earlham,away,W,4,2,False
+09/03/2023,Bethany (WV),W 5-2,103,09/03/2023,Bethany (WV),home,W,5,2,False
+09/06/2023,Franklin,W 3-0,94,09/06/2023,Franklin,home,W,3,0,False
+09/09/2023,@ Oberlin,L 0-2,0,09/09/2023,Oberlin,away,L,0,2,False
+09/13/2023,@ Manchester,W 5-0,65,09/13/2023,Manchester,away,W,5,0,False
+09/16/2023,Maryville (TN),W 1-0,124,09/16/2023,Maryville (TN),home,W,1,0,False
+09/20/2023,@ Mt. St. Joseph,T 1-1,200,09/20/2023,Mt. St. Joseph,away,T,1,1,False
+09/22/2023,Anderson (IN),W 1-0,113,09/22/2023,Anderson (IN),home,W,1,0,False
+09/26/2023,DePauw,W 3-1,63,09/26/2023,DePauw,home,W,3,1,False
+09/30/2023,@ John Carroll,L 0-1,150,09/30/2023,John Carroll,away,L,0,1,False
+10/04/2023,Capital,L 0-2,298,10/04/2023,Capital,home,L,0,2,False
+10/07/2023,@ Baldwin Wallace,L 0-3,122,10/07/2023,Baldwin Wallace,away,L,0,3,False
+10/11/2023,Otterbein,L 0-1,336,10/11/2023,Otterbein,home,L,0,1,False
+10/14/2023,Marietta,T 1-1,256,10/14/2023,Marietta,home,T,1,1,False
+10/18/2023,@ Ohio Northern,L 1-2,139,10/18/2023,Ohio Northern,away,L,1,2,False
+10/21/2023,Mount Union,W 2-1,0,10/21/2023,Mount Union,home,W,2,1,False
+10/25/2023,@ Muskingum,W 1-0,80,10/25/2023,Muskingum,away,W,1,0,False
+10/28/2023,@ Heidelberg,W 1-0,197,10/28/2023,Heidelberg,away,W,1,0,False
+10/31/2023,@ #3 Ohio Northern OAC Women's Soccer Championship,L 0-1,143,10/31/2023,Ohio Northern,away,L,0,1,False

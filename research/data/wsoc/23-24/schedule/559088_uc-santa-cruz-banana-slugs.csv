@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Pomona-Pitzer,L 0-1,127,09/01/2023,Pomona-Pitzer,away,L,0,1,False
+09/03/2023,@ CMS,W 3-1,143,09/03/2023,CMS,away,W,3,1,False
+09/09/2023,@ Whitman,T 0-0,100,09/09/2023,Whitman,away,T,0,0,False
+09/10/2023,"Whitworth @Walla Walla, Wash.",T 1-1,100,09/10/2023,Whitworth,neutral,T,1,1,False
+09/12/2023,@ Puget Sound,L 1-2,90,09/12/2023,Puget Sound,away,L,1,2,False
+09/16/2023,Master's,W 2-0,112,09/16/2023,Master's,home,W,2,0,False
+09/20/2023,Jessup,W 6-0,40,09/20/2023,Jessup,home,W,6,0,False
+09/22/2023,@ Menlo,W 2-1,100,09/22/2023,Menlo,away,W,2,1,False
+09/26/2023,Lincoln (CA),W 5-0,101,09/26/2023,Lincoln (CA),home,W,5,0,False
+10/09/2023,Pacific Union,W 4-0,90,10/09/2023,Pacific Union,home,W,4,0,False
+10/11/2023,Lincoln (CA),W 8-0,30,10/11/2023,Lincoln (CA),home,W,8,0,False
+10/14/2023,@ Chapman,W 1-0,167,10/14/2023,Chapman,away,W,1,0,False
+10/15/2023,@ Cal Lutheran,L 0-2,160,10/15/2023,Cal Lutheran,away,L,0,2,False
+10/18/2023,Dominican (CA),L 0-2,100,10/18/2023,Dominican (CA),home,L,0,2,False
+10/21/2023,@ Redlands,W 4-1,100,10/21/2023,Redlands,away,W,4,1,False
+10/22/2023,@ Whittier,W 2-1,71,10/22/2023,Whittier,away,W,2,1,False
+10/30/2023,@ Sweet Briar,W 10-0,100,10/30/2023,Sweet Briar,away,W,10,0,False
+11/03/2023,#3 Salisbury C2C Women's Soccer Championship,W 1-0,121,11/03/2023,Salisbury,home,W,1,0,False
+11/05/2023,"#1 Chris. Newport @Fredericksburg, VA (C2C Women's Soccer Championship)",T 0-0 (3 OT),152,11/05/2023,Chris. Newport,neutral,T,0,0,True

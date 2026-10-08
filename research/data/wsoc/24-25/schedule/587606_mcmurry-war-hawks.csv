@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Lyon,W 7-0,226,08/30/2024,Lyon,home,W,7,0,False
+09/02/2024,@ Hendrix,L 1-2,150,09/02/2024,Hendrix,away,L,1,2,False
+09/03/2024,@ Rhodes,L 1-3,79,09/03/2024,Rhodes,away,L,1,3,False
+09/08/2024,@ Dallas,W 3-0,50,09/08/2024,Dallas,away,W,3,0,False
+09/12/2024,@ Howard Payne,W 1-0,225,09/12/2024,Howard Payne,away,W,1,0,False
+09/13/2024,Wayland Baptist,W 2-0,219,09/13/2024,Wayland Baptist,home,W,2,0,False
+09/19/2024,@ Hardin-Simmons,L 0-3,260,09/19/2024,Hardin-Simmons,away,L,0,3,False
+09/21/2024,@ Mary Hardin-Baylor,L 0-2,209,09/21/2024,Mary Hardin-Baylor,away,L,0,2,False
+10/04/2024,@ Trinity (TX),L 0-3,310,10/04/2024,Trinity (TX),away,L,0,3,False
+10/06/2024,@ Schreiner,W 1-0,175,10/06/2024,Schreiner,away,W,1,0,False
+10/08/2024,Concordia (TX),T 1-1,140,10/08/2024,Concordia (TX),home,T,1,1,False
+10/11/2024,St. Thomas (TX),W 2-0,126,10/11/2024,St. Thomas (TX),home,W,2,0,False
+10/18/2024,@ Ozarks (AR),W 4-1,225,10/18/2024,Ozarks (AR),away,W,4,1,False
+10/20/2024,@ Centenary (LA),W 3-0,87,10/20/2024,Centenary (LA),away,W,3,0,False
+10/25/2024,Dallas,W 3-2,100,10/25/2024,Dallas,home,W,3,2,False
+10/27/2024,Austin,T 0-0,80,10/27/2024,Austin,home,T,0,0,False
+11/01/2024,@ Texas Lutheran,L 1-2,100,11/01/2024,Texas Lutheran,away,L,1,2,False
+11/03/2024,@ Southwestern (TX),T 2-2,200,11/03/2024,Southwestern (TX),away,T,2,2,False

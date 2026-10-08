@@ -1,0 +1,24 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2023,North Park,W 3-0,89,09/02/2023,North Park,home,W,3,0,False
+09/03/2023,Augustana (IL),W 4-1,75,09/03/2023,Augustana (IL),home,W,4,1,False
+09/09/2023,@ MIT,L 0-5,75,09/09/2023,MIT,away,L,0,5,False
+09/10/2023,@ Wentworth,W 2-0,183,09/10/2023,Wentworth,away,W,2,0,False
+09/13/2023,Edgewood,W 3-0,60,09/13/2023,Edgewood,home,W,3,0,False
+09/16/2023,Marian (WI),W 2-0,130,09/16/2023,Marian (WI),home,W,2,0,False
+09/19/2023,Calvin,T 0-0,75,09/19/2023,Calvin,home,T,0,0,False
+09/20/2023,Alverno,W 10-0,51,09/20/2023,Alverno,home,W,10,0,False
+09/23/2023,@ MSOE,W 2-0,203,09/23/2023,MSOE,away,W,2,0,False
+09/27/2023,Concordia Chicago,W 3-0,67,09/27/2023,Concordia Chicago,home,W,3,0,False
+09/30/2023,Concordia Wisconsin,W 3-1,100,09/30/2023,Concordia Wisconsin,home,W,3,1,False
+10/04/2023,@ Dominican (IL),W 5-0,150,10/04/2023,Dominican (IL),away,W,5,0,False
+10/07/2023,@ Lakeland,W 6-0,97,10/07/2023,Lakeland,away,W,6,0,False
+10/09/2023,@ UChicago,L 2-3,89,10/09/2023,UChicago,away,L,2,3,False
+10/11/2023,@ Aurora,W 5-0,33,10/11/2023,Aurora,away,W,5,0,False
+10/14/2023,St. Norbert,W 4-1,100,10/14/2023,St. Norbert,home,W,4,1,False
+10/18/2023,Benedictine (IL),W 6-1,71,10/18/2023,Benedictine (IL),home,W,6,1,False
+10/21/2023,@ Wis. Lutheran,W 7-0,103,10/21/2023,Wis. Lutheran,away,W,7,0,False
+10/24/2023,Wis.-Whitewater,W 6-0,56,10/24/2023,Wis.-Whitewater,home,W,6,0,False
+10/26/2023,@ Rockford,W 5-0,26,10/26/2023,Rockford,away,W,5,0,False
+10/29/2023,#8 Concordia Wisconsin NACC Women's Soccer Championship,W 4-1,109,10/29/2023,Concordia Wisconsin,home,W,4,1,False
+11/01/2023,#5 St. Norbert NACC Women's Soccer Championship,W 5-0,80,11/01/2023,St. Norbert,home,W,5,0,False
+11/04/2023,#2 MSOE NACC Women's Soccer Championship,L 0-1 (2 OT),249,11/04/2023,MSOE,home,L,0,1,True

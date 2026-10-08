@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ SUNY Maritime,L 1-6,102,09/01/2023,SUNY Maritime,away,L,1,6,False
+09/03/2023,@ Mitchell,L 0-9,95,09/03/2023,Mitchell,away,L,0,9,False
+09/05/2023,Saint Elizabeth,L 0-1,100,09/05/2023,Saint Elizabeth,home,L,0,1,False
+09/09/2023,Purchase,T 0-0,77,09/09/2023,Purchase,home,T,0,0,False
+09/12/2023,@ Valley Forge,W 3-0,20,09/12/2023,Valley Forge,away,W,3,0,False
+09/16/2023,St. Joseph's (Brkln),T 1-1,69,09/16/2023,St. Joseph's (Brkln),home,T,1,1,False
+09/18/2023,Bard,L 0-5,51,09/18/2023,Bard,home,L,0,5,False
+09/21/2023,Pratt,Ppd,,09/21/2023,Pratt,home,,,,
+09/25/2023,@ New Jersey City,L 1-11,37,09/25/2023,New Jersey City,away,L,1,11,False
+09/27/2023,@ Old Westbury,L 2-7,46,09/27/2023,Old Westbury,away,L,2,7,False
+10/03/2023,York (NY),Ppd,,10/03/2023,York (NY),home,,,,
+10/07/2023,Lehman,L 1-5,59,10/07/2023,Lehman,home,L,1,5,False
+10/11/2023,@ CCNY,L 0-8,0,10/11/2023,CCNY,away,L,0,8,False
+10/14/2023,Medgar Evers,Ppd,,10/14/2023,Medgar Evers,home,,,,
+10/16/2023,York (NY),W 6-2,100,10/16/2023,York (NY),home,W,6,2,False
+10/18/2023,@ John Jay,L 0-7,80,10/18/2023,John Jay,away,L,0,7,False
+10/21/2023,@ York (NY),W 2-0,8,10/21/2023,York (NY),away,W,2,0,False
+10/28/2023,@ #1 CCNY CUNYAC Women's Soccer Championship,L 1-4,100,10/28/2023,CCNY,away,L,1,4,False

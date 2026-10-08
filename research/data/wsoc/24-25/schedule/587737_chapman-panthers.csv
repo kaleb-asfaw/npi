@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2024,Oberlin,W 5-0,80,09/01/2024,Oberlin,home,W,5,0,False
+09/06/2024,"UChicago @Santa Cruz, CA",L 2-5,260,09/06/2024,UChicago,neutral,L,2,5,False
+09/08/2024,"Pacific (OR) @Santa Cruz, CA",T 2-2,157,09/08/2024,Pacific (OR),neutral,T,2,2,False
+09/18/2024,Redlands,W 4-2,175,09/18/2024,Redlands,home,W,4,2,False
+09/21/2024,CMS,L 0-3,123,09/21/2024,CMS,home,L,0,3,False
+09/25/2024,@ Cal Lutheran,L 0-1,175,09/25/2024,Cal Lutheran,away,L,0,1,False
+09/28/2024,Pomona-Pitzer,W 1-0,193,09/28/2024,Pomona-Pitzer,home,W,1,0,False
+10/02/2024,@ La Verne,T 1-1,75,10/02/2024,La Verne,away,T,1,1,False
+10/05/2024,UC Santa Cruz,L 0-2,212,10/05/2024,UC Santa Cruz,home,L,0,2,False
+10/09/2024,Occidental,W 2-0,120,10/09/2024,Occidental,home,W,2,0,False
+10/12/2024,@ Whittier,L 2-3,145,10/12/2024,Whittier,away,L,2,3,False
+10/16/2024,@ Caltech,L 0-1,44,10/16/2024,Caltech,away,L,0,1,False
+10/19/2024,@ Occidental,W 3-1,327,10/19/2024,Occidental,away,W,3,1,False
+10/23/2024,Caltech,W 1-0,113,10/23/2024,Caltech,home,W,1,0,False
+10/26/2024,@ Pomona-Pitzer,L 0-1,121,10/26/2024,Pomona-Pitzer,away,L,0,1,False
+11/02/2024,Whittier,L 0-3,198,11/02/2024,Whittier,home,L,0,3,False
+11/04/2024,@ #4 Whittier SCIAC Women's Soccer Championship,L 1-2,219,11/04/2024,Whittier,away,L,1,2,False

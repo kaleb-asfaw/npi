@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ William Smith,L 0-8,275,08/30/2024,William Smith,away,L,0,8,False
+08/31/2024,"TCNJ @Geneva, NY",L 1-5,175,08/31/2024,TCNJ,neutral,L,1,5,False
+09/04/2024,@ VTSU Castleton,W 1-0,354,09/04/2024,VTSU Castleton,away,W,1,0,False
+09/11/2024,Skidmore,L 0-3,213,09/11/2024,Skidmore,home,L,0,3,False
+09/14/2024,RIT,L 0-1,197,09/14/2024,RIT,home,L,0,1,False
+09/18/2024,Clarkson,L 0-3,121,09/18/2024,Clarkson,home,L,0,3,False
+09/21/2024,@ Fredonia,W 1-0,48,09/21/2024,Fredonia,away,W,1,0,False
+09/25/2024,Rensselaer,L 0-1,87,09/25/2024,Rensselaer,home,L,0,1,False
+09/28/2024,@ SUNY Morrisville,W 5-0,91,09/28/2024,SUNY Morrisville,away,W,5,0,False
+10/02/2024,@ St. Lawrence,L 1-2,183,10/02/2024,St. Lawrence,away,L,1,2,False
+10/05/2024,Cortland,L 0-2,226,10/05/2024,Cortland,home,L,0,2,False
+10/09/2024,@ SUNY Oneonta,L 0-1,50,10/09/2024,SUNY Oneonta,away,L,0,1,False
+10/12/2024,Buffalo St.,L 1-2,156,10/12/2024,Buffalo St.,home,L,1,2,False
+10/16/2024,@ SUNY New Paltz,L 0-4,80,10/16/2024,SUNY New Paltz,away,L,0,4,False
+10/19/2024,Oswego St.,T 0-0,236,10/19/2024,Oswego St.,home,T,0,0,False
+10/23/2024,SUNY Potsdam,W 3-0,83,10/23/2024,SUNY Potsdam,home,W,3,0,False
+10/26/2024,SUNY Canton,W 2-0,173,10/26/2024,SUNY Canton,home,W,2,0,False

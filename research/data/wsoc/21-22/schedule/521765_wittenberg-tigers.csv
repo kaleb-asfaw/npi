@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Ohio Northern,T 1-1 (2 OT),293,09/01/2021,Ohio Northern,away,T,1,1,True
+09/03/2021,@ Kalamazoo,L 0-2,155,09/03/2021,Kalamazoo,away,L,0,2,False
+09/04/2021,@ Hope,L 0-2,212,09/04/2021,Hope,away,L,0,2,False
+09/08/2021,@ Wilmington (OH),W 2-1,202,09/08/2021,Wilmington (OH),away,W,2,1,False
+09/11/2021,Otterbein,L 0-1,212,09/11/2021,Otterbein,home,L,0,1,False
+09/14/2021,@ Mt. St. Joseph,W 2-1,263,09/14/2021,Mt. St. Joseph,away,W,2,1,False
+09/18/2021,Grove City,W 2-1,154,09/18/2021,Grove City,home,W,2,1,False
+09/19/2021,Carnegie Mellon,L 0-1,0,09/19/2021,Carnegie Mellon,home,L,0,1,False
+09/22/2021,@ Centre,Canceled,,09/22/2021,Centre,away,,,,
+09/25/2021,Hiram,W 5-1,200,09/25/2021,Hiram,home,W,5,1,False
+09/28/2021,@ Capital,L 0-1,330,09/28/2021,Capital,away,L,0,1,False
+10/02/2021,Kenyon,L 0-1,123,10/02/2021,Kenyon,home,L,0,1,False
+10/09/2021,@ Oberlin,W 1-0,207,10/09/2021,Oberlin,away,W,1,0,False
+10/12/2021,DePauw,W 2-1,200,10/12/2021,DePauw,home,W,2,1,False
+10/16/2021,@ Wooster,L 2-4,100,10/16/2021,Wooster,away,L,2,4,False
+10/23/2021,@ Denison,L 0-1,150,10/23/2021,Denison,away,L,0,1,False
+10/26/2021,Ohio Wesleyan,W 4-1,220,10/26/2021,Ohio Wesleyan,home,W,4,1,False
+10/30/2021,@ Allegheny,W 1-0,182,10/30/2021,Allegheny,away,W,1,0,False
+11/03/2021,@ #1 Denison NCAC WSOC Tournament,W 1-0,150,11/03/2021,Denison,away,W,1,0,False
+11/06/2021,#3 Wooster NCAC WSOC Tournament,W 3-2,300,11/06/2021,Wooster,home,W,3,2,False
+11/12/2021,"Emory @Danville, KY (NCAA Division III Women's Soccer Championship)",L 0-4,174,11/12/2021,Emory,neutral,L,0,4,False

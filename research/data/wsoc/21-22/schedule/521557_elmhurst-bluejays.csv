@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Dominican (IL),L 0-1,115,09/01/2021,Dominican (IL),home,L,0,1,False
+09/07/2021,@ Kalamazoo,L 2-3,126,09/07/2021,Kalamazoo,away,L,2,3,False
+09/11/2021,@ Westminster (MO),W 3-0,50,09/11/2021,Westminster (MO),away,W,3,0,False
+09/14/2021,@ Hope,L 0-1,160,09/14/2021,Hope,away,L,0,1,False
+09/17/2021,MSOE,Ppd,,09/17/2021,MSOE,home,,,,
+09/19/2021,Alma,W 4-1,100,09/19/2021,Alma,home,W,4,1,False
+09/25/2021,@ North Central (IL),L 0-4,124,09/25/2021,North Central (IL),away,L,0,4,False
+09/29/2021,@ Ill. Wesleyan,L 0-4,170,09/29/2021,Ill. Wesleyan,away,L,0,4,False
+10/02/2021,@ North Park,W 3-0,75,10/02/2021,North Park,away,W,3,0,False
+10/06/2021,Millikin,L 1-2 (2 OT),120,10/06/2021,Millikin,home,L,1,2,True
+10/09/2021,Carroll (WI),T 0-0 (2 OT),172,10/09/2021,Carroll (WI),home,T,0,0,True
+10/17/2021,Benedictine (IL),W 1-0 (1 OT),125,10/17/2021,Benedictine (IL),home,W,1,0,True
+10/20/2021,Augustana (IL),L 1-2 (1 OT),50,10/20/2021,Augustana (IL),home,L,1,2,True
+10/23/2021,@ Wheaton (IL),L 0-2,281,10/23/2021,Wheaton (IL),away,L,0,2,False
+10/27/2021,@ Carthage,L 2-3,115,10/27/2021,Carthage,away,L,2,3,False
+10/29/2021,Illinois Tech,Canceled,,10/29/2021,Illinois Tech,home,,,,

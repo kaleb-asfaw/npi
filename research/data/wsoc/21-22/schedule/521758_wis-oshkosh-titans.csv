@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Ripon,W 7-0,100,09/01/2021,Ripon,home,W,7,0,False
+09/04/2021,Marian (WI),W 6-0,327,09/04/2021,Marian (WI),home,W,6,0,False
+09/06/2021,Bethel (MN),W 4-0,147,09/06/2021,Bethel (MN),home,W,4,0,False
+09/08/2021,Lakeland,W 6-0,104,09/08/2021,Lakeland,home,W,6,0,False
+09/11/2021,@ Central (IA),L 0-1,100,09/11/2021,Central (IA),away,L,0,1,False
+09/12/2021,@ Grinnell,W 1-0,46,09/12/2021,Grinnell,away,W,1,0,False
+09/15/2021,@ Dubuque,W 2-1,188,09/15/2021,Dubuque,away,W,2,1,False
+09/18/2021,Carroll (WI),W 2-0,234,09/18/2021,Carroll (WI),home,W,2,0,False
+09/22/2021,@ North Central (IL),L 2-3 (2 OT),155,09/22/2021,North Central (IL),away,L,2,3,True
+09/27/2021,@ Lawrence,T 1-1 (2 OT),500,09/27/2021,Lawrence,away,T,1,1,True
+10/02/2021,@ Wis.-Eau Claire,W 2-1,0,10/02/2021,Wis.-Eau Claire,away,W,2,1,False
+10/06/2021,Wis.-Stevens Point,W 2-1,142,10/06/2021,Wis.-Stevens Point,home,W,2,1,False
+10/09/2021,Wis.-Stout,W 2-0,179,10/09/2021,Wis.-Stout,home,W,2,0,False
+10/16/2021,@ Wis.-Platteville,W 1-0 (2 OT),105,10/16/2021,Wis.-Platteville,away,W,1,0,True
+10/20/2021,@ Wis.-Whitewater,W 4-1,126,10/20/2021,Wis.-Whitewater,away,W,4,1,False
+10/23/2021,Wis.-La Crosse,W 2-1,322,10/23/2021,Wis.-La Crosse,home,W,2,1,False
+10/25/2021,St. Norbert,Canceled,,10/25/2021,St. Norbert,home,,,,
+10/30/2021,UW-River Falls,W 1-0 (1 OT),184,10/30/2021,UW-River Falls,home,W,1,0,True
+11/04/2021,#5 Wis.-Eau Claire WIAC WSOC Tournament,W 3-2 (1 OT),145,11/04/2021,Wis.-Eau Claire,home,W,3,2,True
+11/06/2021,#2 Wis.-La Crosse WIAC WSOC Tournament,W 2-1,334,11/06/2021,Wis.-La Crosse,home,W,2,1,False
+11/12/2021,"Wheaton (IL) @Chicago, IL (NCAA Division III Women's Soccer Championship)",T 2-2 (2 OT),95,11/12/2021,Wheaton (IL),neutral,T,2,2,True

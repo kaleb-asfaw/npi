@@ -1,0 +1,25 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Saint Benedict,W 1-0,335,09/01/2023,Saint Benedict,home,W,1,0,False
+09/03/2023,@ Dubuque,W 7-0,115,09/03/2023,Dubuque,away,W,7,0,False
+09/06/2023,@ Concordia Wisconsin,W 3-0,120,09/06/2023,Concordia Wisconsin,away,W,3,0,False
+09/09/2023,"Ill. Wesleyan @Waverly, IA",W 2-0,65,09/09/2023,Ill. Wesleyan,neutral,W,2,0,False
+09/10/2023,"Dominican (IL) @Waverly, IA",W 4-2,55,09/10/2023,Dominican (IL),neutral,W,4,2,False
+09/16/2023,@ Wheaton (IL),W 3-1,234,09/16/2023,Wheaton (IL),away,W,3,1,False
+09/20/2023,Wartburg,W 2-0,243,09/20/2023,Wartburg,home,W,2,0,False
+09/23/2023,@ Chris. Newport,L 0-1,107,09/23/2023,Chris. Newport,away,L,0,1,False
+09/24/2023,"Batten @Newport News, VA",W 1-0,118,09/24/2023,Batten,neutral,W,1,0,False
+09/30/2023,@ Wis.-Oshkosh,W 3-1,244,09/30/2023,Wis.-Oshkosh,away,W,3,1,False
+10/04/2023,Wis.-Platteville,W 2-0,261,10/04/2023,Wis.-Platteville,home,W,2,0,False
+10/07/2023,Wis.-Whitewater,W 3-0,189,10/07/2023,Wis.-Whitewater,home,W,3,0,False
+10/09/2023,MSOE,T 0-0,255,10/09/2023,MSOE,home,T,0,0,False
+10/14/2023,@ UW-River Falls,W 2-0,165,10/14/2023,UW-River Falls,away,W,2,0,False
+10/18/2023,@ Wis.-Stout,W 6-1,128,10/18/2023,Wis.-Stout,away,W,6,1,False
+10/21/2023,Wis.-Eau Claire,W 3-0,604,10/21/2023,Wis.-Eau Claire,home,W,3,0,False
+10/25/2023,@ Gustavus Adolphus,Canceled,,10/25/2023,Gustavus Adolphus,away,,,,
+10/28/2023,@ Wis.-Stevens Point,W 5-0,324,10/28/2023,Wis.-Stevens Point,away,W,5,0,False
+11/02/2023,#5 Wis.-Stevens Point WIAC Women's Soccer Championship,W 5-0,137,11/02/2023,Wis.-Stevens Point,home,W,5,0,False
+11/04/2023,#2 Wis.-Platteville WIAC Women's Soccer Championship,W 3-0,286,11/04/2023,Wis.-Platteville,home,W,3,0,False
+11/11/2023,Wis.-Superior NCAA Division III Women's Soccer Championship,W 1-0,553,11/11/2023,Wis.-Superior,home,W,1,0,False
+11/12/2023,Simpson NCAA Division III Women's Soccer Championship,W 3-1,397,11/12/2023,Simpson,home,W,3,1,False
+11/17/2023,"Loras @St. Louis, MO (NCAA Division III Women's Soccer Championship)",W 1-0,250,11/17/2023,Loras,neutral,W,1,0,False
+11/18/2023,@ WashU NCAA Division III Women's Soccer Championship,T 4-4 (3 OT),549,11/18/2023,WashU,away,T,4,4,True

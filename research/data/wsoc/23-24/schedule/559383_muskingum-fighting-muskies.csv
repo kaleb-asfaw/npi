@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Wash. & Jeff.,L 0-1,150,09/01/2023,Wash. & Jeff.,home,L,0,1,False
+09/03/2023,@ Franklin,T 0-0,98,09/03/2023,Franklin,away,T,0,0,False
+09/06/2023,Hiram,L 0-1,207,09/06/2023,Hiram,home,L,0,1,False
+09/10/2023,@ Wooster,L 0-2,142,09/10/2023,Wooster,away,L,0,2,False
+09/13/2023,@ Ohio Wesleyan,L 0-6,225,09/13/2023,Ohio Wesleyan,away,L,0,6,False
+09/16/2023,Bluffton,W 3-1,0,09/16/2023,Bluffton,home,W,3,1,False
+09/20/2023,Earlham,T 3-3,170,09/20/2023,Earlham,home,T,3,3,False
+09/23/2023,Defiance,W 3-0,225,09/23/2023,Defiance,home,W,3,0,False
+09/27/2023,@ Kenyon,L 0-4,100,09/27/2023,Kenyon,away,L,0,4,False
+09/30/2023,Heidelberg,L 0-1,131,09/30/2023,Heidelberg,home,L,0,1,False
+10/04/2023,Marietta,T 1-1,120,10/04/2023,Marietta,home,T,1,1,False
+10/07/2023,@ Otterbein,L 1-5,138,10/07/2023,Otterbein,away,L,1,5,False
+10/11/2023,@ Capital,L 0-10,193,10/11/2023,Capital,away,L,0,10,False
+10/14/2023,Baldwin Wallace,L 0-3,147,10/14/2023,Baldwin Wallace,home,L,0,3,False
+10/18/2023,@ Mount Union,L 0-4,47,10/18/2023,Mount Union,away,L,0,4,False
+10/21/2023,Ohio Northern,L 0-2,79,10/21/2023,Ohio Northern,home,L,0,2,False
+10/25/2023,Wilmington (OH),L 0-1,80,10/25/2023,Wilmington (OH),home,L,0,1,False
+10/28/2023,@ John Carroll,L 0-3,205,10/28/2023,John Carroll,away,L,0,3,False

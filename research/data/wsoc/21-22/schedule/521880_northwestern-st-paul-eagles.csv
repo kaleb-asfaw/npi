@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Bethel (MN),L 1-2,250,09/01/2021,Bethel (MN),home,L,1,2,False
+09/04/2021,@ Augsburg,L 0-1,169,09/04/2021,Augsburg,away,L,0,1,False
+09/09/2021,@ Central (IA),L 0-5,125,09/09/2021,Central (IA),away,L,0,5,False
+09/18/2021,@ North Central (MN),W 6-1,85,09/18/2021,North Central (MN),away,W,6,1,False
+09/22/2021,Hamline,L 0-2,107,09/22/2021,Hamline,home,L,0,2,False
+09/24/2021,@ Crown (MN),W 2-1,300,09/24/2021,Crown (MN),away,W,2,1,False
+09/25/2021,@ Minn.-Morris,W 2-0,48,09/25/2021,Minn.-Morris,away,W,2,0,False
+09/28/2021,@ Martin Luther,W 4-0,98,09/28/2021,Martin Luther,away,W,4,0,False
+10/02/2021,@ Bethany Lutheran,W 2-1,100,10/02/2021,Bethany Lutheran,away,W,2,1,False
+10/08/2021,Wis.-Superior,L 0-3,182,10/08/2021,Wis.-Superior,home,L,0,3,False
+10/09/2021,Northland,W 3-0,186,10/09/2021,Northland,home,W,3,0,False
+10/12/2021,North Central (MN),W 7-1,79,10/12/2021,North Central (MN),home,W,7,1,False
+10/15/2021,Minn.-Morris,W 4-2,79,10/15/2021,Minn.-Morris,home,W,4,2,False
+10/16/2021,Crown (MN),W 3-0,221,10/16/2021,Crown (MN),home,W,3,0,False
+10/22/2021,@ Northland,W 2-1 (2 OT),50,10/22/2021,Northland,away,W,2,1,True
+10/23/2021,@ Wis.-Superior,T 1-1 (2 OT),148,10/23/2021,Wis.-Superior,away,T,1,1,True
+10/27/2021,Bethany Lutheran,T 0-0 (2 OT),62,10/27/2021,Bethany Lutheran,home,T,0,0,True
+10/30/2021,Martin Luther,W 1-0,127,10/30/2021,Martin Luther,home,W,1,0,False
+11/03/2021,#3 Bethany Lutheran UMAC WSOC Championship,W 1-0,118,11/03/2021,Bethany Lutheran,home,W,1,0,False
+11/06/2021,@ #1 Wis.-Superior UMAC WSOC Championship,L 2-3,131,11/06/2021,Wis.-Superior,away,L,2,3,False

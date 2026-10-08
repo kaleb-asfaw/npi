@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Chris. Newport,T 0-0,694,08/30/2024,Chris. Newport,home,T,0,0,False
+09/01/2024,Piedmont,Canceled,,09/01/2024,Piedmont,home,,,,
+09/06/2024,Ohio Northern,L 0-1,216,09/06/2024,Ohio Northern,home,L,0,1,False
+09/08/2024,UT Dallas,L 1-2,230,09/08/2024,UT Dallas,home,L,1,2,False
+09/14/2024,@ Mary Washington,T 1-1,310,09/14/2024,Mary Washington,away,T,1,1,False
+09/18/2024,Salisbury,T 0-0,178,09/18/2024,Salisbury,home,T,0,0,False
+09/22/2024,Trinity (TX),L 0-1,187,09/22/2024,Trinity (TX),home,L,0,1,False
+09/28/2024,@ Bridgewater (VA),W 1-0,226,09/28/2024,Bridgewater (VA),away,W,1,0,False
+10/05/2024,East. Mennonite,W 4-0,232,10/05/2024,East. Mennonite,home,W,4,0,False
+10/08/2024,Lynchburg,L 0-2,432,10/08/2024,Lynchburg,home,L,0,2,False
+10/12/2024,Sweet Briar,W 9-1,293,10/12/2024,Sweet Briar,home,W,9,1,False
+10/16/2024,@ Shenandoah,W 3-1,143,10/16/2024,Shenandoah,away,W,3,1,False
+10/20/2024,@ Averett,W 3-1,65,10/20/2024,Averett,away,W,3,1,False
+10/23/2024,Guilford,W 2-1,135,10/23/2024,Guilford,home,W,2,1,False
+10/26/2024,@ Wash. & Lee,L 0-2,84,10/26/2024,Wash. & Lee,away,L,0,2,False
+10/30/2024,@ Randolph-Macon,W 4-0,145,10/30/2024,Randolph-Macon,away,W,4,0,False
+11/02/2024,Roanoke,W 4-2,229,11/02/2024,Roanoke,home,W,4,2,False
+11/05/2024,#6 Shenandoah ODAC Women's Soccer Championship,W 3-2,211,11/05/2024,Shenandoah,home,W,3,2,False
+11/08/2024,@ #2 Lynchburg ODAC Women's Soccer Championship,W 3-2,291,11/08/2024,Lynchburg,away,W,3,2,False
+11/10/2024,#1 Wash. & Lee ODAC Women's Soccer Championship,L 0-1,298,11/10/2024,Wash. & Lee,home,L,0,1,False

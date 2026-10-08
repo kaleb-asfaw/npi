@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/20/2021,@ Louisiana Tech,L 0-9 *,314,08/20/2021,Louisiana Tech,away,L,0,9,False
+09/01/2021,Hendrix,W 2-0,125,09/01/2021,Hendrix,home,W,2,0,False
+09/06/2021,@ Centenary (LA),W 3-1,200,09/06/2021,Centenary (LA),away,W,3,1,False
+09/10/2021,Millsaps,W 4-0,85,09/10/2021,Millsaps,home,W,4,0,False
+09/12/2021,@ Trinity (TX),L 1-4,138,09/12/2021,Trinity (TX),away,L,1,4,False
+09/17/2021,@ St. Thomas (TX),T 0-0 (2 OT),100,09/17/2021,St. Thomas (TX),away,T,0,0,True
+09/19/2021,Southwestern (TX),W 2-0,40,09/19/2021,Southwestern (TX),home,W,2,0,False
+09/23/2021,Mary Hardin-Baylor,W 2-1,134,09/23/2021,Mary Hardin-Baylor,home,W,2,1,False
+09/25/2021,Concordia (TX),L 2-3,80,09/25/2021,Concordia (TX),home,L,2,3,False
+10/01/2021,@ McMurry,T 0-0 (2 OT),62,10/01/2021,McMurry,away,T,0,0,True
+10/03/2021,@ Hardin-Simmons,L 0-3,149,10/03/2021,Hardin-Simmons,away,L,0,3,False
+10/09/2021,@ Belhaven,W 1-0,88,10/09/2021,Belhaven,away,W,1,0,False
+10/14/2021,Ozarks (AR),T 0-0 (2 OT),86,10/14/2021,Ozarks (AR),home,T,0,0,True
+10/16/2021,UT Dallas,W 4-3 (1 OT),80,10/16/2021,UT Dallas,home,W,4,3,True
+10/21/2021,@ Howard Payne,L 1-4,150,10/21/2021,Howard Payne,away,L,1,4,False
+10/23/2021,@ Sul Ross St.,W 2-0,60,10/23/2021,Sul Ross St.,away,W,2,0,False
+10/29/2021,@ LeTourneau,W 1-0,100,10/29/2021,LeTourneau,away,W,1,0,False
+11/02/2021,@ #3 Concordia (TX) American Southwest WSOC Championship,L 0-2,120,11/02/2021,Concordia (TX),away,L,0,2,False

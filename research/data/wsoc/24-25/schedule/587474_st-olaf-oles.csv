@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Wartburg,W 1-0,120,08/30/2024,Wartburg,home,W,1,0,False
+09/01/2024,@ Wis.-Eau Claire,W 2-1,235,09/01/2024,Wis.-Eau Claire,away,W,2,1,False
+09/04/2024,@ Wis.-Stevens Point,T 0-0,168,09/04/2024,Wis.-Stevens Point,away,T,0,0,False
+09/07/2024,@ Luther,W 4-0,128,09/07/2024,Luther,away,W,4,0,False
+09/10/2024,Wis.-Stout,W 1-0,193,09/10/2024,Wis.-Stout,home,W,1,0,False
+09/14/2024,Northwestern-St. Paul,W 3-0,183,09/14/2024,Northwestern-St. Paul,home,W,3,0,False
+09/18/2024,@ Bethel (MN),W 7-0,199,09/18/2024,Bethel (MN),away,W,7,0,False
+09/21/2024,St. Catherine,L 1-4,267,09/21/2024,St. Catherine,home,L,1,4,False
+09/28/2024,@ St. Scholastica,W 4-0,129,09/28/2024,St. Scholastica,away,W,4,0,False
+10/01/2024,Carleton,T 2-2,187,10/01/2024,Carleton,home,T,2,2,False
+10/05/2024,@ Macalester,W 1-0,283,10/05/2024,Macalester,away,W,1,0,False
+10/12/2024,Hamline,W 3-0,177,10/12/2024,Hamline,home,W,3,0,False
+10/16/2024,@ Saint Mary's (MN),L 0-2,126,10/16/2024,Saint Mary's (MN),away,L,0,2,False
+10/19/2024,Augsburg,W 3-0,183,10/19/2024,Augsburg,home,W,3,0,False
+10/22/2024,@ Gustavus Adolphus,T 2-2,131,10/22/2024,Gustavus Adolphus,away,T,2,2,False
+10/26/2024,Saint Benedict,W 2-1,338,10/26/2024,Saint Benedict,home,W,2,1,False
+10/29/2024,Wis.-Superior,W 1-0,113,10/29/2024,Wis.-Superior,home,W,1,0,False
+11/02/2024,Concordia-M'head,W 2-0,204,11/02/2024,Concordia-M'head,home,W,2,0,False
+11/04/2024,#5 Augsburg MIAC Women's Soccer Championship,W 1-0,115,11/04/2024,Augsburg,home,W,1,0,False
+11/07/2024,@ #1 St. Catherine MIAC Women's Soccer Championship,L 1-3,100,11/07/2024,St. Catherine,away,L,1,3,False

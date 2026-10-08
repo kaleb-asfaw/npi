@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Pitt.-Greensburg,W 4-0,212,09/01/2023,Pitt.-Greensburg,home,W,4,0,False
+09/03/2023,@ Oberlin,L 1-3,272,09/03/2023,Oberlin,away,L,1,3,False
+09/06/2023,@ Carnegie Mellon,L 0-9,50,09/06/2023,Carnegie Mellon,away,L,0,9,False
+09/09/2023,@ Mount Union,L 2-3,75,09/09/2023,Mount Union,away,L,2,3,False
+09/16/2023,@ Hiram,W 2-1,102,09/16/2023,Hiram,away,W,2,1,False
+09/20/2023,Waynesburg,L 0-1,200,09/20/2023,Waynesburg,home,L,0,1,False
+09/23/2023,@ Grove City,T 3-3,75,09/23/2023,Grove City,away,T,3,3,False
+09/26/2023,@ Thiel,W 9-0,70,09/26/2023,Thiel,away,W,9,0,False
+09/30/2023,Bethany (WV),W 6-0,150,09/30/2023,Bethany (WV),home,W,6,0,False
+10/04/2023,Westminster (PA),L 1-3,100,10/04/2023,Westminster (PA),home,L,1,3,False
+10/07/2023,@ Wash. & Jeff.,L 0-1,65,10/07/2023,Wash. & Jeff.,away,L,0,1,False
+10/11/2023,@ Chatham,W 4-1,100,10/11/2023,Chatham,away,W,4,1,False
+10/14/2023,@ Saint Vincent,L 0-4,76,10/14/2023,Saint Vincent,away,L,0,4,False
+10/18/2023,Geneva,W 5-0,80,10/18/2023,Geneva,home,W,5,0,False
+10/21/2023,Allegheny,W 3-0,50,10/21/2023,Allegheny,home,W,3,0,False
+10/28/2023,@ #3 Saint Vincent PAC Women's Soccer Championship,T 0-0 (3 OT),115,10/28/2023,Saint Vincent,away,T,0,0,True
+11/01/2023,@ #2 Westminster (PA) PAC Women's Soccer Championship,W 2-1,152,11/01/2023,Westminster (PA),away,W,2,1,False
+11/04/2023,@ #1 Grove City PAC Women's Soccer Championship,L 2-4,300,11/04/2023,Grove City,away,L,2,4,False

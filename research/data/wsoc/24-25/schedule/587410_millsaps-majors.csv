@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/31/2024,St. Thomas (TX),L 1-2,40,08/31/2024,St. Thomas (TX),home,L,1,2,False
+09/01/2024,@ Huntingdon,L 1-3,45,09/01/2024,Huntingdon,away,L,1,3,False
+09/06/2024,@ Dallas,L 1-4,35,09/06/2024,Dallas,away,L,1,4,False
+09/08/2024,@ Austin,L 0-1,162,09/08/2024,Austin,away,L,0,1,False
+09/10/2024,LeTourneau,T 2-2,30,09/10/2024,LeTourneau,home,T,2,2,False
+09/13/2024,Ozarks (AR),L 0-1,80,09/13/2024,Ozarks (AR),home,L,0,1,False
+09/15/2024,Tougaloo,W 12-0,50,09/15/2024,Tougaloo,home,W,12,0,False
+09/18/2024,Centenary (LA),W 1-0,30,09/18/2024,Centenary (LA),home,W,1,0,False
+09/24/2024,MUW,T 1-1,40,09/24/2024,MUW,home,T,1,1,False
+09/28/2024,@ Rhodes,L 0-8,100,09/28/2024,Rhodes,away,L,0,8,False
+10/04/2024,Hendrix,L 0-1,60,10/04/2024,Hendrix,home,L,0,1,False
+10/11/2024,@ Sewanee,L 0-6,393,10/11/2024,Sewanee,away,L,0,6,False
+10/13/2024,@ Centre,L 0-5,162,10/13/2024,Centre,away,L,0,5,False
+10/15/2024,@ Belhaven,L 0-2,116,10/15/2024,Belhaven,away,L,0,2,False
+10/18/2024,Berry,L 0-2,70,10/18/2024,Berry,home,L,0,2,False
+10/20/2024,Oglethorpe,L 0-4,125,10/20/2024,Oglethorpe,home,L,0,4,False
+10/25/2024,Huntingdon,L 0-1,40,10/25/2024,Huntingdon,home,L,0,1,False
+11/02/2024,@ #2 Rhodes SAA Women's Soccer Championship,L 0-5,87,11/02/2024,Rhodes,away,L,0,5,False

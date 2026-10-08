@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Wilkes,W 2-0,212,09/01/2022,Wilkes,home,W,2,0,False
+09/03/2022,@ Moravian,L 0-1,213,09/03/2022,Moravian,away,L,0,1,False
+09/07/2022,@ Neumann,W 1-0,254,09/07/2022,Neumann,away,W,1,0,False
+09/10/2022,Alvernia,W 2-0,196,09/10/2022,Alvernia,home,W,2,0,False
+09/12/2022,@ Albright,W 3-1,107,09/12/2022,Albright,away,W,3,1,False
+09/17/2022,TCNJ,L 2-6,192,09/17/2022,TCNJ,home,L,2,6,False
+09/21/2022,Lancaster Bible,W 9-1,221,09/21/2022,Lancaster Bible,home,W,9,1,False
+09/24/2022,@ Wells,W 11-0,50,09/24/2022,Wells,away,W,11,0,False
+09/28/2022,Arcadia,L 0-1,288,09/28/2022,Arcadia,home,L,0,1,False
+10/01/2022,Penn St. Harrisburg,T 0-0,165,10/01/2022,Penn St. Harrisburg,home,T,0,0,False
+10/05/2022,@ Penn St.-Abington,W 6-1,43,10/05/2022,Penn St.-Abington,away,W,6,1,False
+10/08/2022,Penn College,W 5-3,331,10/08/2022,Penn College,home,W,5,3,False
+10/09/2022,York (PA),T 2-2,208,10/09/2022,York (PA),home,T,2,2,False
+10/15/2022,@ Gallaudet,W 10-0,35,10/15/2022,Gallaudet,away,W,10,0,False
+10/19/2022,Johns Hopkins,L 0-4,144,10/19/2022,Johns Hopkins,home,L,0,4,False
+10/22/2022,St. Mary's (MD),W 2-0,172,10/22/2022,St. Mary's (MD),home,W,2,0,False
+10/26/2022,Scranton,L 1-2,212,10/26/2022,Scranton,home,L,1,2,False
+10/29/2022,@ SUNY Morrisville,W 5-0,52,10/29/2022,SUNY Morrisville,away,W,5,0,False
+11/04/2022,St. Mary's (MD) United East WSOC Championship,W 3-1,212,11/04/2022,St. Mary's (MD),home,W,3,1,False
+11/05/2022,Penn St. Harrisburg United East WSOC Championship,W 3-0 (2 OT),312,11/05/2022,Penn St. Harrisburg,home,W,3,0,True
+11/12/2022,"Messiah @Cortland, NY (NCAA Division III Women's Soccer Championship)",L 0-3,87,11/12/2022,Messiah,neutral,L,0,3,False

@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,CWRU,L 0-1,85,09/01/2021,CWRU,home,L,0,1,False
+09/05/2021,@ Carnegie Mellon,L 0-1,157,09/05/2021,Carnegie Mellon,away,L,0,1,False
+09/10/2021,Grove City,L 1-2 (2 OT),58,09/10/2021,Grove City,home,L,1,2,True
+09/11/2021,Mt. St. Joseph,L 0-1,130,09/11/2021,Mt. St. Joseph,home,L,0,1,False
+09/15/2021,Ohio Wesleyan,T 0-0 (2 OT),237,09/15/2021,Ohio Wesleyan,home,T,0,0,True
+09/18/2021,@ Hanover,L 0-4,142,09/18/2021,Hanover,away,L,0,4,False
+09/25/2021,@ Hope,L 0-1,122,09/25/2021,Hope,away,L,0,1,False
+09/28/2021,Wittenberg,W 1-0,330,09/28/2021,Wittenberg,home,W,1,0,False
+10/02/2021,Baldwin Wallace,W 3-0,225,10/02/2021,Baldwin Wallace,home,W,3,0,False
+10/06/2021,Heidelberg,W 1-0,170,10/06/2021,Heidelberg,home,W,1,0,False
+10/09/2021,@ John Carroll,W 2-1,122,10/09/2021,John Carroll,away,W,2,1,False
+10/13/2021,@ Marietta,W 2-0,188,10/13/2021,Marietta,away,W,2,0,False
+10/16/2021,Mount Union,W 2-0,185,10/16/2021,Mount Union,home,W,2,0,False
+10/20/2021,@ Muskingum,W 7-0,90,10/20/2021,Muskingum,away,W,7,0,False
+10/23/2021,Ohio Northern,T 3-3 (2 OT),252,10/23/2021,Ohio Northern,home,T,3,3,True
+10/27/2021,Wilmington (OH),W 3-0,175,10/27/2021,Wilmington (OH),home,W,3,0,False
+10/30/2021,@ Otterbein,L 0-1,125,10/30/2021,Otterbein,away,L,0,1,False
+11/02/2021,#6 Heidelberg OAC WSOC Championship,W 3-1,204,11/02/2021,Heidelberg,home,W,3,1,False
+11/04/2021,@ #2 Ohio Northern OAC WSOC Championship,L 1-2 (2 OT),146,11/04/2021,Ohio Northern,away,L,1,2,True
+11/04/2021,@ John Carroll,Ppd,,11/04/2021,John Carroll,away,,,,

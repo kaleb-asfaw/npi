@@ -1,0 +1,15 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Houghton,L 0-3,150,09/01/2021,Houghton,home,L,0,3,False
+09/04/2021,Saint Vincent,W 2-1,100,09/04/2021,Saint Vincent,home,W,2,1,False
+09/11/2021,Wells,W 8-0,120,09/11/2021,Wells,home,W,8,0,False
+09/12/2021,Elmira,W 2-1,84,09/12/2021,Elmira,home,W,2,1,False
+09/18/2021,@ Pitt.-Bradford,W 3-1,123,09/18/2021,Pitt.-Bradford,away,W,3,1,False
+09/22/2021,Penn College,L 0-1,73,09/22/2021,Penn College,home,L,0,1,False
+09/25/2021,@ Penn St.-Altoona,L 1-2 (2 OT),173,09/25/2021,Penn St.-Altoona,away,L,1,2,True
+09/29/2021,@ SUNY Geneseo,L 0-7,275,09/29/2021,SUNY Geneseo,away,L,0,7,False
+10/02/2021,Pitt.-Greensburg,L 0-4,120,10/02/2021,Pitt.-Greensburg,home,L,0,4,False
+10/12/2021,Medaille,L 0-1,104,10/12/2021,Medaille,home,L,0,1,False
+10/16/2021,Mount Aloysius,L 0-2,110,10/16/2021,Mount Aloysius,home,L,0,2,False
+10/20/2021,Penn St.-Behrend,L 0-3,127,10/20/2021,Penn St.-Behrend,home,L,0,3,False
+10/23/2021,@ La Roche,L 0-4,37,10/23/2021,La Roche,away,L,0,4,False
+10/26/2021,@ Hilbert,L 1-2,75,10/26/2021,Hilbert,away,L,1,2,False

@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ North Park,L 0-3,77,09/01/2023,North Park,away,L,0,3,False
+09/03/2023,@ Beloit,L 0-3,100,09/03/2023,Beloit,away,L,0,3,False
+09/06/2023,Monmouth (IL),T 2-2,53,09/06/2023,Monmouth (IL),home,T,2,2,False
+09/10/2023,Webster,L 2-3,79,09/10/2023,Webster,home,L,2,3,False
+09/13/2023,Concordia Wisconsin,W 2-0,133,09/13/2023,Concordia Wisconsin,home,W,2,0,False
+09/16/2023,St. Norbert,L 1-2,122,09/16/2023,St. Norbert,home,L,1,2,False
+09/20/2023,@ Dominican (IL),L 0-2,100,09/20/2023,Dominican (IL),away,L,0,2,False
+09/23/2023,@ Lakeland,W 5-1,63,09/23/2023,Lakeland,away,W,5,1,False
+09/27/2023,Edgewood,L 1-2,103,09/27/2023,Edgewood,home,L,1,2,False
+09/30/2023,Alverno,W 8-0,77,09/30/2023,Alverno,home,W,8,0,False
+10/02/2023,@ Lake Forest,T 4-4,97,10/02/2023,Lake Forest,away,T,4,4,False
+10/04/2023,@ Rockford,W 3-1,42,10/04/2023,Rockford,away,W,3,1,False
+10/07/2023,@ Wis. Lutheran,L 0-4,120,10/07/2023,Wis. Lutheran,away,L,0,4,False
+10/11/2023,@ Concordia Chicago,T 1-1,61,10/11/2023,Concordia Chicago,away,T,1,1,False
+10/14/2023,Marian (WI),L 0-3,141,10/14/2023,Marian (WI),home,L,0,3,False
+10/18/2023,@ Illinois Tech,L 1-6,71,10/18/2023,Illinois Tech,away,L,1,6,False
+10/21/2023,@ MSOE,L 0-4,142,10/21/2023,MSOE,away,L,0,4,False
+10/25/2023,@ Aurora,T 2-2,362,10/25/2023,Aurora,away,T,2,2,False

@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Clarkson,L 0-1,114,09/01/2023,Clarkson,away,L,0,1,False
+09/02/2023,@ St. Lawrence,L 1-2,215,09/02/2023,St. Lawrence,away,L,1,2,False
+09/06/2023,Dickinson,L 0-1,200,09/06/2023,Dickinson,home,L,0,1,False
+09/09/2023,Haverford,L 1-6,200,09/09/2023,Haverford,home,L,1,6,False
+09/13/2023,@ Susquehanna,L 0-3,203,09/13/2023,Susquehanna,away,L,0,3,False
+09/16/2023,Farmingdale St.,T 1-1,200,09/16/2023,Farmingdale St.,home,T,1,1,False
+09/20/2023,@ York (PA),L 1-3,367,09/20/2023,York (PA),away,L,1,3,False
+09/23/2023,Washington Col.,L 1-2,150,09/23/2023,Washington Col.,home,L,1,2,False
+09/27/2023,@ Muhlenberg,W 4-1,100,09/27/2023,Muhlenberg,away,W,4,1,False
+09/30/2023,Delaware Valley,W 4-2,150,09/30/2023,Delaware Valley,home,W,4,2,False
+10/03/2023,Messiah,L 1-7,175,10/03/2023,Messiah,home,L,1,7,False
+10/07/2023,@ Arcadia,L 0-4,99,10/07/2023,Arcadia,away,L,0,4,False
+10/11/2023,@ NYU,L 0-6,133,10/11/2023,NYU,away,L,0,6,False
+10/14/2023,@ Stevens,L 1-2,88,10/14/2023,Stevens,away,L,1,2,False
+10/17/2023,Lebanon Valley,W 4-0,150,10/17/2023,Lebanon Valley,home,W,4,0,False
+10/21/2023,FDU-Florham,W 3-1,200,10/21/2023,FDU-Florham,home,W,3,1,False
+10/25/2023,@ Misericordia,L 0-4,112,10/25/2023,Misericordia,away,L,0,4,False
+10/28/2023,@ King's (PA),W 2-0,275,10/28/2023,King's (PA),away,W,2,0,False
+10/31/2023,@ #1 Misericordia MAC Freedom Women's Soccer Championship,L 2-4 (2 OT),75,10/31/2023,Misericordia,away,L,2,4,True

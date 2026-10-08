@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Wash. & Jeff.,W 2-1,150,08/30/2024,Wash. & Jeff.,away,W,2,1,False
+09/04/2024,@ Hiram,W 2-1,143,09/04/2024,Hiram,away,W,2,1,False
+09/07/2024,Franklin,W 2-0,150,09/07/2024,Franklin,home,W,2,0,False
+09/11/2024,Oberlin,L 1-2,312,09/11/2024,Oberlin,home,L,1,2,False
+09/14/2024,@ Bluffton,L 1-2,150,09/14/2024,Bluffton,away,L,1,2,False
+09/18/2024,@ Earlham,L 0-2,116,09/18/2024,Earlham,away,L,0,2,False
+09/21/2024,Chatham,L 1-2,0,09/21/2024,Chatham,home,L,1,2,False
+10/01/2024,Wooster,L 0-5,92,10/01/2024,Wooster,home,L,0,5,False
+10/05/2024,@ John Carroll,L 3-5,178,10/05/2024,John Carroll,away,L,3,5,False
+10/09/2024,Wilmington (OH),L 0-4,110,10/09/2024,Wilmington (OH),home,L,0,4,False
+10/12/2024,Ohio Northern,L 0-6,106,10/12/2024,Ohio Northern,home,L,0,6,False
+10/16/2024,@ Mount Union,T 0-0,96,10/16/2024,Mount Union,away,T,0,0,False
+10/19/2024,@ Otterbein,L 0-5,247,10/19/2024,Otterbein,away,L,0,5,False
+10/23/2024,Marietta,L 1-2,167,10/23/2024,Marietta,home,L,1,2,False
+10/26/2024,Heidelberg,L 0-5,120,10/26/2024,Heidelberg,home,L,0,5,False
+10/30/2024,@ Capital,L 0-4,379,10/30/2024,Capital,away,L,0,4,False
+11/02/2024,Baldwin Wallace,L 0-3,0,11/02/2024,Baldwin Wallace,home,L,0,3,False

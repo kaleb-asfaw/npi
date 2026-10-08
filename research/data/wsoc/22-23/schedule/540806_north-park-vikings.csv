@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Benedictine (IL),W 2-0,200,09/01/2022,Benedictine (IL),home,W,2,0,False
+09/04/2022,@ Aurora,T 0-0,113,09/04/2022,Aurora,away,T,0,0,False
+09/08/2022,Wis.-Platteville,L 0-1,125,09/08/2022,Wis.-Platteville,home,L,0,1,False
+09/11/2022,Concordia Chicago,Ppd,,09/11/2022,Concordia Chicago,home,,,,
+09/14/2022,@ Hope,L 1-6,290,09/14/2022,Hope,away,L,1,6,False
+09/19/2022,Illinois Tech,L 2-3,45,09/19/2022,Illinois Tech,home,L,2,3,False
+09/21/2022,Ripon,W 4-0,35,09/21/2022,Ripon,home,W,4,0,False
+09/24/2022,@ Augustana (IL),T 1-1,80,09/24/2022,Augustana (IL),away,T,1,1,False
+09/26/2022,Dominican (IL),L 0-1,45,09/26/2022,Dominican (IL),home,L,0,1,False
+10/01/2022,@ Millikin,L 0-1,115,10/01/2022,Millikin,away,L,0,1,False
+10/05/2022,Elmhurst,W 3-0,40,10/05/2022,Elmhurst,home,W,3,0,False
+10/10/2022,@ Lake Forest,L 1-2,49,10/10/2022,Lake Forest,away,L,1,2,False
+10/12/2022,North Central (IL),L 1-6,55,10/12/2022,North Central (IL),home,L,1,6,False
+10/15/2022,Ill. Wesleyan,L 2-5,180,10/15/2022,Ill. Wesleyan,home,L,2,5,False
+10/19/2022,@ Carthage,L 0-1,84,10/19/2022,Carthage,away,L,0,1,False
+10/22/2022,Wheaton (IL),W 1-0,160,10/22/2022,Wheaton (IL),home,W,1,0,False
+10/26/2022,@ Carroll (WI),L 0-1,76,10/26/2022,Carroll (WI),away,L,0,1,False

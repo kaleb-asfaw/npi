@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Elizabethtown,W 2-1,79,09/01/2023,Elizabethtown,home,W,2,1,False
+09/02/2023,@ Rowan,L 0-3,113,09/02/2023,Rowan,away,L,0,3,False
+09/06/2023,Moravian,T 0-0,75,09/06/2023,Moravian,home,T,0,0,False
+09/09/2023,Catholic,T 0-0,100,09/09/2023,Catholic,home,T,0,0,False
+09/13/2023,FDU-Florham,W 1-0,115,09/13/2023,FDU-Florham,home,W,1,0,False
+09/16/2023,@ Johns Hopkins,L 0-3,220,09/16/2023,Johns Hopkins,away,L,0,3,False
+09/20/2023,@ Swarthmore,L 1-4,104,09/20/2023,Swarthmore,away,L,1,4,False
+09/23/2023,Dickinson,L 0-3,30,09/23/2023,Dickinson,home,L,0,3,False
+09/27/2023,DeSales,L 1-4,100,09/27/2023,DeSales,home,L,1,4,False
+09/30/2023,Gettysburg,L 0-1,100,09/30/2023,Gettysburg,home,L,0,1,False
+10/04/2023,@ Haverford,L 2-5,75,10/04/2023,Haverford,away,L,2,5,False
+10/07/2023,@ Franklin & Marshall,L 0-3,120,10/07/2023,Franklin & Marshall,away,L,0,3,False
+10/11/2023,Bryn Mawr,T 0-0,75,10/11/2023,Bryn Mawr,home,T,0,0,False
+10/14/2023,@ Penn St. Harrisburg,L 0-4,27,10/14/2023,Penn St. Harrisburg,away,L,0,4,False
+10/21/2023,Washington Col.,L 2-3,100,10/21/2023,Washington Col.,home,L,2,3,False
+10/25/2023,Ursinus,W 2-1,111,10/25/2023,Ursinus,home,W,2,1,False
+10/28/2023,@ McDaniel,L 0-1,888,10/28/2023,McDaniel,away,L,0,1,False

@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ William Smith,L 0-10,125,09/01/2021,William Smith,away,L,0,10,False
+09/04/2021,RIT,L 0-1,154,09/04/2021,RIT,home,L,0,1,False
+09/11/2021,Roanoke,L 0-2,127,09/11/2021,Roanoke,home,L,0,2,False
+09/12/2021,Penn St. Harrisburg,L 0-2,109,09/12/2021,Penn St. Harrisburg,home,L,0,2,False
+09/18/2021,@ Vassar,L 2-4,145,09/18/2021,Vassar,away,L,2,4,False
+09/24/2021,@ SUNY Geneseo,L 0-1,408,09/24/2021,SUNY Geneseo,away,L,0,1,False
+09/25/2021,@ SUNY Brockport,T 1-1 (2 OT),89,09/25/2021,SUNY Brockport,away,T,1,1,True
+10/01/2021,@ Plattsburgh St.,L 0-3,125,10/01/2021,Plattsburgh St.,away,L,0,3,False
+10/02/2021,@ SUNY Potsdam,L 0-1,175,10/02/2021,SUNY Potsdam,away,L,0,1,False
+10/09/2021,@ SUNY New Paltz,L 0-1,100,10/09/2021,SUNY New Paltz,away,L,0,1,False
+10/15/2021,Buffalo St.,W 3-0,109,10/15/2021,Buffalo St.,home,W,3,0,False
+10/16/2021,Fredonia,L 0-1,64,10/16/2021,Fredonia,home,L,0,1,False
+10/22/2021,Cortland,L 0-5,118,10/22/2021,Cortland,home,L,0,5,False
+10/23/2021,Oswego St.,W 2-1 (1 OT),0,10/23/2021,Oswego St.,home,W,2,1,True
+10/27/2021,Hartwick,W 3-0,103,10/27/2021,Hartwick,home,W,3,0,False

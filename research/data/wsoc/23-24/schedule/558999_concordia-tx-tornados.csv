@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2023,@ UTRGV,T 1-1,327,09/03/2023,UTRGV,away,T,1,1,False
+09/06/2023,Cal Lutheran,L 0-3,79,09/06/2023,Cal Lutheran,home,L,0,3,False
+09/09/2023,@ Texas A&M-Victoria,L 0-2,150,09/09/2023,@ Texas A&M-Victoria,home,L,0,2,False
+09/16/2023,St. Thomas (TX),T 1-1,144,09/16/2023,St. Thomas (TX),home,T,1,1,False
+09/20/2023,@ Trinity (TX),T 2-2,50,09/20/2023,Trinity (TX),away,T,2,2,False
+09/22/2023,@ Southwestern (TX),L 1-3,225,09/22/2023,Southwestern (TX),away,L,1,3,False
+09/25/2023,@ Texas Lutheran,T 1-1,130,09/25/2023,Texas Lutheran,away,T,1,1,False
+09/28/2023,LeTourneau,T 2-2,88,09/28/2023,LeTourneau,home,T,2,2,False
+09/30/2023,East Tex. Baptist,L 1-2,128,09/30/2023,East Tex. Baptist,home,L,1,2,False
+10/05/2023,@ Sul Ross St.,W 4-1,57,10/05/2023,Sul Ross St.,away,W,4,1,False
+10/07/2023,@ Howard Payne,T 0-0,310,10/07/2023,Howard Payne,away,T,0,0,False
+10/12/2023,UT Dallas,T 1-1,79,10/12/2023,UT Dallas,home,T,1,1,False
+10/14/2023,Ozarks (AR),W 1-0,177,10/14/2023,Ozarks (AR),home,W,1,0,False
+10/19/2023,@ McMurry,T 0-0,100,10/19/2023,McMurry,away,T,0,0,False
+10/21/2023,@ Hardin-Simmons,L 0-4,279,10/21/2023,Hardin-Simmons,away,L,0,4,False
+10/28/2023,@ Mary Hardin-Baylor,L 1-2,426,10/28/2023,Mary Hardin-Baylor,away,L,1,2,False

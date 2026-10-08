@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Union (NY),L 0-2,157,09/01/2022,Union (NY),away,L,0,2,False
+09/03/2022,Brooklyn,W 9-1,261,09/03/2022,Brooklyn,home,W,9,1,False
+09/04/2022,Franklin & Marshall,L 0-3,120,09/04/2022,Franklin & Marshall,home,L,0,3,False
+09/07/2022,@ John Jay,W 2-1,0,09/07/2022,John Jay,away,W,2,1,False
+09/10/2022,Arcadia,L 1-4,201,09/10/2022,Arcadia,home,L,1,4,False
+09/11/2022,Swarthmore,L 0-5,121,09/11/2022,Swarthmore,home,L,0,5,False
+09/14/2022,@ Albertus Magnus,W 1-0,100,09/14/2022,Albertus Magnus,away,W,1,0,False
+09/17/2022,@ King's (PA),T 1-1,100,09/17/2022,King's (PA),away,T,1,1,False
+09/19/2022,Sarah Lawrence,W 3-0,231,09/19/2022,Sarah Lawrence,home,W,3,0,False
+09/21/2022,FDU-Florham,L 0-2,123,09/21/2022,FDU-Florham,home,L,0,2,False
+09/24/2022,@ Stockton,W 4-1,120,09/24/2022,Stockton,away,W,4,1,False
+09/28/2022,Wm. Paterson,W 1-0,182,09/28/2022,Wm. Paterson,home,W,1,0,False
+10/04/2022,@ Rowan,L 0-2,50,10/04/2022,Rowan,away,L,0,2,False
+10/08/2022,TCNJ,L 0-5,123,10/08/2022,TCNJ,home,L,0,5,False
+10/12/2022,@ Montclair St.,L 0-3,287,10/12/2022,Montclair St.,away,L,0,3,False
+10/15/2022,Rutgers-Camden,T 1-1,157,10/15/2022,Rutgers-Camden,home,T,1,1,False
+10/19/2022,Ramapo,W 3-1,205,10/19/2022,Ramapo,home,W,3,1,False
+10/22/2022,@ Kean,T 0-0,250,10/22/2022,Kean,away,T,0,0,False
+10/26/2022,New Jersey City,T 1-1,153,10/26/2022,New Jersey City,home,T,1,1,False
+10/29/2022,#5 Rutgers-Camden NJAC WSOC Championship,T 1-1 (3 OT),182,10/29/2022,Rutgers-Camden,home,T,1,1,True

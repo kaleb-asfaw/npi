@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Keuka,W 3-0,235,08/30/2024,Keuka,away,W,3,0,False
+09/01/2024,SUNY Geneseo,L 0-4,250,09/01/2024,SUNY Geneseo,home,L,0,4,False
+09/04/2024,St. John Fisher,L 0-8,200,09/04/2024,St. John Fisher,home,L,0,8,False
+09/07/2024,@ Hilbert,W 2-0,134,09/07/2024,Hilbert,away,W,2,0,False
+09/11/2024,@ SUNY Brockport,L 0-2,94,09/11/2024,SUNY Brockport,away,L,0,2,False
+09/14/2024,Rochester (NY),L 0-6,60,09/14/2024,Rochester (NY),home,L,0,6,False
+09/17/2024,Houghton,W 4-2,75,09/17/2024,Houghton,home,W,4,2,False
+09/21/2024,St. Lawrence,L 1-3,65,09/21/2024,St. Lawrence,home,L,1,3,False
+09/28/2024,SUNY Potsdam,W 2-0,85,09/28/2024,SUNY Potsdam,home,W,2,0,False
+10/02/2024,@ SUNY Morrisville,W 6-1,27,10/02/2024,SUNY Morrisville,away,W,6,1,False
+10/05/2024,SUNY Canton,W 6-0,100,10/05/2024,SUNY Canton,home,W,6,0,False
+10/09/2024,Fredonia,L 0-1,100,10/09/2024,Fredonia,home,L,0,1,False
+10/12/2024,@ Plattsburgh St.,W 2-1,156,10/12/2024,Plattsburgh St.,away,W,2,1,False
+10/16/2024,@ SUNY Oneonta,W 1-0,128,10/16/2024,SUNY Oneonta,away,W,1,0,False
+10/19/2024,SUNY New Paltz,L 1-3,100,10/19/2024,SUNY New Paltz,home,L,1,3,False
+10/23/2024,@ Oswego St.,L 0-1,58,10/23/2024,Oswego St.,away,L,0,1,False
+10/26/2024,@ Cortland,L 0-7,373,10/26/2024,Cortland,away,L,0,7,False
+11/02/2024,@ #4 Fredonia SUNYAC Women's Soccer Championship,L 0-2,150,11/02/2024,Fredonia,away,L,0,2,False

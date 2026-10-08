@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Messiah,L 0-3,875,09/01/2023,Messiah,away,L,0,3,False
+09/02/2023,"Wash. & Lee @Mechanicsburg, PA",L 2-3,110,09/02/2023,Wash. & Lee,neutral,L,2,3,False
+09/09/2023,@ Northwest (WA),W 1-0,0,09/09/2023,@ Northwest (WA),home,W,1,0,False
+09/12/2023,UC Santa Cruz,W 2-1,90,09/12/2023,UC Santa Cruz,home,W,2,1,False
+09/16/2023,Whitman,W 2-0,200,09/16/2023,Whitman,home,W,2,0,False
+09/17/2023,Whitworth,W 3-1,100,09/17/2023,Whitworth,home,W,3,1,False
+09/23/2023,@ Willamette,W 2-0,100,09/23/2023,Willamette,away,W,2,0,False
+09/24/2023,@ Lewis & Clark,T 1-1,127,09/24/2023,Lewis & Clark,away,T,1,1,False
+09/29/2023,@ Pacific (OR),W 2-1,100,09/29/2023,Pacific (OR),away,W,2,1,False
+10/01/2023,@ George Fox,W 1-0,134,10/01/2023,George Fox,away,W,1,0,False
+10/04/2023,Pacific Lutheran,L 0-2,50,10/04/2023,Pacific Lutheran,home,L,0,2,False
+10/07/2023,Linfield,T 2-2,100,10/07/2023,Linfield,home,T,2,2,False
+10/14/2023,@ Whitman,W 1-0,126,10/14/2023,Whitman,away,W,1,0,False
+10/15/2023,@ Whitworth,L 0-2,205,10/15/2023,Whitworth,away,L,0,2,False
+10/21/2023,Willamette,L 2-3,50,10/21/2023,Willamette,home,L,2,3,False
+10/22/2023,Lewis & Clark,W 3-0,150,10/22/2023,Lewis & Clark,home,W,3,0,False
+10/28/2023,George Fox,W 2-0,200,10/28/2023,George Fox,home,W,2,0,False
+10/29/2023,Pacific (OR),W 5-0,200,10/29/2023,Pacific (OR),home,W,5,0,False
+11/01/2023,@ Pacific Lutheran,W 2-1,155,11/01/2023,Pacific Lutheran,away,W,2,1,False
+11/05/2023,@ Linfield,W 4-0,212,11/05/2023,Linfield,away,W,4,0,False

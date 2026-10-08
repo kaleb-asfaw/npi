@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/04/2023,@ Mount Holyoke,L 0-5,50,09/04/2023,Mount Holyoke,away,L,0,5,False
+09/09/2023,@ Suffolk,L 0-3,77,09/09/2023,Suffolk,away,L,0,3,False
+09/14/2023,Rivier,L 0-2,0,09/14/2023,Rivier,home,L,0,2,False
+09/16/2023,@ Westfield St.,L 0-5,0,09/16/2023,Westfield St.,away,L,0,5,False
+09/20/2023,@ Rhode Island Col.,L 1-2,225,09/20/2023,Rhode Island Col.,away,L,1,2,False
+09/23/2023,MCLA,W 2-1,91,09/23/2023,MCLA,home,W,2,1,False
+09/27/2023,Eastern Nazarene,T 1-1,0,09/27/2023,Eastern Nazarene,home,T,1,1,False
+09/30/2023,@ Salem St.,L 0-4,60,09/30/2023,Salem St.,away,L,0,4,False
+10/03/2023,@ Bay Path,W 13-2,0,10/03/2023,@ Bay Path,home,W,13,2,False
+10/06/2023,Fitchburg St.,T 1-1,76,10/06/2023,Fitchburg St.,home,T,1,1,False
+10/09/2023,@ Anna Maria,T 0-0,132,10/09/2023,Anna Maria,away,T,0,0,False
+10/14/2023,Bridgewater St.,L 0-7,57,10/14/2023,Bridgewater St.,home,L,0,7,False
+10/18/2023,Fisher,T 1-1,52,10/18/2023,Fisher,home,T,1,1,False
+10/21/2023,@ Framingham St.,T 0-0,77,10/21/2023,Framingham St.,away,T,0,0,False
+10/27/2023,@ Worcester St.,L 0-5,110,10/27/2023,Worcester St.,away,L,0,5,False
+10/31/2023,@ #3 Worcester St. MASCAC Women's Soccer Championship,L 0-1 (2 OT),65,10/31/2023,Worcester St.,away,L,0,1,True

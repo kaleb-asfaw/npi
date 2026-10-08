@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Pfeiffer,W 3-0,150,09/01/2023,Pfeiffer,home,W,3,0,False
+09/06/2023,@ Methodist,L 0-2,200,09/06/2023,Methodist,away,L,0,2,False
+09/09/2023,Mary Baldwin,L 0-2,150,09/09/2023,Mary Baldwin,home,L,0,2,False
+09/11/2023,Bob Jones,T 0-0,125,09/11/2023,Bob Jones,home,T,0,0,False
+09/14/2023,@ Randolph-Macon,L 0-3,245,09/14/2023,Randolph-Macon,away,L,0,3,False
+09/17/2023,@ Greensboro,T 1-1,124,09/17/2023,Greensboro,away,T,1,1,False
+09/19/2023,@ William Peace,W 3-2,53,09/19/2023,William Peace,away,W,3,2,False
+09/23/2023,@ Randolph,W 3-1,45,09/23/2023,Randolph,away,W,3,1,False
+09/27/2023,Sweet Briar,W 7-1,125,09/27/2023,Sweet Briar,home,W,7,1,False
+09/29/2023,Shenandoah,L 0-4,100,09/29/2023,Shenandoah,home,L,0,4,False
+10/04/2023,Lynchburg,L 0-4,125,10/04/2023,Lynchburg,home,L,0,4,False
+10/07/2023,@ Batten,L 0-3,138,10/07/2023,Batten,away,L,0,3,False
+10/10/2023,@ Ferrum,L 0-2,257,10/10/2023,Ferrum,away,L,0,2,False
+10/14/2023,Bridgewater (VA),L 0-6,175,10/14/2023,Bridgewater (VA),home,L,0,6,False
+10/18/2023,Hollins,W 10-0,150,10/18/2023,Hollins,home,W,10,0,False
+10/21/2023,East. Mennonite,W 2-1,125,10/21/2023,East. Mennonite,home,W,2,1,False
+10/25/2023,@ Roanoke,L 0-3,141,10/25/2023,Roanoke,away,L,0,3,False
+10/28/2023,@ Wash. & Lee,L 0-4,171,10/28/2023,Wash. & Lee,away,L,0,4,False

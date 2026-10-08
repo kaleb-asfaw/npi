@@ -1,0 +1,15 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2023,Elmhurst,L 0-1,185,09/03/2023,Elmhurst,home,L,0,1,False
+09/07/2023,Rochester Christian,L 0-2,80,09/07/2023,Rochester Christian,home,L,0,2,False
+09/10/2023,@ Wis.-Oshkosh,L 0-4,99,09/10/2023,Wis.-Oshkosh,away,L,0,4,False
+09/13/2023,@ Mich.-Dearborn,L 0-3,25,09/13/2023,@ Mich.-Dearborn,home,L,0,3,False
+09/16/2023,@ Lourdes,L 0-3,142,09/16/2023,@ Lourdes,home,L,0,3,False
+09/23/2023,@ Hiram,L 0-1,83,09/23/2023,Hiram,away,L,0,1,False
+09/26/2023,@ Calvin,L 0-8,89,09/26/2023,Calvin,away,L,0,8,False
+09/30/2023,Adrian,L 0-4,120,09/30/2023,Adrian,home,L,0,4,False
+10/04/2023,@ Albion,L 0-7,143,10/04/2023,Albion,away,L,0,7,False
+10/07/2023,Kalamazoo,L 0-5,115,10/07/2023,Kalamazoo,home,L,0,5,False
+10/14/2023,@ Alma,L 0-3,139,10/14/2023,Alma,away,L,0,3,False
+10/18/2023,St. Mary's (IN),L 1-2,95,10/18/2023,St. Mary's (IN),home,L,1,2,False
+10/21/2023,@ Hope,L 0-7,348,10/21/2023,Hope,away,L,0,7,False
+10/24/2023,Trine,L 0-2,150,10/24/2023,Trine,home,L,0,2,False

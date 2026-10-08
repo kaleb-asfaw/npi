@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2022,Mount Holyoke,W 3-0,300,09/03/2022,Mount Holyoke,home,W,3,0,False
+09/04/2022,Springfield,Ppd,,09/04/2022,Springfield,home,,,,
+09/07/2022,Southern Me.,L 0-5,150,09/07/2022,Southern Me.,home,L,0,5,False
+09/10/2022,"Kean @Madison, NJ",T 1-1,111,09/10/2022,Kean,neutral,T,1,1,False
+09/11/2022,"Coast Guard @Madison, NJ",W 1-0,50,09/11/2022,Coast Guard,neutral,W,1,0,False
+09/14/2022,Keene St.,W 6-0,125,09/14/2022,Keene St.,home,W,6,0,False
+09/17/2022,@ Framingham St.,W 5-0,110,09/17/2022,Framingham St.,away,W,5,0,False
+09/21/2022,Eastern Conn. St.,L 0-3,186,09/21/2022,Eastern Conn. St.,home,L,0,3,False
+09/23/2022,@ MCLA,W 6-0,200,09/23/2022,MCLA,away,W,6,0,False
+09/28/2022,@ Smith,W 4-2,50,09/28/2022,Smith,away,W,4,2,False
+10/01/2022,Worcester St.,W 3-2,120,10/01/2022,Worcester St.,home,W,3,2,False
+10/05/2022,@ Western New Eng.,L 0-1,132,10/05/2022,Western New Eng.,away,L,0,1,False
+10/07/2022,@ Mass. Maritime,W 3-0,119,10/07/2022,Mass. Maritime,away,W,3,0,False
+10/15/2022,Bridgewater St.,W 2-0,230,10/15/2022,Bridgewater St.,home,W,2,0,False
+10/18/2022,@ UMass Dartmouth,W 2-0,143,10/18/2022,UMass Dartmouth,away,W,2,0,False
+10/22/2022,Fitchburg St.,W 4-1,222,10/22/2022,Fitchburg St.,home,W,4,1,False
+10/26/2022,@ Plymouth St.,W 5-0,63,10/26/2022,Plymouth St.,away,W,5,0,False
+10/29/2022,@ Salem St.,W 6-1,100,10/29/2022,Salem St.,away,W,6,1,False
+11/04/2022,Worcester St. MASCAC WSOC Championship,W 2-0,322,11/04/2022,Worcester St.,home,W,2,0,False
+11/06/2022,Fitchburg St. MASCAC WSOC Championship,W 1-0,100,11/06/2022,Fitchburg St.,home,W,1,0,False
+11/12/2022,"Emerson @Scranton, PA (NCAA Division III Women's Soccer Championship)",W 2-1 (2 OT),156,11/12/2022,Emerson,neutral,W,2,1,True
+11/13/2022,"Scranton @Scranton, PA (NCAA Division III Women's Soccer Championship)",L 0-3,432,11/13/2022,Scranton,neutral,L,0,3,False

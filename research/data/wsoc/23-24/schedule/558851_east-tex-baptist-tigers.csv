@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/22/2023,Grambling,L 0-1 *,86,08/22/2023,Grambling,home,L,0,1,False
+09/01/2023,St. Thomas (TX),T 1-1,100,09/01/2023,St. Thomas (TX),home,T,1,1,False
+09/03/2023,@ Texas Lutheran,T 1-1,175,09/03/2023,Texas Lutheran,away,T,1,1,False
+09/07/2023,Millsaps,W 5-2,75,09/07/2023,Millsaps,home,W,5,2,False
+09/09/2023,Belhaven,W 2-1,75,09/09/2023,Belhaven,home,W,2,1,False
+09/12/2023,@ Dallas,W 2-0,142,09/12/2023,Dallas,away,W,2,0,False
+09/22/2023,UT Dallas,T 0-0,132,09/22/2023,UT Dallas,home,T,0,0,False
+09/28/2023,@ Mary Hardin-Baylor,L 0-2,304,09/28/2023,Mary Hardin-Baylor,away,L,0,2,False
+09/30/2023,@ Concordia (TX),W 2-1,128,09/30/2023,Concordia (TX),away,W,2,1,False
+10/05/2023,McMurry,W 2-0,35,10/05/2023,McMurry,home,W,2,0,False
+10/07/2023,Hardin-Simmons,L 1-4,65,10/07/2023,Hardin-Simmons,home,L,1,4,False
+10/14/2023,@ LeTourneau,T 3-3,237,10/14/2023,LeTourneau,away,T,3,3,False
+10/19/2023,UT Dallas,T 1-1,50,10/19/2023,UT Dallas,home,T,1,1,False
+10/21/2023,Ozarks (AR),L 0-2,120,10/21/2023,Ozarks (AR),home,L,0,2,False
+10/26/2023,@ Sul Ross St.,T 0-0,45,10/26/2023,Sul Ross St.,away,T,0,0,False
+10/28/2023,@ Howard Payne,L 1-2,340,10/28/2023,Howard Payne,away,L,1,2,False
+10/31/2023,@ #3 Howard Payne ASC Women's Soccer Championship,L 0-1,265,10/31/2023,Howard Payne,away,L,0,1,False

@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Wheaton (IL),W 6-3,261,08/30/2024,Wheaton (IL),away,W,6,3,False
+08/31/2024,"Carroll (WI) @Wheaton, IL",W 3-1,117,08/31/2024,Carroll (WI),neutral,W,3,1,False
+09/04/2024,Wis.-Whitewater,W 1-0,235,09/04/2024,Wis.-Whitewater,home,W,1,0,False
+09/08/2024,@ Simpson,L 1-4,138,09/08/2024,Simpson,away,L,1,4,False
+09/11/2024,Wis.-La Crosse,L 1-4,198,09/11/2024,Wis.-La Crosse,home,L,1,4,False
+09/14/2024,@ Wis.-Oshkosh,W 2-0,168,09/14/2024,Wis.-Oshkosh,away,W,2,0,False
+09/16/2024,@ Lake Forest,L 1-2,87,09/16/2024,Lake Forest,away,L,1,2,False
+09/21/2024,Edgewood,W 2-1,127,09/21/2024,Edgewood,home,W,2,1,False
+09/25/2024,@ Lakeland,W 6-0,48,09/25/2024,Lakeland,away,W,6,0,False
+09/28/2024,@ Illinois Tech,L 0-1,0,09/28/2024,Illinois Tech,away,L,0,1,False
+10/02/2024,Marian (WI),W 3-1,42,10/02/2024,Marian (WI),home,W,3,1,False
+10/05/2024,Dominican (IL),T 1-1,232,10/05/2024,Dominican (IL),home,T,1,1,False
+10/09/2024,Concordia Wisconsin,W 3-0,222,10/09/2024,Concordia Wisconsin,home,W,3,0,False
+10/13/2024,@ Concordia Chicago,W 5-0,104,10/13/2024,Concordia Chicago,away,W,5,0,False
+10/16/2024,@ Rockford,W 4-0,27,10/16/2024,Rockford,away,W,4,0,False
+10/19/2024,Aurora,W 5-0,145,10/19/2024,Aurora,home,W,5,0,False
+10/23/2024,@ St. Norbert,T 0-0,132,10/23/2024,St. Norbert,away,T,0,0,False
+10/26/2024,@ Benedictine (IL),W 4-0,87,10/26/2024,Benedictine (IL),away,W,4,0,False
+10/30/2024,Wis. Lutheran,W 6-0,139,10/30/2024,Wis. Lutheran,home,W,6,0,False
+11/02/2024,#7 Concordia Chicago NACC Women's Championship,W 3-1,122,11/02/2024,Concordia Chicago,home,W,3,1,False
+11/05/2024,#3 Dominican (IL) NACC Women's Championship,W 1-0,77,11/05/2024,Dominican (IL),home,W,1,0,False
+11/09/2024,@ #1 Illinois Tech NACC Women's Championship,L 1-6,125,11/09/2024,Illinois Tech,away,L,1,6,False

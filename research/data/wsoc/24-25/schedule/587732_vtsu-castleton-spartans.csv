@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2024,Norwich,W 2-0,387,09/01/2024,Norwich,home,W,2,0,False
+09/04/2024,Plattsburgh St.,L 0-1,354,09/04/2024,Plattsburgh St.,home,L,0,1,False
+09/08/2024,@ New England Col.,W 3-1,155,09/08/2024,New England Col.,away,W,3,1,False
+09/11/2024,@ Rensselaer,L 2-3,225,09/11/2024,Rensselaer,away,L,2,3,False
+09/14/2024,SUNY Potsdam,W 4-1,104,09/14/2024,SUNY Potsdam,home,W,4,1,False
+09/18/2024,@ MCLA,W 4-1,162,09/18/2024,MCLA,away,W,4,1,False
+09/21/2024,Rhode Island Col.,W 1-0,152,09/21/2024,Rhode Island Col.,home,W,1,0,False
+09/25/2024,Middlebury,L 0-5,48,09/25/2024,Middlebury,home,L,0,5,False
+09/28/2024,WestConn,L 0-1,143,09/28/2024,WestConn,home,L,0,1,False
+09/29/2024,@ Colby-Sawyer,L 0-2,25,09/29/2024,Colby-Sawyer,away,L,0,2,False
+10/02/2024,@ Keene St.,W 3-0,125,10/02/2024,Keene St.,away,W,3,0,False
+10/05/2024,@ Eastern Conn. St.,L 0-3,100,10/05/2024,Eastern Conn. St.,away,L,0,3,False
+10/08/2024,Westfield St.,T 2-2,78,10/08/2024,Westfield St.,home,T,2,2,False
+10/12/2024,Plymouth St.,W 1-0,124,10/12/2024,Plymouth St.,home,W,1,0,False
+10/16/2024,SUNY Cobleskill,Canceled,,10/16/2024,SUNY Cobleskill,home,,,,
+10/19/2024,@ UMass Dartmouth,L 1-2,93,10/19/2024,UMass Dartmouth,away,L,1,2,False
+10/20/2024,@ Williams,L 0-10,117,10/20/2024,Williams,away,L,0,10,False
+10/26/2024,UMass Boston,L 1-2,186,10/26/2024,UMass Boston,home,L,1,2,False
+10/30/2024,Bard,W 2-0,98,10/30/2024,Bard,home,W,2,0,False
+11/02/2024,@ Southern Me.,L 0-3,244,11/02/2024,Southern Me.,away,L,0,3,False
+11/05/2024,@ #4 Eastern Conn. St. Little East Women's Soccer Championship,W 1-0 (2 OT),200,11/05/2024,Eastern Conn. St.,away,W,1,0,True
+11/07/2024,@ #1 Southern Me. Little East Women's Soccer Championship,L 0-2,344,11/07/2024,Southern Me.,away,L,0,2,False

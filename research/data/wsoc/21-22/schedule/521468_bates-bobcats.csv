@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/07/2021,Maine Maritime,W 3-0,0,09/07/2021,Maine Maritime,home,W,3,0,False
+09/11/2021,Hamilton,L 1-4,150,09/11/2021,Hamilton,home,L,1,4,False
+09/14/2021,@ Husson,T 1-1 (2 OT),250,09/14/2021,Husson,away,T,1,1,True
+09/18/2021,Connecticut Col.,L 0-1,150,09/18/2021,Connecticut Col.,home,L,0,1,False
+09/22/2021,@ U New England,T 0-0 (2 OT),132,09/22/2021,U New England,away,T,0,0,True
+09/26/2021,@ St. Joseph's (ME),L 0-1 (1 OT),150,09/26/2021,St. Joseph's (ME),away,L,0,1,True
+10/02/2021,@ Tufts,L 0-3,200,10/02/2021,Tufts,away,L,0,3,False
+10/03/2021,@ Trinity (CT),W 1-0,100,10/03/2021,Trinity (CT),away,W,1,0,False
+10/09/2021,@ Middlebury,L 0-2,250,10/09/2021,Middlebury,away,L,0,2,False
+10/10/2021,@ Amherst,L 2-3,164,10/10/2021,Amherst,away,L,2,3,False
+10/13/2021,Thomas (ME),W 5-0,250,10/13/2021,Thomas (ME),home,W,5,0,False
+10/16/2021,Wesleyan (CT),L 0-3,200,10/16/2021,Wesleyan (CT),home,L,0,3,False
+10/20/2021,@ Bowdoin,L 0-3,0,10/20/2021,Bowdoin,away,L,0,3,False
+10/23/2021,Williams,L 0-1,100,10/23/2021,Williams,home,L,0,1,False
+10/26/2021,Colby,W 4-1,75,10/26/2021,Colby,home,W,4,1,False

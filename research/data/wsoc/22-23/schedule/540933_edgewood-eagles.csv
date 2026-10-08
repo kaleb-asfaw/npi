@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Wis.-Platteville,L 1-3,145,09/01/2022,Wis.-Platteville,home,L,1,3,False
+09/04/2022,@ Cornell College,W 2-0,75,09/04/2022,Cornell College,away,W,2,0,False
+09/06/2022,Ripon,W 2-0,121,09/06/2022,Ripon,home,W,2,0,False
+09/09/2022,@ Mount Mary,W 8-0,35,09/09/2022,Mount Mary,away,W,8,0,False
+09/11/2022,Wis.-Superior,W 4-0,101,09/11/2022,Wis.-Superior,home,W,4,0,False
+09/14/2022,MSOE,T 0-0,156,09/14/2022,MSOE,home,T,0,0,False
+09/17/2022,Concordia Chicago,W 4-0,156,09/17/2022,Concordia Chicago,home,W,4,0,False
+09/20/2022,@ Beloit,Ppd,,09/20/2022,Beloit,away,,,,
+09/21/2022,Rockford,W 1-0,112,09/21/2022,Rockford,home,W,1,0,False
+09/25/2022,@ Alverno,Canceled,,09/25/2022,Alverno,away,,,,
+09/28/2022,@ Wis. Lutheran,W 4-1,84,09/28/2022,Wis. Lutheran,away,W,4,1,False
+10/01/2022,Aurora,W 2-0,135,10/01/2022,Aurora,home,W,2,0,False
+10/05/2022,@ St. Norbert,W 1-0,125,10/05/2022,St. Norbert,away,W,1,0,False
+10/08/2022,@ Benedictine (IL),W 3-2,89,10/08/2022,Benedictine (IL),away,W,3,2,False
+10/12/2022,@ Lakeland,W 6-0,128,10/12/2022,Lakeland,away,W,6,0,False
+10/15/2022,Illinois Tech,L 0-5,132,10/15/2022,Illinois Tech,home,L,0,5,False
+10/19/2022,@ Concordia Wisconsin,L 0-1,158,10/19/2022,Concordia Wisconsin,away,L,0,1,False
+10/22/2022,@ Dominican (IL),L 0-4,100,10/22/2022,Dominican (IL),away,L,0,4,False
+10/26/2022,Marian (WI),T 1-1,137,10/26/2022,Marian (WI),home,T,1,1,False
+10/29/2022,@ #4 Concordia Wisconsin NACC WSOC Championship,L 0-6,317,10/29/2022,Concordia Wisconsin,away,L,0,6,False

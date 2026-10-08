@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,DePauw,L 0-10,75,09/01/2023,DePauw,home,L,0,10,False
+09/03/2023,Aurora,L 0-4,105,09/03/2023,Aurora,home,L,0,4,False
+09/06/2023,Huntington,L 0-9,40,09/06/2023,Huntington,home,L,0,9,False
+09/09/2023,Ind.-South Bend,L 0-4,60,09/09/2023,Ind.-South Bend,home,L,0,4,False
+09/13/2023,Wilmington (OH),L 0-5,65,09/13/2023,Wilmington (OH),home,L,0,5,False
+09/16/2023,@ Cleary,L 0-5,0,09/16/2023,@ Cleary,home,L,0,5,False
+09/19/2023,@ St. Francis (IN),L 0-5,57,09/19/2023,@ St. Francis (IN),home,L,0,5,False
+09/27/2023,@ Defiance,W 2-1,52,09/27/2023,Defiance,away,W,2,1,False
+09/30/2023,Transylvania,L 0-6,75,09/30/2023,Transylvania,home,L,0,6,False
+10/04/2023,Franklin,L 1-2,70,10/04/2023,Franklin,home,L,1,2,False
+10/07/2023,@ Hanover,L 0-5,1,10/07/2023,Hanover,away,L,0,5,False
+10/11/2023,@ Rose-Hulman,L 0-6,200,10/11/2023,Rose-Hulman,away,L,0,6,False
+10/14/2023,@ Earlham,L 0-4,256,10/14/2023,Earlham,away,L,0,4,False
+10/18/2023,Anderson (IN),L 1-4,75,10/18/2023,Anderson (IN),home,L,1,4,False
+10/21/2023,Mt. St. Joseph,L 0-3,100,10/21/2023,Mt. St. Joseph,home,L,0,3,False
+10/25/2023,@ Bluffton,W 2-1,75,10/25/2023,Bluffton,away,W,2,1,False

@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ MIT,L 0-3,204,08/30/2024,MIT,away,L,0,3,False
+09/04/2024,Regis (MA),W 3-1,100,09/04/2024,Regis (MA),home,W,3,1,False
+09/07/2024,@ Emerson,T 1-1,121,09/07/2024,Emerson,away,T,1,1,False
+09/11/2024,Salve Regina,W 3-2,200,09/11/2024,Salve Regina,home,W,3,2,False
+09/14/2024,@ Babson,L 0-1,200,09/14/2024,Babson,away,L,0,1,False
+09/17/2024,SUNY Potsdam,Canceled,,09/17/2024,SUNY Potsdam,home,,,,
+09/21/2024,Suffolk,W 2-1,137,09/21/2024,Suffolk,home,W,2,1,False
+09/25/2024,@ Salem St.,W 4-1,50,09/25/2024,Salem St.,away,W,4,1,False
+09/28/2024,Western New Eng.,W 3-0,179,09/28/2024,Western New Eng.,home,W,3,0,False
+10/02/2024,Bridgewater St.,L 1-3,203,10/02/2024,Bridgewater St.,home,L,1,3,False
+10/05/2024,Roger Williams,T 1-1,468,10/05/2024,Roger Williams,home,T,1,1,False
+10/09/2024,@ Rhode Island Col.,T 1-1,455,10/09/2024,Rhode Island Col.,away,T,1,1,False
+10/12/2024,@ Endicott,T 1-1,351,10/12/2024,Endicott,away,T,1,1,False
+10/15/2024,Curry,W 4-0,87,10/15/2024,Curry,home,W,4,0,False
+10/19/2024,@ Wentworth,W 5-1,342,10/19/2024,Wentworth,away,W,5,1,False
+10/23/2024,@ Nichols,W 5-1,144,10/23/2024,Nichols,away,W,5,1,False
+10/26/2024,U New England,T 3-3,204,10/26/2024,U New England,home,T,3,3,False
+10/29/2024,Hartford,L 0-3,159,10/29/2024,Hartford,home,L,0,3,False
+11/02/2024,#6 Roger Williams CNE Women's Soccer Championship,W 3-1,265,11/02/2024,Roger Williams,home,W,3,1,False
+11/05/2024,@ #2 U New England CNE Women's Soccer Championship,W 3-1,289,11/05/2024,U New England,away,W,3,1,False
+11/09/2024,@ #1 Hartford CNE Women's Soccer Championship,L 0-6,384,11/09/2024,Hartford,away,L,0,6,False
+11/16/2024,@ Messiah NCAA Division III Women's Soccer Championship,L 1-6,373,11/16/2024,Messiah,away,L,1,6,False

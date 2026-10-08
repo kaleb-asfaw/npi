@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Lycoming,L 0-7,87,09/01/2023,Lycoming,home,L,0,7,False
+09/02/2023,Juniata,L 0-5,118,09/02/2023,Juniata,home,L,0,5,False
+09/06/2023,@ Westminster (PA),L 0-11,103,09/06/2023,Westminster (PA),away,L,0,11,False
+09/10/2023,Saint Vincent,L 1-2,79,09/10/2023,Saint Vincent,home,L,1,2,False
+09/14/2023,@ Chatham,T 1-1,70,09/14/2023,Chatham,away,T,1,1,False
+09/16/2023,@ Wash. & Jeff.,L 1-6,75,09/16/2023,Wash. & Jeff.,away,L,1,6,False
+09/20/2023,@ Penn College,L 1-4,211,09/20/2023,Penn College,away,L,1,4,False
+09/23/2023,Wells,W 12-0,63,09/23/2023,Wells,home,W,12,0,False
+09/26/2023,@ La Roche,T 0-0,75,09/26/2023,La Roche,away,T,0,0,False
+09/30/2023,@ Alfred St.,W 3-1,63,09/30/2023,Alfred St.,away,W,3,1,False
+10/04/2023,Pitt.-Greensburg,L 0-4,91,10/04/2023,Pitt.-Greensburg,home,L,0,4,False
+10/07/2023,Hilbert,L 3-4,74,10/07/2023,Hilbert,home,L,3,4,False
+10/14/2023,@ Penn St.-Behrend,L 0-9,75,10/14/2023,Penn St.-Behrend,away,L,0,9,False
+10/18/2023,Carlow,W 3-1,48,10/18/2023,Carlow,home,W,3,1,False
+10/21/2023,Pitt.-Bradford,W 5-0,71,10/21/2023,Pitt.-Bradford,home,W,5,0,False
+10/24/2023,@ Mount Aloysius,L 0-2,117,10/24/2023,Mount Aloysius,away,L,0,2,False
+10/28/2023,@ #3 Hilbert AMCC Women's Soccer Championship,W 3-0,64,10/28/2023,Hilbert,away,W,3,0,False
+11/01/2023,@ #2 Pitt.-Greensburg AMCC Women's Soccer Championship,L 0-7,123,11/01/2023,Pitt.-Greensburg,away,L,0,7,False

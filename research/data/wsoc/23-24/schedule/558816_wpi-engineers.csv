@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Salem St.,W 7-1,70,09/01/2023,Salem St.,away,W,7,1,False
+09/02/2023,@ U New England,L 0-3,262,09/02/2023,U New England,away,L,0,3,False
+09/05/2023,Wesleyan (CT),L 0-1,243,09/05/2023,Wesleyan (CT),home,L,0,1,False
+09/09/2023,@ Union (NY),L 0-2,137,09/09/2023,Union (NY),away,L,0,2,False
+09/10/2023,Worcester St.,W 2-1,100,09/10/2023,Worcester St.,home,W,2,1,False
+09/16/2023,Wellesley,W 1-0,200,09/16/2023,Wellesley,home,W,1,0,False
+09/19/2023,@ Wheaton (MA),L 0-3,104,09/19/2023,Wheaton (MA),away,L,0,3,False
+09/21/2023,@ Roger Williams,W 2-0,273,09/21/2023,Roger Williams,away,W,2,0,False
+09/23/2023,Salve Regina,W 1-0,200,09/23/2023,Salve Regina,home,W,1,0,False
+09/27/2023,WestConn,W 3-0,200,09/27/2023,WestConn,home,W,3,0,False
+09/30/2023,@ Smith,T 0-0,25,09/30/2023,Smith,away,T,0,0,False
+10/04/2023,Babson,L 2-3,100,10/04/2023,Babson,home,L,2,3,False
+10/06/2023,Clark (MA),T 1-1,500,10/06/2023,Clark (MA),home,T,1,1,False
+10/14/2023,Coast Guard,T 1-1,200,10/14/2023,Coast Guard,home,T,1,1,False
+10/18/2023,@ Springfield,T 1-1,150,10/18/2023,Springfield,away,T,1,1,False
+10/21/2023,@ MIT,L 0-4,85,10/21/2023,MIT,away,L,0,4,False
+10/25/2023,Emerson,L 0-1,200,10/25/2023,Emerson,home,L,0,1,False
+10/28/2023,@ Mount Holyoke,W 3-0,65,10/28/2023,Mount Holyoke,away,W,3,0,False
+10/31/2023,@ #2 Babson NEWMAC Women's Soccer Championship,L 2-3,200,10/31/2023,Babson,away,L,2,3,False

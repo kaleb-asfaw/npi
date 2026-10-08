@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Mt. St. Joseph,W 2-1 (1 OT),121,09/01/2021,Mt. St. Joseph,home,W,2,1,True
+09/04/2021,North Central (IL) Centre Women's Soccer Invitational,W 2-0,173,09/04/2021,North Central (IL),home,W,2,0,False
+09/05/2021,Emory,T 0-0 (2 OT),207,09/05/2021,Emory,home,T,0,0,True
+09/08/2021,Asbury,W 4-0,105,09/08/2021,Asbury,home,W,4,0,False
+09/11/2021,@ Chris. Newport,L 1-2 (1 OT),403,09/11/2021,Chris. Newport,away,L,1,2,True
+09/12/2021,"Batten @Newport News, VA",W 1-0,102,09/12/2021,Batten,neutral,W,1,0,False
+09/15/2021,DePauw,W 9-0,70,09/15/2021,DePauw,home,W,9,0,False
+09/18/2021,@ Denison,W 3-1,120,09/18/2021,Denison,away,W,3,1,False
+09/22/2021,Wittenberg,Canceled,,09/22/2021,Wittenberg,home,,,,
+09/25/2021,@ Oglethorpe,W 9-0,125,09/25/2021,Oglethorpe,away,W,9,0,False
+09/26/2021,@ Piedmont,W 1-0,0,09/26/2021,Piedmont,away,W,1,0,False
+10/02/2021,Berry,W 2-1,155,10/02/2021,Berry,home,W,2,1,False
+10/08/2021,@ Millsaps,W 3-0,50,10/08/2021,Millsaps,away,W,3,0,False
+10/10/2021,@ Birmingham-So.,W 4-0,132,10/10/2021,Birmingham-So.,away,W,4,0,False
+10/15/2021,Rhodes,W 3-0,177,10/15/2021,Rhodes,home,W,3,0,False
+10/17/2021,Hendrix,W 3-0,201,10/17/2021,Hendrix,home,W,3,0,False
+10/23/2021,Sewanee,W 2-0,172,10/23/2021,Sewanee,home,W,2,0,False
+10/30/2021,#8 Oglethorpe SAA WSOC Championship,W 2-0,77,10/30/2021,Oglethorpe,home,W,2,0,False
+11/05/2021,#4 Sewanee SAA WSOC Championship,T 0-0 (3 OT),101,11/05/2021,Sewanee,home,T,0,0,True
+11/12/2021,Covenant NCAA Division III Women's Soccer Championship,W 3-1,221,11/12/2021,Covenant,home,W,3,1,False
+11/14/2021,Emory NCAA Division III Women's Soccer Championship,W 2-1 (1 OT),212,11/14/2021,Emory,home,W,2,1,True
+11/20/2021,@ Loras NCAA Division III Women's Soccer Championship,L 0-2,400,11/20/2021,Loras,away,L,0,2,False

@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,JWU (Charlotte),W 2-0,80,09/01/2022,JWU (Charlotte),home,W,2,0,False
+09/03/2022,@ Ferrum,W 3-0,75,09/03/2022,Ferrum,away,W,3,0,False
+09/06/2022,@ Guilford,L 1-2,128,09/06/2022,Guilford,away,L,1,2,False
+09/15/2022,CarolinaU,W 3-1,68,09/15/2022,CarolinaU,home,W,3,1,False
+09/17/2022,@ Hollins,W 7-0,115,09/17/2022,Hollins,away,W,7,0,False
+09/21/2022,@ Sweet Briar,Canceled,,09/21/2022,Sweet Briar,away,,,,
+09/25/2022,Washington Adventist,W 5-1,82,09/25/2022,Washington Adventist,home,W,5,1,False
+09/29/2022,Regent,W 11-1,56,09/29/2022,Regent,home,W,11,1,False
+10/01/2022,@ Mary Baldwin,Ppd,,10/01/2022,Mary Baldwin,away,,,,
+10/05/2022,Methodist,L 2-4,102,10/05/2022,Methodist,home,L,2,4,False
+10/08/2022,@ Greensboro,L 0-1,90,10/08/2022,Greensboro,away,L,0,1,False
+10/11/2022,Pfeiffer,W 2-1,67,10/11/2022,Pfeiffer,home,W,2,1,False
+10/13/2022,@ Mary Baldwin,L 1-2,25,10/13/2022,Mary Baldwin,away,L,1,2,False
+10/15/2022,Salem (NC),W 2-0,52,10/15/2022,Salem (NC),home,W,2,0,False
+10/19/2022,@ N.C. Wesleyan,W 3-2,0,10/19/2022,N.C. Wesleyan,away,W,3,2,False
+10/22/2022,Southern Va.,W 1-0,153,10/22/2022,Southern Va.,home,W,1,0,False
+10/25/2022,@ Meredith,W 3-1,0,10/25/2022,Meredith,away,W,3,1,False
+10/29/2022,@ Brevard,L 1-2,200,10/29/2022,Brevard,away,L,1,2,False
+11/01/2022,#5 Greensboro USA South WSOC Championship,L 0-1,78,11/01/2022,Greensboro,home,L,0,1,False

@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Stevenson,W 1-0,345,09/01/2022,Stevenson,away,W,1,0,False
+09/04/2022,Marymount (VA),W 4-0,103,09/04/2022,Marymount (VA),home,W,4,0,False
+09/07/2022,@ Hood,T 0-0,143,09/07/2022,Hood,away,T,0,0,False
+09/10/2022,Rutgers-Camden,W 2-0,119,09/10/2022,Rutgers-Camden,home,W,2,0,False
+09/14/2022,Salisbury,L 1-3,121,09/14/2022,Salisbury,home,L,1,3,False
+09/17/2022,@ Franklin & Marshall,T 0-0,89,09/17/2022,Franklin & Marshall,away,T,0,0,False
+09/21/2022,@ Haverford,T 0-0,103,09/21/2022,Haverford,away,T,0,0,False
+09/24/2022,Muhlenberg,W 2-1,268,09/24/2022,Muhlenberg,home,W,2,1,False
+10/01/2022,Ursinus,T 0-0,80,10/01/2022,Ursinus,home,T,0,0,False
+10/05/2022,@ Swarthmore,L 1-2,71,10/05/2022,Swarthmore,away,L,1,2,False
+10/08/2022,Johns Hopkins,L 0-3,200,10/08/2022,Johns Hopkins,home,L,0,3,False
+10/15/2022,Gettysburg,T 1-1,100,10/15/2022,Gettysburg,home,T,1,1,False
+10/17/2022,Stockton,T 1-1,0,10/17/2022,Stockton,home,T,1,1,False
+10/19/2022,Cabrini,W 5-0,72,10/19/2022,Cabrini,home,W,5,0,False
+10/22/2022,@ Bryn Mawr,W 2-1,93,10/22/2022,Bryn Mawr,away,W,2,1,False
+10/26/2022,@ McDaniel,L 1-2,223,10/26/2022,McDaniel,away,L,1,2,False
+10/29/2022,Dickinson,L 0-1,149,10/29/2022,Dickinson,home,L,0,1,False

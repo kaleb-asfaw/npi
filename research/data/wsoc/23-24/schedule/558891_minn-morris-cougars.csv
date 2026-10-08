@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Saint Mary's (MN),L 0-6,85,09/01/2023,Saint Mary's (MN),home,L,0,6,False
+09/03/2023,@ Augsburg,L 1-3,125,09/03/2023,Augsburg,away,L,1,3,False
+09/07/2023,@ UW-River Falls,L 0-11,155,09/07/2023,UW-River Falls,away,L,0,11,False
+09/09/2023,St. Catherine,L 0-5,80,09/09/2023,St. Catherine,home,L,0,5,False
+09/13/2023,@ Martin Luther,T 1-1 (1 OT),60,09/13/2023,Martin Luther,away,T,1,1,True
+09/16/2023,Wis.-Superior,L 2-5,60,09/16/2023,Wis.-Superior,home,L,2,5,False
+09/19/2023,@ Crown (MN),T 2-2,107,09/19/2023,Crown (MN),away,T,2,2,False
+09/24/2023,Northland,W 1-0,43,09/24/2023,Northland,home,W,1,0,False
+09/27/2023,North Central (MN),W 6-0,34,09/27/2023,North Central (MN),home,W,6,0,False
+09/30/2023,@ Northwestern-St. Paul,L 1-2,152,09/30/2023,Northwestern-St. Paul,away,L,1,2,False
+10/03/2023,Bethany Lutheran,L 0-4,42,10/03/2023,Bethany Lutheran,home,L,0,4,False
+10/07/2023,@ Wis.-Superior,L 0-4,128,10/07/2023,Wis.-Superior,away,L,0,4,False
+10/11/2023,Crown (MN),L 0-4,54,10/11/2023,Crown (MN),home,L,0,4,False
+10/14/2023,@ Northland,W 2-0,43,10/14/2023,Northland,away,W,2,0,False
+10/17/2023,Martin Luther,L 0-2,53,10/17/2023,Martin Luther,home,L,0,2,False
+10/21/2023,Northwestern-St. Paul,L 1-7,54,10/21/2023,Northwestern-St. Paul,home,L,1,7,False
+10/25/2023,@ North Central (MN),W 3-0,25,10/25/2023,North Central (MN),away,W,3,0,False
+10/28/2023,@ Bethany Lutheran,L 0-3,123,10/28/2023,Bethany Lutheran,away,L,0,3,False

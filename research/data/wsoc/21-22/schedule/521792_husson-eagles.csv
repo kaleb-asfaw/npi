@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Fisher,W 15-3,20,09/01/2021,@ Fisher,home,W,15,3,False
+09/04/2021,Southern Me.,L 0-5,225,09/04/2021,Southern Me.,home,L,0,5,False
+09/08/2021,Colby,L 0-3,200,09/08/2021,Colby,home,L,0,3,False
+09/11/2021,Me.-Farmington,W 4-0,300,09/11/2021,Me.-Farmington,home,W,4,0,False
+09/14/2021,Bates,T 1-1 (2 OT),250,09/14/2021,Bates,home,T,1,1,True
+09/18/2021,@ Thomas (ME),W 3-0,140,09/18/2021,Thomas (ME),away,W,3,0,False
+09/25/2021,@ SUNY Poly,W 6-1,91,09/25/2021,SUNY Poly,away,W,6,1,False
+09/26/2021,@ Cazenovia,W 8-0,45,09/26/2021,Cazenovia,away,W,8,0,False
+10/02/2021,@ Me.-Presque Isle,W 4-1,20,10/02/2021,Me.-Presque Isle,away,W,4,1,False
+10/03/2021,@ Me.-Fort Kent,T 1-1 (2 OT),0,10/03/2021,@ Me.-Fort Kent,home,T,1,1,True
+10/06/2021,@ Suffolk,L 1-4,86,10/06/2021,Suffolk,away,L,1,4,False
+10/09/2021,SUNY Canton,W 5-0,30,10/09/2021,SUNY Canton,home,W,5,0,False
+10/10/2021,VTSU-Johnson,W 12-0,200,10/10/2021,VTSU-Johnson,home,W,12,0,False
+10/16/2021,VTSU Lyndon,W 10-0,200,10/16/2021,VTSU Lyndon,home,W,10,0,False
+10/20/2021,Eastern Nazarene,W 5-0,150,10/20/2021,Eastern Nazarene,home,W,5,0,False
+10/23/2021,@ Maine Maritime,L 2-3,216,10/23/2021,Maine Maritime,away,L,2,3,False
+10/30/2021,"#3 Me.-Farmington @Maine, ME (North Atlantic Conference Tournament)",W 5-2,189,10/30/2021,Me.-Farmington,neutral,W,5,2,False
+10/31/2021,@ #1 Maine Maritime North Atlantic Conference Tournament,L 1-2,242,10/31/2021,Maine Maritime,away,L,1,2,False

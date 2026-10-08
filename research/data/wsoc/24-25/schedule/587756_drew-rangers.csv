@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Manhattanville,W 1-0,72,08/30/2024,Manhattanville,home,W,1,0,False
+09/03/2024,Stockton,L 0-1,62,09/03/2024,Stockton,home,L,0,1,False
+09/07/2024,King's (PA),T 1-1,50,09/07/2024,King's (PA),home,T,1,1,False
+09/08/2024,SUNY New Paltz,L 0-2,57,09/08/2024,SUNY New Paltz,home,L,0,2,False
+09/14/2024,Rensselaer,T 1-1,100,09/14/2024,Rensselaer,home,T,1,1,False
+09/18/2024,@ Ramapo,W 4-2,210,09/18/2024,Ramapo,away,W,4,2,False
+09/21/2024,@ Rowan,L 2-4,289,09/21/2024,Rowan,away,L,2,4,False
+09/24/2024,FDU-Florham,W 1-0,100,09/24/2024,FDU-Florham,home,W,1,0,False
+09/28/2024,@ Juniata,L 0-1,307,09/28/2024,Juniata,away,L,0,1,False
+10/01/2024,@ Delaware Valley,W 4-0,49,10/01/2024,Delaware Valley,away,W,4,0,False
+10/05/2024,@ Elizabethtown,T 0-0,145,10/05/2024,Elizabethtown,away,T,0,0,False
+10/09/2024,Wilkes,T 1-1,100,10/09/2024,Wilkes,home,T,1,1,False
+10/12/2024,Catholic,W 1-0,100,10/12/2024,Catholic,home,W,1,0,False
+10/16/2024,@ Moravian,W 2-1,101,10/16/2024,Moravian,away,W,2,1,False
+10/19/2024,@ Goucher,W 3-0,188,10/19/2024,Goucher,away,W,3,0,False
+10/23/2024,@ Scranton,L 0-2,256,10/23/2024,Scranton,away,L,0,2,False
+10/26/2024,Lycoming,L 1-3,100,10/26/2024,Lycoming,home,L,1,3,False
+11/02/2024,Susquehanna,W 2-1,171,11/02/2024,Susquehanna,home,W,2,1,False
+11/05/2024,#5 Catholic Landmark Women's Soccer Championship,W 2-1,142,11/05/2024,Catholic,home,W,2,1,False
+11/07/2024,@ #1 Scranton Landmark Women's Soccer Championship,L 0-5,189,11/07/2024,Scranton,away,L,0,5,False

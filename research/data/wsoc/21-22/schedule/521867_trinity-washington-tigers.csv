@@ -1,0 +1,12 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/08/2021,Hollins,W 3-0,47,09/08/2021,Hollins,home,W,3,0,False
+09/15/2021,@ Sweet Briar,L 0-3,25,09/15/2021,Sweet Briar,away,L,0,3,False
+09/17/2021,@ Cairn,L 0-6,68,09/17/2021,Cairn,away,L,0,6,False
+09/22/2021,@ Wilson,L 1-2,67,09/22/2021,Wilson,away,L,1,2,False
+09/25/2021,@ Penn St.-Mont Alto,L 2-4,100,09/25/2021,@ Penn St.-Mont Alto,home,L,2,4,False
+09/29/2021,Gallaudet,L 2-3,42,09/29/2021,Gallaudet,home,L,2,3,False
+10/02/2021,@ York (NY),W 3-0,0,10/02/2021,York (NY),away,W,3,0,False
+10/13/2021,Regent,T 0-0,0,10/13/2021,Regent,home,T,0,0,False
+10/20/2021,Lincoln (PA),W 4-2,0,10/20/2021,Lincoln (PA),home,W,4,2,False
+10/21/2021,@ Bryn Athyn,Canceled,,10/21/2021,Bryn Athyn,away,,,,
+10/22/2021,@ Gallaudet,L 1-2 (1 OT),104,10/22/2021,Gallaudet,away,L,1,2,True
