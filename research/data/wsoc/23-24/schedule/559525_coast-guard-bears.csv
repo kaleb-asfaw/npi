@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Merchant Marine,W 4-1,600,09/01/2023,Merchant Marine,away,W,4,1,False
+09/05/2023,@ UMass Boston,L 3-4,200,09/05/2023,UMass Boston,away,L,3,4,False
+09/09/2023,@ Drew,L 1-3,90,09/09/2023,Drew,away,L,1,3,False
+09/10/2023,"Stockton @Madison, NJ",L 0-1,57,09/10/2023,Stockton,neutral,L,0,1,False
+09/13/2023,Connecticut Col.,L 0-3,35,09/13/2023,Connecticut Col.,home,L,0,3,False
+09/15/2023,@ Clark (MA),L 0-1,103,09/15/2023,Clark (MA),away,L,0,1,False
+09/18/2023,Eastern Conn. St.,L 1-3,25,09/18/2023,Eastern Conn. St.,home,L,1,3,False
+09/23/2023,@ Babson,L 0-2,275,09/23/2023,Babson,away,L,0,2,False
+09/27/2023,Trinity (CT),L 0-1,47,09/27/2023,Trinity (CT),home,L,0,1,False
+09/29/2023,Emerson,W 1-0,85,09/29/2023,Emerson,home,W,1,0,False
+10/04/2023,@ Springfield,L 0-2,200,10/04/2023,Springfield,away,L,0,2,False
+10/07/2023,Wellesley,T 0-0,30,10/07/2023,Wellesley,home,T,0,0,False
+10/11/2023,MIT,L 1-3,39,10/11/2023,MIT,home,L,1,3,False
+10/14/2023,@ WPI,T 1-1,200,10/14/2023,WPI,away,T,1,1,False
+10/18/2023,Smith,W 1-0,32,10/18/2023,Smith,home,W,1,0,False
+10/21/2023,@ Mount Holyoke,W 2-1,52,10/21/2023,Mount Holyoke,away,W,2,1,False
+10/25/2023,Salve Regina,T 2-2,60,10/25/2023,Salve Regina,home,T,2,2,False
+10/28/2023,Wheaton (MA),T 1-1,55,10/28/2023,Wheaton (MA),home,T,1,1,False
+10/31/2023,@ #3 Emerson NEWMAC Women's Soccer Championship,L 1-2,100,10/31/2023,Emerson,away,L,1,2,False

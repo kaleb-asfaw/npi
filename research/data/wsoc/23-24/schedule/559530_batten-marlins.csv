@@ -1,0 +1,24 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Southwestern (TX),W 1-0,153,09/01/2023,Southwestern (TX),home,W,1,0,False
+09/03/2023,Wis.-Oshkosh,W 5-2,79,09/03/2023,Wis.-Oshkosh,home,W,5,2,False
+09/08/2023,"Pacific Lutheran @Newport News, VA",L 0-2,101,09/08/2023,Pacific Lutheran,neutral,L,0,2,False
+09/12/2023,@ Chris. Newport,L 0-2,512,09/12/2023,Chris. Newport,away,L,0,2,False
+09/16/2023,Mary Washington,W 3-0,200,09/16/2023,Mary Washington,home,W,3,0,False
+09/20/2023,@ Salisbury,W 1-0,67,09/20/2023,Salisbury,away,W,1,0,False
+09/22/2023,@ Ferrum,W 3-0,120,09/22/2023,Ferrum,away,W,3,0,False
+09/24/2023,"Wis.-La Crosse @Newport News, VA",L 0-1,118,09/24/2023,Wis.-La Crosse,neutral,L,0,1,False
+09/30/2023,@ Guilford,W 3-0,222,09/30/2023,Guilford,away,W,3,0,False
+10/04/2023,Randolph-Macon,W 3-0,118,10/04/2023,Randolph-Macon,home,W,3,0,False
+10/07/2023,Averett,W 3-0,138,10/07/2023,Averett,home,W,3,0,False
+10/11/2023,@ Lynchburg,T 0-0,0,10/11/2023,Lynchburg,away,T,0,0,False
+10/14/2023,@ Randolph,W 6-0,210,10/14/2023,Randolph,away,W,6,0,False
+10/17/2023,Shenandoah,W 1-0,175,10/17/2023,Shenandoah,home,W,1,0,False
+10/21/2023,Wash. & Lee,W 2-1,188,10/21/2023,Wash. & Lee,home,W,2,1,False
+10/25/2023,@ East. Mennonite,W 5-0,104,10/25/2023,East. Mennonite,away,W,5,0,False
+10/28/2023,Hollins,W 9-0,166,10/28/2023,Hollins,home,W,9,0,False
+10/31/2023,#8 Shenandoah ODAC Women's Soccer Championship,W 1-0,147,10/31/2023,Shenandoah,home,W,1,0,False
+11/03/2023,#4 Bridgewater (VA) ODAC Women's Soccer Championship,W 2-0,187,11/03/2023,Bridgewater (VA),home,W,2,0,False
+11/05/2023,#3 Wash. & Lee ODAC Women's Soccer Championship,W 1-0,150,11/05/2023,Wash. & Lee,home,W,1,0,False
+11/11/2023,Montclair St. NCAA Division III Women's Soccer Championship,T 2-2 (3 OT),160,11/11/2023,Montclair St.,home,T,2,2,True
+11/12/2023,Johns Hopkins NCAA Division III Women's Soccer Championship,W 2-1,210,11/12/2023,Johns Hopkins,home,W,2,1,False
+11/18/2023,@ Chris. Newport NCAA Division III Women's Soccer Championship,L 0-1 (2 OT),"1,000",11/18/2023,Chris. Newport,away,L,0,1,True

@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ North Park,T 1-1 (2 OT),90,09/01/2021,North Park,away,T,1,1,True
+09/04/2021,@ Calvin,L 1-4,88,09/04/2021,Calvin,away,L,1,4,False
+09/08/2021,@ St. Mary's (IN),L 0-2,117,09/08/2021,St. Mary's (IN),away,L,0,2,False
+09/11/2021,North Central (IL),L 1-2 (2 OT),147,09/11/2021,North Central (IL),home,L,1,2,True
+09/15/2021,Concordia Wisconsin,L 0-8,143,09/15/2021,Concordia Wisconsin,home,L,0,8,False
+09/18/2021,St. Norbert,L 2-5,172,09/18/2021,St. Norbert,home,L,2,5,False
+09/22/2021,Concordia Chicago,T 0-0 (2 OT),72,09/22/2021,Concordia Chicago,home,T,0,0,True
+09/25/2021,@ Lakeland,W 2-1,68,09/25/2021,Lakeland,away,W,2,1,False
+09/29/2021,Alverno,Canceled,,09/29/2021,Alverno,home,,,,
+10/02/2021,Edgewood,W 3-0,31,10/02/2021,Edgewood,home,W,3,0,False
+10/06/2021,Illinois Tech,L 0-4,43,10/06/2021,Illinois Tech,home,L,0,4,False
+10/10/2021,@ Wis. Lutheran,T 1-1 (2 OT),63,10/10/2021,Wis. Lutheran,away,T,1,1,True
+10/13/2021,@ Dominican (IL),L 0-1,221,10/13/2021,Dominican (IL),away,L,0,1,False
+10/16/2021,Marian (WI),L 3-4 (1 OT),184,10/16/2021,Marian (WI),home,L,3,4,True
+10/20/2021,@ Rockford,W 3-1,55,10/20/2021,Rockford,away,W,3,1,False
+10/23/2021,@ MSOE,L 0-4,175,10/23/2021,MSOE,away,L,0,4,False
+10/27/2021,@ Benedictine (IL),W 1-0,88,10/27/2021,Benedictine (IL),away,W,1,0,False

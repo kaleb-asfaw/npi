@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Utica,L 0-7,150,08/30/2024,Utica,away,L,0,7,False
+09/03/2024,Hartwick,L 0-3,80,09/03/2024,Hartwick,home,L,0,3,False
+09/07/2024,Alfred St.,T 0-0,95,09/07/2024,Alfred St.,home,T,0,0,False
+09/11/2024,SUNY ESF,T 3-3,57,09/11/2024,SUNY ESF,home,T,3,3,False
+09/14/2024,Bry. & Strat. (Roc.),Canceled,,09/14/2024,Bry. & Strat. (Roc.),home,,,,
+09/17/2024,@ SUNY Cobleskill,Canceled,,09/17/2024,SUNY Cobleskill,away,,,,
+09/22/2024,Hamilton,L 0-8,103,09/22/2024,Hamilton,home,L,0,8,False
+09/24/2024,SUNY Delhi,L 1-2,86,09/24/2024,SUNY Delhi,home,L,1,2,False
+09/28/2024,Plattsburgh St.,L 0-5,91,09/28/2024,Plattsburgh St.,home,L,0,5,False
+10/02/2024,Buffalo St.,L 1-6,27,10/02/2024,Buffalo St.,home,L,1,6,False
+10/05/2024,@ Oswego St.,L 0-12,167,10/05/2024,Oswego St.,away,L,0,12,False
+10/09/2024,SUNY New Paltz,L 0-7,42,10/09/2024,SUNY New Paltz,home,L,0,7,False
+10/12/2024,@ SUNY Oneonta,L 0-4,252,10/12/2024,SUNY Oneonta,away,L,0,4,False
+10/16/2024,SUNY Canton,W 2-1,42,10/16/2024,SUNY Canton,home,W,2,1,False
+10/19/2024,@ Cortland,L 0-7,164,10/19/2024,Cortland,away,L,0,7,False
+10/23/2024,@ Fredonia,L 0-4,35,10/23/2024,Fredonia,away,L,0,4,False
+10/26/2024,@ SUNY Potsdam,L 1-2,163,10/26/2024,SUNY Potsdam,away,L,1,2,False

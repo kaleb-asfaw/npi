@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Trine,T 0-0,153,09/01/2023,Trine,home,T,0,0,False
+09/02/2023,Wis.-Eau Claire,T 2-2,222,09/02/2023,Wis.-Eau Claire,home,T,2,2,False
+09/08/2023,@ RIT,L 0-1,250,09/08/2023,RIT,away,L,0,1,False
+09/09/2023,@ Nazareth,L 1-2,188,09/09/2023,Nazareth,away,L,1,2,False
+09/13/2023,@ UChicago,L 0-4,181,09/13/2023,UChicago,away,L,0,4,False
+09/16/2023,Wis.-La Crosse,L 1-3,234,09/16/2023,Wis.-La Crosse,home,L,1,3,False
+09/20/2023,Hope,T 1-1,117,09/20/2023,Hope,home,T,1,1,False
+09/23/2023,@ Oberlin,W 4-2,57,09/23/2023,Oberlin,away,W,4,2,False
+09/27/2023,Wis.-Whitewater,L 2-3,207,09/27/2023,Wis.-Whitewater,home,L,2,3,False
+09/30/2023,Ill. Wesleyan,W 2-1,237,09/30/2023,Ill. Wesleyan,home,W,2,1,False
+10/04/2023,North Central (IL),L 0-4,137,10/04/2023,North Central (IL),home,L,0,4,False
+10/07/2023,@ Elmhurst,W 2-0,80,10/07/2023,Elmhurst,away,W,2,0,False
+10/11/2023,@ Carroll (WI),T 1-1,124,10/11/2023,Carroll (WI),away,T,1,1,False
+10/14/2023,@ Carthage,W 2-0,182,10/14/2023,Carthage,away,W,2,0,False
+10/18/2023,@ Augustana (IL),W 3-1,61,10/18/2023,Augustana (IL),away,W,3,1,False
+10/21/2023,North Park,W 1-0,183,10/21/2023,North Park,home,W,1,0,False
+10/25/2023,Millikin,T 2-2,135,10/25/2023,Millikin,home,T,2,2,False
+11/01/2023,#3 Carroll (WI) CCIW Women's Soccer Championship,L 0-2,147,11/01/2023,Carroll (WI),home,L,0,2,False

@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Dickinson,L 0-5,135,09/01/2023,Dickinson,home,L,0,5,False
+09/02/2023,Greensboro,T 0-0,75,09/02/2023,Greensboro,home,T,0,0,False
+09/06/2023,@ Hood,L 0-1,213,09/06/2023,Hood,away,L,0,1,False
+09/09/2023,"Randolph-Macon @Salisbury, MD",W 1-0,50,09/09/2023,Randolph-Macon,neutral,W,1,0,False
+09/10/2023,"Mt. St. Mary (NY) @Salisbury, MD",W 1-0,56,09/10/2023,Mt. St. Mary (NY),neutral,W,1,0,False
+09/13/2023,@ Stevenson,T 1-1,107,09/13/2023,Stevenson,away,T,1,1,False
+09/16/2023,@ Penn St.-Abington,W 1-0,94,09/16/2023,Penn St.-Abington,away,W,1,0,False
+09/20/2023,Catholic,L 0-2,156,09/20/2023,Catholic,home,L,0,2,False
+09/30/2023,@ Lancaster Bible,L 0-1,389,09/30/2023,Lancaster Bible,away,L,0,1,False
+10/07/2023,Penn St. Harrisburg,L 0-1,98,10/07/2023,Penn St. Harrisburg,home,L,0,1,False
+10/11/2023,@ Mary Washington,L 0-2,132,10/11/2023,Mary Washington,away,L,0,2,False
+10/14/2023,@ Penn College,T 0-0,115,10/14/2023,Penn College,away,T,0,0,False
+10/17/2023,Gallaudet,W 9-0,25,10/17/2023,Gallaudet,home,W,9,0,False
+10/18/2023,Bryn Mawr,W 2-0,100,10/18/2023,Bryn Mawr,home,W,2,0,False
+10/21/2023,Penn St.-Berks,W 1-0,189,10/21/2023,Penn St.-Berks,home,W,1,0,False
+10/25/2023,@ Salisbury,L 0-2,73,10/25/2023,Salisbury,away,L,0,2,False
+10/28/2023,@ #4 Lancaster Bible United East Women's Soccer Championship,W 3-0,149,10/28/2023,Lancaster Bible,away,W,3,0,False
+10/31/2023,@ #1 Penn St.-Berks United East Women's Soccer Championship,L 0-1,122,10/31/2023,Penn St.-Berks,away,L,0,1,False

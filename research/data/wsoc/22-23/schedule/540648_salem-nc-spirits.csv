@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2022,@ Regent,W 9-0,0,09/03/2022,@ Regent,home,W,9,0,False
+09/06/2022,Sweet Briar,W 8-0,58,09/06/2022,Sweet Briar,home,W,8,0,False
+09/08/2022,@ Averett,L 1-2,85,09/08/2022,Averett,away,L,1,2,False
+09/10/2022,JWU (Charlotte),W 3-0,87,09/10/2022,JWU (Charlotte),home,W,3,0,False
+09/14/2022,Randolph,L 0-1,40,09/14/2022,Randolph,home,L,0,1,False
+09/16/2022,@ LaGrange,L 0-1,71,09/16/2022,LaGrange,away,L,0,1,False
+09/18/2022,@ Agnes Scott,W 4-1,45,09/18/2022,Agnes Scott,away,W,4,1,False
+09/24/2022,CarolinaU,L 0-1,127,09/24/2022,CarolinaU,home,L,0,1,False
+09/29/2022,Methodist,L 0-9,102,09/29/2022,Methodist,home,L,0,9,False
+10/05/2022,@ Mary Baldwin,W 1-0,25,10/05/2022,Mary Baldwin,away,W,1,0,False
+10/08/2022,Meredith,T 2-2,55,10/08/2022,Meredith,home,T,2,2,False
+10/11/2022,Southern Va.,L 2-4,50,10/11/2022,Southern Va.,home,L,2,4,False
+10/15/2022,@ William Peace,L 0-2,52,10/15/2022,William Peace,away,L,0,2,False
+10/19/2022,@ Brevard,L 0-1,112,10/19/2022,Brevard,away,L,0,1,False
+10/22/2022,Pfeiffer,W 2-1,128,10/22/2022,Pfeiffer,home,W,2,1,False
+10/25/2022,N.C. Wesleyan,L 1-3,77,10/25/2022,N.C. Wesleyan,home,L,1,3,False
+10/29/2022,@ Greensboro,T 0-0,100,10/29/2022,Greensboro,away,T,0,0,False
+11/01/2022,@ #1 Methodist USA South WSOC Championship,L 2-5,167,11/01/2022,Methodist,away,L,2,5,False

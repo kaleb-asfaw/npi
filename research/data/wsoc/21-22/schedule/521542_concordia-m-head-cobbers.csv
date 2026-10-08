@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Wis.-Stout,L 0-1,75,09/01/2021,Wis.-Stout,away,L,0,1,False
+09/03/2021,Wis.-Eau Claire,L 1-4,101,09/03/2021,Wis.-Eau Claire,home,L,1,4,False
+09/05/2021,Loras,L 0-5,105,09/05/2021,Loras,home,L,0,5,False
+09/08/2021,Minn.-Crookston,W 3-1,95,09/08/2021,Minn.-Crookston,home,W,3,1,False
+09/10/2021,Minn.-Morris,W 6-0,155,09/10/2021,Minn.-Morris,home,W,6,0,False
+09/12/2021,Neb. Wesleyan,W 2-0,225,09/12/2021,Neb. Wesleyan,home,W,2,0,False
+09/15/2021,@ Macalester,L 0-1,104,09/15/2021,Macalester,away,L,0,1,False
+09/18/2021,St. Scholastica,L 1-2,225,09/18/2021,St. Scholastica,home,L,1,2,False
+09/25/2021,@ Carleton,L 1-3,243,09/25/2021,Carleton,away,L,1,3,False
+09/29/2021,Saint Benedict,L 0-1,165,09/29/2021,Saint Benedict,home,L,0,1,False
+10/02/2021,@ Saint Mary's (MN),L 0-1,30,10/02/2021,Saint Mary's (MN),away,L,0,1,False
+10/09/2021,Gustavus Adolphus,L 1-2,123,10/09/2021,Gustavus Adolphus,home,L,1,2,False
+10/12/2021,@ St. Catherine,L 2-3,74,10/12/2021,St. Catherine,away,L,2,3,False
+10/16/2021,@ Augsburg,L 1-3,150,10/16/2021,Augsburg,away,L,1,3,False
+10/23/2021,St. Olaf,L 2-3,0,10/23/2021,St. Olaf,home,L,2,3,False
+10/27/2021,@ Bethel (MN),W 1-0 (1 OT),113,10/27/2021,Bethel (MN),away,W,1,0,True
+10/30/2021,Hamline,W 4-1,147,10/30/2021,Hamline,home,W,4,1,False

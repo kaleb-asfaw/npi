@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,St. Joseph's (ME),W 5-0,187,08/30/2024,St. Joseph's (ME),home,W,5,0,False
+09/01/2024,@ Maine Maritime,L 2-3,50,09/01/2024,Maine Maritime,away,L,2,3,False
+09/04/2024,@ Southern Me.,L 3-4,224,09/04/2024,Southern Me.,away,L,3,4,False
+09/08/2024,Westfield St.,W 5-1,172,09/08/2024,Westfield St.,home,W,5,1,False
+09/11/2024,Husson,W 4-1,139,09/11/2024,Husson,home,W,4,1,False
+09/14/2024,@ Keene St.,W 2-1,100,09/14/2024,Keene St.,away,W,2,1,False
+09/17/2024,@ Bates,L 0-5,250,09/17/2024,Bates,away,L,0,5,False
+09/20/2024,@ Nichols,W 2-1,265,09/20/2024,Nichols,away,W,2,1,False
+09/25/2024,Emerson,W 3-0,105,09/25/2024,Emerson,home,W,3,0,False
+09/28/2024,@ Suffolk,W 4-0,298,09/28/2024,Suffolk,away,W,4,0,False
+10/02/2024,Salve Regina,W 3-0,174,10/02/2024,Salve Regina,home,W,3,0,False
+10/05/2024,Western New Eng.,L 0-1,246,10/05/2024,Western New Eng.,home,L,0,1,False
+10/09/2024,UMass Boston,W 4-1,119,10/09/2024,UMass Boston,home,W,4,1,False
+10/12/2024,Roger Williams,W 1-0,214,10/12/2024,Roger Williams,home,W,1,0,False
+10/15/2024,@ Wentworth,W 2-0,184,10/15/2024,Wentworth,away,W,2,0,False
+10/19/2024,@ Hartford,L 1-5,212,10/19/2024,Hartford,away,L,1,5,False
+10/23/2024,Curry,W 2-1,149,10/23/2024,Curry,home,W,2,1,False
+10/26/2024,@ Gordon,T 3-3,204,10/26/2024,Gordon,away,T,3,3,False
+10/29/2024,Endicott,W 2-1,120,10/29/2024,Endicott,home,W,2,1,False
+11/05/2024,#3 Gordon CNE Women's Soccer Championship,L 1-3,289,11/05/2024,Gordon,home,L,1,3,False

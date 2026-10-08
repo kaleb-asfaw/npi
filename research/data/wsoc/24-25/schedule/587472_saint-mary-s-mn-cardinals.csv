@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Minn.-Morris,W 3-1,30,08/30/2024,Minn.-Morris,home,W,3,1,False
+09/02/2024,@ Wartburg,W 1-0,120,09/02/2024,Wartburg,away,W,1,0,False
+09/07/2024,Beloit,W 3-0,54,09/07/2024,Beloit,home,W,3,0,False
+09/08/2024,Grinnell,T 0-0,112,09/08/2024,Grinnell,home,T,0,0,False
+09/15/2024,@ Wis.-Platteville,L 0-2,136,09/15/2024,Wis.-Platteville,away,L,0,2,False
+09/18/2024,@ St. Catherine,L 0-1,100,09/18/2024,St. Catherine,away,L,0,1,False
+09/21/2024,Augsburg,T 1-1,53,09/21/2024,Augsburg,home,T,1,1,False
+09/25/2024,Gustavus Adolphus,W 2-1,58,09/25/2024,Gustavus Adolphus,home,W,2,1,False
+09/28/2024,Saint Benedict,W 2-1,225,09/28/2024,Saint Benedict,home,W,2,1,False
+09/29/2024,Wis.-Stevens Point,T 1-1,30,09/29/2024,Wis.-Stevens Point,home,T,1,1,False
+10/05/2024,@ Concordia-M'head,W 1-0,205,10/05/2024,Concordia-M'head,away,W,1,0,False
+10/09/2024,Wis.-Stout,W 2-1,76,10/09/2024,Wis.-Stout,home,W,2,1,False
+10/12/2024,@ Bethel (MN),W 4-0,523,10/12/2024,Bethel (MN),away,W,4,0,False
+10/16/2024,St. Olaf,W 2-0,126,10/16/2024,St. Olaf,home,W,2,0,False
+10/19/2024,@ St. Scholastica,W 3-0,153,10/19/2024,St. Scholastica,away,W,3,0,False
+10/22/2024,Macalester,W 2-0,40,10/22/2024,Macalester,home,W,2,0,False
+10/26/2024,Carleton,T 0-0,114,10/26/2024,Carleton,home,T,0,0,False
+10/30/2024,@ UW-River Falls,Canceled,,10/30/2024,UW-River Falls,away,,,,
+11/02/2024,@ Hamline,W 2-0,153,11/02/2024,Hamline,away,W,2,0,False
+11/04/2024,#6 Gustavus Adolphus MIAC Women's Soccer Championship,W 3-0,276,11/04/2024,Gustavus Adolphus,home,W,3,0,False
+11/07/2024,@ #2 Carleton MIAC Women's Soccer Championship,W 1-0,212,11/07/2024,Carleton,away,W,1,0,False
+11/09/2024,#1 St. Catherine MIAC Women's Soccer Championship,L 1-3,200,11/09/2024,St. Catherine,home,L,1,3,False

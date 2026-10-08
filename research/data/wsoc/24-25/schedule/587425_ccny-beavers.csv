@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ UMSV,L 0-6,222,08/30/2024,UMSV,away,L,0,6,False
+09/04/2024,@ Merchant Marine,L 0-2,60,09/04/2024,Merchant Marine,away,L,0,2,False
+09/07/2024,@ Old Westbury,W 2-1,45,09/07/2024,Old Westbury,away,W,2,1,False
+09/11/2024,@ Sarah Lawrence,L 1-4,60,09/11/2024,Sarah Lawrence,away,L,1,4,False
+09/14/2024,@ Pratt,L 1-6,42,09/14/2024,Pratt,away,L,1,6,False
+09/21/2024,@ SUNY Delhi,Canceled,,09/21/2024,SUNY Delhi,away,,,,
+09/25/2024,@ Rutgers-Newark,L 1-6,188,09/25/2024,Rutgers-Newark,away,L,1,6,False
+09/28/2024,@ DeSales,L 0-4,200,09/28/2024,DeSales,away,L,0,4,False
+10/02/2024,@ Purchase,T 0-0,68,10/02/2024,Purchase,away,T,0,0,False
+10/12/2024,John Jay,L 2-3,0,10/12/2024,John Jay,home,L,2,3,False
+10/14/2024,@ Bard,L 0-3,80,10/14/2024,Bard,away,L,0,3,False
+10/16/2024,@ Brooklyn,T 1-1,75,10/16/2024,Brooklyn,away,T,1,1,False
+10/19/2024,Lehman,L 0-1,103,10/19/2024,Lehman,home,L,0,1,False
+10/23/2024,@ York (NY),W 10-0,28,10/23/2024,York (NY),away,W,10,0,False
+10/26/2024,Medgar Evers,W 13-0,5,10/26/2024,Medgar Evers,home,W,13,0,False
+11/02/2024,@ Lehman CUNYAC Women's Soccer Championship,L 2-3,67,11/02/2024,Lehman,away,L,2,3,False

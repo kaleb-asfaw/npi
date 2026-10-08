@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,SUNY Canton,W 2-0,49,08/30/2024,SUNY Canton,home,W,2,0,False
+09/04/2024,@ SUNY Potsdam,L 2-5,150,09/04/2024,SUNY Potsdam,away,L,2,5,False
+09/07/2024,MCLA,W 2-0,57,09/07/2024,MCLA,home,W,2,0,False
+09/14/2024,Bry. & Strat. (Syr.),W 5-0,79,09/14/2024,Bry. & Strat. (Syr.),home,W,5,0,False
+09/21/2024,@ Elmira,L 0-3,215,09/21/2024,Elmira,away,L,0,3,False
+09/25/2024,Hartwick,L 2-5,57,09/25/2024,Hartwick,home,L,2,5,False
+09/28/2024,St. John Fisher,L 1-7,74,09/28/2024,St. John Fisher,home,L,1,7,False
+10/02/2024,@ Utica,L 0-5,66,10/02/2024,Utica,away,L,0,5,False
+10/05/2024,SUNY Brockport,L 0-4,74,10/05/2024,SUNY Brockport,home,L,0,4,False
+10/08/2024,SUNY ESF,W 3-1,68,10/08/2024,SUNY ESF,home,W,3,1,False
+10/12/2024,@ Keuka,T 3-3,124,10/12/2024,Keuka,away,T,3,3,False
+10/16/2024,@ Russell Sage,L 0-3,162,10/16/2024,Russell Sage,away,L,0,3,False
+10/19/2024,Houghton,L 1-2,88,10/19/2024,Houghton,home,L,1,2,False
+10/23/2024,@ Nazareth,L 0-6,156,10/23/2024,Nazareth,away,L,0,6,False
+10/26/2024,@ SUNY Geneseo,L 0-6,355,10/26/2024,SUNY Geneseo,away,L,0,6,False
+10/30/2024,Alfred,L 1-5,77,10/30/2024,Alfred,home,L,1,5,False

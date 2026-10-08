@@ -1,0 +1,14 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2021,@ Notre Dame (MD),L 0-1,51,09/03/2021,Notre Dame (MD),away,L,0,1,False
+09/08/2021,@ Marymount (VA),L 0-2,65,09/08/2021,Marymount (VA),away,L,0,2,False
+09/18/2021,@ Wells,L 1-2 (1 OT),40,09/18/2021,Wells,away,L,1,2,True
+09/19/2021,@ SUNY Morrisville,L 0-4,57,09/19/2021,SUNY Morrisville,away,L,0,4,False
+09/25/2021,Penn St.-Abington,L 0-2,53,09/25/2021,Penn St.-Abington,home,L,0,2,False
+09/29/2021,@ Trinity Washington,W 3-2,42,09/29/2021,Trinity Washington,away,W,3,2,False
+10/02/2021,Lancaster Bible,L 0-2,97,10/02/2021,Lancaster Bible,home,L,0,2,False
+10/09/2021,@ Penn St.-Berks,L 0-2,119,10/09/2021,Penn St.-Berks,away,L,0,2,False
+10/13/2021,Penn St.-Mont Alto,L 0-2,61,10/13/2021,Penn St.-Mont Alto,home,L,0,2,False
+10/16/2021,Penn St. Harrisburg,L 0-6,35,10/16/2021,Penn St. Harrisburg,home,L,0,6,False
+10/20/2021,@ St. Mary's (MD),L 0-3,75,10/20/2021,St. Mary's (MD),away,L,0,3,False
+10/22/2021,Trinity Washington,W 2-1 (1 OT),104,10/22/2021,Trinity Washington,home,W,2,1,True
+10/30/2021,Penn College,L 0-7,105,10/30/2021,Penn College,home,L,0,7,False

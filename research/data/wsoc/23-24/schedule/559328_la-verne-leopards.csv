@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Soka,W 2-0,79,09/01/2023,@ Soka,home,W,2,0,False
+09/02/2023,"Pacific Lutheran @Thousand Oaks, CA",L 0-3,50,09/02/2023,Pacific Lutheran,neutral,L,0,3,False
+09/08/2023,@ Willamette,T 1-1,90,09/08/2023,Willamette,away,T,1,1,False
+09/09/2023,@ Linfield,L 1-2,122,09/09/2023,Linfield,away,L,1,2,False
+09/14/2023,LIFE Pacific,W 4-1,197,09/14/2023,LIFE Pacific,home,W,4,1,False
+09/16/2023,Cal Lutheran,L 0-1,157,09/16/2023,Cal Lutheran,home,L,0,1,False
+09/20/2023,@ Whittier,T 1-1,100,09/20/2023,Whittier,away,T,1,1,False
+09/23/2023,Caltech,W 2-0,89,09/23/2023,Caltech,home,W,2,0,False
+09/27/2023,@ Chapman,T 0-0,25,09/27/2023,Chapman,away,T,0,0,False
+09/30/2023,Occidental,T 1-1,112,09/30/2023,Occidental,home,T,1,1,False
+10/04/2023,CMS,L 0-1,96,10/04/2023,CMS,home,L,0,1,False
+10/07/2023,@ Pomona-Pitzer,L 0-7,231,10/07/2023,Pomona-Pitzer,away,L,0,7,False
+10/11/2023,@ Redlands,W 2-1,109,10/11/2023,Redlands,away,W,2,1,False
+10/14/2023,@ CMS,L 0-3,144,10/14/2023,CMS,away,L,0,3,False
+10/18/2023,Chapman,T 1-1,68,10/18/2023,Chapman,home,T,1,1,False
+10/21/2023,@ Cal Lutheran,L 1-2,200,10/21/2023,Cal Lutheran,away,L,1,2,False
+10/25/2023,Whittier,L 1-2,179,10/25/2023,Whittier,home,L,1,2,False

@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Delaware Valley,L 0-1,126,09/01/2022,Delaware Valley,away,L,0,1,False
+09/03/2022,Immaculata,W 3-2,104,09/03/2022,Immaculata,home,W,3,2,False
+09/07/2022,@ Lancaster Bible,L 0-2,275,09/07/2022,Lancaster Bible,away,L,0,2,False
+09/10/2022,@ Penn St.-Mont Alto,W 3-0,0,09/10/2022,@ Penn St.-Mont Alto,home,W,3,0,False
+09/13/2022,Penn St.-Schuylkill,W 8-0,114,09/13/2022,Penn St.-Schuylkill,home,W,8,0,False
+09/17/2022,@ Centenary (NJ),L 0-3,50,09/17/2022,Centenary (NJ),away,L,0,3,False
+09/19/2022,Penn St.-Abington,W 2-1,94,09/19/2022,Penn St.-Abington,home,W,2,1,False
+09/21/2022,Gwynedd Mercy,T 0-0,76,09/21/2022,Gwynedd Mercy,home,T,0,0,False
+09/24/2022,Saint Elizabeth,W 3-1,146,09/24/2022,Saint Elizabeth,home,W,3,1,False
+09/28/2022,Bryn Athyn,L 1-5,103,09/28/2022,Bryn Athyn,home,L,1,5,False
+10/01/2022,@ Rosemont,W 1-0,70,10/01/2022,Rosemont,away,W,1,0,False
+10/03/2022,Trinity Washington,W 5-3,67,10/03/2022,Trinity Washington,home,W,5,3,False
+10/08/2022,Notre Dame (MD),W 4-0,107,10/08/2022,Notre Dame (MD),home,W,4,0,False
+10/12/2022,@ Cedar Crest,L 0-2,76,10/12/2022,Cedar Crest,away,L,0,2,False
+10/15/2022,Valley Forge,W 10-0,67,10/15/2022,Valley Forge,home,W,10,0,False
+10/22/2022,@ Wilson,L 0-4,93,10/22/2022,Wilson,away,L,0,4,False
+10/26/2022,Keystone,W 4-3,101,10/26/2022,Keystone,home,W,4,3,False
+10/29/2022,@ Clarks Summit,Canceled,,10/29/2022,Clarks Summit,away,,,,
+10/31/2022,#5 Rosemont CSAC WSOC Championship,W 1-0,104,10/31/2022,Rosemont,home,W,1,0,False
+11/02/2022,@ #1 Cedar Crest CSAC WSOC Championship,L 0-5,121,11/02/2022,Cedar Crest,away,L,0,5,False

@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2022,King's (NY),W 6-0,50,09/03/2022,King's (NY),home,W,6,0,False
+09/06/2022,@ Lehman,Ppd,,09/06/2022,Lehman,away,,,,
+09/09/2022,Brooklyn,W 5-4,50,09/09/2022,Brooklyn,home,W,5,4,False
+09/11/2022,Pratt,L 0-3,23,09/11/2022,Pratt,home,L,0,3,False
+09/14/2022,St. Joseph's (Brkln),L 1-2,25,09/14/2022,St. Joseph's (Brkln),home,L,1,2,False
+09/17/2022,Merchant Marine,L 1-7,35,09/17/2022,Merchant Marine,home,L,1,7,False
+09/21/2022,@ CCNY,L 0-10,55,09/21/2022,CCNY,away,L,0,10,False
+09/24/2022,@ Cairn,L 1-3,146,09/24/2022,Cairn,away,L,1,3,False
+09/27/2022,Keystone,T 3-3,45,09/27/2022,Keystone,home,T,3,3,False
+10/01/2022,Notre Dame (MD),L 0-1,125,10/01/2022,Notre Dame (MD),home,L,0,1,False
+10/04/2022,York (NY),Ppd,,10/04/2022,York (NY),home,,,,
+10/08/2022,Valley Forge,W 8-0,34,10/08/2022,Valley Forge,home,W,8,0,False
+10/12/2022,@ Rosemont,L 1-4,50,10/12/2022,Rosemont,away,L,1,4,False
+10/15/2022,Wilson,L 0-6,57,10/15/2022,Wilson,home,L,0,6,False
+10/17/2022,Medgar Evers,W 9-0,25,10/17/2022,Medgar Evers,home,W,9,0,False
+10/22/2022,@ Bryn Athyn,L 0-4,100,10/22/2022,Bryn Athyn,away,L,0,4,False
+10/26/2022,@ Clarks Summit,W 3-0,50,10/26/2022,Clarks Summit,away,W,3,0,False
+10/29/2022,@ Cedar Crest,L 0-8,81,10/29/2022,Cedar Crest,away,L,0,8,False

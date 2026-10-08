@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/31/2024,Oswego St.,L 1-2,70,08/31/2024,Oswego St.,home,L,1,2,False
+09/04/2024,Wm. Paterson,T 2-2,128,09/04/2024,Wm. Paterson,home,T,2,2,False
+09/07/2024,Alvernia,W 3-0,250,09/07/2024,Alvernia,home,W,3,0,False
+09/11/2024,@ King's (PA),W 1-0,215,09/11/2024,King's (PA),away,W,1,0,False
+09/14/2024,@ Lebanon Valley,L 1-2,311,09/14/2024,Lebanon Valley,away,L,1,2,False
+09/18/2024,Albright,W 1-0,220,09/18/2024,Albright,home,W,1,0,False
+09/21/2024,@ FDU-Florham,L 2-3,125,09/21/2024,FDU-Florham,away,L,2,3,False
+09/25/2024,@ Widener,L 0-1,163,09/25/2024,Widener,away,L,0,1,False
+09/28/2024,@ Susquehanna,T 0-0,200,09/28/2024,Susquehanna,away,T,0,0,False
+10/02/2024,@ Marywood,L 0-1,150,10/02/2024,Marywood,away,L,0,1,False
+10/05/2024,Moravian,L 1-2,120,10/05/2024,Moravian,home,L,1,2,False
+10/09/2024,@ Drew,T 1-1,100,10/09/2024,Drew,away,T,1,1,False
+10/12/2024,Juniata,W 2-1,202,10/12/2024,Juniata,home,W,2,1,False
+10/16/2024,Scranton,L 0-3,110,10/16/2024,Scranton,home,L,0,3,False
+10/19/2024,Elizabethtown,L 1-2,125,10/19/2024,Elizabethtown,home,L,1,2,False
+10/23/2024,@ Lycoming,L 0-1,162,10/23/2024,Lycoming,away,L,0,1,False
+10/26/2024,@ Catholic,L 0-4,178,10/26/2024,Catholic,away,L,0,4,False
+11/02/2024,@ Goucher,W 2-0,92,11/02/2024,Goucher,away,W,2,0,False

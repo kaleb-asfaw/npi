@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Gordon,L 0-1,150,09/01/2023,Gordon,away,L,0,1,False
+09/03/2023,@ Endicott,L 0-5,117,09/03/2023,Endicott,away,L,0,5,False
+09/06/2023,Beloit,W 1-0,224,09/06/2023,Beloit,home,W,1,0,False
+09/09/2023,Aurora,W 1-0,106,09/09/2023,Aurora,home,W,1,0,False
+09/10/2023,Marian (WI),T 1-1,103,09/10/2023,Marian (WI),home,T,1,1,False
+09/16/2023,Wis.-Oshkosh,T 1-1,215,09/16/2023,Wis.-Oshkosh,home,T,1,1,False
+09/20/2023,@ Wis.-Whitewater,L 1-2,127,09/20/2023,Wis.-Whitewater,away,L,1,2,False
+09/23/2023,@ Ill. Wesleyan,T 1-1,131,09/23/2023,Ill. Wesleyan,away,T,1,1,False
+09/30/2023,@ Augustana (IL),T 0-0,43,09/30/2023,Augustana (IL),away,T,0,0,False
+10/04/2023,Carroll (WI),T 1-1,279,10/04/2023,Carroll (WI),home,T,1,1,False
+10/07/2023,@ North Central (IL),L 0-6,150,10/07/2023,North Central (IL),away,L,0,6,False
+10/10/2023,@ Wis.-Stevens Point,L 1-2,115,10/10/2023,Wis.-Stevens Point,away,L,1,2,False
+10/14/2023,Wheaton (IL),L 0-2,182,10/14/2023,Wheaton (IL),home,L,0,2,False
+10/18/2023,@ North Park,L 1-2,115,10/18/2023,North Park,away,L,1,2,False
+10/21/2023,Millikin,T 0-0,313,10/21/2023,Millikin,home,T,0,0,False
+10/25/2023,Elmhurst,T 1-1,152,10/25/2023,Elmhurst,home,T,1,1,False

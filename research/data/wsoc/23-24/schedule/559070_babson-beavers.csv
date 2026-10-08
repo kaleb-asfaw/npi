@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ JWU (Providence),T 1-1,257,09/01/2023,JWU (Providence),away,T,1,1,False
+09/05/2023,Brandeis,L 1-3,175,09/05/2023,Brandeis,home,L,1,3,False
+09/09/2023,"St. Lawrence @Manchester, Vt.",W 1-0,225,09/09/2023,St. Lawrence,neutral,W,1,0,False
+09/10/2023,"Williams @Manchester, Vt.",L 1-2,200,09/10/2023,Williams,neutral,L,1,2,False
+09/17/2023,@ Wheaton (MA),W 3-0,112,09/17/2023,Wheaton (MA),away,W,3,0,False
+09/20/2023,Endicott,W 1-0,305,09/20/2023,Endicott,home,W,1,0,False
+09/23/2023,Coast Guard,W 2-0,275,09/23/2023,Coast Guard,home,W,2,0,False
+09/30/2023,Wellesley,T 2-2,150,09/30/2023,Wellesley,home,T,2,2,False
+10/01/2023,@ Bowdoin,L 2-5,105,10/01/2023,Bowdoin,away,L,2,5,False
+10/04/2023,@ WPI,W 3-2,100,10/04/2023,WPI,away,W,3,2,False
+10/07/2023,@ Mount Holyoke,W 2-1,75,10/07/2023,Mount Holyoke,away,W,2,1,False
+10/08/2023,Middlebury,L 1-2,387,10/08/2023,Middlebury,home,L,1,2,False
+10/11/2023,Emerson,L 0-2,120,10/11/2023,Emerson,home,L,0,2,False
+10/14/2023,@ Smith,W 2-1,50,10/14/2023,Smith,away,W,2,1,False
+10/18/2023,MIT,W 2-1,131,10/18/2023,MIT,home,W,2,1,False
+10/21/2023,@ Salve Regina,W 3-2,130,10/21/2023,Salve Regina,away,W,3,2,False
+10/25/2023,@ Springfield,T 1-1,125,10/25/2023,Springfield,away,T,1,1,False
+10/28/2023,Clark (MA),W 4-0,250,10/28/2023,Clark (MA),home,W,4,0,False
+10/31/2023,#7 WPI NEWMAC Women's Soccer Championship,W 3-2,200,10/31/2023,WPI,home,W,3,2,False
+11/02/2023,#3 Emerson NEWMAC Women's Soccer Championship,W 2-1 (2 OT),536,11/02/2023,Emerson,home,W,2,1,True
+11/04/2023,@ #1 MIT NEWMAC Women's Soccer Championship,L 0-5,250,11/04/2023,MIT,away,L,0,5,False
+11/11/2023,RIT NCAA Division III Women's Soccer Championship,L 0-1,967,11/11/2023,RIT,home,L,0,1,False

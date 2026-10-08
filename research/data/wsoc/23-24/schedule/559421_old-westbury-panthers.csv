@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ John Jay,L 1-4,50,09/01/2023,John Jay,away,L,1,4,False
+09/03/2023,@ Yeshiva,W 6-1,11,09/03/2023,Yeshiva,away,W,6,1,False
+09/09/2023,CCNY,L 2-9,62,09/09/2023,CCNY,home,L,2,9,False
+09/11/2023,Five Towns,W 8-2,0,09/11/2023,Five Towns,home,W,8,2,False
+09/14/2023,York (NY),W 13-0,53,09/14/2023,York (NY),home,W,13,0,False
+09/16/2023,Lehman,W 7-0,88,09/16/2023,Lehman,home,W,7,0,False
+09/20/2023,@ St. Joseph's (L.I.),L 0-11,123,09/20/2023,St. Joseph's (L.I.),away,L,0,11,False
+09/23/2023,@ Centenary (NJ),Ppd,,09/23/2023,Centenary (NJ),away,,,,
+09/26/2023,@ Sarah Lawrence,L 0-5,50,09/26/2023,Sarah Lawrence,away,L,0,5,False
+09/27/2023,Brooklyn,W 7-2,46,09/27/2023,Brooklyn,home,W,7,2,False
+10/02/2023,Merchant Marine,L 0-6,51,10/02/2023,Merchant Marine,home,L,0,6,False
+10/04/2023,@ UMSV,L 0-10,134,10/04/2023,UMSV,away,L,0,10,False
+10/07/2023,St. Joseph's (Brkln),L 1-3,37,10/07/2023,St. Joseph's (Brkln),home,L,1,3,False
+10/08/2023,Pratt,L 5-6,36,10/08/2023,Pratt,home,L,5,6,False
+10/10/2023,Farmingdale St.,L 1-3,43,10/10/2023,Farmingdale St.,home,L,1,3,False
+10/14/2023,Mt. St. Mary (NY),L 0-11,31,10/14/2023,Mt. St. Mary (NY),home,L,0,11,False
+10/18/2023,Purchase,W 5-1,65,10/18/2023,Purchase,home,W,5,1,False
+10/20/2023,@ SUNY Maritime,W 7-1,86,10/20/2023,SUNY Maritime,away,W,7,1,False
+10/24/2023,Manhattanville,L 0-10,73,10/24/2023,Manhattanville,home,L,0,10,False

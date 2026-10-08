@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,SUNY Geneseo,L 1-3,100,09/01/2021,SUNY Geneseo,home,L,1,3,False
+09/06/2021,@ Nazareth,W 3-0,500,09/06/2021,Nazareth,away,W,3,0,False
+09/11/2021,@ William Smith,T 0-0 (2 OT),175,09/11/2021,William Smith,away,T,0,0,True
+09/14/2021,St. John Fisher,L 1-2,111,09/14/2021,St. John Fisher,home,L,1,2,False
+09/18/2021,@ Alfred,W 3-0,250,09/18/2021,Alfred,away,W,3,0,False
+09/22/2021,@ Keuka,W 4-0,110,09/22/2021,Keuka,away,W,4,0,False
+09/25/2021,@ Waynesburg,W 7-2,64,09/25/2021,Waynesburg,away,W,7,2,False
+09/28/2021,SUNY Brockport,W 2-1,80,09/28/2021,SUNY Brockport,home,W,2,1,False
+10/02/2021,WashU,L 0-3,100,10/02/2021,WashU,home,L,0,3,False
+10/09/2021,@ UChicago,T 1-1 (2 OT),87,10/09/2021,UChicago,away,T,1,1,True
+10/15/2021,Carnegie Mellon,T 0-0 (2 OT),152,10/15/2021,Carnegie Mellon,home,T,0,0,True
+10/17/2021,CWRU,T 0-0 (2 OT),160,10/17/2021,CWRU,home,T,0,0,True
+10/23/2021,@ Houghton,W 5-0,203,10/23/2021,Houghton,away,W,5,0,False
+10/29/2021,@ NYU,L 0-1,82,10/29/2021,NYU,away,L,0,1,False
+10/31/2021,@ Brandeis,L 1-2,200,10/31/2021,Brandeis,away,L,1,2,False
+11/06/2021,Emory,T 0-0 (2 OT),130,11/06/2021,Emory,home,T,0,0,True

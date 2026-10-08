@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,SUNY Delhi,W 2-0,237,09/01/2023,SUNY Delhi,home,W,2,0,False
+09/02/2023,Penn College,T 1-1,171,09/02/2023,Penn College,home,T,1,1,False
+09/06/2023,Houghton,L 0-1,184,09/06/2023,Houghton,home,L,0,1,False
+09/09/2023,@ Mount Aloysius,Ppd,,09/09/2023,Mount Aloysius,away,,,,
+09/12/2023,@ La Roche,L 0-1,75,09/12/2023,La Roche,away,L,0,1,False
+09/16/2023,Marietta,L 1-5,120,09/16/2023,Marietta,home,L,1,5,False
+09/19/2023,@ Hiram,L 0-1,70,09/19/2023,Hiram,away,L,0,1,False
+09/23/2023,Thiel,W 4-0,141,09/23/2023,Thiel,home,W,4,0,False
+09/26/2023,@ Bethany (WV),W 2-0,75,09/26/2023,Bethany (WV),away,W,2,0,False
+09/30/2023,@ Saint Vincent,L 0-3,160,09/30/2023,Saint Vincent,away,L,0,3,False
+10/03/2023,Allegheny,W 1-0,131,10/03/2023,Allegheny,home,W,1,0,False
+10/06/2023,Grove City,L 1-2,353,10/06/2023,Grove City,home,L,1,2,False
+10/11/2023,@ Westminster (PA),L 1-2,122,10/11/2023,Westminster (PA),away,L,1,2,False
+10/14/2023,Wash. & Jeff.,T 0-0,208,10/14/2023,Wash. & Jeff.,home,T,0,0,False
+10/18/2023,@ Franciscan,L 0-5,80,10/18/2023,Franciscan,away,L,0,5,False
+10/21/2023,@ Chatham,W 3-0,120,10/21/2023,Chatham,away,W,3,0,False
+10/24/2023,Waynesburg,L 2-5,237,10/24/2023,Waynesburg,home,L,2,5,False

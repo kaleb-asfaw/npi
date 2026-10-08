@@ -1,0 +1,24 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ UW-River Falls,L 1-8,225,09/01/2023,UW-River Falls,away,L,1,8,False
+09/02/2023,@ Augsburg,L 0-5,250,09/02/2023,Augsburg,away,L,0,5,False
+09/06/2023,@ Bethel (MN),L 0-2,132,09/06/2023,Bethel (MN),away,L,0,2,False
+09/08/2023,Lake Forest,L 0-6,101,09/08/2023,Lake Forest,home,L,0,6,False
+09/13/2023,Northland,W 3-0,129,09/13/2023,Northland,home,W,3,0,False
+09/16/2023,@ Northwestern-St. Paul,L 0-2,137,09/16/2023,Northwestern-St. Paul,away,L,0,2,False
+09/19/2023,Minn.-Morris,T 2-2,107,09/19/2023,Minn.-Morris,home,T,2,2,False
+09/25/2023,@ Martin Luther,L 0-1,50,09/25/2023,Martin Luther,away,L,0,1,False
+09/27/2023,@ Bethany Lutheran,L 0-3,123,09/27/2023,Bethany Lutheran,away,L,0,3,False
+09/30/2023,North Central (MN),W 2-0,168,09/30/2023,North Central (MN),home,W,2,0,False
+10/03/2023,@ Wis.-Superior,L 0-5,112,10/03/2023,Wis.-Superior,away,L,0,5,False
+10/07/2023,Northwestern-St. Paul,T 1-1,101,10/07/2023,Northwestern-St. Paul,home,T,1,1,False
+10/11/2023,@ Minn.-Morris,W 4-0,54,10/11/2023,Minn.-Morris,away,W,4,0,False
+10/14/2023,Martin Luther,W 1-0,68,10/14/2023,Martin Luther,home,W,1,0,False
+10/17/2023,@ Northland,W 2-1,57,10/17/2023,Northland,away,W,2,1,False
+10/21/2023,@ North Central (MN),W 3-1,23,10/21/2023,North Central (MN),away,W,3,1,False
+10/25/2023,Bethany Lutheran,T 0-0,100,10/25/2023,Bethany Lutheran,home,T,0,0,False
+10/28/2023,Wis.-Superior,L 0-7,86,10/28/2023,Wis.-Superior,home,L,0,7,False
+11/01/2023,@ #1 Wis.-Superior UMAC Women's Soccer Championship,L 1-2,125,11/01/2023,Wis.-Superior,away,L,1,2,False
+11/07/2023,"#3 Faith Bapt. Bible @Minneapolis, MN (2023 NAACC Regional Championships)",W 6-1,50,11/07/2023,"Faith Bapt. Bible @Minneapolis, MN (2023 NAACC Regional Championships)",neutral,W,6,1,False
+11/08/2023,"#1 Providence-Manitoba @Minneapolis, MN (2023 NAACC Regional Championships)",W 3-1,103,11/08/2023,"Providence-Manitoba @Minneapolis, MN (2023 NAACC Regional Championships)",neutral,W,3,1,False
+11/16/2023,"Bob Jones @Kissimmee, FL",L 0-1 (2 OT),0,11/16/2023,"Bob Jones @Kissimmee, FL",neutral,L,0,1,True
+11/18/2023,"Great Lake Christian @Kissimmee, FL",W 1-0,0,11/18/2023,"Great Lake Christian @Kissimmee, FL",neutral,W,1,0,False

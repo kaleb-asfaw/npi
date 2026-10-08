@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Gallaudet,W 9-0,114,09/01/2023,Gallaudet,home,W,9,0,False
+09/11/2023,@ Marymount (VA),L 0-4,189,09/11/2023,Marymount (VA),away,L,0,4,False
+09/13/2023,Penn St.-Beaver,Ppd,,09/13/2023,Penn St.-Beaver,home,,,,
+09/16/2023,@ Mount Aloysius,L 1-10,146,09/16/2023,Mount Aloysius,away,L,1,10,False
+09/20/2023,Penn St.-Mont Alto,W 1-0,143,09/20/2023,Penn St.-Mont Alto,home,W,1,0,False
+09/23/2023,@ Clarks Summit,W 3-0,10,09/23/2023,Clarks Summit,away,W,3,0,False
+09/28/2023,Neumann,L 0-5,111,09/28/2023,Neumann,home,L,0,5,False
+09/30/2023,Bryn Athyn,L 1-7,193,09/30/2023,Bryn Athyn,home,L,1,7,False
+10/04/2023,@ Wilson,L 1-4,130,10/04/2023,Wilson,away,L,1,4,False
+10/07/2023,Saint Elizabeth,W 2-0,67,10/07/2023,Saint Elizabeth,home,W,2,0,False
+10/10/2023,Cairn,L 0-3,65,10/10/2023,Cairn,home,L,0,3,False
+10/14/2023,@ Valley Forge,W 7-0,20,10/14/2023,Valley Forge,away,W,7,0,False
+10/18/2023,Cedar Crest,L 0-2,84,10/18/2023,Cedar Crest,home,L,0,2,False
+10/21/2023,@ Keystone,W 3-1,75,10/21/2023,Keystone,away,W,3,1,False
+10/24/2023,Rosemont,L 0-1,73,10/24/2023,Rosemont,home,L,0,1,False
+10/28/2023,@ #3 Cairn United East Women's Soccer Championship,L 1-2,135,10/28/2023,Cairn,away,L,1,2,False

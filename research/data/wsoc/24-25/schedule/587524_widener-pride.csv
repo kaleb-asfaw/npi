@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,DeSales,W 2-1,190,08/30/2024,DeSales,home,W,2,1,False
+09/01/2024,Montclair St.,L 0-3,155,09/01/2024,Montclair St.,home,L,0,3,False
+09/07/2024,@ Ursinus,L 1-2,176,09/07/2024,Ursinus,away,L,1,2,False
+09/11/2024,@ Haverford,L 0-3,110,09/11/2024,Haverford,away,L,0,3,False
+09/14/2024,Neumann,W 3-1,0,09/14/2024,Neumann,home,W,3,1,False
+09/18/2024,@ Delaware Valley,W 2-1,61,09/18/2024,Delaware Valley,away,W,2,1,False
+09/21/2024,@ Arcadia,L 1-2,140,09/21/2024,Arcadia,away,L,1,2,False
+09/25/2024,Wilkes,W 1-0,163,09/25/2024,Wilkes,home,W,1,0,False
+09/28/2024,@ Lebanon Valley,L 1-3,128,09/28/2024,Lebanon Valley,away,L,1,3,False
+10/01/2024,@ Swarthmore,L 1-2,88,10/01/2024,Swarthmore,away,L,1,2,False
+10/05/2024,@ Albright,W 3-0,141,10/05/2024,Albright,away,W,3,0,False
+10/12/2024,Stevenson,L 1-2,150,10/12/2024,Stevenson,home,L,1,2,False
+10/19/2024,Alvernia,W 2-0,150,10/19/2024,Alvernia,home,W,2,0,False
+10/22/2024,@ York (PA),L 0-3,85,10/22/2024,York (PA),away,L,0,3,False
+10/26/2024,@ Hood,L 0-4,217,10/26/2024,Hood,away,L,0,4,False
+10/30/2024,Messiah,L 0-2,103,10/30/2024,Messiah,home,L,0,2,False
+11/02/2024,Eastern,L 1-2,147,11/02/2024,Eastern,home,L,1,2,False

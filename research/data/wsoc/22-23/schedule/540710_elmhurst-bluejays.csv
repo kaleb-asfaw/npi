@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Dominican (IL),L 0-6,50,09/01/2022,Dominican (IL),away,L,0,6,False
+09/03/2022,@ Alma,L 0-2,100,09/03/2022,Alma,away,L,0,2,False
+09/07/2022,Illinois Tech,L 0-7,55,09/07/2022,Illinois Tech,home,L,0,7,False
+09/09/2022,@ MSOE,L 0-4,188,09/09/2022,MSOE,away,L,0,4,False
+09/15/2022,Kalamazoo,L 0-2,54,09/15/2022,Kalamazoo,home,L,0,2,False
+09/19/2022,Lake Forest,L 0-5,45,09/19/2022,Lake Forest,home,L,0,5,False
+09/24/2022,North Central (IL),L 1-6,87,09/24/2022,North Central (IL),home,L,1,6,False
+09/27/2022,UChicago,L 0-7,27,09/27/2022,UChicago,home,L,0,7,False
+10/01/2022,Carroll (WI),L 0-5,1,10/01/2022,Carroll (WI),home,L,0,5,False
+10/05/2022,@ North Park,L 0-3,40,10/05/2022,North Park,away,L,0,3,False
+10/08/2022,@ Wheaton (IL),L 0-6,305,10/08/2022,Wheaton (IL),away,L,0,6,False
+10/10/2022,@ Benedictine (IL),L 1-4,55,10/10/2022,Benedictine (IL),away,L,1,4,False
+10/12/2022,@ Augustana (IL),L 0-3,30,10/12/2022,Augustana (IL),away,L,0,3,False
+10/15/2022,@ Millikin,L 0-2,80,10/15/2022,Millikin,away,L,0,2,False
+10/19/2022,Ill. Wesleyan,L 0-6,62,10/19/2022,Ill. Wesleyan,home,L,0,6,False
+10/26/2022,Carthage,L 0-1,57,10/26/2022,Carthage,home,L,0,1,False

@@ -1,0 +1,15 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2021,Gallaudet,W 1-0,51,09/03/2021,Gallaudet,home,W,1,0,False
+09/05/2021,Drew,L 0-6,35,09/05/2021,Drew,home,L,0,6,False
+09/09/2021,@ Lancaster Bible,L 0-5,221,09/09/2021,Lancaster Bible,away,L,0,5,False
+09/18/2021,Goucher,L 0-9,103,09/18/2021,Goucher,home,L,0,9,False
+09/25/2021,Saint Elizabeth,W 4-0,74,09/25/2021,Saint Elizabeth,home,W,4,0,False
+09/29/2021,@ Valley Forge,W 16-0,6,09/29/2021,Valley Forge,away,W,16,0,False
+10/02/2021,@ Clarks Summit,L 4-6,400,10/02/2021,Clarks Summit,away,L,4,6,False
+10/05/2021,Cairn,L 0-2,51,10/05/2021,Cairn,home,L,0,2,False
+10/13/2021,@ Wilson,L 0-4,67,10/13/2021,Wilson,away,L,0,4,False
+10/16/2021,Cedar Crest,L 0-2,67,10/16/2021,Cedar Crest,home,L,0,2,False
+10/23/2021,@ Keystone,W 3-0,100,10/23/2021,Keystone,away,W,3,0,False
+10/27/2021,Rosemont,W 2-0,45,10/27/2021,Rosemont,home,W,2,0,False
+10/30/2021,Bryn Athyn,L 0-2,43,10/30/2021,Bryn Athyn,home,L,0,2,False
+11/01/2021,@ #4 Cairn Colonial States WSOC Championship,L 0-2,124,11/01/2021,Cairn,away,L,0,2,False

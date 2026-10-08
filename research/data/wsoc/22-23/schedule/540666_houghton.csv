@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Alfred St.,W 6-0,172,09/01/2022,Alfred St.,away,W,6,0,False
+09/03/2022,@ Penn St. Harrisburg,T 0-0,165,09/03/2022,Penn St. Harrisburg,away,T,0,0,False
+09/06/2022,Oswego St.,L 0-1,100,09/06/2022,Oswego St.,home,L,0,1,False
+09/10/2022,SUNY Brockport,L 1-2,0,09/10/2022,SUNY Brockport,home,L,1,2,False
+09/15/2022,@ Buffalo St.,T 1-1,100,09/15/2022,Buffalo St.,away,T,1,1,False
+09/17/2022,@ Pitt.-Bradford,W 5-1,100,09/17/2022,Pitt.-Bradford,away,W,5,1,False
+09/20/2022,Cazenovia,W 2-0,75,09/20/2022,Cazenovia,home,W,2,0,False
+09/24/2022,@ Elmira,W 4-0,125,09/24/2022,Elmira,away,W,4,0,False
+09/27/2022,@ Rochester (NY),L 0-5,99,09/27/2022,Rochester (NY),away,L,0,5,False
+10/01/2022,St. John Fisher,L 0-2,65,10/01/2022,St. John Fisher,home,L,0,2,False
+10/05/2022,@ Keuka,W 2-1,147,10/05/2022,Keuka,away,W,2,1,False
+10/08/2022,Hartwick,T 1-1,200,10/08/2022,Hartwick,home,T,1,1,False
+10/12/2022,@ Nazareth,L 0-3,100,10/12/2022,Nazareth,away,L,0,3,False
+10/19/2022,@ Alfred,T 0-0,125,10/19/2022,Alfred,away,T,0,0,False
+10/22/2022,Utica,L 0-3,65,10/22/2022,Utica,home,L,0,3,False
+10/26/2022,Medaille,W 3-0,55,10/26/2022,Medaille,home,W,3,0,False
+10/29/2022,Russell Sage,L 2-3,75,10/29/2022,Russell Sage,home,L,2,3,False

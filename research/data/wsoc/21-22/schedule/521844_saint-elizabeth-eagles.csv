@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/04/2021,@ New Jersey City,Canceled,,09/04/2021,New Jersey City,away,,,,
+09/16/2021,@ St. Joseph's (Brkln),L 0-5,30,09/16/2021,St. Joseph's (Brkln),away,L,0,5,False
+09/20/2021,@ SUNY Maritime,L 0-3,102,09/20/2021,SUNY Maritime,away,L,0,3,False
+09/22/2021,@ Pratt,L 1-4,0,09/22/2021,Pratt,away,L,1,4,False
+09/25/2021,@ Notre Dame (MD),L 0-4,74,09/25/2021,Notre Dame (MD),away,L,0,4,False
+09/29/2021,Clarks Summit,L 6-7,55,09/29/2021,Clarks Summit,home,L,6,7,False
+10/02/2021,Bryn Athyn,L 1-4,55,10/02/2021,Bryn Athyn,home,L,1,4,False
+10/06/2021,@ Keystone,L 0-5,0,10/06/2021,Keystone,away,L,0,5,False
+10/09/2021,Cedar Crest,L 0-9,25,10/09/2021,Cedar Crest,home,L,0,9,False
+10/14/2021,Valley Forge,W 8-0,25,10/14/2021,Valley Forge,home,W,8,0,False
+10/16/2021,Rosemont,L 2-4,25,10/16/2021,Rosemont,home,L,2,4,False
+10/23/2021,@ Wilson,L 0-6,105,10/23/2021,Wilson,away,L,0,6,False
+10/24/2021,Yeshiva,W 2-0,50,10/24/2021,Yeshiva,home,W,2,0,False
+10/26/2021,@ Brooklyn,Canceled,,10/26/2021,Brooklyn,away,,,,
+10/30/2021,@ Cairn,L 0-6,134,10/30/2021,Cairn,away,L,0,6,False

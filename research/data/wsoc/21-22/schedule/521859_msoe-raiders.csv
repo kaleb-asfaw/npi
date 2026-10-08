@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Pacific Lutheran,L 0-2,163,09/01/2021,Pacific Lutheran,home,L,0,2,False
+09/04/2021,"Albion @Kenosha, WI",L 2-3,45,09/04/2021,Albion,neutral,L,2,3,False
+09/05/2021,"Luther @Kenosha, WI",W 2-0,73,09/05/2021,Luther,neutral,W,2,0,False
+09/09/2021,Lake Forest,W 4-0,178,09/09/2021,Lake Forest,home,W,4,0,False
+09/11/2021,@ Wis.-Whitewater,W 4-1,234,09/11/2021,Wis.-Whitewater,away,W,4,1,False
+09/15/2021,Edgewood,W 2-0,147,09/15/2021,Edgewood,home,W,2,0,False
+09/17/2021,@ Elmhurst,Ppd,,09/17/2021,Elmhurst,away,,,,
+09/18/2021,@ Alverno,W 8-0,64,09/18/2021,Alverno,away,W,8,0,False
+09/22/2021,Lakeland,W 9-0,123,09/22/2021,Lakeland,home,W,9,0,False
+09/25/2021,Rockford,W 12-0,187,09/25/2021,Rockford,home,W,12,0,False
+09/26/2021,@ Wis.-La Crosse,W 2-1,131,09/26/2021,Wis.-La Crosse,away,W,2,1,False
+09/29/2021,@ Marian (WI),W 5-1,137,09/29/2021,Marian (WI),away,W,5,1,False
+10/02/2021,@ Concordia Chicago,W 3-0,150,10/02/2021,Concordia Chicago,away,W,3,0,False
+10/06/2021,@ Concordia Wisconsin,L 0-2,224,10/06/2021,Concordia Wisconsin,away,L,0,2,False
+10/09/2021,Dominican (IL),W 1-0,178,10/09/2021,Dominican (IL),home,W,1,0,False
+10/13/2021,Illinois Tech,W 1-0,147,10/13/2021,Illinois Tech,home,W,1,0,False
+10/16/2021,@ Benedictine (IL),W 4-0,123,10/16/2021,Benedictine (IL),away,W,4,0,False
+10/23/2021,Aurora,W 4-0,175,10/23/2021,Aurora,home,W,4,0,False
+10/26/2021,St. Norbert,W 3-0,128,10/26/2021,St. Norbert,home,W,3,0,False
+10/28/2021,Wis. Lutheran,W 5-0,58,10/28/2021,Wis. Lutheran,home,W,5,0,False
+11/03/2021,#3 Dominican (IL) NACC WSOC Tournament,L 1-2,244,11/03/2021,Dominican (IL),home,L,1,2,False
+11/12/2021,"Calvin @Dubuque, IA (NCAA Division III Women's Soccer Championship)",L 1-2,100,11/12/2021,Calvin,neutral,L,1,2,False

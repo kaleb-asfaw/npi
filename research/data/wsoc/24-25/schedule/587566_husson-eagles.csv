@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Emmanuel (MA),L 3-5,125,08/30/2024,Emmanuel (MA),home,L,3,5,False
+09/03/2024,@ Bates,L 1-4,250,09/03/2024,Bates,away,L,1,4,False
+09/07/2024,"NYU @Hoboken, NJ",L 1-6,104,09/07/2024,NYU,neutral,L,1,6,False
+09/08/2024,"SUNY Potsdam @Hoboken, NJ",W 6-3,98,09/08/2024,SUNY Potsdam,neutral,W,6,3,False
+09/11/2024,@ U New England,L 1-4,139,09/11/2024,U New England,away,L,1,4,False
+09/17/2024,@ Me.-Presque Isle,W 4-0,25,09/17/2024,Me.-Presque Isle,away,W,4,0,False
+09/25/2024,Thomas (ME),W 9-0,250,09/25/2024,Thomas (ME),home,W,9,0,False
+09/28/2024,UMass Boston,L 1-2,150,09/28/2024,UMass Boston,home,L,1,2,False
+10/01/2024,Me.-Presque Isle,W 3-1,200,10/01/2024,Me.-Presque Isle,home,W,3,1,False
+10/04/2024,Me.-Farmington,W 10-2,200,10/04/2024,Me.-Farmington,home,W,10,2,False
+10/05/2024,@ Maine Maritime,T 2-2,30,10/05/2024,Maine Maritime,away,T,2,2,False
+10/08/2024,@ Colby,L 0-6,88,10/08/2024,Colby,away,L,0,6,False
+10/12/2024,Lesley,L 1-2,150,10/12/2024,Lesley,home,L,1,2,False
+10/13/2024,Lesley,W 1-0,150,10/13/2024,Lesley,home,W,1,0,False
+10/19/2024,@ Thomas (ME),W 5-0,200,10/19/2024,Thomas (ME),away,W,5,0,False
+10/20/2024,Keene St.,W 5-1,200,10/20/2024,Keene St.,home,W,5,1,False
+10/23/2024,Maine Maritime,W 2-0,200,10/23/2024,Maine Maritime,home,W,2,0,False
+10/26/2024,@ Me.-Farmington,W 4-2,115,10/26/2024,Me.-Farmington,away,W,4,2,False
+11/02/2024,#4 Me.-Farmington North Atlantic WSOC Tournament,W 8-0,150,11/02/2024,Me.-Farmington,home,W,8,0,False
+11/03/2024,"#2 Lesley @Bangor, ME (North Atlantic WSOC Tournament)",W 3-0,225,11/03/2024,Lesley,neutral,W,3,0,False
+11/09/2024,#1 SUNY Delhi North Atlantic WSOC Tournament,W 4-0,0,11/09/2024,SUNY Delhi,home,W,4,0,False
+11/16/2024,@ NYU NCAA Division III Women's Soccer Championship,L 1-7,110,11/16/2024,NYU,away,L,1,7,False

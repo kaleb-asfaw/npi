@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ SUNY New Paltz,L 0-2,250,09/01/2023,SUNY New Paltz,away,L,0,2,False
+09/02/2023,Nichols,W 4-2,299,09/02/2023,Nichols,home,W,4,2,False
+09/10/2023,Eastern Conn. St.,W 1-0,150,09/10/2023,Eastern Conn. St.,home,W,1,0,False
+09/13/2023,SUNY Poly,W 8-0,167,09/13/2023,SUNY Poly,home,W,8,0,False
+09/19/2023,WestConn,T 1-1,811,09/19/2023,WestConn,home,T,1,1,False
+09/23/2023,Keuka,W 1-0,238,09/23/2023,Keuka,home,W,1,0,False
+09/27/2023,@ Elmira,W 1-0,122,09/27/2023,Elmira,away,W,1,0,False
+09/30/2023,Alfred,T 0-0,206,09/30/2023,Alfred,home,T,0,0,False
+10/04/2023,Vassar,L 1-2,142,10/04/2023,Vassar,home,L,1,2,False
+10/07/2023,@ Houghton,L 0-1,200,10/07/2023,Houghton,away,L,0,1,False
+10/11/2023,@ Utica,T 0-0,80,10/11/2023,Utica,away,T,0,0,False
+10/14/2023,@ St. John Fisher,L 0-1,70,10/14/2023,St. John Fisher,away,L,0,1,False
+10/16/2023,@ MCLA,W 4-0,73,10/16/2023,MCLA,away,W,4,0,False
+10/18/2023,Pratt,W 7-1,218,10/18/2023,Pratt,home,W,7,1,False
+10/21/2023,Nazareth,T 0-0,123,10/21/2023,Nazareth,home,T,0,0,False
+10/25/2023,@ Hartwick,W 2-0,64,10/25/2023,Hartwick,away,W,2,0,False
+10/28/2023,@ #4 Houghton Empire 8 Women's Soccer Championship,W 3-2,200,10/28/2023,Houghton,away,W,3,2,False
+11/01/2023,@ #1 Nazareth Empire 8 Women's Soccer Championship,L 0-3,325,11/01/2023,Nazareth,away,L,0,3,False

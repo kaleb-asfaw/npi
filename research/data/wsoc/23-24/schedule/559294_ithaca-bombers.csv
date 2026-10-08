@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Elmira,W 10-1,135,09/01/2023,Elmira,home,W,10,1,False
+09/03/2023,@ York (PA),W 1-0,349,09/03/2023,York (PA),away,W,1,0,False
+09/06/2023,Mt. St. Mary (NY),W 5-0,125,09/06/2023,Mt. St. Mary (NY),home,W,5,0,False
+09/10/2023,Lycoming,T 1-1,98,09/10/2023,Lycoming,home,T,1,1,False
+09/13/2023,@ Cortland,L 0-1,163,09/13/2023,Cortland,away,L,0,1,False
+09/16/2023,Nazareth,W 2-0,267,09/16/2023,Nazareth,home,W,2,0,False
+09/20/2023,@ Alfred,Ppd,,09/20/2023,Alfred,away,,,,
+09/23/2023,@ Bard,W 4-0,50,09/23/2023,Bard,away,W,4,0,False
+09/27/2023,@ William Smith,L 0-1,175,09/27/2023,William Smith,away,L,0,1,False
+09/30/2023,@ St. Lawrence,W 2-0,115,09/30/2023,St. Lawrence,away,W,2,0,False
+10/07/2023,Clarkson,W 1-0,300,10/07/2023,Clarkson,home,W,1,0,False
+10/13/2023,Union (NY),W 1-0,82,10/13/2023,Union (NY),home,W,1,0,False
+10/14/2023,Skidmore,W 1-0,50,10/14/2023,Skidmore,home,W,1,0,False
+10/21/2023,Vassar,T 0-0,130,10/21/2023,Vassar,home,T,0,0,False
+10/24/2023,RIT,T 0-0,105,10/24/2023,RIT,home,T,0,0,False
+10/28/2023,@ Rensselaer,T 2-2,172,10/28/2023,Rensselaer,away,T,2,2,False
+10/31/2023,#6 St. Lawrence Liberty League Women's Soccer Championship,W 2-0,85,10/31/2023,St. Lawrence,home,W,2,0,False
+11/03/2023,@ #2 RIT Liberty League Women's Soccer Championship,L 2-4,250,11/03/2023,RIT,away,L,2,4,False

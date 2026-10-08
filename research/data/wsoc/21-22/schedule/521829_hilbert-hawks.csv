@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/04/2021,@ Elmira,L 0-1 (1 OT),110,09/04/2021,Elmira,away,L,0,1,True
+09/16/2021,@ Oswego St.,Canceled,,09/16/2021,Oswego St.,away,,,,
+09/22/2021,@ SUNY Morrisville,L 2-3,32,09/22/2021,SUNY Morrisville,away,L,2,3,False
+09/25/2021,@ La Roche,T 1-1,96,09/25/2021,La Roche,away,T,1,1,False
+09/28/2021,Houghton,L 0-4,127,09/28/2021,Houghton,home,L,0,4,False
+09/30/2021,Penn St.-Altoona,L 1-4,89,09/30/2021,Penn St.-Altoona,home,L,1,4,False
+10/01/2021,@ Wells,W 1-0,0,10/01/2021,Wells,away,W,1,0,False
+10/06/2021,Medaille,L 2-3 (1 OT),130,10/06/2021,Medaille,home,L,2,3,True
+10/09/2021,@ Mount Aloysius,L 0-4,108,10/09/2021,Mount Aloysius,away,L,0,4,False
+10/12/2021,@ Pitt.-Bradford,W 2-1,75,10/12/2021,Pitt.-Bradford,away,W,2,1,False
+10/14/2021,@ SUNY Poly,Canceled,,10/14/2021,SUNY Poly,away,,,,
+10/16/2021,Pitt.-Greensburg,L 0-4,129,10/16/2021,Pitt.-Greensburg,home,L,0,4,False
+10/19/2021,@ Buffalo St.,L 0-1 (2 OT),250,10/19/2021,Buffalo St.,away,L,0,1,True
+10/21/2021,Thiel,W 3-2,72,10/21/2021,Thiel,home,W,3,2,False
+10/23/2021,@ Penn St.-Behrend,L 0-4,57,10/23/2021,Penn St.-Behrend,away,L,0,4,False
+10/26/2021,Alfred St.,W 2-1,75,10/26/2021,Alfred St.,home,W,2,1,False

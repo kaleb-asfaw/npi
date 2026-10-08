@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ St. Catherine,L 1-3,100,08/30/2024,St. Catherine,away,L,1,3,False
+09/01/2024,@ Saint Benedict,L 2-3,210,09/01/2024,Saint Benedict,away,L,2,3,False
+09/04/2024,St. Olaf,T 0-0,168,09/04/2024,St. Olaf,home,T,0,0,False
+09/07/2024,Dubuque,T 2-2,209,09/07/2024,Dubuque,home,T,2,2,False
+09/08/2024,Carroll (WI),W 2-1,185,09/08/2024,Carroll (WI),home,W,2,1,False
+09/11/2024,St. Norbert,L 0-1,138,09/11/2024,St. Norbert,home,L,0,1,False
+09/14/2024,Concordia Wisconsin,W 2-0,126,09/14/2024,Concordia Wisconsin,home,W,2,0,False
+09/15/2024,Beloit,W 1-0,116,09/15/2024,Beloit,home,W,1,0,False
+09/22/2024,@ Wartburg,L 1-2,250,09/22/2024,Wartburg,away,L,1,2,False
+09/25/2024,@ Carthage,T 2-2,167,09/25/2024,Carthage,away,T,2,2,False
+09/29/2024,@ Saint Mary's (MN),T 1-1,30,09/29/2024,Saint Mary's (MN),away,T,1,1,False
+10/05/2024,@ Wis.-Stout,W 1-0,49,10/05/2024,Wis.-Stout,away,W,1,0,False
+10/09/2024,Wis.-Eau Claire,T 0-0,285,10/09/2024,Wis.-Eau Claire,home,T,0,0,False
+10/12/2024,@ UW-River Falls,L 1-2,120,10/12/2024,UW-River Falls,away,L,1,2,False
+10/19/2024,Wis.-Whitewater,W 2-1,345,10/19/2024,Wis.-Whitewater,home,W,2,1,False
+10/23/2024,Wis.-Oshkosh,W 1-0,167,10/23/2024,Wis.-Oshkosh,home,W,1,0,False
+10/26/2024,@ Wis.-Platteville,L 0-1,116,10/26/2024,Wis.-Platteville,away,L,0,1,False
+11/02/2024,@ Wis.-La Crosse,L 0-1,256,11/02/2024,Wis.-La Crosse,away,L,0,1,False
+11/05/2024,#5 UW-River Falls WIAC Women's Soccer Championship,L 1-2,212,11/05/2024,UW-River Falls,home,L,1,2,False

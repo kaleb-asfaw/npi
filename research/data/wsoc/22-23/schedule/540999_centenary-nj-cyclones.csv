@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Wm. Paterson,T 2-2,75,09/01/2022,Wm. Paterson,home,T,2,2,False
+09/04/2022,@ Drew,L 1-10,50,09/04/2022,Drew,away,L,1,10,False
+09/08/2022,Bryn Athyn,L 2-5,75,09/08/2022,Bryn Athyn,home,L,2,5,False
+09/10/2022,Rowan,L 1-11,50,09/10/2022,Rowan,home,L,1,11,False
+09/14/2022,@ Stockton,L 0-7,114,09/14/2022,Stockton,away,L,0,7,False
+09/17/2022,Cairn,W 3-0,50,09/17/2022,Cairn,home,W,3,0,False
+09/20/2022,Drew,Canceled,,09/20/2022,Drew,home,,,,
+09/24/2022,NYU,L 0-12,50,09/24/2022,NYU,home,L,0,12,False
+09/28/2022,Pratt,W 7-3,50,09/28/2022,Pratt,home,W,7,3,False
+10/01/2022,John Jay,Ppd,,10/01/2022,John Jay,home,,,,
+10/05/2022,Marywood,L 0-7,50,10/05/2022,Marywood,home,L,0,7,False
+10/08/2022,@ Marymount (VA),T 2-2,268,10/08/2022,Marymount (VA),away,T,2,2,False
+10/12/2022,@ Cabrini,L 0-2,63,10/12/2022,Cabrini,away,L,0,2,False
+10/19/2022,Gwynedd Mercy,W 7-0,25,10/19/2022,Gwynedd Mercy,home,W,7,0,False
+10/22/2022,Immaculata,W 2-1,75,10/22/2022,Immaculata,home,W,2,1,False
+10/26/2022,@ Neumann,L 0-1,120,10/26/2022,Neumann,away,L,0,1,False
+10/31/2022,#5 Marymount (VA) Atlantic East WSOC Championship,L 1-5,150,10/31/2022,Marymount (VA),home,L,1,5,False

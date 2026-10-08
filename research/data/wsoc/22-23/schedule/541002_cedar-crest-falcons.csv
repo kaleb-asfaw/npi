@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Immaculata,W 5-2,63,09/01/2022,Immaculata,home,W,5,2,False
+09/03/2022,Penn St.-Mont Alto,W 8-0,62,09/03/2022,Penn St.-Mont Alto,home,W,8,0,False
+09/07/2022,Ramapo,L 1-3,61,09/07/2022,Ramapo,home,L,1,3,False
+09/10/2022,New Jersey City,T 1-1,45,09/10/2022,New Jersey City,home,T,1,1,False
+09/13/2022,@ Alvernia,L 2-5,179,09/13/2022,Alvernia,away,L,2,5,False
+09/17/2022,John Jay,L 0-1,67,09/17/2022,John Jay,home,L,0,1,False
+09/21/2022,Neumann,W 3-1,78,09/21/2022,Neumann,home,W,3,1,False
+09/24/2022,Keystone,W 2-0,83,09/24/2022,Keystone,home,W,2,0,False
+09/26/2022,Penn St.-Schuylkill,Canceled,,09/26/2022,Penn St.-Schuylkill,home,,,,
+09/28/2022,@ Clarks Summit,W 6-1,100,09/28/2022,Clarks Summit,away,W,6,1,False
+10/01/2022,@ Wilson,T 0-0,63,10/01/2022,Wilson,away,T,0,0,False
+10/08/2022,@ Bryn Athyn,W 3-2,50,10/08/2022,Bryn Athyn,away,W,3,2,False
+10/12/2022,Cairn,W 2-0,76,10/12/2022,Cairn,home,W,2,0,False
+10/15/2022,Rosemont,W 6-0,78,10/15/2022,Rosemont,home,W,6,0,False
+10/22/2022,Notre Dame (MD),W 12-0,78,10/22/2022,Notre Dame (MD),home,W,12,0,False
+10/26/2022,@ Valley Forge,W 9-0,20,10/26/2022,Valley Forge,away,W,9,0,False
+10/29/2022,Saint Elizabeth,W 8-0,81,10/29/2022,Saint Elizabeth,home,W,8,0,False
+11/02/2022,#4 Cairn CSAC WSOC Championship,W 5-0,121,11/02/2022,Cairn,home,W,5,0,False
+11/05/2022,#2 Bryn Athyn CSAC WSOC Championship,L 0-1,134,11/05/2022,Bryn Athyn,home,L,0,1,False

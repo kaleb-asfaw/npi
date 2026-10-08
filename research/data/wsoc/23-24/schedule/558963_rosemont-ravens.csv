@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Lancaster Bible,L 0-4,305,09/01/2023,Lancaster Bible,away,L,0,4,False
+09/03/2023,@ Albright,L 0-4,132,09/03/2023,Albright,away,L,0,4,False
+09/06/2023,Penn St.-Abington,L 3-4,70,09/06/2023,Penn St.-Abington,home,L,3,4,False
+09/09/2023,@ Centenary (NJ),L 1-7,108,09/09/2023,Centenary (NJ),away,L,1,7,False
+09/13/2023,Gwynedd Mercy,L 0-1,45,09/13/2023,Gwynedd Mercy,home,L,0,1,False
+09/16/2023,@ Immaculata,L 1-2,101,09/16/2023,Immaculata,away,L,1,2,False
+09/20/2023,@ Delaware Valley,L 1-8,79,09/20/2023,Delaware Valley,away,L,1,8,False
+09/25/2023,Keystone,W 5-0,50,09/25/2023,Keystone,home,W,5,0,False
+09/27/2023,Penn St.-Brandywine,W 5-0,80,09/27/2023,Penn St.-Brandywine,home,W,5,0,False
+09/30/2023,@ Saint Elizabeth,W 2-0,52,09/30/2023,Saint Elizabeth,away,W,2,0,False
+10/04/2023,Bryn Athyn,L 0-3,125,10/04/2023,Bryn Athyn,home,L,0,3,False
+10/07/2023,@ Cairn,T 0-0,102,10/07/2023,Cairn,away,T,0,0,False
+10/10/2023,Wilson,L 0-3,75,10/10/2023,Wilson,home,L,0,3,False
+10/14/2023,Cedar Crest,T 1-1,60,10/14/2023,Cedar Crest,home,T,1,1,False
+10/18/2023,@ Clarks Summit,W 3-2,30,10/18/2023,Clarks Summit,away,W,3,2,False
+10/21/2023,Valley Forge,W 5-0,250,10/21/2023,Valley Forge,home,W,5,0,False
+10/24/2023,@ Notre Dame (MD),W 1-0,73,10/24/2023,Notre Dame (MD),away,W,1,0,False
+10/28/2023,#5 Cedar Crest United East Women's Soccer Championship,T 0-0 (3 OT),110,10/28/2023,Cedar Crest,home,T,0,0,True

@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2022,@ Nazareth,T 1-1,300,09/02/2022,Nazareth,away,T,1,1,False
+09/03/2022,@ RIT,L 0-2,105,09/03/2022,RIT,away,L,0,2,False
+09/10/2022,Kalamazoo,L 1-2,147,09/10/2022,Kalamazoo,home,L,1,2,False
+09/11/2022,Concordia Wisconsin,W 2-1,100,09/11/2022,Concordia Wisconsin,home,W,2,1,False
+09/14/2022,CWRU,L 0-2,20,09/14/2022,CWRU,home,L,0,2,False
+09/17/2022,@ Transylvania,T 2-2,0,09/17/2022,Transylvania,away,T,2,2,False
+09/20/2022,Otterbein,L 0-3,100,09/20/2022,Otterbein,home,L,0,3,False
+09/24/2022,@ Hanover,T 2-2,257,09/24/2022,Hanover,away,T,2,2,False
+09/28/2022,@ Muskingum,W 1-0,75,09/28/2022,Muskingum,away,W,1,0,False
+10/08/2022,Ohio Wesleyan,W 1-0,102,10/08/2022,Ohio Wesleyan,home,W,1,0,False
+10/12/2022,@ Wooster,T 1-1,90,10/12/2022,Wooster,away,T,1,1,False
+10/15/2022,DePauw,L 0-1,150,10/15/2022,DePauw,home,L,0,1,False
+10/18/2022,@ Oberlin,W 1-0,42,10/18/2022,Oberlin,away,W,1,0,False
+10/22/2022,@ Hiram,W 6-0,60,10/22/2022,Hiram,away,W,6,0,False
+10/26/2022,Denison,W 2-0,39,10/26/2022,Denison,home,W,2,0,False
+10/29/2022,Wittenberg,W 2-0,100,10/29/2022,Wittenberg,home,W,2,0,False
+11/02/2022,#4 Denison NCAC WSOC Tournament,L 0-1,129,11/02/2022,Denison,home,L,0,1,False

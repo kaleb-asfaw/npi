@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Skidmore,L 0-4,170,08/30/2024,Skidmore,home,L,0,4,False
+09/01/2024,Allegheny,W 4-2,180,09/01/2024,Allegheny,home,W,4,2,False
+09/04/2024,@ Buffalo St.,W 8-0,200,09/04/2024,Buffalo St.,away,W,8,0,False
+09/10/2024,RIT,T 2-2,150,09/10/2024,RIT,home,T,2,2,False
+09/14/2024,@ Elmira,W 4-0,205,09/14/2024,Elmira,away,W,4,0,False
+09/17/2024,Rochester (NY),L 0-3,150,09/17/2024,Rochester (NY),home,L,0,3,False
+09/21/2024,SUNY Geneseo,L 0-2,452,09/21/2024,SUNY Geneseo,home,L,0,2,False
+09/25/2024,Utica,W 2-0,85,09/25/2024,Utica,home,W,2,0,False
+09/28/2024,@ SUNY Poly,W 7-1,74,09/28/2024,SUNY Poly,away,W,7,1,False
+10/02/2024,Alfred,W 2-0,80,10/02/2024,Alfred,home,W,2,0,False
+10/05/2024,@ Russell Sage,W 3-1,246,10/05/2024,Russell Sage,away,W,3,1,False
+10/12/2024,@ SUNY Brockport,W 2-0,55,10/12/2024,SUNY Brockport,away,W,2,0,False
+10/16/2024,@ Houghton,W 4-0,50,10/16/2024,Houghton,away,W,4,0,False
+10/19/2024,Hartwick,T 1-1,0,10/19/2024,Hartwick,home,T,1,1,False
+10/23/2024,Penn St.-Behrend,L 1-2,0,10/23/2024,Penn St.-Behrend,home,L,1,2,False
+10/26/2024,@ Keuka,W 3-1,178,10/26/2024,Keuka,away,W,3,1,False
+10/30/2024,Nazareth,L 0-1,143,10/30/2024,Nazareth,home,L,0,1,False
+11/02/2024,Alfred Empire 8 Women's Soccer Championship,W 1-0 (1 OT),131,11/02/2024,Alfred,home,W,1,0,True
+11/06/2024,@ SUNY Geneseo Empire 8 Women's Soccer Championship,L 0-2,368,11/06/2024,SUNY Geneseo,away,L,0,2,False

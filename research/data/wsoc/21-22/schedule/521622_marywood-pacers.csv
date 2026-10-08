@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2021,Keystone,W 7-1,157,09/02/2021,Keystone,home,W,7,1,False
+09/05/2021,@ Montclair St.,L 1-2,189,09/05/2021,Montclair St.,away,L,1,2,False
+09/08/2021,Scranton,Ppd,,09/08/2021,Scranton,home,,,,
+09/11/2021,Eastern,W 1-0,137,09/11/2021,Eastern,home,W,1,0,False
+09/14/2021,Franklin & Marshall,L 0-6,138,09/14/2021,Franklin & Marshall,home,L,0,6,False
+09/18/2021,@ FDU-Florham,L 1-2,100,09/18/2021,FDU-Florham,away,L,1,2,False
+09/22/2021,@ Kean,W 2-0,102,09/22/2021,Kean,away,W,2,0,False
+09/25/2021,Alvernia,W 1-0,175,09/25/2021,Alvernia,home,W,1,0,False
+09/29/2021,@ Wilkes,L 1-3,115,09/29/2021,Wilkes,away,L,1,3,False
+10/03/2021,@ Cazenovia,W 3-1,50,10/03/2021,Cazenovia,away,W,3,1,False
+10/06/2021,@ Immaculata,W 3-0,152,10/06/2021,Immaculata,away,W,3,0,False
+10/09/2021,@ Marymount (VA),W 3-0,95,10/09/2021,Marymount (VA),away,W,3,0,False
+10/12/2021,Penn College,W 1-0 (1 OT),127,10/12/2021,Penn College,home,W,1,0,True
+10/16/2021,Gwynedd Mercy,W 6-0,137,10/16/2021,Gwynedd Mercy,home,W,6,0,False
+10/20/2021,@ Cabrini,W 3-0,136,10/20/2021,Cabrini,away,W,3,0,False
+10/23/2021,Centenary (NJ),W 8-1,177,10/23/2021,Centenary (NJ),home,W,8,1,False
+10/27/2021,Neumann,W 1-0 (2 OT),125,10/27/2021,Neumann,home,W,1,0,True
+11/03/2021,#6 Centenary (NJ) Atlantic East WSOC Championship,W 4-0,0,11/03/2021,Centenary (NJ),home,W,4,0,False
+11/06/2021,#2 Cabrini Atlantic East WSOC Championship,T 0-0 (3 OT),525,11/06/2021,Cabrini,home,T,0,0,True
+11/13/2021,@ #2 Stockton ECAC WSOC,L 0-3,125,11/13/2021,Stockton,away,L,0,3,False

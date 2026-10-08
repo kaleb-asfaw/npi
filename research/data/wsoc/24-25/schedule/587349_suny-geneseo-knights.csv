@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2024,@ Buffalo St.,W 4-0,250,09/01/2024,Buffalo St.,away,W,4,0,False
+09/04/2024,@ Oswego St.,W 3-1,189,09/04/2024,Oswego St.,away,W,3,1,False
+09/07/2024,@ RIT,T 3-3,103,09/07/2024,RIT,away,T,3,3,False
+09/11/2024,St. Lawrence,L 0-1,240,09/11/2024,St. Lawrence,home,L,0,1,False
+09/14/2024,@ Hartwick,W 3-0,105,09/14/2024,Hartwick,away,W,3,0,False
+09/18/2024,William Smith,L 0-2,100,09/18/2024,William Smith,home,L,0,2,False
+09/21/2024,@ St. John Fisher,W 2-0,452,09/21/2024,St. John Fisher,away,W,2,0,False
+09/25/2024,Rochester (NY),L 0-1,201,09/25/2024,Rochester (NY),home,L,0,1,False
+09/28/2024,Russell Sage,T 0-0,274,09/28/2024,Russell Sage,home,T,0,0,False
+10/02/2024,Keuka,W 5-0,298,10/02/2024,Keuka,home,W,5,0,False
+10/05/2024,@ Utica,W 2-1,74,10/05/2024,Utica,away,W,2,1,False
+10/12/2024,Elmira,W 2-0,201,10/12/2024,Elmira,home,W,2,0,False
+10/16/2024,Nazareth,W 2-0,114,10/16/2024,Nazareth,home,W,2,0,False
+10/19/2024,@ Alfred,T 0-0,422,10/19/2024,Alfred,away,T,0,0,False
+10/23/2024,@ Houghton,W 6-2,100,10/23/2024,Houghton,away,W,6,2,False
+10/26/2024,SUNY Poly,W 6-0,355,10/26/2024,SUNY Poly,home,W,6,0,False
+10/30/2024,SUNY Brockport,L 1-3,276,10/30/2024,SUNY Brockport,home,L,1,3,False
+11/02/2024,Houghton Empire 8 Women's Soccer Championship,W 4-2,377,11/02/2024,Houghton,home,W,4,2,False
+11/06/2024,St. John Fisher Empire 8 Women's Soccer Championship,W 2-0,368,11/06/2024,St. John Fisher,home,W,2,0,False
+11/09/2024,Nazareth Empire 8 Women's Soccer Championship,W 1-0,892,11/09/2024,Nazareth,home,W,1,0,False
+11/16/2024,@ MIT NCAA Division III Women's Soccer Championship,L 1-3,205,11/16/2024,MIT,away,L,1,3,False

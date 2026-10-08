@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Averett,L 0-3,202,09/01/2021,Averett,home,L,0,3,False
+09/03/2021,Mary Baldwin,L 1-2 (1 OT),0,09/03/2021,Mary Baldwin,home,L,1,2,True
+09/04/2021,@ Emory & Henry,L 0-2,135,09/04/2021,Emory & Henry,away,L,0,2,False
+09/07/2021,Greensboro,L 0-2,185,09/07/2021,Greensboro,home,L,0,2,False
+09/11/2021,@ William Peace,L 1-3,82,09/11/2021,William Peace,away,L,1,3,False
+09/15/2021,Salem (NC),W 1-0 (1 OT),125,09/15/2021,Salem (NC),home,W,1,0,True
+09/18/2021,@ Southern Va.,T 1-1 (2 OT),0,09/18/2021,Southern Va.,away,T,1,1,True
+09/22/2021,Pfeiffer,Ppd,,09/22/2021,Pfeiffer,home,,,,
+09/25/2021,Randolph-Macon,L 1-3,113,09/25/2021,Randolph-Macon,home,L,1,3,False
+09/28/2021,@ Hollins,W 1-0,,09/28/2021,Hollins,away,W,1,0,False
+10/01/2021,East. Mennonite,L 0-1,123,10/01/2021,East. Mennonite,home,L,0,1,False
+10/06/2021,@ Guilford,L 0-1,105,10/06/2021,Guilford,away,L,0,1,False
+10/13/2021,Bridgewater (VA),L 0-3,59,10/13/2021,Bridgewater (VA),home,L,0,3,False
+10/16/2021,@ Sweet Briar,W 7-0,0,10/16/2021,Sweet Briar,away,W,7,0,False
+10/19/2021,@ Roanoke,L 0-3,47,10/19/2021,Roanoke,away,L,0,3,False
+10/23/2021,Batten,L 0-3,112,10/23/2021,Batten,home,L,0,3,False
+10/27/2021,Wash. & Lee,L 0-5,72,10/27/2021,Wash. & Lee,home,L,0,5,False
+10/30/2021,@ Randolph,W 2-1,250,10/30/2021,Randolph,away,W,2,1,False

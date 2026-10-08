@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ La Roche,L 0-3,75,09/01/2023,La Roche,away,L,0,3,False
+09/03/2023,SUNY Brockport,L 0-7,54,09/03/2023,SUNY Brockport,home,L,0,7,False
+09/06/2023,@ Penn St.-Beaver,W 7-0,0,09/06/2023,@ Penn St.-Beaver,home,W,7,0,False
+09/09/2023,Buffalo St.,L 0-8,45,09/09/2023,Buffalo St.,home,L,0,8,False
+09/15/2023,Defiance,T 1-1,42,09/15/2023,Defiance,home,T,1,1,False
+09/17/2023,Heidelberg,L 0-7,64,09/17/2023,Heidelberg,home,L,0,7,False
+09/20/2023,Wash. & Jeff.,L 0-9,108,09/20/2023,Wash. & Jeff.,home,L,0,9,False
+09/23/2023,@ Geneva,L 0-4,141,09/23/2023,Geneva,away,L,0,4,False
+09/26/2023,Franciscan,L 0-9,70,09/26/2023,Franciscan,home,L,0,9,False
+09/30/2023,@ Waynesburg,L 0-11,88,09/30/2023,Waynesburg,away,L,0,11,False
+10/04/2023,@ Grove City,L 0-8,100,10/04/2023,Grove City,away,L,0,8,False
+10/07/2023,Chatham,L 0-6,105,10/07/2023,Chatham,home,L,0,6,False
+10/11/2023,@ Saint Vincent,L 0-8,105,10/11/2023,Saint Vincent,away,L,0,8,False
+10/17/2023,@ Bethany (WV),L 0-3,25,10/17/2023,Bethany (WV),away,L,0,3,False
+10/21/2023,Westminster (PA),L 0-2,56,10/21/2023,Westminster (PA),home,L,0,2,False
+10/24/2023,Allegheny,L 0-5,85,10/24/2023,Allegheny,home,L,0,5,False

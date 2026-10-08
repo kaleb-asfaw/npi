@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ St. Joseph's (L.I.),W 1-0,0,09/01/2022,St. Joseph's (L.I.),away,W,1,0,False
+09/03/2022,Albright,W 2-0,76,09/03/2022,Albright,home,W,2,0,False
+09/04/2022,Scranton,L 0-1,125,09/04/2022,Scranton,home,L,0,1,False
+09/07/2022,@ Drew,L 0-1,110,09/07/2022,Drew,away,L,0,1,False
+09/10/2022,"Shenandoah @Rocky Mount, NC",T 2-2,21,09/10/2022,Shenandoah,neutral,T,2,2,False
+09/11/2022,@ N.C. Wesleyan,W 2-1,51,09/11/2022,N.C. Wesleyan,away,W,2,1,False
+09/11/2022,"Meredith @Rocky Mount, NC",Canceled,,09/11/2022,Meredith,neutral,,,,
+09/14/2022,Centenary (NJ),W 7-0,114,09/14/2022,Centenary (NJ),home,W,7,0,False
+09/17/2022,Alvernia,W 1-0,150,09/17/2022,Alvernia,home,W,1,0,False
+09/21/2022,@ Moravian,L 0-1,211,09/21/2022,Moravian,away,L,0,1,False
+09/24/2022,Rutgers-Newark,L 1-4,120,09/24/2022,Rutgers-Newark,home,L,1,4,False
+09/28/2022,@ Montclair St.,L 0-4,267,09/28/2022,Montclair St.,away,L,0,4,False
+10/01/2022,Kean,T 0-0,101,10/01/2022,Kean,home,T,0,0,False
+10/05/2022,@ NYU,L 1-3,48,10/05/2022,NYU,away,L,1,3,False
+10/08/2022,@ Wm. Paterson,W 1-0,84,10/08/2022,Wm. Paterson,away,W,1,0,False
+10/12/2022,TCNJ,L 3-4,167,10/12/2022,TCNJ,home,L,3,4,False
+10/15/2022,New Jersey City,W 2-1,79,10/15/2022,New Jersey City,home,W,2,1,False
+10/17/2022,@ Washington Col.,T 1-1,0,10/17/2022,Washington Col.,away,T,1,1,False
+10/19/2022,@ Rutgers-Camden,T 3-3,125,10/19/2022,Rutgers-Camden,away,T,3,3,False
+10/22/2022,Ramapo,W 3-0,189,10/22/2022,Ramapo,home,W,3,0,False
+10/26/2022,@ Rowan,T 0-0,280,10/26/2022,Rowan,away,T,0,0,False
+10/29/2022,@ #3 TCNJ NJAC WSOC Championship,L 0-1,0,10/29/2022,TCNJ,away,L,0,1,False

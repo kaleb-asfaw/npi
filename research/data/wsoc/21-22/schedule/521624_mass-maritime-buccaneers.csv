@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/06/2021,Me.-Presque Isle,W 1-0,86,09/06/2021,Me.-Presque Isle,home,W,1,0,False
+09/14/2021,Rivier,L 0-1 (2 OT),91,09/14/2021,Rivier,home,L,0,1,True
+09/17/2021,Fitchburg St.,T 0-0 (2 OT),0,09/17/2021,Fitchburg St.,home,T,0,0,True
+09/22/2021,@ Rhode Island Col.,L 1-4,125,09/22/2021,Rhode Island Col.,away,L,1,4,False
+09/25/2021,@ Salem St.,L 0-2,100,09/25/2021,Salem St.,away,L,0,2,False
+09/28/2021,@ Eastern Nazarene,W 2-0,89,09/28/2021,Eastern Nazarene,away,W,2,0,False
+10/02/2021,MCLA,T 0-0 (2 OT),"1,891",10/02/2021,MCLA,home,T,0,0,True
+10/06/2021,Curry,L 0-2,156,10/06/2021,Curry,home,L,0,2,False
+10/09/2021,@ Westfield St.,L 0-7,200,10/09/2021,Westfield St.,away,L,0,7,False
+10/11/2021,@ Anna Maria,L 0-2,108,10/11/2021,Anna Maria,away,L,0,2,False
+10/16/2021,@ Framingham St.,L 1-6,204,10/16/2021,Framingham St.,away,L,1,6,False
+10/19/2021,Lesley,L 0-4,119,10/19/2021,Lesley,home,L,0,4,False
+10/22/2021,Bridgewater St.,L 0-5,100,10/22/2021,Bridgewater St.,home,L,0,5,False
+10/26/2021,Fisher,Ppd,,10/26/2021,Fisher,home,,,,
+10/29/2021,@ Worcester St.,L 0-4,224,10/29/2021,Worcester St.,away,L,0,4,False

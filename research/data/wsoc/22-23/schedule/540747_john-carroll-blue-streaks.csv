@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Westminster (PA),T 2-2,89,09/01/2022,Westminster (PA),home,T,2,2,False
+09/03/2022,Wash. & Jeff.,T 0-0,85,09/03/2022,Wash. & Jeff.,home,T,0,0,False
+09/07/2022,@ Wittenberg,W 2-1,120,09/07/2022,Wittenberg,away,W,2,1,False
+09/09/2022,@ Wheaton (IL),L 0-1,342,09/09/2022,Wheaton (IL),away,L,0,1,False
+09/10/2022,"Pacific Lutheran @Wheaton, IL",L 0-6,46,09/10/2022,Pacific Lutheran,neutral,L,0,6,False
+09/14/2022,Mount Aloysius,Canceled,,09/14/2022,Mount Aloysius,home,,,,
+09/14/2022,Thiel,W 6-1,120,09/14/2022,Thiel,home,W,6,1,False
+09/17/2022,@ Ohio Wesleyan,L 0-1,275,09/17/2022,Ohio Wesleyan,away,L,0,1,False
+09/21/2022,@ Pitt.-Greensburg,L 1-3,51,09/21/2022,Pitt.-Greensburg,away,L,1,3,False
+09/25/2022,Wooster,W 3-1,207,09/25/2022,Wooster,home,W,3,1,False
+09/28/2022,@ Penn St.-Behrend,W 2-1,204,09/28/2022,Penn St.-Behrend,away,W,2,1,False
+10/01/2022,@ Wilmington (OH),W 2-1,402,10/01/2022,Wilmington (OH),away,W,2,1,False
+10/05/2022,Heidelberg,W 2-1,353,10/05/2022,Heidelberg,home,W,2,1,False
+10/08/2022,Marietta,W 1-0,130,10/08/2022,Marietta,home,W,1,0,False
+10/12/2022,@ Baldwin Wallace,L 1-4,108,10/12/2022,Baldwin Wallace,away,L,1,4,False
+10/15/2022,@ Ohio Northern,L 0-5,171,10/15/2022,Ohio Northern,away,L,0,5,False
+10/19/2022,Otterbein,L 0-1,214,10/19/2022,Otterbein,home,L,0,1,False
+10/22/2022,Capital,L 0-3,269,10/22/2022,Capital,home,L,0,3,False
+10/26/2022,@ Mount Union,W 4-3,52,10/26/2022,Mount Union,away,W,4,3,False
+10/29/2022,@ Muskingum,W 7-1,75,10/29/2022,Muskingum,away,W,7,1,False
+11/01/2022,#5 Mount Union OAC WSOC Championship,W 3-1,220,11/01/2022,Mount Union,home,W,3,1,False
+11/03/2022,@ #1 Capital OAC WSOC Championship,L 0-3,437,11/03/2022,Capital,away,L,0,3,False

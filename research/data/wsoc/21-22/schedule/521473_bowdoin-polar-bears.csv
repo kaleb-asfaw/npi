@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/08/2021,Me.-Farmington,W 11-0,121,09/08/2021,Me.-Farmington,home,W,11,0,False
+09/11/2021,Amherst,L 0-3,201,09/11/2021,Amherst,home,L,0,3,False
+09/12/2021,@ Maine Maritime,W 9-0,112,09/12/2021,Maine Maritime,away,W,9,0,False
+09/14/2021,U New England,W 2-0,113,09/14/2021,U New England,home,W,2,0,False
+09/18/2021,@ Middlebury,L 1-2,150,09/18/2021,Middlebury,away,L,1,2,False
+09/19/2021,@ St. Joseph's (ME),W 4-1,100,09/19/2021,St. Joseph's (ME),away,W,4,1,False
+09/25/2021,@ Wesleyan (CT),L 2-3,280,09/25/2021,Wesleyan (CT),away,L,2,3,False
+09/28/2021,Babson,W 3-1,101,09/28/2021,Babson,home,W,3,1,False
+10/02/2021,Trinity (CT),W 2-0,214,10/02/2021,Trinity (CT),home,W,2,0,False
+10/03/2021,@ Colby,T 0-0 (2 OT),0,10/03/2021,Colby,away,T,0,0,True
+10/09/2021,@ Hamilton,L 1-2,300,10/09/2021,Hamilton,away,L,1,2,False
+10/10/2021,@ Williams,W 2-1,107,10/10/2021,Williams,away,W,2,1,False
+10/16/2021,Connecticut Col.,L 1-3,194,10/16/2021,Connecticut Col.,home,L,1,3,False
+10/20/2021,Bates,W 3-0,0,10/20/2021,Bates,home,W,3,0,False
+10/26/2021,Tufts,L 3-4,0,10/26/2021,Tufts,home,L,3,4,False
+10/30/2021,@ #2 Wesleyan (CT) NESCAC WSOC Championship,L 1-2,150,10/30/2021,Wesleyan (CT),away,L,1,2,False

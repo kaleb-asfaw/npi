@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2023,@ Keuka,W 1-0,185,09/02/2023,Keuka,away,W,1,0,False
+09/11/2023,Bry. & Strat. (Syr.),L 0-3,55,09/11/2023,Bry. & Strat. (Syr.),home,L,0,3,False
+09/14/2023,Fredonia,L 1-8,115,09/14/2023,Fredonia,home,L,1,8,False
+09/16/2023,@ Buffalo St.,L 0-3,78,09/16/2023,Buffalo St.,away,L,0,3,False
+09/20/2023,Houghton,L 0-2,72,09/20/2023,Houghton,home,L,0,2,False
+09/23/2023,Carlow,W 5-2,52,09/23/2023,Carlow,home,W,5,2,False
+09/25/2023,@ SUNY Brockport,L 0-3,55,09/25/2023,SUNY Brockport,away,L,0,3,False
+09/27/2023,@ Bry. & Strat. (Syr.),W 3-2,2,09/27/2023,@ Bry. & Strat. (Syr.),home,W,3,2,False
+09/30/2023,@ Mount Aloysius,W 5-4,134,09/30/2023,Mount Aloysius,away,W,5,4,False
+10/04/2023,@ Alfred St.,L 0-4,100,10/04/2023,Alfred St.,away,L,0,4,False
+10/07/2023,@ Penn St.-Altoona,W 4-3,74,10/07/2023,Penn St.-Altoona,away,W,4,3,False
+10/14/2023,Pitt.-Greensburg,L 0-6,65,10/14/2023,Pitt.-Greensburg,home,L,0,6,False
+10/16/2023,"Wells @Hamburg, NY",W 11-0,32,10/16/2023,Wells,neutral,W,11,0,False
+10/18/2023,Pitt.-Bradford,W 10-1,44,10/18/2023,Pitt.-Bradford,home,W,10,1,False
+10/21/2023,@ La Roche,T 1-1,75,10/21/2023,La Roche,away,T,1,1,False
+10/24/2023,@ Penn St.-Behrend,L 0-8,50,10/24/2023,Penn St.-Behrend,away,L,0,8,False
+10/28/2023,#6 Penn St.-Altoona AMCC Women's Soccer Championship,L 0-3,64,10/28/2023,Penn St.-Altoona,home,L,0,3,False

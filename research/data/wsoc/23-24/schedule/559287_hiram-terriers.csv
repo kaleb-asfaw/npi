@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Heidelberg,T 0-0,85,09/01/2023,Heidelberg,home,T,0,0,False
+09/03/2023,@ Saint Vincent,L 0-3,140,09/03/2023,Saint Vincent,away,L,0,3,False
+09/06/2023,@ Muskingum,W 1-0,207,09/06/2023,Muskingum,away,W,1,0,False
+09/09/2023,@ Bluffton,T 3-3,75,09/09/2023,Bluffton,away,T,3,3,False
+09/13/2023,@ Bethany (WV),W 1-0,100,09/13/2023,Bethany (WV),away,W,1,0,False
+09/16/2023,Franciscan,L 1-2,102,09/16/2023,Franciscan,home,L,1,2,False
+09/19/2023,Geneva,W 1-0,70,09/19/2023,Geneva,home,W,1,0,False
+09/23/2023,Olivet,W 1-0,83,09/23/2023,Olivet,home,W,1,0,False
+09/27/2023,Allegheny,L 2-6,70,09/27/2023,Allegheny,home,L,2,6,False
+10/01/2023,@ St. Mary's (IN),L 1-6,73,10/01/2023,St. Mary's (IN),away,L,1,6,False
+10/07/2023,DePauw,L 0-3,64,10/07/2023,DePauw,home,L,0,3,False
+10/11/2023,Ohio Wesleyan,L 1-4,70,10/11/2023,Ohio Wesleyan,home,L,1,4,False
+10/14/2023,@ Kenyon,L 0-4,200,10/14/2023,Kenyon,away,L,0,4,False
+10/17/2023,Wooster,L 0-4,67,10/17/2023,Wooster,home,L,0,4,False
+10/21/2023,Denison,L 0-1,70,10/21/2023,Denison,home,L,0,1,False
+10/25/2023,@ Oberlin,L 0-5,163,10/25/2023,Oberlin,away,L,0,5,False
+10/28/2023,@ Wittenberg,L 0-2,198,10/28/2023,Wittenberg,away,L,0,2,False

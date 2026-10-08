@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Calvin,L 1-5,837,09/01/2023,Calvin,away,L,1,5,False
+09/05/2023,Ohio Wesleyan,W 4-0,278,09/05/2023,Ohio Wesleyan,home,W,4,0,False
+09/09/2023,Allegheny,W 4-0,241,09/09/2023,Allegheny,home,W,4,0,False
+09/10/2023,@ Mt. St. Joseph,T 1-1,500,09/10/2023,Mt. St. Joseph,away,T,1,1,False
+09/15/2023,Chris. Newport,L 0-1,328,09/15/2023,Chris. Newport,home,L,0,1,False
+09/17/2023,Trine,W 2-1,149,09/17/2023,Trine,home,W,2,1,False
+09/19/2023,Kenyon,W 3-1,148,09/19/2023,Kenyon,home,W,3,1,False
+09/23/2023,@ Hanover,L 2-4,58,09/23/2023,Hanover,away,L,2,4,False
+09/24/2023,CWRU,L 0-2,178,09/24/2023,CWRU,home,L,0,2,False
+09/27/2023,Wittenberg,W 3-1,397,09/27/2023,Wittenberg,home,W,3,1,False
+09/30/2023,Otterbein,L 1-2,381,09/30/2023,Otterbein,home,L,1,2,False
+10/04/2023,@ Wilmington (OH),W 2-0,298,10/04/2023,Wilmington (OH),away,W,2,0,False
+10/07/2023,@ Ohio Northern,L 0-1,97,10/07/2023,Ohio Northern,away,L,0,1,False
+10/11/2023,Muskingum,W 10-0,193,10/11/2023,Muskingum,home,W,10,0,False
+10/14/2023,@ Mount Union,W 3-0,56,10/14/2023,Mount Union,away,W,3,0,False
+10/18/2023,Marietta,W 4-0,263,10/18/2023,Marietta,home,W,4,0,False
+10/21/2023,John Carroll,T 2-2,284,10/21/2023,John Carroll,home,T,2,2,False
+10/25/2023,@ Heidelberg,W 2-1,93,10/25/2023,Heidelberg,away,W,2,1,False
+10/28/2023,@ Baldwin Wallace,T 2-2,79,10/28/2023,Baldwin Wallace,away,T,2,2,False
+10/31/2023,#5 Baldwin Wallace OAC Women's Soccer Championship,T 0-0 (3 OT),193,10/31/2023,Baldwin Wallace,home,T,0,0,True

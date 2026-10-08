@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,"Bob Jones @Raleigh, NC",L 1-2,82,08/30/2024,"Bob Jones @Raleigh, NC",neutral,L,1,2,False
+08/31/2024,"Wis. Lutheran @Raleigh, NC",L 1-4,68,08/31/2024,Wis. Lutheran,neutral,L,1,4,False
+09/04/2024,Guilford,L 0-4,74,09/04/2024,Guilford,home,L,0,4,False
+09/06/2024,@ LaGrange,L 3-4,42,09/06/2024,LaGrange,away,L,3,4,False
+09/08/2024,@ Huntingdon,W 3-0,60,09/08/2024,Huntingdon,away,W,3,0,False
+09/11/2024,@ East. Mennonite,W 3-1,115,09/11/2024,East. Mennonite,away,W,3,1,False
+09/14/2024,Ferrum,L 0-5,78,09/14/2024,Ferrum,home,L,0,5,False
+09/18/2024,JWU (Charlotte),Canceled,,09/18/2024,JWU (Charlotte),home,,,,
+09/21/2024,@ Southern Va.,T 0-0,105,09/21/2024,Southern Va.,away,T,0,0,False
+09/25/2024,@ Randolph,L 2-3,30,09/25/2024,Randolph,away,L,2,3,False
+09/29/2024,Mary Baldwin,W 2-1,83,09/29/2024,Mary Baldwin,home,W,2,1,False
+10/02/2024,Meredith,L 2-4,48,10/02/2024,Meredith,home,L,2,4,False
+10/05/2024,@ Pfeiffer,W 3-1,250,10/05/2024,Pfeiffer,away,W,3,1,False
+10/08/2024,William Peace,L 1-2,42,10/08/2024,William Peace,home,L,1,2,False
+10/12/2024,@ Salem (NC),W 3-1,67,10/12/2024,Salem (NC),away,W,3,1,False
+10/19/2024,Brevard,L 0-3,96,10/19/2024,Brevard,home,L,0,3,False
+10/23/2024,Regent,W 1-0,71,10/23/2024,Regent,home,W,1,0,False
+10/26/2024,Greensboro,L 0-2,117,10/26/2024,Greensboro,home,L,0,2,False
+10/30/2024,@ Methodist,L 0-1,117,10/30/2024,Methodist,away,L,0,1,False
+11/02/2024,@ #3 Greensboro USA South Women's Soccer Championship,L 0-4,200,11/02/2024,Greensboro,away,L,0,4,False

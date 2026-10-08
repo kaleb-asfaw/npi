@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/04/2021,@ Millikin,L 0-1 (2 OT),100,09/04/2021,Millikin,away,L,0,1,True
+09/11/2021,Elmhurst,L 0-3,50,09/11/2021,Elmhurst,home,L,0,3,False
+09/14/2021,@ Webster,Ppd,,09/14/2021,Webster,away,,,,
+09/15/2021,Webster,Canceled,,09/15/2021,Webster,home,,,,
+09/18/2021,Greenville,L 0-1,125,09/18/2021,Greenville,home,L,0,1,False
+09/21/2021,@ Fontbonne,L 1-3,100,09/21/2021,Fontbonne,away,L,1,3,False
+09/25/2021,Principia,W 1-0,100,09/25/2021,Principia,home,W,1,0,False
+09/27/2021,@ Webster,L 1-2 (2 OT),100,09/27/2021,Webster,away,L,1,2,True
+09/30/2021,Spalding,W 3-1,50,09/30/2021,Spalding,home,W,3,1,False
+10/02/2021,@ Blackburn,W 4-0,100,10/02/2021,Blackburn,away,W,4,0,False
+10/06/2021,@ Webster,L 0-2,100,10/06/2021,Webster,away,L,0,2,False
+10/09/2021,Eureka,W 5-1,75,10/09/2021,Eureka,home,W,5,1,False
+10/13/2021,@ Principia,W 3-1,20,10/13/2021,Principia,away,W,3,1,False
+10/16/2021,Fontbonne,L 0-4,65,10/16/2021,Fontbonne,home,L,0,4,False
+10/20/2021,@ Greenville,L 0-3,100,10/20/2021,Greenville,away,L,0,3,False
+10/23/2021,@ Spalding,L 1-4,100,10/23/2021,Spalding,away,L,1,4,False
+10/27/2021,Blackburn,W 6-0,100,10/27/2021,Blackburn,home,W,6,0,False
+10/29/2021,@ Eureka,W 5-0,50,10/29/2021,Eureka,away,W,5,0,False
+11/02/2021,@ #4 Spalding SLIAC WSOC Tournament,T 1-1 (3 OT),135,11/02/2021,Spalding,away,T,1,1,True

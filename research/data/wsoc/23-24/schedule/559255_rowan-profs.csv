@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2023,Muhlenberg,W 3-0,113,09/02/2023,Muhlenberg,home,W,3,0,False
+09/05/2023,@ Manhattanville,W 3-0,46,09/05/2023,Manhattanville,away,W,3,0,False
+09/08/2023,@ Farmingdale St.,W 5-0,96,09/08/2023,Farmingdale St.,away,W,5,0,False
+09/10/2023,"WestConn @Farmingdale, NY",W 5-1,96,09/10/2023,WestConn,neutral,W,5,1,False
+09/13/2023,Swarthmore,T 2-2,125,09/13/2023,Swarthmore,home,T,2,2,False
+09/15/2023,Penn St.-Berks,W 6-0,440,09/15/2023,Penn St.-Berks,home,W,6,0,False
+09/22/2023,Kean,W 4-0,202,09/22/2023,Kean,home,W,4,0,False
+09/23/2023,Kean,Ppd,,09/23/2023,Kean,home,,,,
+09/27/2023,New Jersey City,W 5-0,81,09/27/2023,New Jersey City,home,W,5,0,False
+09/30/2023,@ Rutgers-Newark,W 3-1,340,09/30/2023,Rutgers-Newark,away,W,3,1,False
+10/04/2023,Penn St.-Schuylkill,Canceled,,10/04/2023,Penn St.-Schuylkill,home,,,,
+10/07/2023,@ Montclair St.,T 0-0,196,10/07/2023,Montclair St.,away,T,0,0,False
+10/11/2023,Rutgers-Camden,W 3-0,301,10/11/2023,Rutgers-Camden,home,W,3,0,False
+10/13/2023,Ramapo,W 7-0,143,10/13/2023,Ramapo,home,W,7,0,False
+10/18/2023,@ TCNJ,W 1-0,200,10/18/2023,TCNJ,away,W,1,0,False
+10/21/2023,Wm. Paterson,W 1-0,232,10/21/2023,Wm. Paterson,home,W,1,0,False
+10/25/2023,@ Stockton,W 3-0,100,10/25/2023,Stockton,away,W,3,0,False
+10/31/2023,#4 New Jersey City NJAC Women's Soccer Championship,W 3-0,209,10/31/2023,New Jersey City,home,W,3,0,False
+11/03/2023,#2 TCNJ NJAC Women's Soccer Championship,L 0-2,528,11/03/2023,TCNJ,home,L,0,2,False
+11/11/2023,"Southern Me. @Cambridge, MA (NCAA Division III Women's Soccer Championship)",L 0-2,256,11/11/2023,Southern Me.,neutral,L,0,2,False

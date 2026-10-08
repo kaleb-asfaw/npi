@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/04/2021,Berry,W 1-0,142,09/04/2021,Berry,home,W,1,0,False
+09/06/2021,@ Birmingham-So.,T 0-0 (2 OT),139,09/06/2021,Birmingham-So.,away,T,0,0,True
+09/09/2021,@ Mary Baldwin,L 0-4,0,09/09/2021,Mary Baldwin,away,L,0,4,False
+09/11/2021,@ Marietta,W 2-0,157,09/11/2021,Marietta,away,W,2,0,False
+09/12/2021,@ Averett,T 2-2 (2 OT),250,09/12/2021,Averett,away,T,2,2,True
+09/19/2021,@ Greensboro,T 0-0 (2 OT),65,09/19/2021,Greensboro,away,T,0,0,True
+09/22/2021,Oglethorpe,W 3-1,134,09/22/2021,Oglethorpe,home,W,3,1,False
+09/25/2021,Berea,W 6-0,134,09/25/2021,Berea,home,W,6,0,False
+09/26/2021,Centre,L 0-1,0,09/26/2021,Centre,home,L,0,1,False
+09/29/2021,@ Brevard,L 0-1,74,09/29/2021,Brevard,away,L,0,1,False
+10/02/2021,@ LaGrange,W 2-0,101,10/02/2021,LaGrange,away,W,2,0,False
+10/04/2021,Warren Wilson,W 4-0,83,10/04/2021,Warren Wilson,home,W,4,0,False
+10/08/2021,Maryville (TN),W 2-1 (2 OT),154,10/08/2021,Maryville (TN),home,W,2,1,True
+10/12/2021,Covenant,W 1-0 (2 OT),132,10/12/2021,Covenant,home,W,1,0,True
+10/16/2021,@ Huntingdon,W 3-2 (1 OT),38,10/16/2021,Huntingdon,away,W,3,2,True
+10/20/2021,Wesleyan (GA),W 3-0,89,10/20/2021,Wesleyan (GA),home,W,3,0,False
+10/23/2021,@ Agnes Scott,W 4-0,50,10/23/2021,Agnes Scott,away,W,4,0,False
+10/24/2021,"Chris. Newport @Greensboro, NC",L 0-4,112,10/24/2021,Chris. Newport,neutral,L,0,4,False
+10/30/2021,#4 Mary Baldwin USA South WSOC Championship,T 0-0 (3 OT),101,10/30/2021,Mary Baldwin,home,T,0,0,True
+11/01/2021,Florida Col.,W 3-0,78,11/01/2021,Florida Col.,home,W,3,0,False
+11/05/2021,@ #3 Maryville (TN) USA South WSOC Championship,W 1-0,60,11/05/2021,Maryville (TN),away,W,1,0,False
+11/06/2021,#2 Covenant USA South WSOC Championship,L 0-1,48,11/06/2021,Covenant,home,L,0,1,False

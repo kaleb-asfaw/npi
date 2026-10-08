@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/23/2022,@ Navy,L 0-6 *,431,08/23/2022,Navy,away,L,0,6,False
+09/01/2022,@ Shenandoah,L 0-2,157,09/01/2022,Shenandoah,away,L,0,2,False
+09/04/2022,@ Washington Col.,L 0-4,103,09/04/2022,Washington Col.,away,L,0,4,False
+09/07/2022,Goucher,L 1-2,243,09/07/2022,Goucher,home,L,1,2,False
+09/10/2022,@ Mary Washington,L 1-2,150,09/10/2022,Mary Washington,away,L,1,2,False
+09/14/2022,Lycoming,T 0-0,157,09/14/2022,Lycoming,home,T,0,0,False
+09/17/2022,Stevenson,W 1-0,197,09/17/2022,Stevenson,home,W,1,0,False
+09/18/2022,@ Notre Dame (MD),W 5-0,34,09/18/2022,Notre Dame (MD),away,W,5,0,False
+09/21/2022,Hood,L 0-2,134,09/21/2022,Hood,home,L,0,2,False
+09/24/2022,@ Eastern,T 1-1,274,09/24/2022,Eastern,away,T,1,1,False
+09/28/2022,@ Gallaudet,W 6-0,34,09/28/2022,Gallaudet,away,W,6,0,False
+10/01/2022,Neumann,L 0-2,167,10/01/2022,Neumann,home,L,0,2,False
+10/05/2022,Gwynedd Mercy,W 3-0,108,10/05/2022,Gwynedd Mercy,home,W,3,0,False
+10/08/2022,Centenary (NJ),T 2-2,268,10/08/2022,Centenary (NJ),home,T,2,2,False
+10/11/2022,@ Widener,T 1-1,107,10/11/2022,Widener,away,T,1,1,False
+10/15/2022,@ Marywood,L 0-1,128,10/15/2022,Marywood,away,L,0,1,False
+10/19/2022,Mary Baldwin,W 1-0,104,10/19/2022,Mary Baldwin,home,W,1,0,False
+10/22/2022,@ Cabrini,L 0-2,188,10/22/2022,Cabrini,away,L,0,2,False
+10/26/2022,@ Immaculata,T 1-1,67,10/26/2022,Immaculata,away,T,1,1,False
+10/31/2022,@ #4 Centenary (NJ) Atlantic East WSOC Championship,W 5-1,150,10/31/2022,Centenary (NJ),away,W,5,1,False
+11/02/2022,@ #1 Marywood Atlantic East WSOC Championship,L 0-3,275,11/02/2022,Marywood,away,L,0,3,False

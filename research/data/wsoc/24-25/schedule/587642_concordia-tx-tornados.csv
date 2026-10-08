@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Huston-Tillotson,W 4-1,124,08/30/2024,Huston-Tillotson,home,W,4,1,False
+09/02/2024,Mary Hardin-Baylor,L 0-1,222,09/02/2024,Mary Hardin-Baylor,home,L,0,1,False
+09/06/2024,@ Whittier,L 0-1,92,09/06/2024,Whittier,away,L,0,1,False
+09/08/2024,@ Cal Lutheran,L 1-6,276,09/08/2024,Cal Lutheran,away,L,1,6,False
+09/16/2024,@ Hardin-Simmons,T 3-3,136,09/16/2024,Hardin-Simmons,away,T,3,3,False
+09/21/2024,Howard Payne,L 0-1,251,09/21/2024,Howard Payne,home,L,0,1,False
+09/24/2024,Nelson,W 2-0,88,09/24/2024,Nelson,home,W,2,0,False
+09/26/2024,@ Mary Hardin-Baylor,L 1-3,186,09/26/2024,Mary Hardin-Baylor,away,L,1,3,False
+10/04/2024,Schreiner,W 5-0,144,10/04/2024,Schreiner,home,W,5,0,False
+10/06/2024,Trinity (TX),L 0-1,151,10/06/2024,Trinity (TX),home,L,0,1,False
+10/08/2024,@ McMurry,T 1-1,140,10/08/2024,McMurry,away,T,1,1,False
+10/13/2024,St. Thomas (TX),W 5-1,108,10/13/2024,St. Thomas (TX),home,W,5,1,False
+10/18/2024,@ Centenary (LA),W 2-0,127,10/18/2024,Centenary (LA),away,W,2,0,False
+10/20/2024,@ Ozarks (AR),W 4-0,205,10/20/2024,Ozarks (AR),away,W,4,0,False
+10/25/2024,Austin,W 2-0,79,10/25/2024,Austin,home,W,2,0,False
+10/27/2024,Dallas,W 8-0,171,10/27/2024,Dallas,home,W,8,0,False
+11/01/2024,@ Southwestern (TX),W 2-0,205,11/01/2024,Southwestern (TX),away,W,2,0,False
+11/03/2024,@ Texas Lutheran,L 0-1,175,11/03/2024,Texas Lutheran,away,L,0,1,False
+11/08/2024,"#2 Texas Lutheran @Houston, TX (SCAC Women's Soccer Tournament)",L 1-2,167,11/08/2024,Texas Lutheran,neutral,L,1,2,False

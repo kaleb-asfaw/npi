@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Bethesda (CA),W 2-1,50,09/01/2023,Bethesda (CA),home,W,2,1,False
+09/08/2023,Master's,L 1-2,75,09/08/2023,Master's,home,L,1,2,False
+09/13/2023,Pomona-Pitzer,L 0-1,55,09/13/2023,Pomona-Pitzer,home,L,0,1,False
+09/16/2023,Occidental,T 2-2,100,09/16/2023,Occidental,home,T,2,2,False
+09/20/2023,La Verne,T 1-1,100,09/20/2023,La Verne,home,T,1,1,False
+09/23/2023,CMS,L 0-1,150,09/23/2023,CMS,home,L,0,1,False
+09/27/2023,@ Caltech,W 4-2,52,09/27/2023,Caltech,away,W,4,2,False
+09/30/2023,@ Redlands,W 6-3,82,09/30/2023,Redlands,away,W,6,3,False
+10/04/2023,Cal Lutheran,T 1-1,124,10/04/2023,Cal Lutheran,home,T,1,1,False
+10/07/2023,@ Chapman,L 0-3,140,10/07/2023,Chapman,away,L,0,3,False
+10/14/2023,Caltech,W 2-0,150,10/14/2023,Caltech,home,W,2,0,False
+10/18/2023,@ Pomona-Pitzer,L 1-2,132,10/18/2023,Pomona-Pitzer,away,L,1,2,False
+10/21/2023,@ Occidental,L 1-2,"1,273",10/21/2023,Occidental,away,L,1,2,False
+10/22/2023,UC Santa Cruz,L 1-2,71,10/22/2023,UC Santa Cruz,home,L,1,2,False
+10/25/2023,@ La Verne,W 2-1,179,10/25/2023,La Verne,away,W,2,1,False

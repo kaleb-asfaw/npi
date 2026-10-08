@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Marian (WI),T 1-1 (2 OT),249,09/01/2021,Marian (WI),away,T,1,1,True
+09/08/2021,@ Edgewood,T 2-2 (2 OT),147,09/08/2021,Edgewood,away,T,2,2,True
+09/10/2021,Wis. Lutheran,W 4-0,86,09/10/2021,Wis. Lutheran,home,W,4,0,False
+09/12/2021,Rockford,W 3-0,92,09/12/2021,Rockford,home,W,3,0,False
+09/18/2021,Neb. Wesleyan,W 2-0,60,09/18/2021,Neb. Wesleyan,home,W,2,0,False
+09/22/2021,@ Carthage,L 1-3,87,09/22/2021,Carthage,away,L,1,3,False
+09/25/2021,Ripon,W 3-0,97,09/25/2021,Ripon,home,W,3,0,False
+09/29/2021,@ Carroll (WI),L 0-1,84,09/29/2021,Carroll (WI),away,L,0,1,False
+10/02/2021,@ Knox,L 0-1,50,10/02/2021,Knox,away,L,0,1,False
+10/05/2021,@ Lake Forest,T 0-0 (2 OT),45,10/05/2021,Lake Forest,away,T,0,0,True
+10/09/2021,Grinnell,T 0-0 (2 OT),200,10/09/2021,Grinnell,home,T,0,0,True
+10/13/2021,Wis.-Platteville,L 1-2,46,10/13/2021,Wis.-Platteville,home,L,1,2,False
+10/16/2021,Illinois Col.,W 4-1,150,10/16/2021,Illinois Col.,home,W,4,1,False
+10/23/2021,@ Monmouth (IL),T 1-1 (2 OT),25,10/23/2021,Monmouth (IL),away,T,1,1,True
+10/26/2021,@ Lawrence,W 2-0,101,10/26/2021,Lawrence,away,W,2,0,False
+10/30/2021,Cornell College,W 1-0,67,10/30/2021,Cornell College,home,W,1,0,False
+11/05/2021,@ #2 Lake Forest Midwest Conference WSOC Tournament,W 1-0,25,11/05/2021,Lake Forest,away,W,1,0,False
+11/06/2021,@ #1 Knox Midwest Conference WSOC Tournament,T 0-0 (3 OT),150,11/06/2021,Knox,away,T,0,0,True
+11/13/2021,@ WashU NCAA Division III Women's Soccer Championship,L 0-4,350,11/13/2021,WashU,away,L,0,4,False

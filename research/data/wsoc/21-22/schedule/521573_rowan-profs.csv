@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Western New Eng.,W 2-0,75,09/01/2021,Western New Eng.,away,W,2,0,False
+09/04/2021,Centenary (NJ),W 6-0,100,09/04/2021,Centenary (NJ),home,W,6,0,False
+09/05/2021,Adrian,L 0-1 (1 OT),127,09/05/2021,Adrian,home,L,0,1,True
+09/08/2021,Widener,W 3-1,100,09/08/2021,Widener,home,W,3,1,False
+09/10/2021,Bryn Mawr,W 1-0,231,09/10/2021,Bryn Mawr,home,W,1,0,False
+09/13/2021,Alvernia,W 2-0,75,09/13/2021,Alvernia,home,W,2,0,False
+09/18/2021,Ramapo,W 2-0,100,09/18/2021,Ramapo,home,W,2,0,False
+09/25/2021,@ Rutgers-Newark,W 3-1,250,09/25/2021,Rutgers-Newark,away,W,3,1,False
+09/29/2021,@ TCNJ,L 1-3,0,09/29/2021,TCNJ,away,L,1,3,False
+10/02/2021,@ New Jersey City,W 3-0,123,10/02/2021,New Jersey City,away,W,3,0,False
+10/06/2021,@ York (PA),L 1-2,323,10/06/2021,York (PA),away,L,1,2,False
+10/09/2021,Wm. Paterson,W 2-1,100,10/09/2021,Wm. Paterson,home,W,2,1,False
+10/13/2021,@ Stockton,W 3-1,142,10/13/2021,Stockton,away,W,3,1,False
+10/16/2021,Kean,W 1-0,250,10/16/2021,Kean,home,W,1,0,False
+10/18/2021,Me.-Fort Kent,W 2-0,50,10/18/2021,Me.-Fort Kent,home,W,2,0,False
+10/23/2021,@ Montclair St.,L 1-2,412,10/23/2021,Montclair St.,away,L,1,2,False
+10/27/2021,Rutgers-Camden,W 3-2,248,10/27/2021,Rutgers-Camden,home,W,3,2,False
+10/30/2021,#6 Rutgers-Camden NJAC WSOC Championship,W 1-0,127,10/30/2021,Rutgers-Camden,home,W,1,0,False
+11/02/2021,@ #2 Montclair St. NJAC WSOC Championship,W 1-0,512,11/02/2021,Montclair St.,away,W,1,0,False
+11/05/2021,@ #1 TCNJ NJAC WSOC Championship,T 0-0 (2 OT),667,11/05/2021,TCNJ,away,T,0,0,True

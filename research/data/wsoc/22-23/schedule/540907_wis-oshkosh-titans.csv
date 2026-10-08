@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Ripon,W 15-0,100,09/01/2022,Ripon,away,W,15,0,False
+09/03/2022,@ Bethel (MN),W 6-0,153,09/03/2022,Bethel (MN),away,W,6,0,False
+09/05/2022,@ Macalester,T 0-0,166,09/05/2022,Macalester,away,T,0,0,False
+09/09/2022,Calvin,L 0-6,110,09/09/2022,Calvin,home,L,0,6,False
+09/11/2022,@ Marian (WI),T 1-1,273,09/11/2022,Marian (WI),away,T,1,1,False
+09/14/2022,Lawrence,L 1-2,112,09/14/2022,Lawrence,home,L,1,2,False
+09/17/2022,Dubuque,L 1-2,229,09/17/2022,Dubuque,home,L,1,2,False
+09/21/2022,North Central (IL),L 0-5,186,09/21/2022,North Central (IL),home,L,0,5,False
+09/28/2022,@ Carroll (WI),W 2-0,104,09/28/2022,Carroll (WI),away,W,2,0,False
+10/01/2022,Wis.-Eau Claire,L 1-2,226,10/01/2022,Wis.-Eau Claire,home,L,1,2,False
+10/05/2022,@ Wis.-Stevens Point,T 2-2,87,10/05/2022,Wis.-Stevens Point,away,T,2,2,False
+10/08/2022,@ Wis.-Stout,T 1-1,77,10/08/2022,Wis.-Stout,away,T,1,1,False
+10/10/2022,St. Norbert,W 4-0,66,10/10/2022,St. Norbert,home,W,4,0,False
+10/15/2022,Wis.-Platteville,L 0-1,127,10/15/2022,Wis.-Platteville,home,L,0,1,False
+10/19/2022,Wis.-Whitewater,T 0-0,82,10/19/2022,Wis.-Whitewater,home,T,0,0,False
+10/22/2022,@ Wis.-La Crosse,L 0-3,326,10/22/2022,Wis.-La Crosse,away,L,0,3,False
+10/25/2022,Concordia Wisconsin,L 1-2,63,10/25/2022,Concordia Wisconsin,home,L,1,2,False
+10/29/2022,@ UW-River Falls,W 2-1,98,10/29/2022,UW-River Falls,away,W,2,1,False
+11/01/2022,@ #3 Wis.-Eau Claire WIAC WSOC Tournament,L 0-2,100,11/01/2022,Wis.-Eau Claire,away,L,0,2,False

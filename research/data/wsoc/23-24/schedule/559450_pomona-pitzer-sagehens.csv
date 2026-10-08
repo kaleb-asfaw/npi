@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,UC Santa Cruz,W 1-0,127,09/01/2023,UC Santa Cruz,home,W,1,0,False
+09/03/2023,Trinity (TX),W 2-1,127,09/03/2023,Trinity (TX),home,W,2,1,False
+09/08/2023,@ St. Catherine,W 1-0,87,09/08/2023,St. Catherine,away,W,1,0,False
+09/09/2023,@ Macalester,W 2-0,367,09/09/2023,Macalester,away,W,2,0,False
+09/13/2023,@ Whittier,W 1-0,55,09/13/2023,Whittier,away,W,1,0,False
+09/16/2023,Caltech,W 6-0,117,09/16/2023,Caltech,home,W,6,0,False
+09/20/2023,@ Occidental,W 3-0,175,09/20/2023,Occidental,away,W,3,0,False
+09/23/2023,Chapman,W 1-0,152,09/23/2023,Chapman,home,W,1,0,False
+09/27/2023,Redlands,W 3-1,143,09/27/2023,Redlands,home,W,3,1,False
+09/30/2023,@ CMS,T 0-0,742,09/30/2023,CMS,away,T,0,0,False
+10/07/2023,La Verne,W 7-0,231,10/07/2023,La Verne,home,W,7,0,False
+10/11/2023,@ Cal Lutheran,T 1-1,175,10/11/2023,Cal Lutheran,away,T,1,1,False
+10/14/2023,@ Redlands,W 5-0,230,10/14/2023,Redlands,away,W,5,0,False
+10/18/2023,Whittier,W 2-1,132,10/18/2023,Whittier,home,W,2,1,False
+10/21/2023,@ Caltech,W 1-0,51,10/21/2023,Caltech,away,W,1,0,False
+10/25/2023,Occidental,T 1-1,132,10/25/2023,Occidental,home,T,1,1,False
+11/02/2023,#3 CMS SCIAC Women's Soccer Championship,W 2-1,118,11/02/2023,CMS,home,W,2,1,False
+11/04/2023,@ #1 Cal Lutheran SCIAC Women's Soccer Championship,W 1-0,250,11/04/2023,Cal Lutheran,away,W,1,0,False
+11/11/2023,Pacific Lutheran NCAA Division III Women's Soccer Championship,W 1-0 (2 OT),217,11/11/2023,Pacific Lutheran,home,W,1,0,True
+11/12/2023,Cal Lutheran NCAA Division III Women's Soccer Championship,L 0-1,367,11/12/2023,Cal Lutheran,home,L,0,1,False

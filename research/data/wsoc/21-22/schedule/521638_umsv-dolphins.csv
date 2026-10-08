@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/04/2021,@ New Jersey City,T 2-2 (2 OT),126,09/04/2021,New Jersey City,away,T,2,2,True
+09/08/2021,Pratt,Ppd,,09/08/2021,Pratt,home,,,,
+09/10/2021,@ Kean,L 0-2,78,09/10/2021,Kean,away,L,0,2,False
+09/15/2021,@ FDU-Florham,L 1-4,200,09/15/2021,FDU-Florham,away,L,1,4,False
+09/18/2021,@ Neumann,W 3-1,278,09/18/2021,Neumann,away,W,3,1,False
+09/21/2021,@ Purchase,W 6-1,44,09/21/2021,Purchase,away,W,6,1,False
+09/25/2021,Sarah Lawrence,W 2-1 (2 OT),88,09/25/2021,Sarah Lawrence,home,W,2,1,True
+10/02/2021,@ Manhattanville,L 0-2,65,10/02/2021,Manhattanville,away,L,0,2,False
+10/05/2021,@ Mt. St. Mary (NY),L 0-1,103,10/05/2021,Mt. St. Mary (NY),away,L,0,1,False
+10/09/2021,Old Westbury,W 6-0,87,10/09/2021,Old Westbury,home,W,6,0,False
+10/13/2021,SUNY Maritime,W 9-0,77,10/13/2021,SUNY Maritime,home,W,9,0,False
+10/17/2021,Yeshiva,W 14-1,88,10/17/2021,Yeshiva,home,W,14,1,False
+10/19/2021,@ St. Joseph's (L.I.),L 0-1,82,10/19/2021,St. Joseph's (L.I.),away,L,0,1,False
+10/23/2021,@ St. Joseph's (Brkln),W 4-0,57,10/23/2021,St. Joseph's (Brkln),away,W,4,0,False
+10/27/2021,@ Farmingdale St.,L 0-2,145,10/27/2021,Farmingdale St.,away,L,0,2,False
+10/30/2021,@ #4 St. Joseph's (L.I.) Skyline WSOC Championship,W 2-0,0,10/30/2021,St. Joseph's (L.I.),away,W,2,0,False
+11/03/2021,@ #1 Farmingdale St. Skyline WSOC Championship,L 0-4,215,11/03/2021,Farmingdale St.,away,L,0,4,False

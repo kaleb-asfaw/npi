@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/22/2024,@ Tarleton St.,L 0-8 *,592,08/22/2024,Tarleton St.,away,L,0,8,False
+08/30/2024,"Willamette @Redlands, CA",W 1-0,19,08/30/2024,Willamette,neutral,W,1,0,False
+08/31/2024,"Wis.-Stout @Redlands, CA",T 0-0,19,08/31/2024,Wis.-Stout,neutral,T,0,0,False
+09/03/2024,Arlington Baptist,W 8-0,118,09/03/2024,Arlington Baptist,home,W,8,0,False
+09/06/2024,@ LeTourneau,W 2-1,50,09/06/2024,LeTourneau,away,W,2,1,False
+09/08/2024,Millsaps,W 1-0,162,09/08/2024,Millsaps,home,W,1,0,False
+09/12/2024,Wiley,W 2-0,113,09/12/2024,Wiley,home,W,2,0,False
+09/15/2024,Hendrix,T 0-0,132,09/15/2024,Hendrix,home,T,0,0,False
+09/20/2024,@ Lyon,W 2-0,120,09/20/2024,Lyon,away,W,2,0,False
+09/29/2024,@ Ecclesia,Canceled,,09/29/2024,@ Ecclesia,home,,,,
+10/04/2024,Southwestern (TX),L 0-2,147,10/04/2024,Southwestern (TX),home,L,0,2,False
+10/06/2024,@ Texas Lutheran,L 0-2,135,10/06/2024,Texas Lutheran,away,L,0,2,False
+10/11/2024,Centenary (LA),W 3-0,163,10/11/2024,Centenary (LA),home,W,3,0,False
+10/13/2024,@ Ozarks (AR),W 3-2,150,10/13/2024,Ozarks (AR),away,W,3,2,False
+10/18/2024,Schreiner,W 2-0,151,10/18/2024,Schreiner,home,W,2,0,False
+10/20/2024,Trinity (TX),L 1-2,192,10/20/2024,Trinity (TX),home,L,1,2,False
+10/25/2024,@ Concordia (TX),L 0-2,79,10/25/2024,Concordia (TX),away,L,0,2,False
+10/27/2024,@ McMurry,T 0-0,80,10/27/2024,McMurry,away,T,0,0,False
+10/29/2024,Dallas,L 0-1,171,10/29/2024,Dallas,home,L,0,1,False
+11/03/2024,@ St. Thomas (TX),T 1-1,200,11/03/2024,St. Thomas (TX),away,T,1,1,False

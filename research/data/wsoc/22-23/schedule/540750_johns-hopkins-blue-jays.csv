@@ -1,0 +1,26 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Catholic,W 6-1,200,09/01/2022,Catholic,home,W,6,1,False
+09/04/2022,Roanoke,W 11-0,100,09/04/2022,Roanoke,home,W,11,0,False
+09/07/2022,@ Messiah,T 1-1,200,09/07/2022,Messiah,away,T,1,1,False
+09/11/2022,@ Carnegie Mellon,T 2-2,203,09/11/2022,Carnegie Mellon,away,T,2,2,False
+09/14/2022,Randolph-Macon,W 3-0,120,09/14/2022,Randolph-Macon,home,W,3,0,False
+09/17/2022,@ Bryn Mawr,W 6-0,73,09/17/2022,Bryn Mawr,away,W,6,0,False
+09/21/2022,@ Swarthmore,W 4-0,87,09/21/2022,Swarthmore,away,W,4,0,False
+09/24/2022,Haverford,W 3-0,150,09/24/2022,Haverford,home,W,3,0,False
+09/28/2022,Shenandoah,W 2-0,100,09/28/2022,Shenandoah,home,W,2,0,False
+10/05/2022,Gettysburg,W 4-0,60,10/05/2022,Gettysburg,home,W,4,0,False
+10/08/2022,@ Washington Col.,W 3-0,200,10/08/2022,Washington Col.,away,W,3,0,False
+10/12/2022,McDaniel,W 4-1,125,10/12/2022,McDaniel,home,W,4,1,False
+10/15/2022,Ursinus,W 5-0,300,10/15/2022,Ursinus,home,W,5,0,False
+10/19/2022,@ Penn St.-Berks,W 4-0,144,10/19/2022,Penn St.-Berks,away,W,4,0,False
+10/22/2022,@ Muhlenberg,W 4-0,105,10/22/2022,Muhlenberg,away,W,4,0,False
+10/26/2022,@ Dickinson,W 4-0,25,10/26/2022,Dickinson,away,W,4,0,False
+10/29/2022,Franklin & Marshall,W 6-3,100,10/29/2022,Franklin & Marshall,home,W,6,3,False
+11/04/2022,#4 McDaniel Centennial WSOC Championship,W 3-0,104,11/04/2022,McDaniel,home,W,3,0,False
+11/06/2022,#2 Dickinson Centennial WSOC Championship,W 4-0,200,11/06/2022,Dickinson,home,W,4,0,False
+11/12/2022,"Lesley @Hartford, CT (NCAA Division III Women's Soccer Championship)",W 6-0,70,11/12/2022,Lesley,neutral,W,6,0,False
+11/13/2022,"Trinity (CT) @Hartford, CT (NCAA Division III Women's Soccer Championship)",W 4-0,589,11/13/2022,Trinity (CT),neutral,W,4,0,False
+11/19/2022,"Williams @Dallas, PA (NCAA Division III Women's Soccer Championship)",W 2-1 (2 OT),125,11/19/2022,Williams,neutral,W,2,1,True
+11/20/2022,@ Misericordia NCAA Division III Women's Soccer Championship,W 2-0,250,11/20/2022,Misericordia,away,W,2,0,False
+12/02/2022,"Messiah @Salem, VA (NCAA Division III Women's Soccer Championship)",W 4-1,742,12/02/2022,Messiah,neutral,W,4,1,False
+12/04/2022,"CWRU @Salem, VA (NCAA Division III Women's Soccer Championship)",W 2-1,743,12/04/2022,CWRU,neutral,W,2,1,False

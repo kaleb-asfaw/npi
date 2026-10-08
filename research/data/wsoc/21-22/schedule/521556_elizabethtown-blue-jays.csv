@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Rutgers-Camden,Ppd,,09/01/2021,Rutgers-Camden,away,,,,
+09/02/2021,@ Rutgers-Camden,L 0-1,97,09/02/2021,Rutgers-Camden,away,L,0,1,False
+09/04/2021,Gettysburg,L 1-2,255,09/04/2021,Gettysburg,home,L,1,2,False
+09/08/2021,@ Franklin & Marshall,L 1-5,142,09/08/2021,Franklin & Marshall,away,L,1,5,False
+09/11/2021,@ Stevenson,T 0-0 (2 OT),420,09/11/2021,Stevenson,away,T,0,0,True
+09/15/2021,@ Muhlenberg,W 1-0 (1 OT),85,09/15/2021,Muhlenberg,away,W,1,0,True
+09/18/2021,Penn St.-Berks,W 3-0,391,09/18/2021,Penn St.-Berks,home,W,3,0,False
+09/22/2021,York (PA),L 0-2,78,09/22/2021,York (PA),home,L,0,2,False
+09/25/2021,@ Goucher,W 3-0,139,09/25/2021,Goucher,away,W,3,0,False
+09/29/2021,@ Penn St. Harrisburg,W 4-0,75,09/29/2021,Penn St. Harrisburg,away,W,4,0,False
+10/02/2021,Catholic,W 3-0,312,10/02/2021,Catholic,home,W,3,0,False
+10/09/2021,@ Juniata,T 1-1 (2 OT),80,10/09/2021,Juniata,away,T,1,1,True
+10/13/2021,Moravian,W 1-0,166,10/13/2021,Moravian,home,W,1,0,False
+10/16/2021,Susquehanna,L 1-3,216,10/16/2021,Susquehanna,home,L,1,3,False
+10/19/2021,McDaniel,L 1-3,172,10/19/2021,McDaniel,home,L,1,3,False
+10/23/2021,@ Drew,W 1-0 (1 OT),153,10/23/2021,Drew,away,W,1,0,True
+10/30/2021,Scranton,T 2-2 (2 OT),133,10/30/2021,Scranton,home,T,2,2,True
+11/03/2021,@ #2 Susquehanna Landmark WSOC Championship,T 2-2 (2 OT),189,11/03/2021,Susquehanna,away,T,2,2,True
+11/06/2021,@ #1 Scranton Landmark WSOC Championship,L 0-2,327,11/06/2021,Scranton,away,L,0,2,False

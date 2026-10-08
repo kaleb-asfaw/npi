@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/31/2024,@ Cedar Crest,W 4-0,83,08/31/2024,Cedar Crest,away,W,4,0,False
+09/01/2024,@ Moravian,L 0-1,153,09/01/2024,Moravian,away,L,0,1,False
+09/04/2024,@ Keene St.,L 1-2,157,09/04/2024,Keene St.,away,L,1,2,False
+09/07/2024,@ Emmanuel (MA),T 3-3,88,09/07/2024,Emmanuel (MA),away,T,3,3,False
+09/11/2024,JWU (Providence),L 0-2,125,09/11/2024,JWU (Providence),home,L,0,2,False
+09/14/2024,Albertus Magnus,W 2-1,35,09/14/2024,Albertus Magnus,home,W,2,1,False
+09/18/2024,St. Joseph's (ME),W 2-1,55,09/18/2024,St. Joseph's (ME),home,W,2,1,False
+09/21/2024,@ Regis (MA),T 1-1,50,09/21/2024,Regis (MA),away,T,1,1,False
+09/25/2024,New England Col.,W 3-2,66,09/25/2024,New England Col.,home,W,3,2,False
+09/28/2024,@ Anna Maria,T 0-0,561,09/28/2024,Anna Maria,away,T,0,0,False
+09/29/2024,VTSU Castleton,W 2-0,25,09/29/2024,VTSU Castleton,home,W,2,0,False
+10/02/2024,Salem St.,T 0-0,62,10/02/2024,Salem St.,home,T,0,0,False
+10/05/2024,Lasell,L 0-2,131,10/05/2024,Lasell,home,L,0,2,False
+10/09/2024,Rivier,W 5-1,75,10/09/2024,Rivier,home,W,5,1,False
+10/12/2024,@ Simmons,T 1-1,115,10/12/2024,Simmons,away,T,1,1,False
+10/16/2024,@ Norwich,T 3-3,143,10/16/2024,Norwich,away,T,3,3,False
+10/19/2024,Mitchell,W 7-0,372,10/19/2024,Mitchell,home,W,7,0,False
+10/23/2024,@ Elms,W 2-1,97,10/23/2024,Elms,away,W,2,1,False
+10/26/2024,@ Saint Joseph (CT),T 0-0,237,10/26/2024,Saint Joseph (CT),away,T,0,0,False
+10/29/2024,Dean,W 5-1,90,10/29/2024,Dean,home,W,5,1,False
+11/02/2024,@ #4 Lasell Great Northeast Women's Soccer Championship,T 1-1 (2 OT),250,11/02/2024,Lasell,away,T,1,1,True

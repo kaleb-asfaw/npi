@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ SUNY Geneseo,L 0-2,279,09/01/2023,SUNY Geneseo,away,L,0,2,False
+09/05/2023,@ SUNY Oneonta,L 1-4,200,09/05/2023,SUNY Oneonta,away,L,1,4,False
+09/07/2023,Rochester (NY),L 0-4,185,09/07/2023,Rochester (NY),home,L,0,4,False
+09/09/2023,Pitt.-Bradford,W 5-0,160,09/09/2023,Pitt.-Bradford,home,W,5,0,False
+09/12/2023,@ Fredonia,T 1-1,48,09/12/2023,Fredonia,away,T,1,1,False
+09/16/2023,St. John Fisher,T 1-1,325,09/16/2023,St. John Fisher,home,T,1,1,False
+09/20/2023,Ithaca,Ppd,,09/20/2023,Ithaca,home,,,,
+09/23/2023,@ Utica,T 2-2,160,09/23/2023,Utica,away,T,2,2,False
+09/30/2023,@ Russell Sage,T 0-0,206,09/30/2023,Russell Sage,away,T,0,0,False
+10/04/2023,@ SUNY Brockport,L 0-3,155,10/04/2023,SUNY Brockport,away,L,0,3,False
+10/07/2023,@ Westminster (PA),W 1-0,112,10/07/2023,Westminster (PA),away,W,1,0,False
+10/11/2023,@ Keuka,W 2-0,250,10/11/2023,Keuka,away,W,2,0,False
+10/15/2023,Elmira,T 1-1,148,10/15/2023,Elmira,home,T,1,1,False
+10/18/2023,@ Houghton,W 2-0,85,10/18/2023,Houghton,away,W,2,0,False
+10/21/2023,Hartwick,T 0-0,146,10/21/2023,Hartwick,home,T,0,0,False
+10/25/2023,Nazareth,L 0-2,225,10/25/2023,Nazareth,home,L,0,2,False
+10/28/2023,@ #3 Utica Empire 8 Women's Soccer Championship,T 0-0 (2 OT),132,10/28/2023,Utica,away,T,0,0,True
+11/01/2023,@ #2 St. John Fisher Empire 8 Women's Soccer Championship,L 0-1,95,11/01/2023,St. John Fisher,away,L,0,1,False

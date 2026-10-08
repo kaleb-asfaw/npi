@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/24/2024,Waldorf,W 2-0 (-1 OT) *,0,08/24/2024,Waldorf,home,W,2,0,True
+08/30/2024,Augsburg,L 0-1,213,08/30/2024,Augsburg,home,L,0,1,False
+09/04/2024,@ Macalester,L 0-5,186,09/04/2024,Macalester,away,L,0,5,False
+09/07/2024,UW-River Falls,L 0-6,76,09/07/2024,UW-River Falls,home,L,0,6,False
+09/13/2024,Bethel (MN),L 0-6,109,09/13/2024,Bethel (MN),home,L,0,6,False
+09/18/2024,@ Northland,Canceled,,09/18/2024,Northland,away,,,,
+09/21/2024,Northwestern-St. Paul,W 2-1,177,09/21/2024,Northwestern-St. Paul,home,W,2,1,False
+09/24/2024,@ Minn.-Morris,T 2-2,58,09/24/2024,Minn.-Morris,away,T,2,2,False
+09/28/2024,Martin Luther,W 4-0,52,09/28/2024,Martin Luther,home,W,4,0,False
+10/02/2024,Bethany Lutheran,L 0-2,77,10/02/2024,Bethany Lutheran,home,L,0,2,False
+10/05/2024,@ North Central (MN),W 3-1,87,10/05/2024,North Central (MN),away,W,3,1,False
+10/08/2024,Wis.-Superior,L 0-4,72,10/08/2024,Wis.-Superior,home,L,0,4,False
+10/12/2024,@ Northwestern-St. Paul,T 1-1,186,10/12/2024,Northwestern-St. Paul,away,T,1,1,False
+10/16/2024,Minn.-Morris,W 1-0,78,10/16/2024,Minn.-Morris,home,W,1,0,False
+10/19/2024,@ Martin Luther,W 5-0,115,10/19/2024,Martin Luther,away,W,5,0,False
+10/22/2024,Northland,Canceled,,10/22/2024,Northland,home,,,,
+10/26/2024,North Central (MN),W 7-0,127,10/26/2024,North Central (MN),home,W,7,0,False
+10/30/2024,@ Bethany Lutheran,L 0-1,200,10/30/2024,Bethany Lutheran,away,L,0,1,False
+11/02/2024,@ Wis.-Superior,L 0-1,250,11/02/2024,Wis.-Superior,away,L,0,1,False
+11/06/2024,@ #1 Wis.-Superior UMAC Women's Soccer Championship,L 1-4,200,11/06/2024,Wis.-Superior,away,L,1,4,False
+11/12/2024,Faith Bapt. Bible NCCAA North Region Championship,W 4-1,100,11/12/2024,Faith Bapt. Bible NCCAA North Region Championship,home,W,4,1,False
+11/13/2024,Providence-Manitoba NCCAA North Region Championship,T 1-1 (3 OT),110,11/13/2024,Providence-Manitoba NCCAA North Region Championship,home,T,1,1,True

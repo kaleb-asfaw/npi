@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Neumann,W 3-0,70,09/01/2023,Neumann,home,W,3,0,False
+09/02/2023,King's (PA),W 3-0,90,09/02/2023,King's (PA),home,W,3,0,False
+09/06/2023,Albright,T 0-0,76,09/06/2023,Albright,home,T,0,0,False
+09/09/2023,@ Hartwick,W 3-1,198,09/09/2023,Hartwick,away,W,3,1,False
+09/10/2023,@ SUNY Oneonta,L 0-1,100,09/10/2023,SUNY Oneonta,away,L,0,1,False
+09/13/2023,Washington Col.,L 1-2,75,09/13/2023,Washington Col.,home,L,1,2,False
+09/16/2023,@ Bryn Athyn,W 4-0,125,09/16/2023,Bryn Athyn,away,W,4,0,False
+09/19/2023,@ Arcadia,L 0-1,132,09/19/2023,Arcadia,away,L,0,1,False
+09/22/2023,Wm. Paterson,L 1-2,40,09/22/2023,Wm. Paterson,home,L,1,2,False
+09/27/2023,@ Ramapo,W 1-0,120,09/27/2023,Ramapo,away,W,1,0,False
+10/04/2023,New Jersey City,L 1-2,90,10/04/2023,New Jersey City,home,L,1,2,False
+10/07/2023,Kean,W 2-0,110,10/07/2023,Kean,home,W,2,0,False
+10/11/2023,@ Rowan,L 0-3,301,10/11/2023,Rowan,away,L,0,3,False
+10/14/2023,Rutgers-Newark,W 1-0,45,10/14/2023,Rutgers-Newark,home,W,1,0,False
+10/18/2023,@ Stockton,W 2-1,50,10/18/2023,Stockton,away,W,2,1,False
+10/21/2023,@ Montclair St.,L 0-1,169,10/21/2023,Montclair St.,away,L,0,1,False
+10/25/2023,TCNJ,L 0-1,150,10/25/2023,TCNJ,home,L,0,1,False
+10/28/2023,@ #4 New Jersey City NJAC Women's Soccer Championship,L 0-1,425,10/28/2023,New Jersey City,away,L,0,1,False

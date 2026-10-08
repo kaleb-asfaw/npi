@@ -1,0 +1,25 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Greenville,W 2-0,300,09/01/2022,Greenville,home,W,2,0,False
+09/04/2022,Trinity (TX),T 0-0,565,09/04/2022,Trinity (TX),home,T,0,0,False
+09/05/2022,Fontbonne,T 1-1,300,09/05/2022,Fontbonne,home,T,1,1,False
+09/09/2022,@ Cal Lutheran,L 1-2,89,09/09/2022,Cal Lutheran,away,L,1,2,False
+09/11/2022,@ Occidental,W 1-0,560,09/11/2022,Occidental,away,W,1,0,False
+09/17/2022,"Rhodes @Whitewater, WI",W 1-0,100,09/17/2022,Rhodes,neutral,W,1,0,False
+09/18/2022,@ Wis.-Whitewater,T 1-1,78,09/18/2022,Wis.-Whitewater,away,T,1,1,False
+09/21/2022,Millikin,Ppd,,09/21/2022,Millikin,home,,,,
+09/23/2022,@ Wheaton (IL),T 0-0,239,09/23/2022,Wheaton (IL),away,T,0,0,False
+09/24/2022,@ Rose-Hulman,T 0-0,150,09/24/2022,Rose-Hulman,away,T,0,0,False
+09/28/2022,@ Webster,W 2-0,150,09/28/2022,Webster,away,W,2,0,False
+10/01/2022,@ Emory,L 0-3,212,10/01/2022,Emory,away,L,0,3,False
+10/09/2022,Rochester (NY),W 2-0,558,10/09/2022,Rochester (NY),home,W,2,0,False
+10/11/2022,Millikin,W 4-0,328,10/11/2022,Millikin,home,W,4,0,False
+10/14/2022,CWRU,L 1-2,550,10/14/2022,CWRU,home,L,1,2,False
+10/16/2022,Carnegie Mellon,L 0-1,423,10/16/2022,Carnegie Mellon,home,L,0,1,False
+10/25/2022,Ill. Wesleyan,W 3-2,113,10/25/2022,Ill. Wesleyan,home,W,3,2,False
+10/28/2022,@ Brandeis,W 3-2,125,10/28/2022,Brandeis,away,W,3,2,False
+10/30/2022,@ NYU,L 0-2,220,10/30/2022,NYU,away,L,0,2,False
+11/05/2022,@ UChicago,T 1-1,101,11/05/2022,UChicago,away,T,1,1,False
+11/12/2022,"St. Catherine @Waverly, IA (NCAA Division III Women's Soccer Championship)",W 2-1 (2 OT),180,11/12/2022,St. Catherine,neutral,W,2,1,True
+11/13/2022,"Wartburg @Waverly, IA (NCAA Division III Women's Soccer Championship)",W 3-1,219,11/13/2022,Wartburg,neutral,W,3,1,False
+11/19/2022,@ Carnegie Mellon NCAA Division III Women's Soccer Championship,W 2-1,199,11/19/2022,Carnegie Mellon,away,W,2,1,False
+11/20/2022,Messiah NCAA Division III Women's Soccer Championship,T 2-2 (3 OT),119,11/20/2022,Messiah,home,T,2,2,True

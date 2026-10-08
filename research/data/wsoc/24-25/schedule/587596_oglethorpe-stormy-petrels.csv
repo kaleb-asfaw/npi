@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Wesleyan (GA),W 11-0,"1,120",08/30/2024,Wesleyan (GA),away,W,11,0,False
+09/01/2024,Roanoke,T 1-1,145,09/01/2024,Roanoke,home,T,1,1,False
+09/06/2024,Piedmont,W 2-0,169,09/06/2024,Piedmont,home,W,2,0,False
+09/08/2024,@ Agnes Scott,W 1-0,78,09/08/2024,Agnes Scott,away,W,1,0,False
+09/11/2024,@ Covenant,L 0-1,156,09/11/2024,Covenant,away,L,0,1,False
+09/14/2024,@ Talladega,L 0-3,0,09/14/2024,@ Talladega,home,L,0,3,False
+09/18/2024,Georgia Gwinnett,L 1-3,187,09/18/2024,Georgia Gwinnett,home,L,1,3,False
+09/24/2024,@ LaGrange,W 2-1,80,09/24/2024,LaGrange,away,W,2,1,False
+09/28/2024,@ Centre,L 0-9,115,09/28/2024,Centre,away,L,0,9,False
+10/05/2024,Sewanee,L 0-3,118,10/05/2024,Sewanee,home,L,0,3,False
+10/08/2024,Emory,L 0-7,117,10/08/2024,Emory,home,L,0,7,False
+10/11/2024,Rhodes,L 0-4,112,10/11/2024,Rhodes,home,L,0,4,False
+10/13/2024,Hendrix,T 0-0,149,10/13/2024,Hendrix,home,T,0,0,False
+10/20/2024,@ Millsaps,W 4-0,125,10/20/2024,Millsaps,away,W,4,0,False
+10/26/2024,@ Berry,L 0-4,225,10/26/2024,Berry,away,L,0,4,False
+11/02/2024,@ #3 Berry SAA Women's Soccer Championship,L 1-2,200,11/02/2024,Berry,away,L,1,2,False

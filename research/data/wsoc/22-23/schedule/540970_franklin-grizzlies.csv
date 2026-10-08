@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Trine,L 0-2,218,09/01/2022,Trine,home,L,0,2,False
+09/04/2022,@ Berea,W 4-1,46,09/04/2022,Berea,away,W,4,1,False
+09/07/2022,DePauw,L 0-1,217,09/07/2022,DePauw,home,L,0,1,False
+09/15/2022,@ St. Mary's (IN),W 3-0,85,09/15/2022,St. Mary's (IN),away,W,3,0,False
+09/17/2022,@ Albion,L 1-3,130,09/17/2022,Albion,away,L,1,3,False
+09/19/2022,Asbury,L 1-2,117,09/19/2022,Asbury,home,L,1,2,False
+09/24/2022,Wilmington (OH),L 0-1,221,09/24/2022,Wilmington (OH),home,L,0,1,False
+09/28/2022,@ Anderson (IN),L 0-2,111,09/28/2022,Anderson (IN),away,L,0,2,False
+10/01/2022,Bluffton,L 0-1,"1,111",10/01/2022,Bluffton,home,L,0,1,False
+10/05/2022,Manchester,T 0-0,185,10/05/2022,Manchester,home,T,0,0,False
+10/07/2022,Mt. St. Joseph,L 0-1,188,10/07/2022,Mt. St. Joseph,home,L,0,1,False
+10/12/2022,@ Hanover,L 0-6,78,10/12/2022,Hanover,away,L,0,6,False
+10/15/2022,@ Earlham,L 0-1,250,10/15/2022,Earlham,away,L,0,1,False
+10/19/2022,Rose-Hulman,L 0-2,168,10/19/2022,Rose-Hulman,home,L,0,2,False
+10/22/2022,@ Defiance,W 3-0,148,10/22/2022,Defiance,away,W,3,0,False
+10/26/2022,@ Transylvania,L 0-5,0,10/26/2022,Transylvania,away,L,0,5,False

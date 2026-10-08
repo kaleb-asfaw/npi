@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Rose-Hulman,W 2-1,100,09/01/2022,Rose-Hulman,home,W,2,1,False
+09/03/2022,@ Monmouth (IL),W 2-0,75,09/03/2022,Monmouth (IL),away,W,2,0,False
+09/05/2022,Anderson (IN),L 1-2,100,09/05/2022,Anderson (IN),home,L,1,2,False
+09/07/2022,@ Millikin,L 1-2,100,09/07/2022,Millikin,away,L,1,2,False
+09/10/2022,@ Benedictine (IL),W 3-1,88,09/10/2022,Benedictine (IL),away,W,3,1,False
+09/14/2022,@ Greenville,L 2-5,100,09/14/2022,Greenville,away,L,2,5,False
+09/17/2022,@ Fontbonne,L 0-2,120,09/17/2022,Fontbonne,away,L,0,2,False
+09/21/2022,Blackburn,W 11-0,100,09/21/2022,Blackburn,home,W,11,0,False
+09/24/2022,Westminster (MO),T 1-1,300,09/24/2022,Westminster (MO),home,T,1,1,False
+09/27/2022,@ Eureka,W 10-0,50,09/27/2022,Eureka,away,W,10,0,False
+09/28/2022,WashU,L 0-2,150,09/28/2022,WashU,home,L,0,2,False
+10/01/2022,Principia,W 5-0,300,10/01/2022,Principia,home,W,5,0,False
+10/05/2022,@ Spalding,W 1-0,69,10/05/2022,Spalding,away,W,1,0,False
+10/08/2022,Fontbonne,L 0-1,150,10/08/2022,Fontbonne,home,L,0,1,False
+10/12/2022,Greenville,W 1-0,100,10/12/2022,Greenville,home,W,1,0,False
+10/15/2022,@ Westminster (MO),W 2-0,150,10/15/2022,Westminster (MO),away,W,2,0,False
+10/19/2022,Eureka,W 10-0,100,10/19/2022,Eureka,home,W,10,0,False
+10/22/2022,@ Principia,W 5-0,30,10/22/2022,Principia,away,W,5,0,False
+10/27/2022,Spalding,W 2-0,100,10/27/2022,Spalding,home,W,2,0,False
+10/29/2022,@ Blackburn,W 9-0,150,10/29/2022,Blackburn,away,W,9,0,False
+11/03/2022,#3 Greenville SLIAC WSOC Tournament,L 1-3,150,11/03/2022,Greenville,home,L,1,3,False

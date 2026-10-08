@@ -1,0 +1,24 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/31/2024,Occidental,T 0-0,111,08/31/2024,Occidental,home,T,0,0,False
+09/01/2024,Hardin-Simmons,W 3-0,257,09/01/2024,Hardin-Simmons,home,W,3,0,False
+09/06/2024,@ Texas Lutheran,T 0-0,150,09/06/2024,Texas Lutheran,away,T,0,0,False
+09/13/2024,UT Dallas,W 1-0,258,09/13/2024,UT Dallas,home,W,1,0,False
+09/15/2024,Howard Payne,W 7-0,169,09/15/2024,Howard Payne,home,W,7,0,False
+09/20/2024,@ Chris. Newport,L 2-4,361,09/20/2024,Chris. Newport,away,L,2,4,False
+09/22/2024,@ Batten,W 1-0,187,09/22/2024,Batten,away,W,1,0,False
+10/04/2024,McMurry,W 3-0,310,10/04/2024,McMurry,home,W,3,0,False
+10/06/2024,@ Concordia (TX),W 1-0,151,10/06/2024,Concordia (TX),away,W,1,0,False
+10/11/2024,Texas Lutheran,W 2-0,253,10/11/2024,Texas Lutheran,home,W,2,0,False
+10/13/2024,Southwestern (TX),W 5-0,144,10/13/2024,Southwestern (TX),home,W,5,0,False
+10/18/2024,@ Dallas,W 4-0,100,10/18/2024,Dallas,away,W,4,0,False
+10/20/2024,@ Austin,W 2-1,192,10/20/2024,Austin,away,W,2,1,False
+10/22/2024,Schreiner,W 3-0,104,10/22/2024,Schreiner,home,W,3,0,False
+10/25/2024,@ St. Thomas (TX),W 1-0,200,10/25/2024,St. Thomas (TX),away,W,1,0,False
+11/01/2024,Ozarks (AR),W 5-0,80,11/01/2024,Ozarks (AR),home,W,5,0,False
+11/03/2024,Centenary (LA),W 4-0,150,11/03/2024,Centenary (LA),home,W,4,0,False
+11/08/2024,#4 Southwestern (TX) SCAC Women's Soccer Tournament,W 1-0,142,11/08/2024,Southwestern (TX),home,W,1,0,False
+11/10/2024,@ #2 Texas Lutheran SCAC Women's Soccer Tournament,W 1-0 (2 OT),139,11/10/2024,Texas Lutheran,away,W,1,0,True
+11/16/2024,"Cal Lutheran @Claremont, CA (NCAA Division III Women's Soccer Championship)",W 1-0,234,11/16/2024,Cal Lutheran,neutral,W,1,0,False
+11/17/2024,"Pomona-Pitzer @Claremont, CA (NCAA Division III Women's Soccer Championship)",T 1-1 (3 OT),418,11/17/2024,Pomona-Pitzer,neutral,T,1,1,True
+11/23/2024,@ Scranton NCAA Division III Women's Soccer Championship,W 1-0 (1 OT),528,11/23/2024,Scranton,away,W,1,0,True
+11/24/2024,"William Smith @Scranton, PA (NCAA Division III Women's Soccer Championship)",L 0-1,213,11/24/2024,William Smith,neutral,L,0,1,False

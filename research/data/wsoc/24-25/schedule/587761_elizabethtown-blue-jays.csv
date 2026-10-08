@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Muhlenberg,W 2-1,150,08/30/2024,Muhlenberg,home,W,2,1,False
+09/03/2024,Franklin & Marshall,T 2-2,150,09/03/2024,Franklin & Marshall,home,T,2,2,False
+09/07/2024,@ Lebanon Valley,W 2-1,214,09/07/2024,Lebanon Valley,away,W,2,1,False
+09/11/2024,@ Gettysburg,L 1-2,123,09/11/2024,Gettysburg,away,L,1,2,False
+09/14/2024,Stevenson,W 1-0,233,09/14/2024,Stevenson,home,W,1,0,False
+09/17/2024,Lancaster Bible,W 3-0,155,09/17/2024,Lancaster Bible,home,W,3,0,False
+09/21/2024,@ St. Mary's (MD),L 0-1,104,09/21/2024,St. Mary's (MD),away,L,0,1,False
+09/25/2024,@ DeSales,W 3-0,75,09/25/2024,DeSales,away,W,3,0,False
+09/28/2024,@ Scranton,L 0-3,234,09/28/2024,Scranton,away,L,0,3,False
+10/05/2024,Drew,T 0-0,145,10/05/2024,Drew,home,T,0,0,False
+10/09/2024,@ Juniata,W 2-0,116,10/09/2024,Juniata,away,W,2,0,False
+10/12/2024,Susquehanna,W 1-0,200,10/12/2024,Susquehanna,home,W,1,0,False
+10/16/2024,Catholic,T 0-0,103,10/16/2024,Catholic,home,T,0,0,False
+10/19/2024,@ Wilkes,W 2-1,125,10/19/2024,Wilkes,away,W,2,1,False
+10/23/2024,Moravian,T 0-0,133,10/23/2024,Moravian,home,T,0,0,False
+10/26/2024,Goucher,W 4-0,177,10/26/2024,Goucher,home,W,4,0,False
+11/02/2024,@ Lycoming,L 0-1,206,11/02/2024,Lycoming,away,L,0,1,False
+11/05/2024,#6 Moravian Landmark Women's Soccer Championship,L 0-1 (2 OT),145,11/05/2024,Moravian,home,L,0,1,True

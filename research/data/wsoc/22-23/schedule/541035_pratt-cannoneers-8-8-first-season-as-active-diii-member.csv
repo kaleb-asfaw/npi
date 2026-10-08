@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2022,@ Albany Pharmacy,W 7-1,0,09/03/2022,@ Albany Pharmacy,home,W,7,1,False
+09/09/2022,SUNY Maritime,W 3-0,44,09/09/2022,SUNY Maritime,home,W,3,0,False
+09/11/2022,@ Saint Elizabeth,W 3-0,23,09/11/2022,Saint Elizabeth,away,W,3,0,False
+09/13/2022,Keystone,W 5-3,40,09/13/2022,Keystone,home,W,5,3,False
+09/14/2022,@ UMSV,Canceled,,09/14/2022,UMSV,away,,,,
+09/16/2022,@ Purchase,L 0-1,75,09/16/2022,Purchase,away,L,0,1,False
+09/18/2022,FDU-Florham,L 0-8,100,09/18/2022,FDU-Florham,home,L,0,8,False
+09/21/2022,@ Brooklyn,W 4-1,32,09/21/2022,Brooklyn,away,W,4,1,False
+09/28/2022,@ Centenary (NJ),L 3-7,50,09/28/2022,Centenary (NJ),away,L,3,7,False
+10/05/2022,Ramapo,Canceled,,10/05/2022,Ramapo,home,,,,
+10/07/2022,Lehman,W 7-1,25,10/07/2022,Lehman,home,W,7,1,False
+10/09/2022,New Jersey City,Canceled,,10/09/2022,New Jersey City,home,,,,
+10/10/2022,Old Westbury,W 2-1,45,10/10/2022,Old Westbury,home,W,2,1,False
+10/12/2022,@ Clarks Summit,L 2-3,10,10/12/2022,Clarks Summit,away,L,2,3,False
+10/17/2022,Wm. Paterson,L 0-5,21,10/17/2022,Wm. Paterson,home,L,0,5,False
+10/23/2022,@ New Jersey City,L 3-6,85,10/23/2022,New Jersey City,away,L,3,6,False
+10/25/2022,CCNY,L 1-9,21,10/25/2022,CCNY,home,L,1,9,False
+10/30/2022,Yeshiva,W 11-0,57,10/30/2022,Yeshiva,home,W,11,0,False
+11/03/2022,"#4 Salisbury @Newport News, VA (C2C WSOC Championship)",L 0-11,128,11/03/2022,Salisbury,neutral,L,0,11,False

@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Elizabethtown,L 1-2,150,08/30/2024,Elizabethtown,away,L,1,2,False
+09/01/2024,@ Marywood,L 0-1,173,09/01/2024,Marywood,away,L,0,1,False
+09/04/2024,Penn St. Harrisburg,L 0-1,70,09/04/2024,Penn St. Harrisburg,home,L,0,1,False
+09/06/2024,@ Moravian,L 0-3,240,09/06/2024,Moravian,away,L,0,3,False
+09/10/2024,@ DeSales,L 1-3,100,09/10/2024,DeSales,away,L,1,3,False
+09/14/2024,@ FDU-Florham,W 2-1,150,09/14/2024,FDU-Florham,away,W,2,1,False
+09/18/2024,Rowan,L 0-7,79,09/18/2024,Rowan,home,L,0,7,False
+09/21/2024,Johns Hopkins,L 0-4,70,09/21/2024,Johns Hopkins,home,L,0,4,False
+09/25/2024,Swarthmore,L 1-4,35,09/25/2024,Swarthmore,home,L,1,4,False
+09/28/2024,@ Dickinson,L 0-1,75,09/28/2024,Dickinson,away,L,0,1,False
+10/01/2024,Arcadia,L 0-2,70,10/01/2024,Arcadia,home,L,0,2,False
+10/05/2024,@ Gettysburg,T 1-1,80,10/05/2024,Gettysburg,away,T,1,1,False
+10/08/2024,Haverford,L 0-4,30,10/08/2024,Haverford,home,L,0,4,False
+10/11/2024,Franklin & Marshall,L 1-3,60,10/11/2024,Franklin & Marshall,home,L,1,3,False
+10/16/2024,@ Bryn Mawr,W 3-1,65,10/16/2024,Bryn Mawr,away,W,3,1,False
+10/26/2024,@ Washington Col.,L 0-2,145,10/26/2024,Washington Col.,away,L,0,2,False
+10/30/2024,@ Ursinus,T 1-1,97,10/30/2024,Ursinus,away,T,1,1,False
+11/02/2024,McDaniel,L 0-2,112,11/02/2024,McDaniel,home,L,0,2,False

@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,"Salisbury @Salisbury, MD",L 1-2,70,09/01/2023,Salisbury,neutral,L,1,2,False
+09/02/2023,@ St. Mary's (MD),T 0-0,75,09/02/2023,St. Mary's (MD),away,T,0,0,False
+09/06/2023,@ Ferrum,W 1-0,100,09/06/2023,Ferrum,away,W,1,0,False
+09/14/2023,@ Regent,W 3-0,0,09/14/2023,@ Regent,home,W,3,0,False
+09/17/2023,Averett,T 1-1,124,09/17/2023,Averett,home,T,1,1,False
+09/19/2023,Guilford,L 0-1,154,09/19/2023,Guilford,home,L,0,1,False
+09/23/2023,JWU (Charlotte),W 3-1,111,09/23/2023,JWU (Charlotte),home,W,3,1,False
+09/27/2023,Brevard,T 1-1,167,09/27/2023,Brevard,home,T,1,1,False
+09/30/2023,@ Pfeiffer,W 3-0,215,09/30/2023,Pfeiffer,away,W,3,0,False
+10/03/2023,@ Bob Jones,L 1-5,85,10/03/2023,@ Bob Jones,home,L,1,5,False
+10/07/2023,@ William Peace,T 0-0,45,10/07/2023,William Peace,away,T,0,0,False
+10/11/2023,Methodist,L 0-2,112,10/11/2023,Methodist,home,L,0,2,False
+10/14/2023,N.C. Wesleyan,W 5-0,124,10/14/2023,N.C. Wesleyan,home,W,5,0,False
+10/17/2023,@ Southern Va.,L 0-2,143,10/17/2023,Southern Va.,away,L,0,2,False
+10/20/2023,Meredith,W 2-0,146,10/20/2023,Meredith,home,W,2,0,False
+10/22/2023,@ Sweet Briar,W 9-0,50,10/22/2023,Sweet Briar,away,W,9,0,False
+10/25/2023,Mary Baldwin,W 4-1,143,10/25/2023,Mary Baldwin,home,W,4,1,False
+10/28/2023,@ Salem (NC),W 4-1,124,10/28/2023,Salem (NC),away,W,4,1,False
+10/31/2023,#5 William Peace USA South Women's Soccer Championship,W 5-3,144,10/31/2023,William Peace,home,W,5,3,False
+11/02/2023,@ #1 Southern Va. USA South Women's Soccer Championship,L 0-4,143,11/02/2023,Southern Va.,away,L,0,4,False

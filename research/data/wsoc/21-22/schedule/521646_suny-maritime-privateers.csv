@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/10/2021,@ Pratt,W 4-3,39,09/10/2021,Pratt,away,W,4,3,False
+09/14/2021,@ Farmingdale St.,L 0-4,85,09/14/2021,Farmingdale St.,away,L,0,4,False
+09/17/2021,Five Towns,W 8-0,135,09/17/2021,Five Towns,home,W,8,0,False
+09/20/2021,Saint Elizabeth,W 3-0,102,09/20/2021,Saint Elizabeth,home,W,3,0,False
+09/22/2021,Medgar Evers,Canceled,,09/22/2021,Medgar Evers,home,,,,
+09/25/2021,@ Purchase,L 3-4,35,09/25/2021,Purchase,away,L,3,4,False
+09/29/2021,@ St. Joseph's (L.I.),L 0-1,87,09/29/2021,St. Joseph's (L.I.),away,L,0,1,False
+10/02/2021,Mt. St. Mary (NY),L 0-6,164,10/02/2021,Mt. St. Mary (NY),home,L,0,6,False
+10/05/2021,@ Sarah Lawrence,L 0-3,135,10/05/2021,Sarah Lawrence,away,L,0,3,False
+10/09/2021,Manhattanville,L 0-8,79,10/09/2021,Manhattanville,home,L,0,8,False
+10/13/2021,@ UMSV,L 0-9,77,10/13/2021,UMSV,away,L,0,9,False
+10/17/2021,St. Joseph's (Brkln),W 2-1,84,10/17/2021,St. Joseph's (Brkln),home,W,2,1,False
+10/19/2021,Yeshiva,W 10-3,42,10/19/2021,Yeshiva,home,W,10,3,False
+10/21/2021,CCNY,L 1-4,0,10/21/2021,CCNY,home,L,1,4,False
+10/27/2021,Old Westbury,W 2-1,134,10/27/2021,Old Westbury,home,W,2,1,False

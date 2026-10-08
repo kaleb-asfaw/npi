@@ -2,5 +2,7 @@ CLAUDE.md
 .venv/
 __pycache__/
 *.pyc
+*cache*
 
-docs/meetings.md
+docs/transcripts.md
+**raw_html**

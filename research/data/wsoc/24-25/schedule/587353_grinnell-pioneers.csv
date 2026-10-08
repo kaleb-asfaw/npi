@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Dubuque,L 0-3,80,08/30/2024,Dubuque,home,L,0,3,False
+09/01/2024,Coe,W 3-0,100,09/01/2024,Coe,home,W,3,0,False
+09/06/2024,Mt. Mercy,W 2-1,63,09/06/2024,Mt. Mercy,home,W,2,1,False
+09/08/2024,@ Saint Mary's (MN),T 0-0,112,09/08/2024,Saint Mary's (MN),away,T,0,0,False
+09/11/2024,Simpson,L 0-4,50,09/11/2024,Simpson,home,L,0,4,False
+09/14/2024,Benedictine (IL),W 4-0,50,09/14/2024,Benedictine (IL),home,W,4,0,False
+09/28/2024,Lake Forest,L 0-4,95,09/28/2024,Lake Forest,home,L,0,4,False
+10/02/2024,Knox,W 2-0,72,10/02/2024,Knox,home,W,2,0,False
+10/05/2024,@ Ripon,W 2-1,150,10/05/2024,Ripon,away,W,2,1,False
+10/06/2024,@ Edgewood,L 0-1,164,10/06/2024,Edgewood,away,L,0,1,False
+10/12/2024,@ Illinois Col.,W 1-0,250,10/12/2024,Illinois Col.,away,W,1,0,False
+10/19/2024,@ Augustana (IL),T 1-1,167,10/19/2024,Augustana (IL),away,T,1,1,False
+10/22/2024,Cornell College,W 5-0,87,10/22/2024,Cornell College,home,W,5,0,False
+10/26/2024,Beloit,W 1-0,80,10/26/2024,Beloit,home,W,1,0,False
+10/30/2024,@ Monmouth (IL),T 1-1,60,10/30/2024,Monmouth (IL),away,T,1,1,False
+11/02/2024,@ Lawrence,L 0-6,365,11/02/2024,Lawrence,away,L,0,6,False
+11/08/2024,"#2 Lawrence @Lake Forest, IL (MWC Women's Soccer Tournament)",L 0-1,97,11/08/2024,Lawrence,neutral,L,0,1,False

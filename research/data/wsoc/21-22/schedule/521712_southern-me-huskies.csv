@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Thomas (ME),W 5-0,144,09/01/2021,Thomas (ME),home,W,5,0,False
+09/03/2021,@ Me.-Farmington,W 3-1,125,09/03/2021,Me.-Farmington,away,W,3,1,False
+09/04/2021,@ Husson,W 5-0,225,09/04/2021,Husson,away,W,5,0,False
+09/08/2021,St. Joseph's (ME),W 5-0,324,09/08/2021,St. Joseph's (ME),home,W,5,0,False
+09/11/2021,@ U New England,W 3-2,243,09/11/2021,U New England,away,W,3,2,False
+09/15/2021,Lasell,Ppd,,09/15/2021,Lasell,home,,,,
+09/18/2021,@ VTSU Castleton,L 0-1,210,09/18/2021,VTSU Castleton,away,L,0,1,False
+09/22/2021,@ Wentworth,T 1-1 (2 OT),83,09/22/2021,Wentworth,away,T,1,1,True
+09/25/2021,Eastern Conn. St.,T 1-1 (2 OT),0,09/25/2021,Eastern Conn. St.,home,T,1,1,True
+09/29/2021,@ UMass Boston,L 0-4,88,09/29/2021,UMass Boston,away,L,0,4,False
+10/02/2021,@ UMass Dartmouth,W 4-0,200,10/02/2021,UMass Dartmouth,away,W,4,0,False
+10/05/2021,Eastern Nazarene,W 6-0,0,10/05/2021,Eastern Nazarene,home,W,6,0,False
+10/09/2021,@ Smith,T 2-2 (2 OT),30,10/09/2021,Smith,away,T,2,2,True
+10/13/2021,Plymouth St.,W 3-1,0,10/13/2021,Plymouth St.,home,W,3,1,False
+10/16/2021,Rhode Island Col.,W 4-1,144,10/16/2021,Rhode Island Col.,home,W,4,1,False
+10/19/2021,Maine Maritime,W 2-0,224,10/19/2021,Maine Maritime,home,W,2,0,False
+10/23/2021,@ Keene St.,W 4-0,150,10/23/2021,Keene St.,away,W,4,0,False
+10/26/2021,@ Lesley,Canceled,,10/26/2021,Lesley,away,,,,
+10/30/2021,WestConn,L 0-3,124,10/30/2021,WestConn,home,L,0,3,False
+11/02/2021,@ #3 Eastern Conn. St. Little East WSOC Championship,W 2-0,100,11/02/2021,Eastern Conn. St.,away,W,2,0,False
+11/04/2021,@ #1 WestConn Little East WSOC Championship,L 0-3,333,11/04/2021,WestConn,away,L,0,3,False

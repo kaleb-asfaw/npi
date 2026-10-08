@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Southern Me.,L 2-10,0,08/30/2024,Southern Me.,away,L,2,10,False
+09/01/2024,U New England,W 3-2,50,09/01/2024,U New England,home,W,3,2,False
+09/08/2024,@ Me.-Fort Kent,T 0-0,0,09/08/2024,@ Me.-Fort Kent,home,T,0,0,False
+09/10/2024,Thomas (ME),W 4-0,120,09/10/2024,Thomas (ME),home,W,4,0,False
+09/14/2024,@ Me.-Presque Isle,L 0-1,100,09/14/2024,Me.-Presque Isle,away,L,0,1,False
+09/21/2024,@ Me.-Farmington,W 4-3,120,09/21/2024,Me.-Farmington,away,W,4,3,False
+09/23/2024,@ Bates,L 0-2,250,09/23/2024,Bates,away,L,0,2,False
+09/28/2024,Lesley,L 1-4,251,09/28/2024,Lesley,home,L,1,4,False
+10/04/2024,@ Thomas (ME),W 2-0,89,10/04/2024,Thomas (ME),away,W,2,0,False
+10/05/2024,Husson,T 2-2,30,10/05/2024,Husson,home,T,2,2,False
+10/12/2024,Me.-Farmington,W 1-0,151,10/12/2024,Me.-Farmington,home,W,1,0,False
+10/15/2024,Bowdoin,T 1-1,74,10/15/2024,Bowdoin,home,T,1,1,False
+10/17/2024,Fisher,W 5-1,65,10/17/2024,Fisher,home,W,5,1,False
+10/19/2024,Me.-Presque Isle,W 8-1,171,10/19/2024,Me.-Presque Isle,home,W,8,1,False
+10/23/2024,@ Husson,L 0-2,200,10/23/2024,Husson,away,L,0,2,False
+10/26/2024,@ Lesley,T 3-3,60,10/26/2024,Lesley,away,T,3,3,False
+11/02/2024,@ #2 Lesley North Atlantic WSOC Tournament,T 2-2 (3 OT),100,11/02/2024,Lesley,away,T,2,2,True

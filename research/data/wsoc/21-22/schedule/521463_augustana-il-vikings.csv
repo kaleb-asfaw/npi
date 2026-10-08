@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,UChicago,L 0-4,60,09/01/2021,UChicago,home,L,0,4,False
+09/04/2021,Greenville,W 3-1,75,09/04/2021,Greenville,home,W,3,1,False
+09/08/2021,@ Benedictine (IL),W 2-1,117,09/08/2021,Benedictine (IL),away,W,2,1,False
+09/13/2021,Knox,W 1-0,60,09/13/2021,Knox,home,W,1,0,False
+09/18/2021,@ Trine,L 0-1,149,09/18/2021,Trine,away,L,0,1,False
+09/21/2021,@ Simpson,L 1-2,67,09/21/2021,Simpson,away,L,1,2,False
+09/25/2021,Carroll (WI),W 1-0 (1 OT),101,09/25/2021,Carroll (WI),home,W,1,0,True
+09/29/2021,Wheaton (IL),L 0-3,50,09/29/2021,Wheaton (IL),home,L,0,3,False
+10/02/2021,Millikin,W 2-0,117,10/02/2021,Millikin,home,W,2,0,False
+10/06/2021,@ North Central (IL),L 1-2,127,10/06/2021,North Central (IL),away,L,1,2,False
+10/09/2021,@ Carthage,W 1-0,236,10/09/2021,Carthage,away,W,1,0,False
+10/13/2021,Coe,W 1-0,76,10/13/2021,Coe,home,W,1,0,False
+10/16/2021,@ Ill. Wesleyan,L 1-2,76,10/16/2021,Ill. Wesleyan,away,L,1,2,False
+10/20/2021,@ Elmhurst,W 2-1 (1 OT),50,10/20/2021,Elmhurst,away,W,2,1,True
+10/26/2021,@ Wis.-Whitewater,L 0-1,62,10/26/2021,Wis.-Whitewater,away,L,0,1,False
+10/30/2021,North Park,W 2-1,112,10/30/2021,North Park,home,W,2,1,False
+11/03/2021,@ #1 Wheaton (IL) CCIW WSOC Championship,L 1-2 (2 OT),151,11/03/2021,Wheaton (IL),away,L,1,2,True

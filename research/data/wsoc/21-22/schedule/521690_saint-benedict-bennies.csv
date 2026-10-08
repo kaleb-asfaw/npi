@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Minn.-Morris,W 10-0,42,09/01/2021,Minn.-Morris,away,W,10,0,False
+09/04/2021,Wartburg,L 0-4,120,09/04/2021,Wartburg,home,L,0,4,False
+09/05/2021,Wis.-Whitewater,W 1-0,120,09/05/2021,Wis.-Whitewater,home,W,1,0,False
+09/11/2021,@ Wis.-Eau Claire,L 0-2,100,09/11/2021,Wis.-Eau Claire,away,L,0,2,False
+09/15/2021,St. Catherine,L 0-1,175,09/15/2021,St. Catherine,home,L,0,1,False
+09/18/2021,@ Saint Mary's (MN),T 0-0 (2 OT),50,09/18/2021,Saint Mary's (MN),away,T,0,0,True
+09/19/2021,@ Central (IA),T 0-0 (2 OT),100,09/19/2021,Central (IA),away,T,0,0,True
+09/25/2021,Gustavus Adolphus,W 5-0,200,09/25/2021,Gustavus Adolphus,home,W,5,0,False
+09/29/2021,@ Concordia-M'head,W 1-0,165,09/29/2021,Concordia-M'head,away,W,1,0,False
+10/02/2021,Augsburg,T 1-1 (2 OT),0,10/02/2021,Augsburg,home,T,1,1,True
+10/09/2021,St. Olaf,W 2-0,130,10/09/2021,St. Olaf,home,W,2,0,False
+10/12/2021,@ Bethel (MN),W 3-2,123,10/12/2021,Bethel (MN),away,W,3,2,False
+10/16/2021,Hamline,W 3-0,250,10/16/2021,Hamline,home,W,3,0,False
+10/23/2021,@ Macalester,W 1-0,278,10/23/2021,Macalester,away,W,1,0,False
+10/27/2021,@ St. Scholastica,W 2-1,89,10/27/2021,St. Scholastica,away,W,2,1,False
+10/30/2021,Carleton,W 1-0 (2 OT),160,10/30/2021,Carleton,home,W,1,0,True
+11/03/2021,#3 Saint Mary's (MN) MIAC WSOC Tournament,W 3-2,130,11/03/2021,Saint Mary's (MN),home,W,3,2,False
+11/06/2021,@ #1 St. Catherine MIAC WSOC Tournament,L 0-1,412,11/06/2021,St. Catherine,away,L,0,1,False

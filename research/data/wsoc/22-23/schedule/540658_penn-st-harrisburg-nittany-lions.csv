@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Widener,T 1-1,119,09/01/2022,Widener,home,T,1,1,False
+09/03/2022,Houghton,T 0-0,165,09/03/2022,Houghton,home,T,0,0,False
+09/04/2022,@ York (PA),L 1-4,316,09/04/2022,York (PA),away,L,1,4,False
+09/07/2022,@ Bryn Mawr,W 3-0,36,09/07/2022,Bryn Mawr,away,W,3,0,False
+09/10/2022,Hood,W 3-1,80,09/10/2022,Hood,home,W,3,1,False
+09/14/2022,Albright,W 1-0,150,09/14/2022,Albright,home,W,1,0,False
+09/17/2022,Penn St.-Abington,W 6-0,50,09/17/2022,Penn St.-Abington,home,W,6,0,False
+09/20/2022,@ Penn College,W 5-0,125,09/20/2022,Penn College,away,W,5,0,False
+09/24/2022,Franklin & Marshall,L 0-1,73,09/24/2022,Franklin & Marshall,home,L,0,1,False
+09/27/2022,@ Elizabethtown,L 1-3,130,09/27/2022,Elizabethtown,away,L,1,3,False
+10/01/2022,@ Penn St.-Berks,T 0-0,165,10/01/2022,Penn St.-Berks,away,T,0,0,False
+10/05/2022,Lancaster Bible,W 2-0,127,10/05/2022,Lancaster Bible,home,W,2,0,False
+10/08/2022,Gallaudet,W 10-0,62,10/08/2022,Gallaudet,home,W,10,0,False
+10/12/2022,@ Arcadia,W 2-0,150,10/12/2022,Arcadia,away,W,2,0,False
+10/15/2022,@ Wells,W 9-0,45,10/15/2022,Wells,away,W,9,0,False
+10/18/2022,Goucher,W 1-0,64,10/18/2022,Goucher,home,W,1,0,False
+10/22/2022,@ SUNY Morrisville,W 4-0,78,10/22/2022,SUNY Morrisville,away,W,4,0,False
+10/29/2022,St. Mary's (MD),W 1-0,134,10/29/2022,St. Mary's (MD),home,W,1,0,False
+11/04/2022,Penn College United East WSOC Championship,W 3-2,196,11/04/2022,Penn College,home,W,3,2,False
+11/05/2022,@ Penn St.-Berks United East WSOC Championship,L 0-3 (2 OT),312,11/05/2022,Penn St.-Berks,away,L,0,3,True

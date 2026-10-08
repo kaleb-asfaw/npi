@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Emerson,L 0-5,75,09/01/2022,Emerson,away,L,0,5,False
+09/03/2022,@ Curry,W 1-0,139,09/03/2022,Curry,away,W,1,0,False
+09/07/2022,Keene St.,L 0-1,110,09/07/2022,Keene St.,home,L,0,1,False
+09/10/2022,@ Albertus Magnus,W 2-0,200,09/10/2022,Albertus Magnus,away,W,2,0,False
+09/14/2022,Rhode Island Col.,T 1-1,150,09/14/2022,Rhode Island Col.,home,T,1,1,False
+09/16/2022,@ Norwich,W 5-1,0,09/16/2022,Norwich,away,W,5,1,False
+09/21/2022,Anna Maria,W 1-0,105,09/21/2022,Anna Maria,home,W,1,0,False
+09/24/2022,JWU (Providence),L 0-2,200,09/24/2022,JWU (Providence),home,L,0,2,False
+09/28/2022,Rivier,W 9-0,105,09/28/2022,Rivier,home,W,9,0,False
+10/01/2022,Colby-Sawyer,W 5-1,150,10/01/2022,Colby-Sawyer,home,W,5,1,False
+10/05/2022,Lasell,L 0-1,75,10/05/2022,Lasell,home,L,0,1,False
+10/08/2022,@ Saint Joseph (CT),W 1-0,101,10/08/2022,Saint Joseph (CT),away,W,1,0,False
+10/12/2022,@ Simmons,W 2-1,215,10/12/2022,Simmons,away,W,2,1,False
+10/15/2022,Elms,W 1-0,135,10/15/2022,Elms,home,W,1,0,False
+10/19/2022,@ Emmanuel (MA),T 0-0,105,10/19/2022,Emmanuel (MA),away,T,0,0,False
+10/22/2022,@ St. Joseph's (ME),L 1-2,265,10/22/2022,St. Joseph's (ME),away,L,1,2,False
+10/26/2022,Dean,W 3-0,150,10/26/2022,Dean,home,W,3,0,False
+10/29/2022,@ #4 St. Joseph's (ME) Great Northeast WSOC Championship,L 1-3,125,10/29/2022,St. Joseph's (ME),away,L,1,3,False

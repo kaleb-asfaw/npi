@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2022,@ JWU (Providence),L 0-2,211,09/03/2022,JWU (Providence),away,L,0,2,False
+09/04/2022,Rhode Island Col.,W 2-0,391,09/04/2022,Rhode Island Col.,home,W,2,0,False
+09/07/2022,Coast Guard,L 0-3,77,09/07/2022,Coast Guard,home,L,0,3,False
+09/10/2022,@ Keene St.,L 1-3,55,09/10/2022,Keene St.,away,L,1,3,False
+09/13/2022,@ Bridgewater St.,L 1-6,200,09/13/2022,Bridgewater St.,away,L,1,6,False
+09/15/2022,Worcester St.,W 3-2,121,09/15/2022,Worcester St.,home,W,3,2,False
+09/17/2022,Wentworth,W 3-1,137,09/17/2022,Wentworth,home,W,3,1,False
+09/20/2022,UMass Dartmouth,W 1-0,154,09/20/2022,UMass Dartmouth,home,W,1,0,False
+09/24/2022,U New England,T 1-1,209,09/24/2022,U New England,home,T,1,1,False
+09/28/2022,@ Clark (MA),L 0-3,115,09/28/2022,Clark (MA),away,L,0,3,False
+10/01/2022,@ Gordon,L 0-3,211,10/01/2022,Gordon,away,L,0,3,False
+10/05/2022,UMass Boston,L 0-3,103,10/05/2022,UMass Boston,home,L,0,3,False
+10/08/2022,Endicott,W 2-1,219,10/08/2022,Endicott,home,W,2,1,False
+10/11/2022,@ Western New Eng.,L 0-3,120,10/11/2022,Western New Eng.,away,L,0,3,False
+10/15/2022,@ Nichols,L 1-2,203,10/15/2022,Nichols,away,L,1,2,False
+10/19/2022,Roger Williams,W 4-3,119,10/19/2022,Roger Williams,home,W,4,3,False
+10/22/2022,@ Curry,T 0-0,212,10/22/2022,Curry,away,T,0,0,False
+10/25/2022,Suffolk,W 2-0,119,10/25/2022,Suffolk,home,W,2,0,False
+10/29/2022,@ #3 Curry CCC WSOC Championship,L 2-4,313,10/29/2022,Curry,away,L,2,4,False

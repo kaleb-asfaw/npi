@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,SUNY Delhi,W 3-0,63,09/01/2021,SUNY Delhi,home,W,3,0,False
+09/03/2021,Pitt.-Bradford,W 3-0,63,09/03/2021,Pitt.-Bradford,home,W,3,0,False
+09/11/2021,@ VTSU Castleton,L 1-6,150,09/11/2021,VTSU Castleton,away,L,1,6,False
+09/15/2021,SUNY Poly,W 2-0,30,09/15/2021,SUNY Poly,home,W,2,0,False
+09/18/2021,St. Mary's (MD),T 1-1 (2 OT),67,09/18/2021,St. Mary's (MD),home,T,1,1,True
+09/19/2021,Gallaudet,W 4-0,57,09/19/2021,Gallaudet,home,W,4,0,False
+09/22/2021,Hilbert,W 3-2,32,09/22/2021,Hilbert,home,W,3,2,False
+09/25/2021,@ Penn St.-Berks,L 0-5,133,09/25/2021,Penn St.-Berks,away,L,0,5,False
+09/29/2021,Cazenovia,L 2-3,114,09/29/2021,Cazenovia,home,L,2,3,False
+10/02/2021,@ Penn St. Harrisburg,L 0-3,75,10/02/2021,Penn St. Harrisburg,away,L,0,3,False
+10/06/2021,SUNY Canton,W 3-0,47,10/06/2021,SUNY Canton,home,W,3,0,False
+10/10/2021,Penn College,L 0-3,48,10/10/2021,Penn College,home,L,0,3,False
+10/13/2021,SUNY ESF,L 1-2,78,10/13/2021,SUNY ESF,home,L,1,2,False
+10/19/2021,Wells,W 2-0,78,10/19/2021,Wells,home,W,2,0,False
+10/23/2021,@ Lancaster Bible,L 0-3,143,10/23/2021,Lancaster Bible,away,L,0,3,False
+10/30/2021,@ Penn St.-Abington,T 0-0 (2 OT),89,10/30/2021,Penn St.-Abington,away,T,0,0,True

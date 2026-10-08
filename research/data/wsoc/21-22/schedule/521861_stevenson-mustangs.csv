@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2021,@ Washington Col.,L 0-3,125,09/02/2021,Washington Col.,away,L,0,3,False
+09/04/2021,@ Ursinus,T 1-1 (2 OT),210,09/04/2021,Ursinus,away,T,1,1,True
+09/08/2021,Catholic,L 3-4 (1 OT),320,09/08/2021,Catholic,home,L,3,4,True
+09/11/2021,Elizabethtown,T 0-0 (2 OT),420,09/11/2021,Elizabethtown,home,T,0,0,True
+09/15/2021,St. Mary's (MD),T 1-1 (1 OT),0,09/15/2021,St. Mary's (MD),home,T,1,1,True
+09/18/2021,DeSales,L 0-1,414,09/18/2021,DeSales,home,L,0,1,False
+09/22/2021,@ Shenandoah,L 1-2,31,09/22/2021,Shenandoah,away,L,1,2,False
+09/25/2021,Marymount (VA),W 2-1,290,09/25/2021,Marymount (VA),home,W,2,1,False
+09/29/2021,@ Immaculata,W 2-0,67,09/29/2021,Immaculata,away,W,2,0,False
+10/02/2021,Salisbury,T 0-0 (2 OT),0,10/02/2021,Salisbury,home,T,0,0,True
+10/06/2021,Hood,W 2-1,121,10/06/2021,Hood,home,W,2,1,False
+10/09/2021,@ Eastern,T 1-1 (2 OT),400,10/09/2021,Eastern,away,T,1,1,True
+10/12/2021,Widener,W 2-1,89,10/12/2021,Widener,home,W,2,1,False
+10/16/2021,@ Albright,L 0-1,71,10/16/2021,Albright,away,L,0,1,False
+10/20/2021,Messiah,L 0-3,290,10/20/2021,Messiah,home,L,0,3,False
+10/23/2021,Alvernia,W 3-0,212,10/23/2021,Alvernia,home,W,3,0,False
+10/26/2021,@ York (PA),L 0-1,312,10/26/2021,York (PA),away,L,0,1,False
+10/30/2021,@ Lebanon Valley,L 0-3,103,10/30/2021,Lebanon Valley,away,L,0,3,False
+11/02/2021,@ #4 Albright MAC Commonwealth WSOC Championship,L 1-2,213,11/02/2021,Albright,away,L,1,2,False

@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Fitchburg St.,W 7-0,80,08/30/2024,Fitchburg St.,away,W,7,0,False
+09/04/2024,Babson,W 4-0,100,09/04/2024,Babson,home,W,4,0,False
+09/07/2024,@ Rhode Island Col.,W 4-0,325,09/07/2024,Rhode Island Col.,away,W,4,0,False
+09/11/2024,@ Clark (MA),W 4-2,112,09/11/2024,Clark (MA),away,W,4,2,False
+09/14/2024,@ MIT,L 1-2,144,09/14/2024,MIT,away,L,1,2,False
+09/18/2024,@ Bridgewater St.,W 3-1,120,09/18/2024,Bridgewater St.,away,W,3,1,False
+09/22/2024,JWU (Providence),W 2-1,250,09/22/2024,JWU (Providence),home,W,2,1,False
+09/25/2024,Lesley,W 1-0,75,09/25/2024,Lesley,home,W,1,0,False
+09/28/2024,Trinity (CT),W 2-1,350,09/28/2024,Trinity (CT),home,W,2,1,False
+10/01/2024,Wheaton (MA),W 2-0,250,10/01/2024,Wheaton (MA),home,W,2,0,False
+10/05/2024,@ Carnegie Mellon,L 0-1,168,10/05/2024,Carnegie Mellon,away,L,0,1,False
+10/11/2024,WashU,L 0-1,400,10/11/2024,WashU,home,L,0,1,False
+10/19/2024,@ UChicago,L 1-4,70,10/19/2024,UChicago,away,L,1,4,False
+10/25/2024,Emory,L 0-1,225,10/25/2024,Emory,home,L,0,1,False
+10/27/2024,Rochester (NY),L 0-1,150,10/27/2024,Rochester (NY),home,L,0,1,False
+11/03/2024,@ CWRU,T 1-1,112,11/03/2024,CWRU,away,T,1,1,False
+11/09/2024,NYU,L 1-2,125,11/09/2024,NYU,home,L,1,2,False

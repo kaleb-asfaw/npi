@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2021,Cairn,Ppd,,09/02/2021,Cairn,home,,,,
+09/04/2021,@ Manhattanville,W 1-0,75,09/04/2021,Manhattanville,away,W,1,0,False
+09/09/2021,Gwynedd Mercy,W 3-0,153,09/09/2021,Gwynedd Mercy,home,W,3,0,False
+09/11/2021,CCNY,W 7-0,75,09/11/2021,CCNY,home,W,7,0,False
+09/15/2021,Bryn Athyn,L 4-5 (2 OT),81,09/15/2021,Bryn Athyn,home,L,4,5,True
+09/17/2021,Keystone,Canceled,,09/17/2021,Keystone,home,,,,
+09/20/2021,@ Rosemont,W 9-0,119,09/20/2021,Rosemont,away,W,9,0,False
+09/22/2021,Penn St.-Abington,W 4-0,55,09/22/2021,Penn St.-Abington,home,W,4,0,False
+09/25/2021,@ Brooklyn,W 7-0,10,09/25/2021,Brooklyn,away,W,7,0,False
+10/02/2021,@ Misericordia,L 0-8,125,10/02/2021,Misericordia,away,L,0,8,False
+10/06/2021,Stevens,L 1-3,255,10/06/2021,Stevens,home,L,1,3,False
+10/09/2021,Lycoming,L 0-1,97,10/09/2021,Lycoming,home,L,0,1,False
+10/12/2021,@ FDU-Florham,L 0-3,77,10/12/2021,FDU-Florham,away,L,0,3,False
+10/16/2021,King's (PA),L 1-2,92,10/16/2021,King's (PA),home,L,1,2,False
+10/20/2021,@ DeSales,L 1-4,75,10/20/2021,DeSales,away,L,1,4,False
+10/26/2021,@ Wilkes,L 0-2,50,10/26/2021,Wilkes,away,L,0,2,False
+10/27/2021,Wilson,W 3-0,88,10/27/2021,Wilson,home,W,3,0,False
+10/29/2021,Arcadia,L 0-2,100,10/29/2021,Arcadia,home,L,0,2,False

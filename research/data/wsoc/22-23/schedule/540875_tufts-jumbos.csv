@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/07/2022,Emerson,W 4-1,100,09/07/2022,Emerson,home,W,4,1,False
+09/10/2022,Connecticut Col.,W 4-0,300,09/10/2022,Connecticut Col.,home,W,4,0,False
+09/13/2022,@ Wesleyan (CT),W 2-0,85,09/13/2022,Wesleyan (CT),away,W,2,0,False
+09/17/2022,@ Amherst,W 2-0,70,09/17/2022,Amherst,away,W,2,0,False
+09/18/2022,@ Williams,L 0-1,103,09/18/2022,Williams,away,L,0,1,False
+09/24/2022,@ Hamilton,T 1-1,350,09/24/2022,Hamilton,away,T,1,1,False
+09/27/2022,@ MIT,W 2-0,96,09/27/2022,MIT,away,W,2,0,False
+10/01/2022,Colby,W 3-1,250,10/01/2022,Colby,home,W,3,1,False
+10/02/2022,Trinity (CT),L 0-1,278,10/02/2022,Trinity (CT),home,L,0,1,False
+10/09/2022,@ New England Col.,W 9-0,119,10/09/2022,New England Col.,away,W,9,0,False
+10/12/2022,Bridgewater St.,W 6-0,100,10/12/2022,Bridgewater St.,home,W,6,0,False
+10/15/2022,@ Bates,L 1-2,250,10/15/2022,Bates,away,L,1,2,False
+10/18/2022,UMass Boston,W 4-1,100,10/18/2022,UMass Boston,home,W,4,1,False
+10/22/2022,Middlebury,T 1-1,350,10/22/2022,Middlebury,home,T,1,1,False
+10/25/2022,Bowdoin,L 0-2,100,10/25/2022,Bowdoin,home,L,0,2,False
+10/29/2022,@ #2 Williams NESCAC WSOC Championship,W 2-0,301,10/29/2022,Williams,away,W,2,0,False
+11/05/2022,@ #1 Amherst NESCAC WSOC Championship,L 0-1 (2 OT),328,11/05/2022,Amherst,away,L,0,1,True
+11/12/2022,"Denison @Geneva, NY (NCAA Division III Women's Soccer Championship)",W 1-0,64,11/12/2022,Denison,neutral,W,1,0,False
+11/13/2022,"William Smith @Geneva, NY (NCAA Division III Women's Soccer Championship)",L 0-1,148,11/13/2022,William Smith,neutral,L,0,1,False

@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2021,@ Neumann,W 1-0,435,09/02/2021,Neumann,away,W,1,0,False
+09/04/2021,@ Muhlenberg,W 3-0,214,09/04/2021,Muhlenberg,away,W,3,0,False
+09/08/2021,Immaculata,W 3-1,125,09/08/2021,Immaculata,home,W,3,1,False
+09/11/2021,Gwynedd Mercy,W 9-0,175,09/11/2021,Gwynedd Mercy,home,W,9,0,False
+09/15/2021,Montclair St.,W 2-1,150,09/15/2021,Montclair St.,home,W,2,1,False
+09/18/2021,@ Stevenson,W 1-0,414,09/18/2021,Stevenson,away,W,1,0,False
+09/21/2021,Lebanon Valley,W 1-0,110,09/21/2021,Lebanon Valley,home,W,1,0,False
+09/25/2021,Salisbury,L 1-2,150,09/25/2021,Salisbury,home,L,1,2,False
+09/29/2021,@ York (PA),L 0-1,362,09/29/2021,York (PA),away,L,0,1,False
+10/02/2021,@ Stevens,L 1-2 (2 OT),222,10/02/2021,Stevens,away,L,1,2,True
+10/06/2021,@ Arcadia,W 5-1,72,10/06/2021,Arcadia,away,W,5,1,False
+10/09/2021,FDU-Florham,W 2-1,225,10/09/2021,FDU-Florham,home,W,2,1,False
+10/12/2021,@ King's (PA),W 5-1,123,10/12/2021,King's (PA),away,W,5,1,False
+10/20/2021,Delaware Valley,W 4-1,75,10/20/2021,Delaware Valley,home,W,4,1,False
+10/23/2021,Lycoming,W 6-0,250,10/23/2021,Lycoming,home,W,6,0,False
+10/26/2021,@ Misericordia,L 2-10,75,10/26/2021,Misericordia,away,L,2,10,False
+10/30/2021,Wilkes,W 2-1 (1 OT),220,10/30/2021,Wilkes,home,W,2,1,True
+11/04/2021,#3 Stevens MAC Freedom WSOC Championship,L 1-2,200,11/04/2021,Stevens,home,L,1,2,False

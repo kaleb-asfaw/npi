@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Simpson (CA),Ppd,,09/01/2021,@ Simpson (CA),home,,,,
+09/04/2021,Whitman,W 2-0,0,09/04/2021,Whitman,home,W,2,0,False
+09/05/2021,Chapman,L 1-3,100,09/05/2021,Chapman,home,L,1,3,False
+09/08/2021,@ UC Merced,T 1-1 (2 OT),0,09/08/2021,@ UC Merced,home,T,1,1,True
+09/11/2021,CMS,L 0-1,40,09/11/2021,CMS,home,L,0,1,False
+09/14/2021,@ Pomona-Pitzer,L 0-6,178,09/14/2021,Pomona-Pitzer,away,L,0,6,False
+09/18/2021,@ Menlo,L 0-2,140,09/18/2021,@ Menlo,home,L,0,2,False
+09/20/2021,William Jessup,L 1-2 (2 OT),85,09/20/2021,William Jessup,home,L,1,2,True
+09/24/2021,Chris. Newport,L 0-1,80,09/24/2021,Chris. Newport,home,L,0,1,False
+09/26/2021,Cal Lutheran,L 0-3,143,09/26/2021,Cal Lutheran,home,L,0,3,False
+10/01/2021,Holy Names,W 3-0,77,10/01/2021,Holy Names,home,W,3,0,False
+10/05/2021,Dominican (CA),T 2-2 (2 OT),111,10/05/2021,Dominican (CA),home,T,2,2,True
+10/09/2021,Mills,W 10-0,50,10/09/2021,Mills,home,W,10,0,False
+10/13/2021,@ Mills,W 2-0,35,10/13/2021,Mills,away,W,2,0,False
+10/16/2021,Occidental,W 1-0,203,10/16/2021,Occidental,home,W,1,0,False
+10/19/2021,Academy of Art,W 4-0,30,10/19/2021,Academy of Art,home,W,4,0,False
+10/23/2021,@ CMS,L 0-1,315,10/23/2021,CMS,away,L,0,1,False
+10/31/2021,Sierra Nevada,W 4-0,128,10/31/2021,Sierra Nevada,home,W,4,0,False
+11/04/2021,@ #6 Mills Coast-To-Coast WSOC Championship,W 7-0,23,11/04/2021,Mills,away,W,7,0,False
+11/05/2021,"#2 Mary Washington @Salisbury, MD (Coast-To-Coast WSOC Championship)",W 1-0,68,11/05/2021,Mary Washington,neutral,W,1,0,False
+11/06/2021,@ #1 Chris. Newport Coast-To-Coast WSOC Championship,L 0-1,0,11/06/2021,Chris. Newport,away,L,0,1,False

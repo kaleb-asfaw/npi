@@ -1,0 +1,14 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/13/2023,@ Gallaudet,L 0-7,83,09/13/2023,Gallaudet,away,L,0,7,False
+09/16/2023,@ Christendom,L 0-17,0,09/16/2023,@ Christendom,home,L,0,17,False
+09/20/2023,@ Sweet Briar,L 0-10,50,09/20/2023,Sweet Briar,away,L,0,10,False
+09/22/2023,Washington Adventist,L 0-23,21,09/22/2023,Washington Adventist,home,L,0,23,False
+09/25/2023,Lincoln (PA),L 0-20,51,09/25/2023,Lincoln (PA),home,L,0,20,False
+09/30/2023,@ Regent,L 0-14,0,09/30/2023,@ Regent,home,L,0,14,False
+10/02/2023,@ Washington Adventist,L 0-30,0,10/02/2023,@ Washington Adventist,home,L,0,30,False
+10/04/2023,Gallaudet,L 0-9,15,10/04/2023,Gallaudet,home,L,0,9,False
+10/07/2023,@ Patrick Henry,L 0-9,,10/07/2023,@ Patrick Henry,home,L,0,9,False
+10/10/2023,@ Central Penn,L 0-13,45,10/10/2023,@ Central Penn,home,L,0,13,False
+10/18/2023,Sweet Briar,L 0-9,50,10/18/2023,Sweet Briar,home,L,0,9,False
+10/24/2023,Patrick Henry,L 0-2,43,10/24/2023,Patrick Henry,home,L,0,2,False
+10/28/2023,Christendom,Ppd,,10/28/2023,Christendom,home,,,,

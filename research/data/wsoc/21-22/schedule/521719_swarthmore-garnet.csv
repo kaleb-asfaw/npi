@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/05/2021,"Maryville (TN) @Washington, DC",W 3-0,0,09/05/2021,Maryville (TN),neutral,W,3,0,False
+09/10/2021,@ NYU,L 1-2,102,09/10/2021,NYU,away,L,1,2,False
+09/12/2021,@ Stevens,T 1-1 (2 OT),289,09/12/2021,Stevens,away,T,1,1,True
+09/15/2021,@ Moravian,Ppd,,09/15/2021,Moravian,away,,,,
+09/22/2021,@ Johns Hopkins,L 0-3,79,09/22/2021,Johns Hopkins,away,L,0,3,False
+09/25/2021,Gettysburg,T 0-0 (2 OT),476,09/25/2021,Gettysburg,home,T,0,0,True
+09/30/2021,Arcadia,W 1-0 (1 OT),121,09/30/2021,Arcadia,home,W,1,0,True
+10/02/2021,McDaniel,L 1-2,303,10/02/2021,McDaniel,home,L,1,2,False
+10/06/2021,@ Washington Col.,W 2-0,0,10/06/2021,Washington Col.,away,W,2,0,False
+10/09/2021,Muhlenberg,W 3-1,125,10/09/2021,Muhlenberg,home,W,3,1,False
+10/13/2021,Ursinus,W 2-1 (1 OT),147,10/13/2021,Ursinus,home,W,2,1,True
+10/16/2021,@ Franklin & Marshall,W 1-0,172,10/16/2021,Franklin & Marshall,away,W,1,0,False
+10/20/2021,Mary Washington,W 2-1 (2 OT),127,10/20/2021,Mary Washington,home,W,2,1,True
+10/23/2021,Dickinson,W 1-0,223,10/23/2021,Dickinson,home,W,1,0,False
+10/26/2021,@ Bryn Mawr,W 2-0,30,10/26/2021,Bryn Mawr,away,W,2,0,False
+10/30/2021,@ Haverford,L 0-1 (2 OT),300,10/30/2021,Haverford,away,L,0,1,True
+11/05/2021,@ #2 McDaniel Centennial WSOC Championship,L 0-3,650,11/05/2021,McDaniel,away,L,0,3,False

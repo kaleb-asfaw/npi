@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,MCLA,W 5-1,85,09/01/2023,MCLA,home,W,5,1,False
+09/03/2023,Rhode Island Col.,L 0-3,97,09/03/2023,Rhode Island Col.,home,L,0,3,False
+09/06/2023,Anna Maria,W 4-3,45,09/06/2023,Anna Maria,home,W,4,3,False
+09/09/2023,Mitchell,W 3-0,114,09/09/2023,Mitchell,home,W,3,0,False
+09/14/2023,Elms,L 0-1,87,09/14/2023,Elms,home,L,0,1,False
+09/16/2023,@ Lasell,T 0-0,100,09/16/2023,Lasell,away,T,0,0,False
+09/20/2023,Emmanuel (MA),L 1-6,192,09/20/2023,Emmanuel (MA),home,L,1,6,False
+09/23/2023,@ New England Col.,W 1-0,117,09/23/2023,New England Col.,away,W,1,0,False
+09/27/2023,Colby-Sawyer,L 2-4,145,09/27/2023,Colby-Sawyer,home,L,2,4,False
+09/30/2023,@ Norwich,L 2-4,196,09/30/2023,Norwich,away,L,2,4,False
+10/04/2023,@ Simmons,T 0-0,115,10/04/2023,Simmons,away,T,0,0,False
+10/07/2023,@ Albertus Magnus,L 0-1,135,10/07/2023,Albertus Magnus,away,L,0,1,False
+10/11/2023,@ JWU (Providence),L 0-4,121,10/11/2023,JWU (Providence),away,L,0,4,False
+10/14/2023,Saint Joseph (CT),L 1-4,134,10/14/2023,Saint Joseph (CT),home,L,1,4,False
+10/18/2023,@ Rivier,L 0-4,195,10/18/2023,Rivier,away,L,0,4,False
+10/20/2023,St. Joseph's (ME),T 1-1,89,10/20/2023,St. Joseph's (ME),home,T,1,1,False
+10/24/2023,Regis (MA),L 2-4,78,10/24/2023,Regis (MA),home,L,2,4,False

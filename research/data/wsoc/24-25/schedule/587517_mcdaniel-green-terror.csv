@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Goucher,W 4-0,233,08/30/2024,Goucher,home,W,4,0,False
+08/31/2024,"Pacific Lutheran @Baltimore, MD",W 2-0,234,08/31/2024,Pacific Lutheran,neutral,W,2,0,False
+09/07/2024,"St. Mary's (MD) @Salisbury, MD",T 1-1,140,09/07/2024,St. Mary's (MD),neutral,T,1,1,False
+09/08/2024,@ Salisbury,W 1-0,141,09/08/2024,Salisbury,away,W,1,0,False
+09/11/2024,@ Messiah,L 0-2,116,09/11/2024,Messiah,away,L,0,2,False
+09/18/2024,Penn St. Harrisburg,W 1-0,117,09/18/2024,Penn St. Harrisburg,home,W,1,0,False
+09/21/2024,@ Ursinus,W 1-0,192,09/21/2024,Ursinus,away,W,1,0,False
+09/25/2024,Gettysburg,W 2-1,87,09/25/2024,Gettysburg,home,W,2,1,False
+09/28/2024,Bryn Mawr,W 2-0,176,09/28/2024,Bryn Mawr,home,W,2,0,False
+10/02/2024,Dickinson,W 1-0,104,10/02/2024,Dickinson,home,W,1,0,False
+10/05/2024,@ Franklin & Marshall,T 1-1,130,10/05/2024,Franklin & Marshall,away,T,1,1,False
+10/09/2024,Mary Washington,L 0-1,91,10/09/2024,Mary Washington,home,L,0,1,False
+10/16/2024,@ Washington Col.,T 1-1,115,10/16/2024,Washington Col.,away,T,1,1,False
+10/19/2024,Haverford,W 2-0,234,10/19/2024,Haverford,home,W,2,0,False
+10/26/2024,Swarthmore,W 3-2,219,10/26/2024,Swarthmore,home,W,3,2,False
+10/30/2024,@ Johns Hopkins,L 0-1,200,10/30/2024,Johns Hopkins,away,L,0,1,False
+11/02/2024,@ Muhlenberg,W 2-0,112,11/02/2024,Muhlenberg,away,W,2,0,False
+11/08/2024,#3 Franklin & Marshall Centennial Women's Soccer Championship,L 1-2,326,11/08/2024,Franklin & Marshall,home,L,1,2,False
+11/16/2024,"Hardin-Simmons @Newark, NJ (NCAA Division III Women's Soccer Championship)",W 1-0 (2 OT),100,11/16/2024,Hardin-Simmons,neutral,W,1,0,True
+11/17/2024,"NYU @Newark, NJ (NCAA Division III Women's Soccer Championship)",L 0-2,100,11/17/2024,NYU,neutral,L,0,2,False

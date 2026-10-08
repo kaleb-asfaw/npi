@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,DeSales,W 1-0,114,09/01/2023,DeSales,home,W,1,0,False
+09/02/2023,Nazareth,W 3-0,122,09/02/2023,Nazareth,home,W,3,0,False
+09/08/2023,"Rutgers-Newark @Dallas, PA",W 2-0,35,09/08/2023,Rutgers-Newark,neutral,W,2,0,False
+09/10/2023,"CWRU @Dallas, PA",T 1-1,50,09/10/2023,CWRU,neutral,T,1,1,False
+09/13/2023,SUNY Canton,W 5-0,126,09/13/2023,SUNY Canton,home,W,5,0,False
+09/16/2023,Cortland,W 1-0,114,09/16/2023,Cortland,home,W,1,0,False
+09/17/2023,Middlebury,T 1-1,134,09/17/2023,Middlebury,home,T,1,1,False
+09/20/2023,Skidmore,W 2-0,98,09/20/2023,Skidmore,home,W,2,0,False
+09/23/2023,RIT,L 0-1,114,09/23/2023,RIT,home,L,0,1,False
+09/30/2023,@ William Smith,L 0-3,183,09/30/2023,William Smith,away,L,0,3,False
+10/07/2023,@ Ithaca,L 0-1,300,10/07/2023,Ithaca,away,L,0,1,False
+10/13/2023,Bard,W 3-1,134,10/13/2023,Bard,home,W,3,1,False
+10/14/2023,Vassar,L 0-1,228,10/14/2023,Vassar,home,L,0,1,False
+10/17/2023,@ SUNY Potsdam,W 6-0,151,10/17/2023,SUNY Potsdam,away,W,6,0,False
+10/21/2023,@ Rensselaer,W 2-0,221,10/21/2023,Rensselaer,away,W,2,0,False
+10/24/2023,@ St. Lawrence,W 2-0,72,10/24/2023,St. Lawrence,away,W,2,0,False
+10/28/2023,@ Union (NY),W 2-1,165,10/28/2023,Union (NY),away,W,2,1,False
+10/31/2023,#5 Rensselaer Liberty League Women's Soccer Championship,L 1-2,234,10/31/2023,Rensselaer,home,L,1,2,False

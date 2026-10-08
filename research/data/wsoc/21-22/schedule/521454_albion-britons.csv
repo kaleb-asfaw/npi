@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Concordia (MI),L 0-1 (2 OT),96,09/01/2021,@ Concordia (MI),home,L,0,1,True
+09/04/2021,"MSOE @Kenosha, WI",W 3-2,45,09/04/2021,MSOE,neutral,W,3,2,False
+09/05/2021,@ Carthage,W 2-1,245,09/05/2021,Carthage,away,W,2,1,False
+09/11/2021,@ Hiram,W 2-0,107,09/11/2021,Hiram,away,W,2,0,False
+09/22/2021,@ Franklin,W 1-0 (1 OT),26,09/22/2021,Franklin,away,W,1,0,True
+09/26/2021,Mt. St. Joseph,W 2-1,106,09/26/2021,Mt. St. Joseph,home,W,2,1,False
+09/28/2021,Kalamazoo,W 1-0,232,09/28/2021,Kalamazoo,home,W,1,0,False
+10/06/2021,Olivet,W 6-1,215,10/06/2021,Olivet,home,W,6,1,False
+10/09/2021,@ Alma,L 0-2,0,10/09/2021,Alma,away,L,0,2,False
+10/12/2021,Hope,T 1-1 (2 OT),241,10/12/2021,Hope,home,T,1,1,True
+10/16/2021,@ St. Mary's (IN),W 1-0,79,10/16/2021,St. Mary's (IN),away,W,1,0,False
+10/20/2021,Calvin,W 2-0,324,10/20/2021,Calvin,home,W,2,0,False
+10/23/2021,@ Trine,L 0-4,154,10/23/2021,Trine,away,L,0,4,False
+10/26/2021,@ Adrian,W 1-0,56,10/26/2021,Adrian,away,W,1,0,False
+11/02/2021,#3 Hope MIAA WSOC Championship,T 0-0 (3 OT),649,11/02/2021,Hope,home,T,0,0,True

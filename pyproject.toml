@@ -1,0 +1,6 @@
+[tool.pytest.ini_options]
+# Makes `import research...` resolve regardless of CWD or how pytest is
+# invoked (bare `pytest`, `python -m pytest`, an IDE's test runner, etc.) --
+# "." here is relative to this file, i.e. the repo root, which pytest adds
+# to rootdir and inserts onto sys.path.
+pythonpath = ["."]

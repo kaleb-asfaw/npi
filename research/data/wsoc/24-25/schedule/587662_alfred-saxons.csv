@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Hilbert,W 7-0,223,08/30/2024,Hilbert,home,W,7,0,False
+09/03/2024,Geneva,W 1-0,195,09/03/2024,Geneva,home,W,1,0,False
+09/07/2024,Penn St.-Altoona,W 8-0,310,09/07/2024,Penn St.-Altoona,home,W,8,0,False
+09/11/2024,@ Alfred St.,W 2-0,175,09/11/2024,Alfred St.,away,W,2,0,False
+09/14/2024,Keuka,W 3-1,278,09/14/2024,Keuka,home,W,3,1,False
+09/17/2024,@ Ithaca,T 0-0,98,09/17/2024,Ithaca,away,T,0,0,False
+09/24/2024,@ Nazareth,T 1-1,154,09/24/2024,Nazareth,away,T,1,1,False
+09/28/2024,Houghton,L 0-1,170,09/28/2024,Houghton,home,L,0,1,False
+10/02/2024,@ St. John Fisher,L 0-2,80,10/02/2024,St. John Fisher,away,L,0,2,False
+10/05/2024,@ Elmira,W 3-1,283,10/05/2024,Elmira,away,W,3,1,False
+10/12/2024,Utica,T 0-0,188,10/12/2024,Utica,home,T,0,0,False
+10/16/2024,@ SUNY Brockport,L 0-1,55,10/16/2024,SUNY Brockport,away,L,0,1,False
+10/19/2024,SUNY Geneseo,T 0-0,422,10/19/2024,SUNY Geneseo,home,T,0,0,False
+10/22/2024,Russell Sage,T 0-0,128,10/22/2024,Russell Sage,home,T,0,0,False
+10/25/2024,@ Hartwick,T 0-0,89,10/25/2024,Hartwick,away,T,0,0,False
+10/30/2024,@ SUNY Poly,W 5-1,77,10/30/2024,SUNY Poly,away,W,5,1,False
+11/02/2024,@ St. John Fisher Empire 8 Women's Soccer Championship,L 0-1 (1 OT),131,11/02/2024,St. John Fisher,away,L,0,1,True

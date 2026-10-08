@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/04/2021,@ Endicott,L 0-1,250,09/04/2021,Endicott,away,L,0,1,False
+09/08/2021,@ UMass Dartmouth,W 7-1,50,09/08/2021,UMass Dartmouth,away,W,7,1,False
+09/12/2021,@ Western New Eng.,L 1-2,160,09/12/2021,Western New Eng.,away,L,1,2,False
+09/15/2021,Wesleyan (CT),Ppd,,09/15/2021,Wesleyan (CT),home,,,,
+09/18/2021,@ Mount Holyoke,W 9-1,110,09/18/2021,Mount Holyoke,away,W,9,1,False
+09/19/2021,@ Williams,L 0-4,50,09/19/2021,Williams,away,L,0,4,False
+09/25/2021,@ Wellesley,W 2-0,95,09/25/2021,Wellesley,away,W,2,0,False
+09/29/2021,VTSU Castleton,W 3-0,200,09/29/2021,VTSU Castleton,home,W,3,0,False
+10/02/2021,Coast Guard,W 2-1 (2 OT),250,10/02/2021,Coast Guard,home,W,2,1,True
+10/06/2021,@ Smith,W 3-1,50,10/06/2021,Smith,away,W,3,1,False
+10/09/2021,@ MIT,L 0-3,154,10/09/2021,MIT,away,L,0,3,False
+10/13/2021,Babson,T 0-0 (2 OT),0,10/13/2021,Babson,home,T,0,0,True
+10/16/2021,WPI,L 0-6,0,10/16/2021,WPI,home,L,0,6,False
+10/20/2021,@ Wheaton (MA),T 4-4 (2 OT),78,10/20/2021,Wheaton (MA),away,T,4,4,True
+10/23/2021,Brandeis,L 1-4,120,10/23/2021,Brandeis,home,L,1,4,False
+10/27/2021,Clark (MA),L 2-3 (1 OT),100,10/27/2021,Clark (MA),home,L,2,3,True
+10/30/2021,Emerson,L 0-1,75,10/30/2021,Emerson,home,L,0,1,False
+11/02/2021,@ #3 Clark (MA) NEWMAC WSOC Championship,W 1-0,255,11/02/2021,Clark (MA),away,W,1,0,False
+11/04/2021,#7 Wheaton (MA) NEWMAC WSOC Championship,T 1-1 (2 OT),500,11/04/2021,Wheaton (MA),home,T,1,1,True
+11/06/2021,@ #1 MIT NEWMAC WSOC Championship,L 0-6,225,11/06/2021,MIT,away,L,0,6,False

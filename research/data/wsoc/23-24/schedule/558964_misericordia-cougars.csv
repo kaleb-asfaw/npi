@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Susquehanna,W 3-1,68,09/01/2023,Susquehanna,home,W,3,1,False
+09/03/2023,@ Emerson,W 4-0,125,09/03/2023,Emerson,away,W,4,0,False
+09/08/2023,CWRU,L 0-2,175,09/08/2023,CWRU,home,L,0,2,False
+09/10/2023,Rutgers-Newark,W 4-1,100,09/10/2023,Rutgers-Newark,home,W,4,1,False
+09/13/2023,@ Montclair St.,L 1-4,211,09/13/2023,Montclair St.,away,L,1,4,False
+09/16/2023,Moravian,W 3-1,70,09/16/2023,Moravian,home,W,3,1,False
+09/20/2023,@ Cortland,L 1-2,129,09/20/2023,Cortland,away,L,1,2,False
+09/27/2023,Scranton,T 2-2,85,09/27/2023,Scranton,home,T,2,2,False
+09/30/2023,Lebanon Valley,W 5-0,60,09/30/2023,Lebanon Valley,home,W,5,0,False
+10/03/2023,@ Penn St.-Berks,W 5-0,133,10/03/2023,Penn St.-Berks,away,W,5,0,False
+10/07/2023,Stevens,W 2-1,134,10/07/2023,Stevens,home,W,2,1,False
+10/11/2023,York (PA),W 3-0,68,10/11/2023,York (PA),home,W,3,0,False
+10/14/2023,@ King's (PA),W 3-0,75,10/14/2023,King's (PA),away,W,3,0,False
+10/17/2023,@ FDU-Florham,W 6-0,65,10/17/2023,FDU-Florham,away,W,6,0,False
+10/21/2023,Delaware Valley,W 8-0,125,10/21/2023,Delaware Valley,home,W,8,0,False
+10/25/2023,DeSales,W 4-0,112,10/25/2023,DeSales,home,W,4,0,False
+10/28/2023,@ Arcadia,W 3-0,136,10/28/2023,Arcadia,away,W,3,0,False
+10/31/2023,#4 DeSales MAC Freedom Women's Soccer Championship,W 4-2 (2 OT),75,10/31/2023,DeSales,home,W,4,2,True
+11/04/2023,#2 Stevens MAC Freedom Women's Soccer Championship,W 2-1 (2 OT),200,11/04/2023,Stevens,home,W,2,1,True
+11/11/2023,"Wesleyan (CT) @Rochester, NY (NCAA Division III Women's Soccer Championship)",W 3-0,101,11/11/2023,Wesleyan (CT),neutral,W,3,0,False
+11/12/2023,@ Rochester (NY) NCAA Division III Women's Soccer Championship,L 1-2,205,11/12/2023,Rochester (NY),away,L,1,2,False

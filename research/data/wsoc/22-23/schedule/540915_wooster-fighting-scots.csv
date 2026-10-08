@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Marietta,T 2-2,218,09/01/2022,Marietta,away,T,2,2,False
+09/04/2022,Allegheny,W 6-0,158,09/04/2022,Allegheny,home,W,6,0,False
+09/07/2022,@ Muskingum,W 3-0,75,09/07/2022,Muskingum,away,W,3,0,False
+09/10/2022,@ Alma,T 2-2,122,09/10/2022,Alma,away,T,2,2,False
+09/11/2022,@ Adrian,L 1-2,95,09/11/2022,Adrian,away,L,1,2,False
+09/14/2022,Westminster (PA),L 0-1,75,09/14/2022,Westminster (PA),home,L,0,1,False
+09/17/2022,@ Wilmington (OH),W 3-2,108,09/17/2022,Wilmington (OH),away,W,3,2,False
+09/21/2022,@ Mount Union,W 2-0,82,09/21/2022,Mount Union,away,W,2,0,False
+09/25/2022,@ John Carroll,L 1-3,207,09/25/2022,John Carroll,away,L,1,3,False
+09/28/2022,Baldwin Wallace,W 3-1,82,09/28/2022,Baldwin Wallace,home,W,3,1,False
+10/01/2022,Oberlin,W 4-2,120,10/01/2022,Oberlin,home,W,4,2,False
+10/08/2022,DePauw,L 0-1,177,10/08/2022,DePauw,home,L,0,1,False
+10/12/2022,Kenyon,T 1-1,90,10/12/2022,Kenyon,home,T,1,1,False
+10/15/2022,@ Ohio Wesleyan,L 0-1,225,10/15/2022,Ohio Wesleyan,away,L,0,1,False
+10/18/2022,Hiram,W 6-0,64,10/18/2022,Hiram,home,W,6,0,False
+10/22/2022,@ Wittenberg,T 1-1,334,10/22/2022,Wittenberg,away,T,1,1,False
+10/29/2022,@ Denison,L 0-1,97,10/29/2022,Denison,away,L,0,1,False

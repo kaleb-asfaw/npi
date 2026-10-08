@@ -1,0 +1,24 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/25/2024,@ Bellarmine,L 0-8 *,228,08/25/2024,Bellarmine,away,L,0,8,False
+09/02/2024,Berea,W 2-0,100,09/02/2024,Berea,home,W,2,0,False
+09/04/2024,@ Franklin,T 0-0,98,09/04/2024,Franklin,away,T,0,0,False
+09/07/2024,@ Warren Wilson,W 6-0,75,09/07/2024,Warren Wilson,away,W,6,0,False
+09/11/2024,@ Midway,W 3-2,0,09/11/2024,@ Midway,home,W,3,2,False
+09/14/2024,Spalding,L 0-1,70,09/14/2024,Spalding,home,L,0,1,False
+09/18/2024,@ Hanover,L 1-3,25,09/18/2024,Hanover,away,L,1,3,False
+09/21/2024,@ Georgetown (KY),T 0-0,100,09/21/2024,@ Georgetown (KY),home,T,0,0,False
+09/25/2024,Centre,L 0-3,100,09/25/2024,Centre,home,L,0,3,False
+09/29/2024,Agnes Scott,W 4-0,50,09/29/2024,Agnes Scott,home,W,4,0,False
+10/02/2024,Wittenberg,T 2-2,100,10/02/2024,Wittenberg,home,T,2,2,False
+10/05/2024,Covenant,L 0-1,200,10/05/2024,Covenant,home,L,0,1,False
+10/10/2024,@ LaGrange,W 3-1,62,10/10/2024,LaGrange,away,W,3,1,False
+10/12/2024,@ Huntingdon,T 2-2,75,10/12/2024,Huntingdon,away,T,2,2,False
+10/17/2024,Piedmont,W 3-2,40,10/17/2024,Piedmont,home,W,3,2,False
+10/19/2024,@ Belhaven,T 0-0,113,10/19/2024,Belhaven,away,T,0,0,False
+10/23/2024,@ Maryville (TN),L 0-1,315,10/23/2024,Maryville (TN),away,L,0,1,False
+10/26/2024,Wesleyan (GA),W 9-0,125,10/26/2024,Wesleyan (GA),home,W,9,0,False
+11/02/2024,@ #4 Covenant CCS Women's Soccer Championship,W 2-0,259,11/02/2024,Covenant,away,W,2,0,False
+11/06/2024,@ #1 Maryville (TN) CCS Women's Soccer Championship,L 2-4,368,11/06/2024,Maryville (TN),away,L,2,4,False
+11/21/2024,Ohio Christian,T 0-0 (3 OT),5,11/21/2024,Ohio Christian,home,T,0,0,True
+12/02/2024,Judson (AL),,,12/02/2024,Judson (AL),home,,,,
+12/03/2024,Bethel (IN),,,12/03/2024,Bethel (IN),home,,,,

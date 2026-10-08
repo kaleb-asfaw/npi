@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/04/2021,@ Gwynedd Mercy,W 8-0,100,09/04/2021,Gwynedd Mercy,away,W,8,0,False
+09/05/2021,Mount Aloysius,L 1-2,105,09/05/2021,Mount Aloysius,home,L,1,2,False
+09/08/2021,@ Goucher,Ppd,,09/08/2021,Goucher,away,,,,
+09/11/2021,@ Keuka,W 2-1,150,09/11/2021,Keuka,away,W,2,1,False
+09/12/2021,@ Penn St.-Altoona,W 1-0,112,09/12/2021,Penn St.-Altoona,away,W,1,0,False
+09/15/2021,Penn College,W 2-0,110,09/15/2021,Penn College,home,W,2,0,False
+09/18/2021,Bethany (WV),W 9-0,110,09/18/2021,Bethany (WV),home,W,9,0,False
+09/19/2021,Wilson,W 7-0,120,09/19/2021,Wilson,home,W,7,0,False
+09/22/2021,@ Susquehanna,L 1-5,46,09/22/2021,Susquehanna,away,L,1,5,False
+09/25/2021,Central Penn,Canceled,,09/25/2021,Central Penn,home,,,,
+09/26/2021,Widener,L 0-1,110,09/26/2021,Widener,home,L,0,1,False
+09/30/2021,@ Pitt.-Bradford,W 6-2,45,09/30/2021,Pitt.-Bradford,away,W,6,2,False
+10/02/2021,Arcadia,W 2-1,120,10/02/2021,Arcadia,home,W,2,1,False
+10/06/2021,@ Wilkes,T 3-3 (2 OT),100,10/06/2021,Wilkes,away,T,3,3,True
+10/09/2021,@ Delaware Valley,W 1-0,97,10/09/2021,Delaware Valley,away,W,1,0,False
+10/16/2021,FDU-Florham,L 0-2,65,10/16/2021,FDU-Florham,home,L,0,2,False
+10/20/2021,Misericordia,L 0-2,70,10/20/2021,Misericordia,home,L,0,2,False
+10/23/2021,@ DeSales,L 0-6,250,10/23/2021,DeSales,away,L,0,6,False
+10/24/2021,@ Elmira,W 2-0,84,10/24/2021,Elmira,away,W,2,0,False
+10/26/2021,King's (PA),W 2-0,50,10/26/2021,King's (PA),home,W,2,0,False
+10/30/2021,@ Stevens,L 1-2,222,10/30/2021,Stevens,away,L,1,2,False

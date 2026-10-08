@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/31/2024,@ Emory,L 0-4,72,08/31/2024,Emory,away,L,0,4,False
+09/01/2024,@ Oglethorpe,T 1-1,145,09/01/2024,Oglethorpe,away,T,1,1,False
+09/07/2024,Johns Hopkins,L 0-4,89,09/07/2024,Johns Hopkins,home,L,0,4,False
+09/08/2024,Hardin-Simmons,L 0-2,93,09/08/2024,Hardin-Simmons,home,L,0,2,False
+09/12/2024,Southern Va.,T 1-1,167,09/12/2024,Southern Va.,home,T,1,1,False
+09/15/2024,@ Maryville (TN),L 1-2,297,09/15/2024,Maryville (TN),away,L,1,2,False
+09/22/2024,@ Centre,L 0-4,127,09/22/2024,Centre,away,L,0,4,False
+09/28/2024,Sweet Briar,W 8-0,525,09/28/2024,Sweet Briar,home,W,8,0,False
+10/05/2024,@ Lynchburg,T 1-1,182,10/05/2024,Lynchburg,away,T,1,1,False
+10/09/2024,@ Randolph,W 2-1,100,10/09/2024,Randolph,away,W,2,1,False
+10/12/2024,Wash. & Lee,L 0-3,131,10/12/2024,Wash. & Lee,home,L,0,3,False
+10/15/2024,Chris. Newport,L 0-6,76,10/15/2024,Chris. Newport,home,L,0,6,False
+10/17/2024,Hollins,W 8-0,54,10/17/2024,Hollins,home,W,8,0,False
+10/19/2024,East. Mennonite,W 6-0,125,10/19/2024,East. Mennonite,home,W,6,0,False
+10/23/2024,@ Ferrum,T 2-2,500,10/23/2024,Ferrum,away,T,2,2,False
+10/26/2024,@ Randolph-Macon,L 0-1,276,10/26/2024,Randolph-Macon,away,L,0,1,False
+10/30/2024,Bridgewater (VA),L 0-3,450,10/30/2024,Bridgewater (VA),home,L,0,3,False
+11/02/2024,@ Batten,L 2-4,229,11/02/2024,Batten,away,L,2,4,False
+11/05/2024,@ #1 Wash. & Lee ODAC Women's Soccer Championship,L 0-3,77,11/05/2024,Wash. & Lee,away,L,0,3,False

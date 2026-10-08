@@ -1,0 +1,12 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/28/2022,@ King's (NY),Canceled,,09/28/2022,@ King's (NY),home,,,,
+10/01/2022,@ Albany Pharmacy,Ppd,,10/01/2022,@ Albany Pharmacy,home,,,,
+10/02/2022,@ Bry. & Strat. (Alb.),Ppd,,10/02/2022,@ Bry. & Strat. (Alb.),home,,,,
+10/06/2022,@ New Jersey City,Ppd,,10/06/2022,New Jersey City,away,,,,
+10/08/2022,Brooklyn,L 0-7,25,10/08/2022,Brooklyn,home,L,0,7,False
+10/12/2022,@ John Jay,L 0-8,0,10/12/2022,John Jay,away,L,0,8,False
+10/15/2022,@ Lehman,L 0-9,100,10/15/2022,Lehman,away,L,0,9,False
+10/17/2022,@ Saint Elizabeth,L 0-9,25,10/17/2022,Saint Elizabeth,away,L,0,9,False
+10/19/2022,CCNY,Ppd,,10/19/2022,CCNY,home,,,,
+10/22/2022,York (NY),Canceled,,10/22/2022,York (NY),home,,,,
+10/24/2022,@ New Jersey City,Canceled,,10/24/2022,New Jersey City,away,,,,

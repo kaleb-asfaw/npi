@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2021,@ Skidmore,W 1-0,135,09/03/2021,Skidmore,away,W,1,0,False
+09/05/2021,@ Union (NY),T 1-1 (2 OT),0,09/05/2021,Union (NY),away,T,1,1,True
+09/12/2021,@ Ithaca,L 0-4,196,09/12/2021,Ithaca,away,L,0,4,False
+09/15/2021,Rensselaer,L 0-4,101,09/15/2021,Rensselaer,home,L,0,4,False
+09/21/2021,St. Joseph's (Brkln),W 6-0,67,09/21/2021,St. Joseph's (Brkln),home,W,6,0,False
+09/25/2021,Manhattanville,T 0-0 (2 OT),124,09/25/2021,Manhattanville,home,T,0,0,True
+09/27/2021,NYU,L 0-2,102,09/27/2021,NYU,home,L,0,2,False
+09/29/2021,@ Sarah Lawrence,W 2-0,108,09/29/2021,Sarah Lawrence,away,W,2,0,False
+10/02/2021,@ SUNY Maritime,W 6-0,164,10/02/2021,SUNY Maritime,away,W,6,0,False
+10/05/2021,UMSV,W 1-0,103,10/05/2021,UMSV,home,W,1,0,False
+10/07/2021,Old Westbury,W 8-0,65,10/07/2021,Old Westbury,home,W,8,0,False
+10/09/2021,Farmingdale St.,L 1-4,127,10/09/2021,Farmingdale St.,home,L,1,4,False
+10/16/2021,St. Joseph's (L.I.),W 1-0,233,10/16/2021,St. Joseph's (L.I.),home,W,1,0,False
+10/20/2021,Montclair St.,L 1-2,78,10/20/2021,Montclair St.,home,L,1,2,False
+10/24/2021,Hamilton,L 0-1 (1 OT),203,10/24/2021,Hamilton,home,L,0,1,True
+10/27/2021,@ Purchase,W 8-0,85,10/27/2021,Purchase,away,W,8,0,False
+10/28/2021,Yeshiva,W 11-0,31,10/28/2021,Yeshiva,home,W,11,0,False
+10/30/2021,#6 Sarah Lawrence Skyline WSOC Championship,W 2-0,77,10/30/2021,Sarah Lawrence,home,W,2,0,False
+11/03/2021,@ #2 Manhattanville Skyline WSOC Championship,W 1-0,110,11/03/2021,Manhattanville,away,W,1,0,False
+11/06/2021,#1 Farmingdale St. Skyline WSOC Championship,L 0-2,300,11/06/2021,Farmingdale St.,home,L,0,2,False
+11/13/2021,"#3 Wm. Paterson @Alfred, NY (ECAC WSOC)",L 0-3,47,11/13/2021,Wm. Paterson,neutral,L,0,3,False

@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Saint Benedict,L 0-10,42,09/01/2021,Saint Benedict,home,L,0,10,False
+09/06/2021,@ UW-River Falls,L 1-3,75,09/06/2021,UW-River Falls,away,L,1,3,False
+09/10/2021,@ Concordia-M'head,L 0-6,155,09/10/2021,Concordia-M'head,away,L,0,6,False
+09/11/2021,"Neb. Wesleyan @Moorhead, MN",L 0-6,85,09/11/2021,Neb. Wesleyan,neutral,L,0,6,False
+09/19/2021,Wis.-Stout,L 2-4,79,09/19/2021,Wis.-Stout,home,L,2,4,False
+09/24/2021,North Central (MN),W 3-2,52,09/24/2021,North Central (MN),home,W,3,2,False
+09/25/2021,Northwestern-St. Paul,L 0-2,48,09/25/2021,Northwestern-St. Paul,home,L,0,2,False
+10/01/2021,@ Northland,W 3-1,200,10/01/2021,Northland,away,W,3,1,False
+10/02/2021,@ Wis.-Superior,L 1-6,48,10/02/2021,Wis.-Superior,away,L,1,6,False
+10/09/2021,Martin Luther,L 0-2,57,10/09/2021,Martin Luther,home,L,0,2,False
+10/12/2021,Crown (MN),W 5-0,49,10/12/2021,Crown (MN),home,W,5,0,False
+10/15/2021,@ Northwestern-St. Paul,L 2-4,79,10/15/2021,Northwestern-St. Paul,away,L,2,4,False
+10/16/2021,@ North Central (MN),W 3-0,30,10/16/2021,North Central (MN),away,W,3,0,False
+10/19/2021,St. Catherine,Canceled,,10/19/2021,St. Catherine,home,,,,
+10/19/2021,@ Crown (MN),W 2-1,100,10/19/2021,Crown (MN),away,W,2,1,False
+10/22/2021,@ Martin Luther,W 3-2,82,10/22/2021,Martin Luther,away,W,3,2,False
+10/23/2021,@ Bethany Lutheran,L 1-2,90,10/23/2021,Bethany Lutheran,away,L,1,2,False
+10/25/2021,Bethany Lutheran,L 0-5,50,10/25/2021,Bethany Lutheran,home,L,0,5,False
+10/29/2021,Wis.-Superior,L 1-4,70,10/29/2021,Wis.-Superior,home,L,1,4,False
+10/30/2021,Northland,L 0-1,68,10/30/2021,Northland,home,L,0,1,False
+11/03/2021,@ #1 Wis.-Superior UMAC WSOC Championship,L 0-6,136,11/03/2021,Wis.-Superior,away,L,0,6,False

@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/04/2021,Fisher,L 2-3,96,09/04/2021,Fisher,home,L,2,3,False
+09/05/2021,Paul Smiths,L 0-6,135,09/05/2021,Paul Smiths,home,L,0,6,False
+09/12/2021,Thomas (ME),L 1-2,138,09/12/2021,Thomas (ME),home,L,1,2,False
+09/16/2021,@ Rivier,L 0-2,0,09/16/2021,Rivier,away,L,0,2,False
+09/25/2021,@ SUNY Delhi,L 0-3,171,09/25/2021,SUNY Delhi,away,L,0,3,False
+09/26/2021,@ SUNY Cobleskill,Canceled,,09/26/2021,SUNY Cobleskill,away,,,,
+10/02/2021,@ Me.-Farmington,L 1-5,120,10/02/2021,Me.-Farmington,away,L,1,5,False
+10/03/2021,Maine Maritime,L 0-2,51,10/03/2021,Maine Maritime,home,L,0,2,False
+10/06/2021,VTSU-Johnson,W 2-0,46,10/06/2021,VTSU-Johnson,home,W,2,0,False
+10/09/2021,SUNY Poly,L 0-5,83,10/09/2021,SUNY Poly,home,L,0,5,False
+10/10/2021,Cazenovia,L 0-4,106,10/10/2021,Cazenovia,home,L,0,4,False
+10/13/2021,Mitchell,L 0-2,29,10/13/2021,Mitchell,home,L,0,2,False
+10/16/2021,@ Husson,L 0-10,200,10/16/2021,Husson,away,L,0,10,False
+10/18/2021,VTSU Randolph,W 8-0,25,10/18/2021,VTSU Randolph,home,W,8,0,False
+10/20/2021,New England Col.,L 0-1,33,10/20/2021,New England Col.,home,L,0,1,False
+10/23/2021,@ Me.-Presque Isle,L 0-7,20,10/23/2021,Me.-Presque Isle,away,L,0,7,False

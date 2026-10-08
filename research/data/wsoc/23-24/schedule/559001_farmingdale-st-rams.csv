@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Catholic,L 0-2,261,09/01/2023,Catholic,home,L,0,2,False
+09/05/2023,@ Yeshiva,W 12-0,0,09/05/2023,Yeshiva,away,W,12,0,False
+09/08/2023,Rowan,L 0-5,96,09/08/2023,Rowan,home,L,0,5,False
+09/10/2023,Springfield,L 1-2,162,09/10/2023,Springfield,home,L,1,2,False
+09/16/2023,@ DeSales,T 1-1,200,09/16/2023,DeSales,away,T,1,1,False
+09/17/2023,@ Arcadia,W 2-1,250,09/17/2023,Arcadia,away,W,2,1,False
+09/20/2023,@ Merchant Marine,T 0-0,60,09/20/2023,Merchant Marine,away,T,0,0,False
+09/23/2023,NYU,Canceled,,09/23/2023,NYU,home,,,,
+09/24/2023,St. Joseph's (Brkln),W 4-0,88,09/24/2023,St. Joseph's (Brkln),home,W,4,0,False
+09/26/2023,@ Stevens,L 0-3,123,09/26/2023,Stevens,away,L,0,3,False
+09/30/2023,St. Joseph's (L.I.),W 2-0,309,09/30/2023,St. Joseph's (L.I.),home,W,2,0,False
+10/01/2023,@ Penn St.-Berks,L 0-2,118,10/01/2023,Penn St.-Berks,away,L,0,2,False
+10/04/2023,@ Mt. St. Mary (NY),L 0-2,143,10/04/2023,Mt. St. Mary (NY),away,L,0,2,False
+10/07/2023,Salisbury,L 0-1,102,10/07/2023,Salisbury,home,L,0,1,False
+10/10/2023,@ Old Westbury,W 3-1,43,10/10/2023,Old Westbury,away,W,3,1,False
+10/14/2023,@ Sarah Lawrence,L 0-1,45,10/14/2023,Sarah Lawrence,away,L,0,1,False
+10/18/2023,@ Manhattanville,W 1-0,75,10/18/2023,Manhattanville,away,W,1,0,False
+10/21/2023,UMSV,W 3-1,112,10/21/2023,UMSV,home,W,3,1,False
+10/24/2023,SUNY Maritime,W 3-0,256,10/24/2023,SUNY Maritime,home,W,3,0,False
+10/26/2023,Purchase,W 8-0,97,10/26/2023,Purchase,home,W,8,0,False
+11/01/2023,#3 UMSV Skyline Women's Soccer Championship,L 0-4,114,11/01/2023,UMSV,home,L,0,4,False

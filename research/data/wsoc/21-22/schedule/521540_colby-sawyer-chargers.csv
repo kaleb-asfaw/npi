@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Mount Holyoke,L 1-2,75,09/01/2021,Mount Holyoke,home,L,1,2,False
+09/04/2021,@ VTSU Castleton,L 0-3,155,09/04/2021,VTSU Castleton,away,L,0,3,False
+09/11/2021,@ JWU (Providence),L 0-7,0,09/11/2021,JWU (Providence),away,L,0,7,False
+09/15/2021,Elms,T 0-0 (2 OT),89,09/15/2021,Elms,home,T,0,0,True
+09/18/2021,Simmons,W 1-0,50,09/18/2021,Simmons,home,W,1,0,False
+09/22/2021,Regis (MA),L 2-5,25,09/22/2021,Regis (MA),home,L,2,5,False
+09/25/2021,@ Rivier,W 1-0 (1 OT),500,09/25/2021,Rivier,away,W,1,0,True
+10/02/2021,@ Dean,L 1-2,150,10/02/2021,Dean,away,L,1,2,False
+10/06/2021,Norwich,W 3-1,65,10/06/2021,Norwich,home,W,3,1,False
+10/09/2021,@ Albertus Magnus,L 0-2,115,10/09/2021,Albertus Magnus,away,L,0,2,False
+10/13/2021,@ Lasell,L 0-6,100,10/13/2021,Lasell,away,L,0,6,False
+10/16/2021,Anna Maria,W 3-1,419,10/16/2021,Anna Maria,home,W,3,1,False
+10/18/2021,Emmanuel (MA),L 1-2,48,10/18/2021,Emmanuel (MA),home,L,1,2,False
+10/18/2021,@ Dartmouth,Canceled,,10/18/2021,Dartmouth,away,,,,
+10/23/2021,Saint Joseph (CT),L 0-1,82,10/23/2021,Saint Joseph (CT),home,L,0,1,False
+10/24/2021,Elms,T 0-0,89,10/24/2021,Elms,home,T,0,0,False
+10/27/2021,@ St. Joseph's (ME),L 0-2,75,10/27/2021,St. Joseph's (ME),away,L,0,2,False

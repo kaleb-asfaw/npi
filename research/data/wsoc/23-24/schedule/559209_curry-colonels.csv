@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Salve Regina,T 1-1,115,09/01/2023,Salve Regina,away,T,1,1,False
+09/03/2023,@ Regis (MA),L 0-1,177,09/03/2023,Regis (MA),away,L,0,1,False
+09/06/2023,Framingham St.,W 5-0,121,09/06/2023,Framingham St.,home,W,5,0,False
+09/08/2023,@ UMass Dartmouth,T 0-0,120,09/08/2023,UMass Dartmouth,away,T,0,0,False
+09/14/2023,Rhode Island Col.,L 0-1,184,09/14/2023,Rhode Island Col.,home,L,0,1,False
+09/16/2023,@ Western New Eng.,L 1-2,140,09/16/2023,Western New Eng.,away,L,1,2,False
+09/19/2023,UMass Boston,T 1-1,156,09/19/2023,UMass Boston,home,T,1,1,False
+09/23/2023,Roger Williams,L 0-2,135,09/23/2023,Roger Williams,home,L,0,2,False
+09/27/2023,Wellesley,T 0-0,124,09/27/2023,Wellesley,home,T,0,0,False
+09/30/2023,@ Nichols,W 4-0,102,09/30/2023,Nichols,away,W,4,0,False
+10/03/2023,@ Fitchburg St.,W 3-0,65,10/03/2023,Fitchburg St.,away,W,3,0,False
+10/06/2023,Gordon,T 1-1,326,10/06/2023,Gordon,home,T,1,1,False
+10/10/2023,@ Hartford,L 1-5,175,10/10/2023,Hartford,away,L,1,5,False
+10/14/2023,@ Suffolk,T 1-1,73,10/14/2023,Suffolk,away,T,1,1,False
+10/18/2023,@ Endicott,L 0-3,157,10/18/2023,Endicott,away,L,0,3,False
+10/21/2023,U New England,T 1-1,94,10/21/2023,U New England,home,T,1,1,False
+10/24/2023,Wentworth,W 3-0,156,10/24/2023,Wentworth,home,W,3,0,False
+10/28/2023,@ #3 Endicott CCC Women's Soccer Championship,L 0-3,202,10/28/2023,Endicott,away,L,0,3,False

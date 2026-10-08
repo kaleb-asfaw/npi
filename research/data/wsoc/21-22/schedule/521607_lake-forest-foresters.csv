@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Edgewood,W 2-0,155,09/01/2021,Edgewood,away,W,2,0,False
+09/04/2021,St. Mary's (IN),L 2-3 (1 OT),80,09/04/2021,St. Mary's (IN),home,L,2,3,True
+09/05/2021,@ Concordia Chicago,W 3-1,200,09/05/2021,Concordia Chicago,away,W,3,1,False
+09/07/2021,Wis. Lutheran,W 4-0,60,09/07/2021,Wis. Lutheran,home,W,4,0,False
+09/09/2021,@ MSOE,L 0-4,178,09/09/2021,MSOE,away,L,0,4,False
+09/12/2021,Blackburn,Canceled,,09/12/2021,Blackburn,home,,,,
+09/15/2021,@ North Park,L 0-1,52,09/15/2021,North Park,away,L,0,1,False
+09/18/2021,Dubuque,L 0-1,85,09/18/2021,Dubuque,home,L,0,1,False
+09/25/2021,Lawrence,W 3-0,85,09/25/2021,Lawrence,home,W,3,0,False
+09/28/2021,@ Ripon,W 5-0,55,09/28/2021,Ripon,away,W,5,0,False
+10/02/2021,@ Monmouth (IL),W 1-0,35,10/02/2021,Monmouth (IL),away,W,1,0,False
+10/05/2021,Beloit,T 0-0 (2 OT),45,10/05/2021,Beloit,home,T,0,0,True
+10/09/2021,Illinois Col.,W 4-0,50,10/09/2021,Illinois Col.,home,W,4,0,False
+10/13/2021,@ Carroll (WI),Canceled,,10/13/2021,Carroll (WI),away,,,,
+10/16/2021,@ Cornell College,W 1-0,45,10/16/2021,Cornell College,away,W,1,0,False
+10/23/2021,@ Knox,L 1-2 (2 OT),150,10/23/2021,Knox,away,L,1,2,True
+10/26/2021,Concordia Wisconsin,L 0-1,40,10/26/2021,Concordia Wisconsin,home,L,0,1,False
+10/30/2021,Grinnell,W 2-0,147,10/30/2021,Grinnell,home,W,2,0,False
+11/05/2021,#3 Beloit Midwest Conference WSOC Tournament,L 0-1,25,11/05/2021,Beloit,home,L,0,1,False

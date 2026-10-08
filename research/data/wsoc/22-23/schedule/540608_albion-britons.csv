@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Manchester,W 3-0,30,09/01/2022,Manchester,away,W,3,0,False
+09/04/2022,Millikin,T 0-0,210,09/04/2022,Millikin,home,T,0,0,False
+09/10/2022,@ Roanoke,W 2-0,0,09/10/2022,Roanoke,away,W,2,0,False
+09/11/2022,"Lynchburg @Salem, VA",T 0-0,61,09/11/2022,Lynchburg,neutral,T,0,0,False
+09/17/2022,Franklin,W 3-1,130,09/17/2022,Franklin,home,W,3,1,False
+09/20/2022,Ill. Wesleyan,T 0-0,82,09/20/2022,Ill. Wesleyan,home,T,0,0,False
+09/24/2022,@ Mt. St. Joseph,L 0-1,123,09/24/2022,Mt. St. Joseph,away,L,0,1,False
+10/01/2022,@ Kalamazoo,L 0-1,213,10/01/2022,Kalamazoo,away,L,0,1,False
+10/04/2022,@ Olivet,W 3-0,95,10/04/2022,Olivet,away,W,3,0,False
+10/08/2022,Alma,W 5-2,210,10/08/2022,Alma,home,W,5,2,False
+10/12/2022,St. Mary's (IN),W 3-0,75,10/12/2022,St. Mary's (IN),home,W,3,0,False
+10/15/2022,@ Hope,W 2-1,477,10/15/2022,Hope,away,W,2,1,False
+10/18/2022,Adrian,L 0-2,80,10/18/2022,Adrian,home,L,0,2,False
+10/22/2022,Trine,T 1-1,238,10/22/2022,Trine,home,T,1,1,False
+10/26/2022,@ Calvin,L 0-2,147,10/26/2022,Calvin,away,L,0,2,False
+10/29/2022,@ #4 Adrian MIAA WSOC Tournament,T 0-0 (3 OT),220,10/29/2022,Adrian,away,T,0,0,True
+11/02/2022,@ #1 Calvin MIAA WSOC Tournament,L 1-4,132,11/02/2022,Calvin,away,L,1,4,False

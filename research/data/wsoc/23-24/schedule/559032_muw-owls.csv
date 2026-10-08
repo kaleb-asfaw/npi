@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2023,@ Thomas (GA),Ppd,,09/02/2023,@ Thomas (GA),home,,,,
+09/04/2023,@ Wesleyan (GA),W 5-0,32,09/04/2023,Wesleyan (GA),away,W,5,0,False
+09/10/2023,@ Huntingdon,L 0-1,50,09/10/2023,Huntingdon,away,L,0,1,False
+09/13/2023,@ Talladega,L 0-3,0,09/13/2023,@ Talladega,home,L,0,3,False
+09/15/2023,Oakwood,Canceled,,09/15/2023,Oakwood,home,,,,
+09/22/2023,@ Spalding,L 2-3,156,09/22/2023,Spalding,away,L,2,3,False
+09/24/2023,@ Rhodes,L 0-5,84,09/24/2023,Rhodes,away,L,0,5,False
+09/28/2023,Blackburn,W 6-0,100,09/28/2023,Blackburn,home,W,6,0,False
+10/01/2023,Eureka,W 10-0,100,10/01/2023,Eureka,home,W,10,0,False
+10/06/2023,@ Westminster (MO),L 0-1,75,10/06/2023,Westminster (MO),away,L,0,1,False
+10/08/2023,@ Webster,L 0-3,100,10/08/2023,Webster,away,L,0,3,False
+10/11/2023,Principia,W 3-1,34,10/11/2023,Principia,home,W,3,1,False
+10/17/2023,Belhaven,L 0-2,100,10/17/2023,Belhaven,home,L,0,2,False
+10/19/2023,@ Lyon,W 3-0,100,10/19/2023,Lyon,away,W,3,0,False
+10/21/2023,@ Fontbonne,L 0-2,0,10/21/2023,Fontbonne,away,L,0,2,False
+10/28/2023,Greenville,L 0-3,100,10/28/2023,Greenville,home,L,0,3,False
+10/31/2023,@ #3 Greenville SLIAC Women's Soccer Championship,L 0-7,100,10/31/2023,Greenville,away,L,0,7,False

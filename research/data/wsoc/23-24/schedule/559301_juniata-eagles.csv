@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Westminster (PA),L 0-2,267,09/01/2023,Westminster (PA),home,L,0,2,False
+09/02/2023,@ Penn St.-Altoona,W 5-0,118,09/02/2023,Penn St.-Altoona,away,W,5,0,False
+09/05/2023,@ Elmira,W 3-1,20,09/05/2023,Elmira,away,W,3,1,False
+09/09/2023,King's (PA),Ppd,,09/09/2023,King's (PA),home,,,,
+09/13/2023,Albright,W 3-1,85,09/13/2023,Albright,home,W,3,1,False
+09/15/2023,@ Pitt.-Bradford,W 6-0,40,09/15/2023,Pitt.-Bradford,away,W,6,0,False
+09/16/2023,@ SUNY Brockport,L 0-1,125,09/16/2023,SUNY Brockport,away,L,0,1,False
+09/24/2023,@ Drew,L 0-1,52,09/24/2023,Drew,away,L,0,1,False
+09/27/2023,Pitt.-Greensburg,L 0-1,115,09/27/2023,Pitt.-Greensburg,home,L,0,1,False
+09/30/2023,@ Goucher,T 0-0,247,09/30/2023,Goucher,away,T,0,0,False
+10/03/2023,@ Elizabethtown,L 0-1,115,10/03/2023,Elizabethtown,away,L,0,1,False
+10/07/2023,Wilkes,L 0-2,108,10/07/2023,Wilkes,home,L,0,2,False
+10/10/2023,Lycoming,L 1-4,81,10/10/2023,Lycoming,home,L,1,4,False
+10/14/2023,Scranton,L 0-1,128,10/14/2023,Scranton,home,L,0,1,False
+10/17/2023,@ Susquehanna,T 0-0,203,10/17/2023,Susquehanna,away,T,0,0,False
+10/21/2023,@ Moravian,L 1-2,236,10/21/2023,Moravian,away,L,1,2,False
+10/28/2023,Catholic,L 0-2,101,10/28/2023,Catholic,home,L,0,2,False

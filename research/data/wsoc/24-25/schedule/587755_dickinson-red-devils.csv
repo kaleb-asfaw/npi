@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Penn St. Harrisburg,W 1-0,450,08/30/2024,Penn St. Harrisburg,home,W,1,0,False
+09/03/2024,DeSales,W 5-0,110,09/03/2024,DeSales,home,W,5,0,False
+09/07/2024,@ Bridgewater (VA),W 1-0,248,09/07/2024,Bridgewater (VA),away,W,1,0,False
+09/11/2024,Mary Washington,W 2-0,53,09/11/2024,Mary Washington,home,W,2,0,False
+09/14/2024,@ Grove City,L 2-3,0,09/14/2024,Grove City,away,L,2,3,False
+09/18/2024,@ York (PA),T 0-0,247,09/18/2024,York (PA),away,T,0,0,False
+09/21/2024,@ Washington Col.,W 1-0,112,09/21/2024,Washington Col.,away,W,1,0,False
+09/25/2024,Johns Hopkins,L 1-4,65,09/25/2024,Johns Hopkins,home,L,1,4,False
+09/28/2024,Muhlenberg,W 1-0,75,09/28/2024,Muhlenberg,home,W,1,0,False
+10/02/2024,@ McDaniel,L 0-1,104,10/02/2024,McDaniel,away,L,0,1,False
+10/05/2024,@ Haverford,L 2-3,115,10/05/2024,Haverford,away,L,2,3,False
+10/09/2024,Gettysburg,W 2-0,61,10/09/2024,Gettysburg,home,W,2,0,False
+10/16/2024,@ Franklin & Marshall,W 1-0,105,10/16/2024,Franklin & Marshall,away,W,1,0,False
+10/19/2024,Swarthmore,T 0-0,231,10/19/2024,Swarthmore,home,T,0,0,False
+10/26/2024,Ursinus,W 2-1,146,10/26/2024,Ursinus,home,W,2,1,False
+10/30/2024,@ Susquehanna,T 0-0,131,10/30/2024,Susquehanna,away,T,0,0,False
+11/02/2024,@ Bryn Mawr,W 2-1,130,11/02/2024,Bryn Mawr,away,W,2,1,False
+11/05/2024,#5 Swarthmore Centennial Women's Soccer Championship,W 2-1 (2 OT),231,11/05/2024,Swarthmore,home,W,2,1,True
+11/08/2024,@ #1 Johns Hopkins Centennial Women's Soccer Championship,L 0-3,203,11/08/2024,Johns Hopkins,away,L,0,3,False

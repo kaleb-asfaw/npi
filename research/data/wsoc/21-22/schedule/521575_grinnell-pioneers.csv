@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Dubuque,L 0-1,162,09/01/2021,Dubuque,away,L,0,1,False
+09/08/2021,Coe,W 1-0,72,09/08/2021,Coe,home,W,1,0,False
+09/11/2021,@ Carleton,L 0-3,147,09/11/2021,Carleton,away,L,0,3,False
+09/12/2021,Wis.-Oshkosh,L 0-1,46,09/12/2021,Wis.-Oshkosh,home,L,0,1,False
+09/15/2021,Simpson,L 2-5,93,09/15/2021,Simpson,home,L,2,5,False
+09/18/2021,@ Luther,L 0-1,98,09/18/2021,Luther,away,L,0,1,False
+09/22/2021,Wis.-Whitewater,L 0-4,94,09/22/2021,Wis.-Whitewater,home,L,0,4,False
+09/25/2021,Illinois Col.,W 8-0,75,09/25/2021,Illinois Col.,home,W,8,0,False
+09/28/2021,@ Knox,L 0-2,40,09/28/2021,Knox,away,L,0,2,False
+10/03/2021,Wartburg,L 0-3,195,10/03/2021,Wartburg,home,L,0,3,False
+10/05/2021,@ Cornell College,T 1-1 (2 OT),50,10/05/2021,Cornell College,away,T,1,1,True
+10/09/2021,@ Beloit,T 0-0 (2 OT),200,10/09/2021,Beloit,away,T,0,0,True
+10/12/2021,Monmouth (IL),L 2-3 (2 OT),103,10/12/2021,Monmouth (IL),home,L,2,3,True
+10/16/2021,Lawrence,L 0-1,64,10/16/2021,Lawrence,home,L,0,1,False
+10/19/2021,@ Macalester,L 0-2,287,10/19/2021,Macalester,away,L,0,2,False
+10/23/2021,Ripon,W 4-0,121,10/23/2021,Ripon,home,W,4,0,False
+10/30/2021,@ Lake Forest,L 0-2,147,10/30/2021,Lake Forest,away,L,0,2,False

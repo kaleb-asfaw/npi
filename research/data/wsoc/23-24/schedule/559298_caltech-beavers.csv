@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Linfield,T 1-1,31,09/01/2023,Linfield,home,T,1,1,False
+09/08/2023,Texas Lutheran,L 1-2,55,09/08/2023,Texas Lutheran,home,L,1,2,False
+09/10/2023,Lewis & Clark,L 2-3,42,09/10/2023,Lewis & Clark,home,L,2,3,False
+09/13/2023,@ Occidental,L 1-2,212,09/13/2023,Occidental,away,L,1,2,False
+09/16/2023,@ Pomona-Pitzer,L 0-6,117,09/16/2023,Pomona-Pitzer,away,L,0,6,False
+09/23/2023,@ La Verne,L 0-2,89,09/23/2023,La Verne,away,L,0,2,False
+09/27/2023,Whittier,L 2-4,52,09/27/2023,Whittier,home,L,2,4,False
+09/30/2023,Cal Lutheran,L 0-3,41,09/30/2023,Cal Lutheran,home,L,0,3,False
+10/04/2023,@ Redlands,L 0-3,82,10/04/2023,Redlands,away,L,0,3,False
+10/07/2023,CMS,L 0-4,51,10/07/2023,CMS,home,L,0,4,False
+10/11/2023,@ Chapman,L 1-4,60,10/11/2023,Chapman,away,L,1,4,False
+10/14/2023,@ Whittier,L 0-2,150,10/14/2023,Whittier,away,L,0,2,False
+10/18/2023,Redlands,T 0-0,52,10/18/2023,Redlands,home,T,0,0,False
+10/21/2023,Pomona-Pitzer,L 0-1,51,10/21/2023,Pomona-Pitzer,home,L,0,1,False
+10/28/2023,Occidental,T 2-2,121,10/28/2023,Occidental,home,T,2,2,False

@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/07/2021,@ Union (NY),W 2-0,113,09/07/2021,Union (NY),away,W,2,0,False
+09/11/2021,Wesleyan (CT),L 0-2,75,09/11/2021,Wesleyan (CT),home,L,0,2,False
+09/12/2021,@ Wheaton (MA),W 1-0,0,09/12/2021,Wheaton (MA),away,W,1,0,False
+09/15/2021,Plattsburgh St.,W 3-0,33,09/15/2021,Plattsburgh St.,home,W,3,0,False
+09/18/2021,Bowdoin,W 2-1,150,09/18/2021,Bowdoin,home,W,2,1,False
+09/21/2021,VTSU Castleton,W 2-0,30,09/21/2021,VTSU Castleton,home,W,2,0,False
+09/25/2021,@ Hamilton,L 2-3 (1 OT),110,09/25/2021,Hamilton,away,L,2,3,True
+09/26/2021,St. Lawrence,W 2-0,85,09/26/2021,St. Lawrence,home,W,2,0,False
+10/02/2021,@ Connecticut Col.,L 0-2,"1,500",10/02/2021,Connecticut Col.,away,L,0,2,False
+10/03/2021,Amherst,T 0-0 (2 OT),104,10/03/2021,Amherst,home,T,0,0,True
+10/09/2021,Bates,W 2-0,250,10/09/2021,Bates,home,W,2,0,False
+10/10/2021,Tufts,W 2-1 (1 OT),233,10/10/2021,Tufts,home,W,2,1,True
+10/16/2021,@ Colby,W 2-1 (2 OT),0,10/16/2021,Colby,away,W,2,1,True
+10/23/2021,@ Trinity (CT),W 1-0,100,10/23/2021,Trinity (CT),away,W,1,0,False
+10/26/2021,@ Williams,W 2-1,0,10/26/2021,Williams,away,W,2,1,False
+10/30/2021,#5 Connecticut Col. NESCAC WSOC Championship,W 2-1,128,10/30/2021,Connecticut Col.,home,W,2,1,False
+11/06/2021,@ #1 Amherst NESCAC WSOC Championship,T 2-2 (2 OT),200,11/06/2021,Amherst,away,T,2,2,True
+11/07/2021,"#2 Wesleyan (CT) @Amherst, Mass. (NESCAC WSOC Championship)",T 1-1 (2 OT),200,11/07/2021,Wesleyan (CT),neutral,T,1,1,True
+11/13/2021,"Lynchburg @Dallas, PA (NCAA Division III Women's Soccer Championship)",W 3-2,150,11/13/2021,Lynchburg,neutral,W,3,2,False
+11/14/2021,@ Misericordia NCAA Division III Women's Soccer Championship,L 0-3,140,11/14/2021,Misericordia,away,L,0,3,False

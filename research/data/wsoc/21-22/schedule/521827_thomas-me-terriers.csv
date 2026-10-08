@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Southern Me.,L 0-5,144,09/01/2021,Southern Me.,away,L,0,5,False
+09/03/2021,U New England,L 0-3,85,09/03/2021,U New England,home,L,0,3,False
+09/07/2021,Lesley,L 0-1,65,09/07/2021,Lesley,home,L,0,1,False
+09/12/2021,@ VTSU Lyndon,W 2-1,138,09/12/2021,VTSU Lyndon,away,W,2,1,False
+09/18/2021,Husson,L 0-3,140,09/18/2021,Husson,home,L,0,3,False
+09/21/2021,Gordon,L 0-5,47,09/21/2021,Gordon,home,L,0,5,False
+09/25/2021,@ VTSU-Johnson,W 2-0,125,09/25/2021,VTSU-Johnson,away,W,2,0,False
+09/26/2021,@ SUNY Canton,W 1-0,100,09/26/2021,SUNY Canton,away,W,1,0,False
+10/02/2021,@ Maine Maritime,L 0-2,143,10/02/2021,Maine Maritime,away,L,0,2,False
+10/05/2021,New England Col.,L 0-1,65,10/05/2021,New England Col.,home,L,0,1,False
+10/09/2021,SUNY Cobleskill,Canceled,,10/09/2021,SUNY Cobleskill,home,,,,
+10/10/2021,SUNY Delhi,L 0-1,72,10/10/2021,SUNY Delhi,home,L,0,1,False
+10/13/2021,@ Bates,L 0-5,250,10/13/2021,Bates,away,L,0,5,False
+10/16/2021,Me.-Presque Isle,L 0-1,301,10/16/2021,Me.-Presque Isle,home,L,0,1,False
+10/20/2021,Colby,L 0-4,95,10/20/2021,Colby,home,L,0,4,False
+10/23/2021,@ Me.-Farmington,W 2-1,110,10/23/2021,Me.-Farmington,away,W,2,1,False

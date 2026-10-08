@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Elizabethtown,Ppd,,09/01/2021,Elizabethtown,home,,,,
+09/02/2021,Elizabethtown,W 1-0,97,09/02/2021,Elizabethtown,home,W,1,0,False
+09/04/2021,"Adrian @Glassboro, NJ",L 1-2,126,09/04/2021,Adrian,neutral,L,1,2,False
+09/08/2021,@ Alvernia,Canceled,,09/08/2021,Alvernia,away,,,,
+09/11/2021,Washington Col.,L 0-1 (2 OT),120,09/11/2021,Washington Col.,home,L,0,1,True
+09/12/2021,N.C. Wesleyan,L 0-1 (1 OT),75,09/12/2021,N.C. Wesleyan,home,L,0,1,True
+09/18/2021,@ Montclair St.,L 0-1 (1 OT),176,09/18/2021,Montclair St.,away,L,0,1,True
+09/21/2021,@ Messiah,L 0-2,700,09/21/2021,Messiah,away,L,0,2,False
+09/25/2021,Kean,T 0-0 (2 OT),90,09/25/2021,Kean,home,T,0,0,True
+09/29/2021,@ Stockton,L 1-3,100,09/29/2021,Stockton,away,L,1,3,False
+10/02/2021,Wm. Paterson,W 2-1,85,10/02/2021,Wm. Paterson,home,W,2,1,False
+10/06/2021,@ Goucher,W 1-0,123,10/06/2021,Goucher,away,W,1,0,False
+10/09/2021,@ Ramapo,W 2-1,75,10/09/2021,Ramapo,away,W,2,1,False
+10/13/2021,TCNJ,L 0-1,100,10/13/2021,TCNJ,home,L,0,1,False
+10/16/2021,@ New Jersey City,W 3-0,188,10/16/2021,New Jersey City,away,W,3,0,False
+10/20/2021,Ursinus,T 0-0 (2 OT),150,10/20/2021,Ursinus,home,T,0,0,True
+10/23/2021,Rutgers-Newark,L 1-2 (1 OT),85,10/23/2021,Rutgers-Newark,home,L,1,2,True
+10/27/2021,@ Rowan,L 2-3,248,10/27/2021,Rowan,away,L,2,3,False
+10/30/2021,@ #3 Rowan NJAC WSOC Championship,L 0-1,127,10/30/2021,Rowan,away,L,0,1,False

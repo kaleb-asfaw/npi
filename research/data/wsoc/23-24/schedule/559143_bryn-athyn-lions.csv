@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Albright,W 2-0,75,09/01/2023,Albright,home,W,2,0,False
+09/07/2023,Centenary (NJ),W 3-2,50,09/07/2023,Centenary (NJ),home,W,3,2,False
+09/09/2023,@ Gwynedd Mercy,W 4-1,73,09/09/2023,Gwynedd Mercy,away,W,4,1,False
+09/16/2023,Rutgers-Camden,L 0-4,125,09/16/2023,Rutgers-Camden,home,L,0,4,False
+09/23/2023,@ Neumann,Ppd,,09/23/2023,Neumann,away,,,,
+09/26/2023,Valley Forge,W 9-0,100,09/26/2023,Valley Forge,home,W,9,0,False
+09/26/2023,@ Valley Forge,Canceled,,09/26/2023,Valley Forge,away,,,,
+09/28/2023,Cabrini,L 0-1,100,09/28/2023,Cabrini,home,L,0,1,False
+09/30/2023,@ Notre Dame (MD),W 7-1,193,09/30/2023,Notre Dame (MD),away,W,7,1,False
+10/04/2023,@ Rosemont,W 3-0,125,10/04/2023,Rosemont,away,W,3,0,False
+10/07/2023,Keystone,W 8-0,150,10/07/2023,Keystone,home,W,8,0,False
+10/10/2023,@ Cedar Crest,T 0-0,71,10/10/2023,Cedar Crest,away,T,0,0,False
+10/14/2023,Clarks Summit,W 10-0,200,10/14/2023,Clarks Summit,home,W,10,0,False
+10/18/2023,@ Cairn,W 4-1,100,10/18/2023,Cairn,away,W,4,1,False
+10/21/2023,Wilson,W 3-1,200,10/21/2023,Wilson,home,W,3,1,False
+10/24/2023,Saint Elizabeth,W 5-0,100,10/24/2023,Saint Elizabeth,home,W,5,0,False
+10/31/2023,#5 Cedar Crest United East Women's Soccer Championship,W 1-0 (2 OT),200,10/31/2023,Cedar Crest,home,W,1,0,True
+11/02/2023,#3 Cairn United East Women's Soccer Championship,W 2-0,400,11/02/2023,Cairn,home,W,2,0,False
+11/05/2023,@ #1 Penn St.-Berks United East Women's Soccer Championship,L 0-3,213,11/05/2023,Penn St.-Berks,away,L,0,3,False

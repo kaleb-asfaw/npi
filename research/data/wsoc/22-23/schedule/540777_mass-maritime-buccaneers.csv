@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2022,@ Dean,T 1-1,150,09/03/2022,Dean,away,T,1,1,False
+09/05/2022,Me.-Presque Isle,L 0-2,119,09/05/2022,Me.-Presque Isle,home,L,0,2,False
+09/08/2022,Mitchell,T 0-0,178,09/08/2022,Mitchell,home,T,0,0,False
+09/17/2022,@ Fitchburg St.,L 0-2,100,09/17/2022,Fitchburg St.,away,L,0,2,False
+09/21/2022,Rhode Island Col.,L 0-2,101,09/21/2022,Rhode Island Col.,home,L,0,2,False
+09/24/2022,Salem St.,L 0-1,119,09/24/2022,Salem St.,home,L,0,1,False
+09/28/2022,@ Eastern Nazarene,W 3-0,124,09/28/2022,Eastern Nazarene,away,W,3,0,False
+10/01/2022,@ MCLA,T 1-1,168,10/01/2022,MCLA,away,T,1,1,False
+10/07/2022,Westfield St.,L 0-3,119,10/07/2022,Westfield St.,home,L,0,3,False
+10/10/2022,Anna Maria,L 0-1,107,10/10/2022,Anna Maria,home,L,0,1,False
+10/14/2022,Framingham St.,L 0-1,0,10/14/2022,Framingham St.,home,L,0,1,False
+10/19/2022,Fisher,W 1-0,0,10/19/2022,Fisher,home,W,1,0,False
+10/22/2022,@ Bridgewater St.,L 0-1,250,10/22/2022,Bridgewater St.,away,L,0,1,False
+10/24/2022,@ Rivier,Canceled,,10/24/2022,Rivier,away,,,,
+10/28/2022,Worcester St.,L 1-4,64,10/28/2022,Worcester St.,home,L,1,4,False

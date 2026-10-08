@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ SUNY Geneseo,W 2-0,215,09/01/2022,SUNY Geneseo,away,W,2,0,False
+09/03/2022,@ Cortland,T 1-1,151,09/03/2022,Cortland,away,T,1,1,False
+09/07/2022,@ SUNY Brockport,W 7-1,0,09/07/2022,SUNY Brockport,away,W,7,1,False
+09/10/2022,Alfred,W 5-1,167,09/10/2022,Alfred,home,W,5,1,False
+09/14/2022,@ St. John Fisher,T 0-0,100,09/14/2022,St. John Fisher,away,T,0,0,False
+09/17/2022,William Smith,T 0-0,175,09/17/2022,William Smith,home,T,0,0,False
+09/21/2022,Keuka,W 5-0,142,09/21/2022,Keuka,home,W,5,0,False
+09/24/2022,@ York (PA),L 0-1,280,09/24/2022,York (PA),away,L,0,1,False
+09/27/2022,Houghton,W 5-0,99,09/27/2022,Houghton,home,W,5,0,False
+10/02/2022,UChicago,T 0-0,119,10/02/2022,UChicago,home,T,0,0,False
+10/09/2022,@ WashU,L 0-2,558,10/09/2022,WashU,away,L,0,2,False
+10/14/2022,Brandeis,W 1-0,134,10/14/2022,Brandeis,home,W,1,0,False
+10/16/2022,NYU,W 1-0,163,10/16/2022,NYU,home,W,1,0,False
+10/20/2022,Cazenovia,Canceled,,10/20/2022,Cazenovia,home,,,,
+10/28/2022,@ CWRU,T 2-2,200,10/28/2022,CWRU,away,T,2,2,False
+10/30/2022,@ Carnegie Mellon,L 0-1,285,10/30/2022,Carnegie Mellon,away,L,0,1,False
+11/05/2022,@ Emory,L 2-3,315,11/05/2022,Emory,away,L,2,3,False

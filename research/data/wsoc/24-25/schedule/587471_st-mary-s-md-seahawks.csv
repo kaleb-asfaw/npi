@@ -1,0 +1,24 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Greensboro,W 4-1,750,08/30/2024,Greensboro,home,W,4,1,False
+08/31/2024,Rutgers-Camden,W 1-0,234,08/31/2024,Rutgers-Camden,home,W,1,0,False
+09/04/2024,Hood,W 1-0,227,09/04/2024,Hood,home,W,1,0,False
+09/07/2024,"McDaniel @Salisbury, MD",T 1-1,140,09/07/2024,McDaniel,neutral,T,1,1,False
+09/08/2024,"Methodist @Salisbury, MD",W 2-0,79,09/08/2024,Methodist,neutral,W,2,0,False
+09/11/2024,Stevenson,W 2-0,106,09/11/2024,Stevenson,home,W,2,0,False
+09/14/2024,Randolph-Macon,L 1-2,112,09/14/2024,Randolph-Macon,home,L,1,2,False
+09/18/2024,@ Catholic,W 1-0,129,09/18/2024,Catholic,away,W,1,0,False
+09/21/2024,Elizabethtown,W 1-0,104,09/21/2024,Elizabethtown,home,W,1,0,False
+09/25/2024,@ Marymount (VA),W 1-0,215,09/25/2024,Marymount (VA),away,W,1,0,False
+09/28/2024,@ Wilson,W 3-0,150,09/28/2024,Wilson,away,W,3,0,False
+10/01/2024,Mary Washington,T 0-0,92,10/01/2024,Mary Washington,home,T,0,0,False
+10/02/2024,@ Valley Forge,W 10-0,20,10/02/2024,Valley Forge,away,W,10,0,False
+10/05/2024,Lancaster Bible,W 2-0,188,10/05/2024,Lancaster Bible,home,W,2,0,False
+10/12/2024,@ Penn St. Brandywine,W 8-0,90,10/12/2024,Penn St. Brandywine,away,W,8,0,False
+10/16/2024,Notre Dame (MD),W 7-0,132,10/16/2024,Notre Dame (MD),home,W,7,0,False
+10/19/2024,@ Penn St. Harrisburg,T 0-0,65,10/19/2024,Penn St. Harrisburg,away,T,0,0,False
+10/22/2024,Rosemont,W 6-0,108,10/22/2024,Rosemont,home,W,6,0,False
+10/26/2024,Saint Elizabeth,W 10-0,149,10/26/2024,Saint Elizabeth,home,W,10,0,False
+11/02/2024,#6 Lancaster Bible United East WSOC Championship,W 2-1 (1 OT),287,11/02/2024,Lancaster Bible,home,W,2,1,True
+11/06/2024,@ #2 Penn College United East WSOC Championship,W 2-0,216,11/06/2024,Penn College,away,W,2,0,False
+11/09/2024,@ #1 Penn St. Harrisburg United East WSOC Championship,T 0-0 (2 OT),255,11/09/2024,Penn St. Harrisburg,away,T,0,0,True
+11/16/2024,"Vassar @Newport News, VA (NCAA Division III Women's Soccer Championship)",L 0-1,216,11/16/2024,Vassar,neutral,L,0,1,False

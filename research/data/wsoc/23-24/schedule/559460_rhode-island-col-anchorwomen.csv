@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Me.-Farmington,T 0-0,575,09/01/2023,Me.-Farmington,home,T,0,0,False
+09/03/2023,@ Dean,W 3-0,97,09/03/2023,Dean,away,W,3,0,False
+09/06/2023,Salve Regina,L 1-2,255,09/06/2023,Salve Regina,home,L,1,2,False
+09/14/2023,@ Curry,W 1-0,184,09/14/2023,Curry,away,W,1,0,False
+09/16/2023,VTSU Castleton,W 1-0,225,09/16/2023,VTSU Castleton,home,W,1,0,False
+09/18/2023,@ Mount Holyoke,W 4-0,30,09/18/2023,Mount Holyoke,away,W,4,0,False
+09/20/2023,Mass. Maritime,W 2-1,225,09/20/2023,Mass. Maritime,home,W,2,1,False
+09/23/2023,@ Plymouth St.,W 3-1,127,09/23/2023,Plymouth St.,away,W,3,1,False
+09/27/2023,@ Eastern Conn. St.,W 2-1,100,09/27/2023,Eastern Conn. St.,away,W,2,1,False
+09/30/2023,UMass Boston,L 1-2,215,09/30/2023,UMass Boston,home,L,1,2,False
+10/04/2023,@ Wentworth,L 0-1,203,10/04/2023,Wentworth,away,L,0,1,False
+10/07/2023,@ Southern Me.,L 0-3,124,10/07/2023,Southern Me.,away,L,0,3,False
+10/11/2023,UMass Dartmouth,T 0-0,225,10/11/2023,UMass Dartmouth,home,T,0,0,False
+10/14/2023,@ Amherst,L 0-8,50,10/14/2023,Amherst,away,L,0,8,False
+10/18/2023,Lesley,L 1-2,165,10/18/2023,Lesley,home,L,1,2,False
+10/21/2023,Keene St.,T 1-1,200,10/21/2023,Keene St.,home,T,1,1,False
+10/28/2023,@ WestConn,L 0-5,400,10/28/2023,WestConn,away,L,0,5,False
+10/31/2023,@ #4 UMass Boston Little East Women's Soccer Championship,L 1-2,100,10/31/2023,UMass Boston,away,L,1,2,False

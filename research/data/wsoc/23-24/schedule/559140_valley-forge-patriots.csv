@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Penn St.-Schuylkill,L 0-7,40,09/01/2023,Penn St.-Schuylkill,home,L,0,7,False
+09/09/2023,@ Gallaudet,L 0-4,26,09/09/2023,Gallaudet,away,L,0,4,False
+09/12/2023,Brooklyn,L 0-3,20,09/12/2023,Brooklyn,home,L,0,3,False
+09/20/2023,Gwynedd Mercy,L 0-7,25,09/20/2023,Gwynedd Mercy,home,L,0,7,False
+09/23/2023,Lehman,Ppd,,09/23/2023,Lehman,home,,,,
+09/26/2023,@ Bryn Athyn,L 0-9,100,09/26/2023,Bryn Athyn,away,L,0,9,False
+09/26/2023,Bryn Athyn,Canceled,,09/26/2023,Bryn Athyn,home,,,,
+09/30/2023,Wilson,L 0-7,25,09/30/2023,Wilson,home,L,0,7,False
+10/04/2023,Cairn,L 0-4,25,10/04/2023,Cairn,home,L,0,4,False
+10/07/2023,@ Cedar Crest,L 0-7,86,10/07/2023,Cedar Crest,away,L,0,7,False
+10/10/2023,@ Keystone,L 0-7,80,10/10/2023,Keystone,away,L,0,7,False
+10/14/2023,Notre Dame (MD),L 0-7,20,10/14/2023,Notre Dame (MD),home,L,0,7,False
+10/18/2023,Saint Elizabeth,L 0-9,25,10/18/2023,Saint Elizabeth,home,L,0,9,False
+10/21/2023,@ Rosemont,L 0-5,250,10/21/2023,Rosemont,away,L,0,5,False
+10/24/2023,@ Clarks Summit,L 0-10,35,10/24/2023,Clarks Summit,away,L,0,10,False
+10/27/2023,York (NY),W 2-0,20,10/27/2023,York (NY),home,W,2,0,False

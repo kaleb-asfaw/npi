@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/27/2024,@ Navy,L 0-8 *,271,08/27/2024,Navy,away,L,0,8,False
+08/30/2024,East. Mennonite,W 1-0,190,08/30/2024,East. Mennonite,home,W,1,0,False
+09/01/2024,Mary Baldwin,W 1-0,170,09/01/2024,Mary Baldwin,home,W,1,0,False
+09/03/2024,@ Mount Aloysius,T 0-0,68,09/03/2024,Mount Aloysius,away,T,0,0,False
+09/07/2024,Immaculata,W 2-0,175,09/07/2024,Immaculata,home,W,2,0,False
+09/11/2024,@ Penn St.-Altoona,W 3-0,78,09/11/2024,Penn St.-Altoona,away,W,3,0,False
+09/14/2024,@ Cairn,W 3-2,150,09/14/2024,Cairn,away,W,3,2,False
+09/17/2024,@ Hood,T 0-0,114,09/17/2024,Hood,away,T,0,0,False
+09/21/2024,Gwynedd Mercy,W 3-0,225,09/21/2024,Gwynedd Mercy,home,W,3,0,False
+09/25/2024,Penn St.-Schuylkill,W 5-0,175,09/25/2024,Penn St.-Schuylkill,home,W,5,0,False
+09/28/2024,St. Mary's (MD),L 0-3,150,09/28/2024,St. Mary's (MD),home,L,0,3,False
+10/02/2024,Penn St. Harrisburg,L 0-5,150,10/02/2024,Penn St. Harrisburg,home,L,0,5,False
+10/05/2024,@ Bryn Athyn,W 3-0,200,10/05/2024,Bryn Athyn,away,W,3,0,False
+10/08/2024,Keystone,W 14-0,75,10/08/2024,Keystone,home,W,14,0,False
+10/11/2024,Penn St.-Mont Alto,Canceled,,10/11/2024,Penn St.-Mont Alto,home,,,,
+10/16/2024,@ Penn College,L 0-6,0,10/16/2024,Penn College,away,L,0,6,False
+10/19/2024,Saint Elizabeth,W 8-0,105,10/19/2024,Saint Elizabeth,home,W,8,0,False
+10/22/2024,@ Notre Dame (MD),W 5-0,50,10/22/2024,Notre Dame (MD),away,W,5,0,False
+10/26/2024,@ Rosemont,W 3-0,130,10/26/2024,Rosemont,away,W,3,0,False
+10/29/2024,#10 Cedar Crest United East WSOC Championship,W 1-0 (2 OT),100,10/29/2024,Cedar Crest,home,W,1,0,True
+11/02/2024,@ #2 Penn College United East WSOC Championship,L 1-5,250,11/02/2024,Penn College,away,L,1,5,False

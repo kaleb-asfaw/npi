@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Hartwick,T 1-1,322,08/30/2024,Hartwick,away,T,1,1,False
+09/07/2024,Marywood,L 0-1,130,09/07/2024,Marywood,home,L,0,1,False
+09/08/2024,Susquehanna,L 0-2,150,09/08/2024,Susquehanna,home,L,0,2,False
+09/14/2024,Union (NY),L 0-3,207,09/14/2024,Union (NY),home,L,0,3,False
+09/18/2024,@ Vassar,L 1-2,73,09/18/2024,Vassar,away,L,1,2,False
+09/22/2024,@ Trinity (CT),L 1-4,194,09/22/2024,Trinity (CT),away,L,1,4,False
+09/28/2024,@ Oswego St.,W 2-0,145,09/28/2024,Oswego St.,away,W,2,0,False
+10/02/2024,@ Cortland,L 1-2,83,10/02/2024,Cortland,away,L,1,2,False
+10/05/2024,@ SUNY Potsdam,W 1-0,186,10/05/2024,SUNY Potsdam,away,W,1,0,False
+10/09/2024,Plattsburgh St.,W 1-0,50,10/09/2024,Plattsburgh St.,home,W,1,0,False
+10/12/2024,SUNY Morrisville,W 4-0,252,10/12/2024,SUNY Morrisville,home,W,4,0,False
+10/16/2024,Buffalo St.,L 0-1,128,10/16/2024,Buffalo St.,home,L,0,1,False
+10/19/2024,@ SUNY Canton,W 2-0,117,10/19/2024,SUNY Canton,away,W,2,0,False
+10/23/2024,SUNY New Paltz,L 0-3,119,10/23/2024,SUNY New Paltz,home,L,0,3,False
+10/26/2024,@ Fredonia,L 0-2,246,10/26/2024,Fredonia,away,L,0,2,False
+11/02/2024,@ #3 Oswego St. SUNYAC Women's Soccer Championship,W 1-0,142,11/02/2024,Oswego St.,away,W,1,0,False
+11/06/2024,@ #2 Cortland SUNYAC Women's Soccer Championship,L 1-2,163,11/06/2024,Cortland,away,L,1,2,False

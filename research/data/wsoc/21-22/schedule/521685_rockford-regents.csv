@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2021,@ North Park,L 0-2,106,09/03/2021,North Park,away,L,0,2,False
+09/09/2021,Eureka,W 3-2 (1 OT),40,09/09/2021,Eureka,home,W,3,2,True
+09/12/2021,@ Beloit,L 0-3,92,09/12/2021,Beloit,away,L,0,3,False
+09/15/2021,Alverno,W 8-0,25,09/15/2021,Alverno,home,W,8,0,False
+09/18/2021,Marian (WI),L 1-5,30,09/18/2021,Marian (WI),home,L,1,5,False
+09/22/2021,Edgewood,L 0-3,57,09/22/2021,Edgewood,home,L,0,3,False
+09/25/2021,@ MSOE,L 0-12,187,09/25/2021,MSOE,away,L,0,12,False
+09/29/2021,Dominican (IL),L 0-3,47,09/29/2021,Dominican (IL),home,L,0,3,False
+10/02/2021,Concordia Wisconsin,L 0-5,25,10/02/2021,Concordia Wisconsin,home,L,0,5,False
+10/06/2021,@ Concordia Chicago,L 1-2,75,10/06/2021,Concordia Chicago,away,L,1,2,False
+10/09/2021,@ Lakeland,W 1-0 (1 OT),112,10/09/2021,Lakeland,away,W,1,0,True
+10/13/2021,@ Benedictine (IL),L 0-5,53,10/13/2021,Benedictine (IL),away,L,0,5,False
+10/16/2021,St. Norbert,L 0-8,45,10/16/2021,St. Norbert,home,L,0,8,False
+10/20/2021,Aurora,L 1-3,55,10/20/2021,Aurora,home,L,1,3,False
+10/23/2021,@ Wis. Lutheran,L 0-5,182,10/23/2021,Wis. Lutheran,away,L,0,5,False
+10/27/2021,@ Illinois Tech,L 0-11,30,10/27/2021,Illinois Tech,away,L,0,11,False

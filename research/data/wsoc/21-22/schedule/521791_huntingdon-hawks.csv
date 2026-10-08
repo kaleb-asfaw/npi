@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Birmingham-So.,L 0-2,178,09/01/2021,Birmingham-So.,away,L,0,2,False
+09/11/2021,@ Belhaven,W 2-1,43,09/11/2021,Belhaven,away,W,2,1,False
+09/12/2021,Oglethorpe,W 2-0,0,09/12/2021,Oglethorpe,home,W,2,0,False
+09/15/2021,Rhodes,L 1-2 (2 OT),0,09/15/2021,Rhodes,home,L,1,2,True
+09/18/2021,@ Hendrix,W 1-0,270,09/18/2021,Hendrix,away,W,1,0,False
+09/22/2021,@ MUW,W 3-0,73,09/22/2021,MUW,away,W,3,0,False
+09/25/2021,Brevard,W 1-0,40,09/25/2021,Brevard,home,W,1,0,False
+09/27/2021,@ Sewanee,L 0-3,54,09/27/2021,Sewanee,away,L,0,3,False
+09/29/2021,Berry,L 0-1,0,09/29/2021,Berry,home,L,0,1,False
+10/02/2021,@ Berea,W 4-2,100,10/02/2021,Berea,away,W,4,2,False
+10/03/2021,@ Maryville (TN),L 1-3,77,10/03/2021,Maryville (TN),away,L,1,3,False
+10/07/2021,LaGrange,T 2-2 (2 OT),0,10/07/2021,LaGrange,home,T,2,2,True
+10/09/2021,@ Wesleyan (GA),W 4-1,34,10/09/2021,Wesleyan (GA),away,W,4,1,False
+10/12/2021,@ Agnes Scott,W 6-0,30,10/12/2021,Agnes Scott,away,W,6,0,False
+10/16/2021,Piedmont,L 2-3 (1 OT),38,10/16/2021,Piedmont,home,L,2,3,True
+10/17/2021,Asbury,L 1-3,150,10/17/2021,Asbury,home,L,1,3,False
+10/23/2021,Covenant,L 0-2,75,10/23/2021,Covenant,home,L,0,2,False
+10/26/2021,@ Brevard,W 1-0,118,10/26/2021,Brevard,away,W,1,0,False
+10/30/2021,@ #1 Methodist USA South WSOC Championship,L 0-2,187,10/30/2021,Methodist,away,L,0,2,False

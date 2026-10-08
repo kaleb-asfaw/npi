@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Rhode Island Col.,W 4-1,0,09/01/2021,Rhode Island Col.,home,W,4,1,False
+09/04/2021,@ Wellesley,L 0-2,75,09/04/2021,Wellesley,away,L,0,2,False
+09/05/2021,Regis (MA),Ppd,,09/05/2021,Regis (MA),home,,,,
+09/08/2021,Simmons,W 3-0,78,09/08/2021,Simmons,home,W,3,0,False
+09/11/2021,@ Clark (MA),L 0-1,75,09/11/2021,Clark (MA),away,L,0,1,False
+09/14/2021,UMass Dartmouth,W 3-0,135,09/14/2021,UMass Dartmouth,home,W,3,0,False
+09/18/2021,@ Endicott,L 0-2,300,09/18/2021,Endicott,away,L,0,2,False
+09/23/2021,@ Worcester St.,L 0-2,152,09/23/2021,Worcester St.,away,L,0,2,False
+09/25/2021,Roger Williams,L 1-6,133,09/25/2021,Roger Williams,home,L,1,6,False
+09/26/2021,Mitchell,W 6-0,135,09/26/2021,Mitchell,home,W,6,0,False
+10/02/2021,@ Salve Regina,L 0-3,174,10/02/2021,Salve Regina,away,L,0,3,False
+10/04/2021,Keene St.,W 3-2,39,10/04/2021,Keene St.,home,W,3,2,False
+10/06/2021,@ Mass. Maritime,W 2-0,156,10/06/2021,Mass. Maritime,away,W,2,0,False
+10/09/2021,@ Western New Eng.,L 0-6,173,10/09/2021,Western New Eng.,away,L,0,6,False
+10/12/2021,Wentworth,W 2-0,0,10/12/2021,Wentworth,home,W,2,0,False
+10/16/2021,U New England,L 0-2,150,10/16/2021,U New England,home,L,0,2,False
+10/19/2021,@ Nichols,W 2-0,110,10/19/2021,Nichols,away,W,2,0,False
+10/23/2021,@ Suffolk,L 0-1,252,10/23/2021,Suffolk,away,L,0,1,False
+10/27/2021,Gordon,T 0-0 (2 OT),45,10/27/2021,Gordon,home,T,0,0,True
+10/30/2021,@ #1 Endicott CCC WSOC Championship,L 0-3,175,10/30/2021,Endicott,away,L,0,3,False

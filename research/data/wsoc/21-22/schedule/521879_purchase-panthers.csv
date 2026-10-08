@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/08/2021,Centenary (NJ),Ppd,,09/08/2021,Centenary (NJ),home,,,,
+09/15/2021,@ Lehman,L 0-1,1,09/15/2021,Lehman,away,L,0,1,False
+09/18/2021,St. Joseph's (Brkln),L 4-5 (1 OT),58,09/18/2021,St. Joseph's (Brkln),home,L,4,5,True
+09/21/2021,UMSV,L 1-6,44,09/21/2021,UMSV,home,L,1,6,False
+09/25/2021,SUNY Maritime,W 4-3,35,09/25/2021,SUNY Maritime,home,W,4,3,False
+09/29/2021,@ Brooklyn,W 5-1,5,09/29/2021,Brooklyn,away,W,5,1,False
+10/02/2021,St. Joseph's (L.I.),L 1-8,61,10/02/2021,St. Joseph's (L.I.),home,L,1,8,False
+10/04/2021,Lehman,L 1-2,15,10/04/2021,Lehman,home,L,1,2,False
+10/05/2021,@ Yeshiva,W 12-1,35,10/05/2021,Yeshiva,away,W,12,1,False
+10/09/2021,Sarah Lawrence,L 1-6,52,10/09/2021,Sarah Lawrence,home,L,1,6,False
+10/11/2021,Pratt,W 3-0,75,10/11/2021,Pratt,home,W,3,0,False
+10/16/2021,@ Old Westbury,L 0-1,65,10/16/2021,Old Westbury,away,L,0,1,False
+10/19/2021,@ Farmingdale St.,L 0-9,55,10/19/2021,Farmingdale St.,away,L,0,9,False
+10/23/2021,@ Manhattanville,L 1-8,125,10/23/2021,Manhattanville,away,L,1,8,False
+10/27/2021,Mt. St. Mary (NY),L 0-8,85,10/27/2021,Mt. St. Mary (NY),home,L,0,8,False

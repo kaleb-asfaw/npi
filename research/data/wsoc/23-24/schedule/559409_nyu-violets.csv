@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Mt. St. Mary (NY),W 7-0,143,09/01/2023,Mt. St. Mary (NY),away,W,7,0,False
+09/03/2023,Vassar,W 3-0,164,09/03/2023,Vassar,home,W,3,0,False
+09/08/2023,"Widener @Hoboken, NJ",W 4-0,124,09/08/2023,Widener,neutral,W,4,0,False
+09/10/2023,@ Stevens,W 3-0,192,09/10/2023,Stevens,away,W,3,0,False
+09/17/2023,@ St. Joseph's (L.I.),W 3-0,153,09/17/2023,St. Joseph's (L.I.),away,W,3,0,False
+09/20/2023,Wm. Paterson,W 6-0,113,09/20/2023,Wm. Paterson,home,W,6,0,False
+09/23/2023,@ Farmingdale St.,Canceled,,09/23/2023,Farmingdale St.,away,,,,
+09/27/2023,John Jay,W 14-1,103,09/27/2023,John Jay,home,W,14,1,False
+09/30/2023,CWRU,L 0-1,120,09/30/2023,CWRU,home,L,0,1,False
+10/02/2023,@ Sarah Lawrence,W 7-0,45,10/02/2023,Sarah Lawrence,away,W,7,0,False
+10/07/2023,@ UChicago,W 4-2,134,10/07/2023,UChicago,away,W,4,2,False
+10/11/2023,DeSales,W 6-0,133,10/11/2023,DeSales,home,W,6,0,False
+10/14/2023,WashU,L 0-1,87,10/14/2023,WashU,home,L,0,1,False
+10/20/2023,@ Rochester (NY),T 0-0,147,10/20/2023,Rochester (NY),away,T,0,0,False
+10/22/2023,@ Emory,W 3-2,204,10/22/2023,Emory,away,W,3,2,False
+10/29/2023,Carnegie Mellon,T 1-1,134,10/29/2023,Carnegie Mellon,home,T,1,1,False
+11/04/2023,Brandeis,W 4-1,227,11/04/2023,Brandeis,home,W,4,1,False
+11/10/2023,Southern Va. NCAA Division III Women's Soccer Championship,W 3-0,150,11/10/2023,Southern Va.,home,W,3,0,False
+11/11/2023,@ Carnegie Mellon NCAA Division III Women's Soccer Championship,W 2-0,135,11/11/2023,Carnegie Mellon,away,W,2,0,False
+11/18/2023,@ Rochester (NY) NCAA Division III Women's Soccer Championship,L 1-2,289,11/18/2023,Rochester (NY),away,L,1,2,False

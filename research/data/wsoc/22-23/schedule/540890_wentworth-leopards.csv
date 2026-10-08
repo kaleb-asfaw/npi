@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Lesley,W 2-1,242,09/01/2022,Lesley,home,W,2,1,False
+09/03/2022,Eastern Conn. St.,T 1-1,285,09/03/2022,Eastern Conn. St.,home,T,1,1,False
+09/06/2022,@ Emmanuel (MA),L 1-6,80,09/06/2022,Emmanuel (MA),away,L,1,6,False
+09/08/2022,Caltech,L 0-1,125,09/08/2022,Caltech,home,L,0,1,False
+09/10/2022,@ Mount Holyoke,W 3-2,100,09/10/2022,Mount Holyoke,away,W,3,2,False
+09/13/2022,@ UMass Dartmouth,W 4-0,127,09/13/2022,UMass Dartmouth,away,W,4,0,False
+09/17/2022,@ Salve Regina,L 1-3,137,09/17/2022,Salve Regina,away,L,1,3,False
+09/21/2022,@ Fisher,W 1-0,20,09/21/2022,@ Fisher,home,W,1,0,False
+09/24/2022,Curry,L 1-2,283,09/24/2022,Curry,home,L,1,2,False
+09/28/2022,@ Fitchburg St.,W 4-2,80,09/28/2022,Fitchburg St.,away,W,4,2,False
+10/01/2022,@ Nichols,W 2-0,114,10/01/2022,Nichols,away,W,2,0,False
+10/05/2022,@ Rhode Island Col.,Canceled,,10/05/2022,Rhode Island Col.,away,,,,
+10/08/2022,Roger Williams,T 2-2,325,10/08/2022,Roger Williams,home,T,2,2,False
+10/11/2022,Suffolk,L 0-2,137,10/11/2022,Suffolk,home,L,0,2,False
+10/15/2022,Gordon,W 1-0,527,10/15/2022,Gordon,home,W,1,0,False
+10/19/2022,U New England,L 2-3,211,10/19/2022,U New England,home,L,2,3,False
+10/22/2022,@ Endicott,W 3-2,304,10/22/2022,Endicott,away,W,3,2,False
+10/26/2022,@ Western New Eng.,L 1-3,130,10/26/2022,Western New Eng.,away,L,1,3,False
+10/29/2022,@ #1 Western New Eng. CCC WSOC Championship,L 0-3,325,10/29/2022,Western New Eng.,away,L,0,3,False

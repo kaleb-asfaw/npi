@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ East Tex. Baptist,L 0-2,0,09/01/2022,East Tex. Baptist,away,L,0,2,False
+09/03/2022,St. Thomas (TX),L 1-2,200,09/03/2022,St. Thomas (TX),home,L,1,2,False
+09/09/2022,Sul Ross St.,L 1-3,110,09/09/2022,Sul Ross St.,home,L,1,3,False
+09/11/2022,Howard Payne,L 1-4,100,09/11/2022,Howard Payne,home,L,1,4,False
+09/13/2022,@ Belhaven,T 0-0,84,09/13/2022,Belhaven,away,T,0,0,False
+09/16/2022,@ St. Thomas (TX),L 1-2,150,09/16/2022,St. Thomas (TX),away,L,1,2,False
+09/18/2022,LeTourneau,L 1-2,100,09/18/2022,LeTourneau,home,L,1,2,False
+09/21/2022,Alcorn,L 1-3,75,09/21/2022,Alcorn,home,L,1,3,False
+09/23/2022,@ Schreiner,L 0-2,193,09/23/2022,Schreiner,away,L,0,2,False
+09/25/2022,@ Trinity (TX),L 0-3,112,09/25/2022,Trinity (TX),away,L,0,3,False
+09/30/2022,Texas Lutheran,L 0-2,150,09/30/2022,Texas Lutheran,home,L,0,2,False
+10/02/2022,Southwestern (TX),L 0-2,100,10/02/2022,Southwestern (TX),home,L,0,2,False
+10/07/2022,Austin,W 5-1,100,10/07/2022,Austin,home,W,5,1,False
+10/09/2022,Dallas,W 1-0,100,10/09/2022,Dallas,home,W,1,0,False
+10/14/2022,@ Texas Lutheran,L 2-4,115,10/14/2022,Texas Lutheran,away,L,2,4,False
+10/16/2022,@ Southwestern (TX),L 1-4,225,10/16/2022,Southwestern (TX),away,L,1,4,False
+10/21/2022,Schreiner,L 0-1,150,10/21/2022,Schreiner,home,L,0,1,False
+10/23/2022,Trinity (TX),L 0-4,150,10/23/2022,Trinity (TX),home,L,0,4,False
+10/28/2022,@ Austin,L 0-2,137,10/28/2022,Austin,away,L,0,2,False
+10/30/2022,@ Dallas,T 1-1,154,10/30/2022,Dallas,away,T,1,1,False

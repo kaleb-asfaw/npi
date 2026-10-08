@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ TCNJ,Ppd,,09/01/2021,TCNJ,away,,,,
+09/04/2021,"Shenandoah @Saint Mary's City, MD",W 2-1 (1 OT),196,09/04/2021,Shenandoah,neutral,W,2,1,True
+09/05/2021,"Marymount (VA) @Saint Mary's City, MD",W 5-0,75,09/05/2021,Marymount (VA),neutral,W,5,0,False
+09/11/2021,Methodist,L 1-2,250,09/11/2021,Methodist,home,L,1,2,False
+09/12/2021,Wash. & Lee,L 0-1,202,09/12/2021,Wash. & Lee,home,L,0,1,False
+09/15/2021,Washington Col.,W 3-1,126,09/15/2021,Washington Col.,home,W,3,1,False
+09/18/2021,@ Bridgewater (VA),L 0-2,110,09/18/2021,Bridgewater (VA),away,L,0,2,False
+09/19/2021,@ Catholic,T 3-3 (2 OT),134,09/19/2021,Catholic,away,T,3,3,True
+09/22/2021,Batten,L 0-2,101,09/22/2021,Batten,home,L,0,2,False
+09/25/2021,@ DeSales,W 2-1,150,09/25/2021,DeSales,away,W,2,1,False
+09/29/2021,St. Mary's (MD),L 0-1,100,09/29/2021,St. Mary's (MD),home,L,0,1,False
+10/02/2021,@ Stevenson,T 0-0 (2 OT),0,10/02/2021,Stevenson,away,T,0,0,True
+10/06/2021,Chris. Newport,L 0-3,100,10/06/2021,Chris. Newport,home,L,0,3,False
+10/09/2021,@ Mary Washington,L 0-3,155,10/09/2021,Mary Washington,away,L,0,3,False
+10/13/2021,@ Hood,W 1-0,112,10/13/2021,Hood,away,W,1,0,False
+10/20/2021,@ Chris. Newport,L 1-7,168,10/20/2021,Chris. Newport,away,L,1,7,False
+10/28/2021,Messiah,L 0-2,104,10/28/2021,Messiah,home,L,0,2,False
+10/30/2021,Mary Washington,L 1-2,220,10/30/2021,Mary Washington,home,L,1,2,False
+11/04/2021,#5 Finlandia Coast-To-Coast WSOC Championship,W 4-0,100,11/04/2021,Finlandia,home,W,4,0,False
+11/05/2021,#1 Chris. Newport Coast-To-Coast WSOC Championship,L 0-2,150,11/05/2021,Chris. Newport,home,L,0,2,False

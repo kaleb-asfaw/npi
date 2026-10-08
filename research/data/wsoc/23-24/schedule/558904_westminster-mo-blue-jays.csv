@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,"Hendrix @Clarksville, AR",L 0-2,145,09/01/2023,Hendrix,neutral,L,0,2,False
+09/03/2023,@ Ozarks (AR),L 0-3,145,09/03/2023,Ozarks (AR),away,L,0,3,False
+09/09/2023,Stephens College,W 3-0,75,09/09/2023,Stephens College,home,W,3,0,False
+09/12/2023,Neb. Wesleyan,W 3-2,85,09/12/2023,Neb. Wesleyan,home,W,3,2,False
+09/16/2023,@ Central (IA),L 0-3,100,09/16/2023,Central (IA),away,L,0,3,False
+09/18/2023,Simpson,L 0-2,75,09/18/2023,Simpson,home,L,0,2,False
+09/22/2023,@ Lyon,W 3-0,45,09/22/2023,Lyon,away,W,3,0,False
+09/30/2023,@ Webster,L 0-2,100,09/30/2023,Webster,away,L,0,2,False
+10/06/2023,MUW,W 1-0,75,10/06/2023,MUW,home,W,1,0,False
+10/11/2023,Greenville,L 0-2,50,10/11/2023,Greenville,home,L,0,2,False
+10/14/2023,@ Spalding,T 0-0,207,10/14/2023,Spalding,away,T,0,0,False
+10/17/2023,@ Principia,W 2-0,50,10/17/2023,Principia,away,W,2,0,False
+10/21/2023,Blackburn,W 2-0,100,10/21/2023,Blackburn,home,W,2,0,False
+10/25/2023,Fontbonne,L 1-2,150,10/25/2023,Fontbonne,home,L,1,2,False
+10/27/2023,@ Eureka,W 10-0,30,10/27/2023,Eureka,away,W,10,0,False
+10/31/2023,@ #4 Spalding SLIAC Women's Soccer Championship,L 1-2,104,10/31/2023,Spalding,away,L,1,2,False

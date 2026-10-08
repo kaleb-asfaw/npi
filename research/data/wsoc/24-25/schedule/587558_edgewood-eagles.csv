@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Monmouth (IL),T 1-1,75,08/30/2024,Monmouth (IL),away,T,1,1,False
+09/04/2024,@ Coe,W 2-1,83,09/04/2024,Coe,away,W,2,1,False
+09/07/2024,@ Earlham,W 1-0,73,09/07/2024,Earlham,away,W,1,0,False
+09/11/2024,Central (IA),W 3-2,127,09/11/2024,Central (IA),home,W,3,2,False
+09/13/2024,@ Cornell College,W 4-2,70,09/13/2024,Cornell College,away,W,4,2,False
+09/15/2024,Mount Mary,W 9-0,213,09/15/2024,Mount Mary,home,W,9,0,False
+09/18/2024,Illinois Tech,L 0-6,127,09/18/2024,Illinois Tech,home,L,0,6,False
+09/21/2024,@ MSOE,L 1-2,127,09/21/2024,MSOE,away,L,1,2,False
+09/24/2024,@ Rockford,W 2-0,34,09/24/2024,Rockford,away,W,2,0,False
+10/02/2024,Benedictine (IL),W 1-0,87,10/02/2024,Benedictine (IL),home,W,1,0,False
+10/05/2024,@ Wis. Lutheran,L 1-2,203,10/05/2024,Wis. Lutheran,away,L,1,2,False
+10/06/2024,Grinnell,W 1-0,164,10/06/2024,Grinnell,home,W,1,0,False
+10/09/2024,@ Aurora,T 2-2,243,10/09/2024,Aurora,away,T,2,2,False
+10/12/2024,Concordia Wisconsin,L 1-3,112,10/12/2024,Concordia Wisconsin,home,L,1,3,False
+10/16/2024,@ Dominican (IL),L 0-4,50,10/16/2024,Dominican (IL),away,L,0,4,False
+10/19/2024,@ Lakeland,W 1-0,158,10/19/2024,Lakeland,away,W,1,0,False
+10/23/2024,Concordia Chicago,T 0-0,86,10/23/2024,Concordia Chicago,home,T,0,0,False
+10/26/2024,Marian (WI),T 1-1,257,10/26/2024,Marian (WI),home,T,1,1,False
+10/31/2024,@ St. Norbert,T 1-1,200,10/31/2024,St. Norbert,away,T,1,1,False

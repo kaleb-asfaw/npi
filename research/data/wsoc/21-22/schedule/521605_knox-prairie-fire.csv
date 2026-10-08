@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Millikin,L 2-3,50,09/01/2021,Millikin,home,L,2,3,False
+09/04/2021,@ Illinois Tech,L 0-1,120,09/04/2021,Illinois Tech,away,L,0,1,False
+09/08/2021,@ Simpson,L 1-2 (1 OT),72,09/08/2021,Simpson,away,L,1,2,True
+09/11/2021,Hope,W 1-0,50,09/11/2021,Hope,home,W,1,0,False
+09/13/2021,@ Augustana (IL),L 0-1,60,09/13/2021,Augustana (IL),away,L,0,1,False
+09/15/2021,Rose-Hulman,T 1-1 (2 OT),100,09/15/2021,Rose-Hulman,home,T,1,1,True
+09/19/2021,North Central (IL),L 0-1,50,09/19/2021,North Central (IL),home,L,0,1,False
+09/22/2021,@ Dubuque,W 3-0,165,09/22/2021,Dubuque,away,W,3,0,False
+09/25/2021,UChicago,L 0-7,50,09/25/2021,UChicago,home,L,0,7,False
+09/28/2021,Grinnell,W 2-0,40,09/28/2021,Grinnell,home,W,2,0,False
+10/02/2021,Beloit,W 1-0,50,10/02/2021,Beloit,home,W,1,0,False
+10/06/2021,@ Monmouth (IL),W 1-0,30,10/06/2021,Monmouth (IL),away,W,1,0,False
+10/09/2021,@ Lawrence,W 4-1,184,10/09/2021,Lawrence,away,W,4,1,False
+10/16/2021,Ripon,W 6-0,75,10/16/2021,Ripon,home,W,6,0,False
+10/19/2021,@ Cornell College,W 2-0,52,10/19/2021,Cornell College,away,W,2,0,False
+10/23/2021,Lake Forest,W 2-1 (2 OT),150,10/23/2021,Lake Forest,home,W,2,1,True
+10/26/2021,@ Illinois Col.,W 1-0,45,10/26/2021,Illinois Col.,away,W,1,0,False
+11/05/2021,#4 Lawrence Midwest Conference WSOC Tournament,W 3-0,100,11/05/2021,Lawrence,home,W,3,0,False
+11/06/2021,#3 Beloit Midwest Conference WSOC Tournament,T 0-0 (3 OT),150,11/06/2021,Beloit,home,T,0,0,True

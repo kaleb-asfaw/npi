@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Cal Lutheran,T 0-0,150,09/01/2023,Cal Lutheran,away,T,0,0,False
+09/02/2023,"La Verne @Thousand Oaks, CA",W 3-0,50,09/02/2023,La Verne,neutral,W,3,0,False
+09/08/2023,"Batten @Newport News, VA",W 2-0,101,09/08/2023,Batten,neutral,W,2,0,False
+09/09/2023,@ Chris. Newport,L 0-2,192,09/09/2023,Chris. Newport,away,L,0,2,False
+09/16/2023,Whitworth,W 2-0,75,09/16/2023,Whitworth,home,W,2,0,False
+09/17/2023,Whitman,L 1-2,100,09/17/2023,Whitman,home,L,1,2,False
+09/23/2023,@ George Fox,W 8-1,130,09/23/2023,George Fox,away,W,8,1,False
+09/24/2023,@ Linfield,W 3-0,86,09/24/2023,Linfield,away,W,3,0,False
+09/30/2023,@ Lewis & Clark,W 4-0,118,09/30/2023,Lewis & Clark,away,W,4,0,False
+10/01/2023,@ Pacific (OR),W 4-0,70,10/01/2023,Pacific (OR),away,W,4,0,False
+10/04/2023,@ Puget Sound,W 2-0,50,10/04/2023,Puget Sound,away,W,2,0,False
+10/08/2023,Willamette,W 5-1,150,10/08/2023,Willamette,home,W,5,1,False
+10/14/2023,@ Whitworth,W 3-2,250,10/14/2023,Whitworth,away,W,3,2,False
+10/15/2023,@ Whitman,L 0-1,57,10/15/2023,Whitman,away,L,0,1,False
+10/21/2023,George Fox,W 3-0,132,10/21/2023,George Fox,home,W,3,0,False
+10/22/2023,Linfield,W 4-0,125,10/22/2023,Linfield,home,W,4,0,False
+10/28/2023,Pacific (OR),W 3-0,130,10/28/2023,Pacific (OR),home,W,3,0,False
+10/29/2023,Lewis & Clark,W 2-0,152,10/29/2023,Lewis & Clark,home,W,2,0,False
+11/01/2023,Puget Sound,L 1-2,155,11/01/2023,Puget Sound,home,L,1,2,False
+11/04/2023,@ Willamette,W 2-1,125,11/04/2023,Willamette,away,W,2,1,False
+11/11/2023,@ Pomona-Pitzer NCAA Division III Women's Soccer Championship,L 0-1 (2 OT),217,11/11/2023,Pomona-Pitzer,away,L,0,1,True

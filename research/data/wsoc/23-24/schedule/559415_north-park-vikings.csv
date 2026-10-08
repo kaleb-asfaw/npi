@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Benedictine (IL),W 3-0,77,09/01/2023,Benedictine (IL),home,W,3,0,False
+09/02/2023,@ Illinois Tech,L 0-3,89,09/02/2023,Illinois Tech,away,L,0,3,False
+09/06/2023,Aurora,T 1-1,47,09/06/2023,Aurora,home,T,1,1,False
+09/09/2023,@ Central (IA),T 2-2,100,09/09/2023,Central (IA),away,T,2,2,False
+09/11/2023,Roosevelt,L 1-2,60,09/11/2023,Roosevelt,home,L,1,2,False
+09/15/2023,Kalamazoo,L 1-2,88,09/15/2023,Kalamazoo,home,L,1,2,False
+09/17/2023,@ Dominican (IL),T 1-1,100,09/17/2023,Dominican (IL),away,T,1,1,False
+09/20/2023,Lake Forest,Canceled,,09/20/2023,Lake Forest,home,,,,
+09/23/2023,Augustana (IL),L 0-2,130,09/23/2023,Augustana (IL),home,L,0,2,False
+09/30/2023,Millikin,T 0-0,71,09/30/2023,Millikin,home,T,0,0,False
+10/04/2023,@ Elmhurst,T 0-0,72,10/04/2023,Elmhurst,away,T,0,0,False
+10/08/2023,@ Wis.-Platteville,L 0-1,124,10/08/2023,Wis.-Platteville,away,L,0,1,False
+10/11/2023,@ North Central (IL),L 0-3,100,10/11/2023,North Central (IL),away,L,0,3,False
+10/14/2023,@ Ill. Wesleyan,L 0-1,56,10/14/2023,Ill. Wesleyan,away,L,0,1,False
+10/18/2023,Carthage,W 2-1,115,10/18/2023,Carthage,home,W,2,1,False
+10/21/2023,@ Wheaton (IL),L 0-1,183,10/21/2023,Wheaton (IL),away,L,0,1,False
+10/25/2023,Carroll (WI),L 0-3,57,10/25/2023,Carroll (WI),home,L,0,3,False

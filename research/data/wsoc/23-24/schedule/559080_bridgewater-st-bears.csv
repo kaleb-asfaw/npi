@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2023,@ MIT,L 1-2,105,09/02/2023,MIT,away,L,1,2,False
+09/07/2023,Suffolk,W 3-0,250,09/07/2023,Suffolk,home,W,3,0,False
+09/13/2023,@ Wheaton (MA),L 0-4,79,09/13/2023,Wheaton (MA),away,L,0,4,False
+09/16/2023,@ Worcester St.,W 1-0,65,09/16/2023,Worcester St.,away,W,1,0,False
+09/19/2023,@ Brandeis,L 1-2,125,09/19/2023,Brandeis,away,L,1,2,False
+09/22/2023,Fitchburg St.,W 2-0,125,09/22/2023,Fitchburg St.,home,W,2,0,False
+09/27/2023,Roger Williams,L 0-2,219,09/27/2023,Roger Williams,home,L,0,2,False
+09/30/2023,@ Framingham St.,W 2-0,110,09/30/2023,Framingham St.,away,W,2,0,False
+10/03/2023,@ Lesley,W 1-0,50,10/03/2023,Lesley,away,W,1,0,False
+10/07/2023,Salem St.,W 1-0,120,10/07/2023,Salem St.,home,W,1,0,False
+10/10/2023,Tufts,L 0-4,88,10/10/2023,Tufts,home,L,0,4,False
+10/14/2023,@ Mass. Maritime,W 7-0,57,10/14/2023,Mass. Maritime,away,W,7,0,False
+10/17/2023,@ UMass Dartmouth,W 2-1,84,10/17/2023,UMass Dartmouth,away,W,2,1,False
+10/21/2023,Westfield St.,W 2-1,233,10/21/2023,Westfield St.,home,W,2,1,False
+10/25/2023,@ UMass Boston,T 1-1,75,10/25/2023,UMass Boston,away,T,1,1,False
+10/28/2023,MCLA,W 3-0,125,10/28/2023,MCLA,home,W,3,0,False
+11/03/2023,#5 Fitchburg St. MASCAC Women's Soccer Championship,W 2-0,566,11/03/2023,Fitchburg St.,home,W,2,0,False
+11/05/2023,#2 Westfield St. MASCAC Women's Soccer Championship,L 1-2,450,11/05/2023,Westfield St.,home,L,1,2,False

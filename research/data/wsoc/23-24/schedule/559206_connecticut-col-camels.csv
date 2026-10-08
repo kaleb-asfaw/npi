@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/07/2023,@ Saint Joseph (CT),W 6-0,173,09/07/2023,Saint Joseph (CT),away,W,6,0,False
+09/09/2023,Tufts,L 3-4,410,09/09/2023,Tufts,home,L,3,4,False
+09/13/2023,@ Coast Guard,W 3-0,35,09/13/2023,Coast Guard,away,W,3,0,False
+09/15/2023,@ Bowdoin,L 0-1,170,09/15/2023,Bowdoin,away,L,0,1,False
+09/19/2023,Amherst,L 3-4,225,09/19/2023,Amherst,home,L,3,4,False
+09/23/2023,John Jay,W 3-1,200,09/23/2023,John Jay,home,W,3,1,False
+09/24/2023,@ JWU (Providence),W 2-0,107,09/24/2023,JWU (Providence),away,W,2,0,False
+09/30/2023,@ Hamilton,L 0-1,134,09/30/2023,Hamilton,away,L,0,1,False
+10/03/2023,@ Trinity (CT),L 0-3,200,10/03/2023,Trinity (CT),away,L,0,3,False
+10/07/2023,Williams,W 2-0,983,10/07/2023,Williams,home,W,2,0,False
+10/14/2023,Colby,W 4-0,307,10/14/2023,Colby,home,W,4,0,False
+10/15/2023,Middlebury,W 3-2,264,10/15/2023,Middlebury,home,W,3,2,False
+10/18/2023,Eastern Conn. St.,W 4-0,173,10/18/2023,Eastern Conn. St.,home,W,4,0,False
+10/21/2023,@ Bates,W 1-0,250,10/21/2023,Bates,away,W,1,0,False
+10/24/2023,@ Wesleyan (CT),T 0-0,90,10/24/2023,Wesleyan (CT),away,T,0,0,False
+10/29/2023,@ #3 Bowdoin NESCAC Women's Soccer Championship,L 0-1,117,10/29/2023,Bowdoin,away,L,0,1,False

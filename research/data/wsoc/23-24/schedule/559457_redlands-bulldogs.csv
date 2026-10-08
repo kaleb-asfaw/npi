@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Trinity (TX),L 1-6,100,09/01/2023,Trinity (TX),home,L,1,6,False
+09/03/2023,Linfield,L 0-6,55,09/03/2023,Linfield,home,L,0,6,False
+09/08/2023,@ McMurry,L 0-3,57,09/08/2023,McMurry,away,L,0,3,False
+09/09/2023,@ Hardin-Simmons,L 0-4,338,09/09/2023,Hardin-Simmons,away,L,0,4,False
+09/13/2023,Chapman,T 2-2,82,09/13/2023,Chapman,home,T,2,2,False
+09/20/2023,@ CMS,W 1-0,233,09/20/2023,CMS,away,W,1,0,False
+09/23/2023,@ Occidental,L 1-2,207,09/23/2023,Occidental,away,L,1,2,False
+09/27/2023,@ Pomona-Pitzer,L 1-3,143,09/27/2023,Pomona-Pitzer,away,L,1,3,False
+09/30/2023,Whittier,L 3-6,82,09/30/2023,Whittier,home,L,3,6,False
+10/04/2023,Caltech,W 3-0,82,10/04/2023,Caltech,home,W,3,0,False
+10/07/2023,@ Cal Lutheran,L 1-2,200,10/07/2023,Cal Lutheran,away,L,1,2,False
+10/11/2023,La Verne,L 1-2,109,10/11/2023,La Verne,home,L,1,2,False
+10/14/2023,Pomona-Pitzer,L 0-5,230,10/14/2023,Pomona-Pitzer,home,L,0,5,False
+10/18/2023,@ Caltech,T 0-0,52,10/18/2023,Caltech,away,T,0,0,False
+10/21/2023,UC Santa Cruz,L 1-4,100,10/21/2023,UC Santa Cruz,home,L,1,4,False
+10/25/2023,@ Chapman,L 0-2,106,10/25/2023,Chapman,away,L,0,2,False
+10/28/2023,CMS,L 1-2,109,10/28/2023,CMS,home,L,1,2,False

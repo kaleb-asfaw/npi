@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Lakeland,L 0-12,0,09/01/2022,Lakeland,home,L,0,12,False
+09/03/2022,Blackburn,L 0-6,14,09/03/2022,Blackburn,home,L,0,6,False
+09/06/2022,Wis. Lutheran,L 0-12,38,09/06/2022,Wis. Lutheran,home,L,0,12,False
+09/09/2022,Edgewood,L 0-8,35,09/09/2022,Edgewood,home,L,0,8,False
+09/11/2022,@ Alverno,T 0-0,19,09/11/2022,Alverno,away,T,0,0,False
+09/18/2022,Monmouth (IL),L 0-7,43,09/18/2022,Monmouth (IL),home,L,0,7,False
+09/24/2022,@ Grace Christian (MI),L 0-3,0,09/24/2022,@ Grace Christian (MI),home,L,0,3,False
+09/25/2022,@ Defiance,L 2-3,57,09/25/2022,Defiance,away,L,2,3,False
+09/29/2022,@ Maranatha Baptist,L 1-5,0,09/29/2022,Maranatha Baptist,away,L,1,5,False
+10/02/2022,Andrews (MI),L 0-1,23,10/02/2022,Andrews (MI),home,L,0,1,False
+10/07/2022,@ Andrews (MI),T 0-0,25,10/07/2022,@ Andrews (MI),home,T,0,0,False
+10/09/2022,@ Great Lake Christian,L 0-4,10,10/09/2022,@ Great Lake Christian,home,L,0,4,False
+10/12/2022,Grace Christian (MI),L 0-3,32,10/12/2022,Grace Christian (MI),home,L,0,3,False
+10/20/2022,Maranatha Baptist,T 2-2,19,10/20/2022,Maranatha Baptist,home,T,2,2,False
+10/23/2022,@ Lawrence,L 0-9,342,10/23/2022,Lawrence,away,L,0,9,False
+10/25/2022,Ripon,L 0-3,15,10/25/2022,Ripon,home,L,0,3,False
+10/28/2022,Spurgeon,T 0-0,30,10/28/2022,Spurgeon,home,T,0,0,False
+10/31/2022,Eureka,T 2-2,21,10/31/2022,Eureka,home,T,2,2,False

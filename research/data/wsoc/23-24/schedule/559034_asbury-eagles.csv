@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Hanover,L 0-5,150,09/01/2023,Hanover,home,L,0,5,False
+09/08/2023,Franklin,T 0-0,50,09/08/2023,Franklin,home,T,0,0,False
+09/13/2023,@ Bluffton,L 1-2,75,09/13/2023,Bluffton,away,L,1,2,False
+09/16/2023,Anderson (IN),L 1-2,75,09/16/2023,Anderson (IN),home,L,1,2,False
+09/20/2023,Berea,W 5-0,115,09/20/2023,Berea,home,W,5,0,False
+09/23/2023,@ Covenant,L 0-2,123,09/23/2023,Covenant,away,L,0,2,False
+09/27/2023,Bob Jones,T 2-2,60,09/27/2023,Bob Jones,home,T,2,2,False
+09/30/2023,@ DePauw,L 0-3,200,09/30/2023,DePauw,away,L,0,3,False
+10/04/2023,@ Wittenberg,T 1-1,132,10/04/2023,Wittenberg,away,T,1,1,False
+10/07/2023,Georgetown (KY),T 0-0,50,10/07/2023,Georgetown (KY),home,T,0,0,False
+10/11/2023,@ Centre,L 0-2,189,10/11/2023,Centre,away,L,0,2,False
+10/14/2023,@ Piedmont,L 0-2,156,10/14/2023,Piedmont,away,L,0,2,False
+10/19/2023,@ Maryville (TN),L 0-4,138,10/19/2023,Maryville (TN),away,L,0,4,False
+10/23/2023,Mt. St. Joseph,L 1-2,100,10/23/2023,Mt. St. Joseph,home,L,1,2,False
+10/26/2023,@ Great Lake Christian,W 2-1,0,10/26/2023,@ Great Lake Christian,home,W,2,1,False

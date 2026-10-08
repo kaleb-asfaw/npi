@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ St. Mary's (MD),T 2-2,126,09/01/2022,St. Mary's (MD),away,T,2,2,False
+09/07/2022,Washington Col.,T 0-0,143,09/07/2022,Washington Col.,home,T,0,0,False
+09/10/2022,@ Penn St. Harrisburg,L 1-3,80,09/10/2022,Penn St. Harrisburg,away,L,1,3,False
+09/12/2022,Goucher,Ppd,,09/12/2022,Goucher,home,,,,
+09/14/2022,@ Shenandoah,L 2-5,197,09/14/2022,Shenandoah,away,L,2,5,False
+09/17/2022,Juniata,W 1-0,150,09/17/2022,Juniata,home,W,1,0,False
+09/21/2022,@ Marymount (VA),W 2-0,134,09/21/2022,Marymount (VA),away,W,2,0,False
+09/24/2022,Wilkes,T 1-1,140,09/24/2022,Wilkes,home,T,1,1,False
+09/26/2022,@ Mary Washington,L 0-1,120,09/26/2022,Mary Washington,away,L,0,1,False
+10/01/2022,Alvernia,L 0-1,140,10/01/2022,Alvernia,home,L,0,1,False
+10/05/2022,@ Salisbury,L 2-3,150,10/05/2022,Salisbury,away,L,2,3,False
+10/08/2022,@ Eastern,W 2-1,273,10/08/2022,Eastern,away,W,2,1,False
+10/12/2022,Stevenson,W 2-0,258,10/12/2022,Stevenson,home,W,2,0,False
+10/15/2022,@ Lebanon Valley,T 1-1,427,10/15/2022,Lebanon Valley,away,T,1,1,False
+10/18/2022,Messiah,L 0-2,106,10/18/2022,Messiah,home,L,0,2,False
+10/22/2022,Widener,W 1-0,213,10/22/2022,Widener,home,W,1,0,False
+10/26/2022,@ York (PA),L 0-2,236,10/26/2022,York (PA),away,L,0,2,False
+10/29/2022,@ Albright,W 2-1,105,10/29/2022,Albright,away,W,2,1,False
+10/31/2022,#5 Widener MAC Commonwealth WSOC Championship,T 1-1 (3 OT),350,10/31/2022,Widener,home,T,1,1,True

@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2024,@ Lawrence,L 3-6,321,09/01/2024,Lawrence,away,L,3,6,False
+09/03/2024,Mount Mary,W 4-0,128,09/03/2024,Mount Mary,home,W,4,0,False
+09/11/2024,@ Beloit,L 0-4,32,09/11/2024,Beloit,away,L,0,4,False
+09/14/2024,Augustana (IL),L 0-2,134,09/14/2024,Augustana (IL),home,L,0,2,False
+09/18/2024,@ St. Norbert,L 0-4,134,09/18/2024,St. Norbert,away,L,0,4,False
+09/21/2024,Concordia Chicago,T 1-1,64,09/21/2024,Concordia Chicago,home,T,1,1,False
+09/25/2024,MSOE,L 0-6,48,09/25/2024,MSOE,home,L,0,6,False
+09/28/2024,@ Benedictine (IL),T 1-1,141,09/28/2024,Benedictine (IL),away,T,1,1,False
+10/02/2024,@ Dominican (IL),L 0-5,100,10/02/2024,Dominican (IL),away,L,0,5,False
+10/05/2024,Aurora,T 0-0,109,10/05/2024,Aurora,home,T,0,0,False
+10/09/2024,@ Wis. Lutheran,L 0-3,78,10/09/2024,Wis. Lutheran,away,L,0,3,False
+10/12/2024,@ Illinois Tech,L 0-5,78,10/12/2024,Illinois Tech,away,L,0,5,False
+10/19/2024,Edgewood,L 0-1,158,10/19/2024,Edgewood,home,L,0,1,False
+10/23/2024,Marian (WI),L 1-3,47,10/23/2024,Marian (WI),home,L,1,3,False
+10/27/2024,@ Rockford,W 2-1,123,10/27/2024,Rockford,away,W,2,1,False
+10/30/2024,Concordia Wisconsin,L 1-3,89,10/30/2024,Concordia Wisconsin,home,L,1,3,False

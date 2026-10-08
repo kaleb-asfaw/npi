@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2022,@ Trinity Washington,L 2-3,50,09/02/2022,Trinity Washington,away,L,2,3,False
+09/06/2022,@ Salem (NC),L 0-8,58,09/06/2022,Salem (NC),away,L,0,8,False
+09/10/2022,Pfeiffer,L 1-6,50,09/10/2022,Pfeiffer,home,L,1,6,False
+09/11/2022,Agnes Scott,Canceled,,09/11/2022,Agnes Scott,home,,,,
+09/15/2022,@ Mary Baldwin,L 0-8,40,09/15/2022,Mary Baldwin,away,L,0,8,False
+09/21/2022,William Peace,Canceled,,09/21/2022,William Peace,home,,,,
+09/24/2022,Hollins,W 3-2,50,09/24/2022,Hollins,home,W,3,2,False
+09/30/2022,@ Randolph-Macon,L 0-8,72,09/30/2022,Randolph-Macon,away,L,0,8,False
+10/05/2022,Lynchburg,L 0-9,50,10/05/2022,Lynchburg,home,L,0,9,False
+10/08/2022,Randolph,L 0-8,50,10/08/2022,Randolph,home,L,0,8,False
+10/11/2022,@ Bridgewater (VA),L 0-19,79,10/11/2022,Bridgewater (VA),away,L,0,19,False
+10/15/2022,@ Shenandoah,L 0-18,183,10/15/2022,Shenandoah,away,L,0,18,False
+10/19/2022,Averett,L 1-4,50,10/19/2022,Averett,home,L,1,4,False
+10/22/2022,@ Ferrum,L 0-9,50,10/22/2022,Ferrum,away,L,0,9,False
+10/25/2022,@ East. Mennonite,L 1-10,127,10/25/2022,East. Mennonite,away,L,1,10,False
+10/29/2022,Guilford,L 1-18,50,10/29/2022,Guilford,home,L,1,18,False

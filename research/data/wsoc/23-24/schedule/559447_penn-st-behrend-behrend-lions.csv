@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2023,Baldwin Wallace,L 2-3,100,09/02/2023,Baldwin Wallace,home,L,2,3,False
+09/03/2023,Carnegie Mellon,L 0-5,0,09/03/2023,Carnegie Mellon,home,L,0,5,False
+09/08/2023,@ Nazareth,W 2-1,200,09/08/2023,Nazareth,away,W,2,1,False
+09/09/2023,@ RIT,L 0-2,350,09/09/2023,RIT,away,L,0,2,False
+09/12/2023,Houghton,W 4-0,145,09/12/2023,Houghton,home,W,4,0,False
+09/16/2023,Allegheny,W 2-1,154,09/16/2023,Allegheny,home,W,2,1,False
+09/20/2023,@ CWRU,L 0-1,101,09/20/2023,CWRU,away,L,0,1,False
+09/23/2023,La Roche,W 5-0,75,09/23/2023,La Roche,home,W,5,0,False
+09/26/2023,@ Wells,W 10-0,40,09/26/2023,Wells,away,W,10,0,False
+09/30/2023,@ Pitt.-Greensburg,T 1-1,173,09/30/2023,Pitt.-Greensburg,away,T,1,1,False
+10/04/2023,@ Pitt.-Bradford,W 10-0,30,10/04/2023,Pitt.-Bradford,away,W,10,0,False
+10/07/2023,Mount Aloysius,W 6-0,50,10/07/2023,Mount Aloysius,home,W,6,0,False
+10/10/2023,Alfred St.,W 8-1,50,10/10/2023,Alfred St.,home,W,8,1,False
+10/14/2023,Penn St.-Altoona,W 9-0,75,10/14/2023,Penn St.-Altoona,home,W,9,0,False
+10/17/2023,@ Fredonia,W 2-1,85,10/17/2023,Fredonia,away,W,2,1,False
+10/21/2023,@ Carlow,W 7-0,152,10/21/2023,Carlow,away,W,7,0,False
+10/24/2023,Hilbert,W 8-0,50,10/24/2023,Hilbert,home,W,8,0,False
+11/01/2023,#4 Mount Aloysius AMCC Women's Soccer Championship,W 4-0,50,11/01/2023,Mount Aloysius,home,W,4,0,False
+11/04/2023,#2 Pitt.-Greensburg AMCC Women's Soccer Championship,T 0-0 (2 OT),314,11/04/2023,Pitt.-Greensburg,home,T,0,0,True
+11/11/2023,@ Rochester (NY) NCAA Division III Women's Soccer Championship,L 1-2,253,11/11/2023,Rochester (NY),away,L,1,2,False

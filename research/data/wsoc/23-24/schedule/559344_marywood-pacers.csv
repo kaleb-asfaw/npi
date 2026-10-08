@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Swarthmore,L 1-6,191,09/01/2023,Swarthmore,away,L,1,6,False
+09/06/2023,Scranton,L 1-4,215,09/06/2023,Scranton,home,L,1,4,False
+09/09/2023,Eastern,W 3-0,142,09/09/2023,Eastern,home,W,3,0,False
+09/13/2023,Franklin & Marshall,L 0-6,124,09/13/2023,Franklin & Marshall,home,L,0,6,False
+09/16/2023,@ FDU-Florham,L 2-3,150,09/16/2023,FDU-Florham,away,L,2,3,False
+09/20/2023,@ Kean,T 2-2,100,09/20/2023,Kean,away,T,2,2,False
+09/23/2023,Alvernia,W 4-2,155,09/23/2023,Alvernia,home,W,4,2,False
+09/27/2023,@ Wilkes,L 1-2,227,09/27/2023,Wilkes,away,L,1,2,False
+09/30/2023,@ SUNY Canton,W 5-1,159,09/30/2023,SUNY Canton,away,W,5,1,False
+10/04/2023,Lancaster Bible,W 2-1,125,10/04/2023,Lancaster Bible,home,W,2,1,False
+10/07/2023,Neumann,T 1-1,102,10/07/2023,Neumann,home,T,1,1,False
+10/11/2023,Centenary (NJ),W 7-0,109,10/11/2023,Centenary (NJ),home,W,7,0,False
+10/14/2023,@ Cabrini,W 1-0,85,10/14/2023,Cabrini,away,W,1,0,False
+10/18/2023,Gwynedd Mercy,W 3-0,125,10/18/2023,Gwynedd Mercy,home,W,3,0,False
+10/21/2023,@ Marymount (VA),L 0-2,147,10/21/2023,Marymount (VA),away,L,0,2,False
+10/25/2023,@ Immaculata,W 7-0,66,10/25/2023,Immaculata,away,W,7,0,False
+10/31/2023,#6 Gwynedd Mercy Atlantic East Women's Soccer Championship,W 7-0,217,10/31/2023,Gwynedd Mercy,home,W,7,0,False
+11/04/2023,#2 Marymount (VA) Atlantic East Women's Soccer Championship,L 0-1 (2 OT),462,11/04/2023,Marymount (VA),home,L,0,1,True

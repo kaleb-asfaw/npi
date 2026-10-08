@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Cairn,W 1-0,126,09/01/2022,Cairn,home,W,1,0,False
+09/03/2022,Manhattanville,W 2-0,103,09/03/2022,Manhattanville,home,W,2,0,False
+09/04/2022,@ Susquehanna,L 1-8,224,09/04/2022,Susquehanna,away,L,1,8,False
+09/07/2022,@ Haverford,L 0-8,57,09/07/2022,Haverford,away,L,0,8,False
+09/14/2022,@ Bryn Athyn,T 1-1,50,09/14/2022,Bryn Athyn,away,T,1,1,False
+09/17/2022,Mount Aloysius,W 6-2,143,09/17/2022,Mount Aloysius,home,W,6,2,False
+09/21/2022,@ Penn St.-Abington,W 4-1,72,09/21/2022,Penn St.-Abington,away,W,4,1,False
+09/24/2022,@ Immaculata,L 1-2,102,09/24/2022,Immaculata,away,L,1,2,False
+09/27/2022,Albright,W 2-0,127,09/27/2022,Albright,home,W,2,0,False
+09/29/2022,@ Gwynedd Mercy,W 4-0,53,09/29/2022,Gwynedd Mercy,away,W,4,0,False
+10/01/2022,@ Lycoming,L 0-2,200,10/01/2022,Lycoming,away,L,0,2,False
+10/04/2022,@ King's (PA),L 0-6,75,10/04/2022,King's (PA),away,L,0,6,False
+10/07/2022,FDU-Florham,L 0-3,147,10/07/2022,FDU-Florham,home,L,0,3,False
+10/12/2022,@ Stevens,L 3-7,102,10/12/2022,Stevens,away,L,3,7,False
+10/15/2022,Wilkes,L 0-1,143,10/15/2022,Wilkes,home,L,0,1,False
+10/18/2022,Drew,L 0-4,122,10/18/2022,Drew,home,L,0,4,False
+10/22/2022,@ Arcadia,L 0-5,250,10/22/2022,Arcadia,away,L,0,5,False
+10/26/2022,DeSales,L 1-4,129,10/26/2022,DeSales,home,L,1,4,False
+10/29/2022,Misericordia,L 0-6,157,10/29/2022,Misericordia,home,L,0,6,False

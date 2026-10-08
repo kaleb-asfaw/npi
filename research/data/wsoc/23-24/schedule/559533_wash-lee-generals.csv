@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,"Stevens @Grantham, Pa.",W 5-0,110,09/01/2023,Stevens,neutral,W,5,0,False
+09/02/2023,"Puget Sound @Mechanicsburg, PA",W 3-2,110,09/02/2023,Puget Sound,neutral,W,3,2,False
+09/09/2023,@ Franklin & Marshall,T 1-1,215,09/09/2023,Franklin & Marshall,away,T,1,1,False
+09/12/2023,Southern Va.,W 2-0,108,09/12/2023,Southern Va.,home,W,2,0,False
+09/16/2023,"Berry @Bristol, Tenn.",W 3-1,63,09/16/2023,Berry,neutral,W,3,1,False
+09/23/2023,@ Bridgewater (VA),W 1-0,276,09/23/2023,Bridgewater (VA),away,W,1,0,False
+09/27/2023,Shenandoah,T 2-2,233,09/27/2023,Shenandoah,home,T,2,2,False
+09/30/2023,@ Randolph-Macon,W 1-0,130,09/30/2023,Randolph-Macon,away,W,1,0,False
+10/01/2023,Chris. Newport,T 0-0,277,10/01/2023,Chris. Newport,home,T,0,0,False
+10/04/2023,East. Mennonite,W 8-0,76,10/04/2023,East. Mennonite,home,W,8,0,False
+10/07/2023,Lynchburg,T 1-1,342,10/07/2023,Lynchburg,home,T,1,1,False
+10/11/2023,@ Hollins,W 9-0,123,10/11/2023,Hollins,away,W,9,0,False
+10/13/2023,@ Salisbury,L 0-1,163,10/13/2023,Salisbury,away,L,0,1,False
+10/18/2023,Roanoke,W 2-0,94,10/18/2023,Roanoke,home,W,2,0,False
+10/21/2023,@ Batten,L 1-2,188,10/21/2023,Batten,away,L,1,2,False
+10/24/2023,@ Ferrum,W 5-0,218,10/24/2023,Ferrum,away,W,5,0,False
+10/28/2023,Averett,W 4-0,171,10/28/2023,Averett,home,W,4,0,False
+10/31/2023,#6 Roanoke ODAC Women's Soccer Championship,W 4-0,129,10/31/2023,Roanoke,home,W,4,0,False
+11/03/2023,@ #2 Lynchburg ODAC Women's Soccer Championship,W 3-2 (2 OT),877,11/03/2023,Lynchburg,away,W,3,2,True
+11/05/2023,@ #1 Batten ODAC Women's Soccer Championship,L 0-1,150,11/05/2023,Batten,away,L,0,1,False
+11/10/2023,"Carnegie Mellon @Newark, NJ (NCAA Division III Women's Soccer Championship)",L 0-1,73,11/10/2023,Carnegie Mellon,neutral,L,0,1,False

@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Penn St.-Altoona,W 3-1,100,09/01/2022,Penn St.-Altoona,home,W,3,1,False
+09/05/2022,@ Mount Aloysius,W 4-0,127,09/05/2022,Mount Aloysius,away,W,4,0,False
+09/07/2022,Elmira,W 2-0,75,09/07/2022,Elmira,home,W,2,0,False
+09/10/2022,Keuka,W 4-0,100,09/10/2022,Keuka,home,W,4,0,False
+09/11/2022,SUNY Delhi,W 5-0,100,09/11/2022,SUNY Delhi,home,W,5,0,False
+09/14/2022,@ Marymount (VA),T 0-0,157,09/14/2022,Marymount (VA),away,T,0,0,False
+09/17/2022,@ Bethany (WV),T 0-0,75,09/17/2022,Bethany (WV),away,T,0,0,False
+09/21/2022,Susquehanna,L 0-3,150,09/21/2022,Susquehanna,home,L,0,3,False
+09/24/2022,@ Widener,L 0-2,67,09/24/2022,Widener,away,L,0,2,False
+09/28/2022,@ Alfred St.,W 3-1,77,09/28/2022,Alfred St.,away,W,3,1,False
+10/01/2022,Delaware Valley,W 2-0,200,10/01/2022,Delaware Valley,home,W,2,0,False
+10/04/2022,Wilkes,W 2-0,70,10/04/2022,Wilkes,home,W,2,0,False
+10/08/2022,@ Arcadia,L 2-3,135,10/08/2022,Arcadia,away,L,2,3,False
+10/12/2022,@ Misericordia,L 0-9,100,10/12/2022,Misericordia,away,L,0,9,False
+10/13/2022,Penn College,Canceled,,10/13/2022,Penn College,home,,,,
+10/15/2022,Stevens,W 1-0,185,10/15/2022,Stevens,home,W,1,0,False
+10/18/2022,@ King's (PA),W 1-0,75,10/18/2022,King's (PA),away,W,1,0,False
+10/22/2022,DeSales,W 1-0,150,10/22/2022,DeSales,home,W,1,0,False
+10/26/2022,@ Juniata,W 2-1,101,10/26/2022,Juniata,away,W,2,1,False
+10/29/2022,@ FDU-Florham,L 0-2,150,10/29/2022,FDU-Florham,away,L,0,2,False
+11/02/2022,@ #2 Stevens MAC Freedom WSOC Championship,L 0-2,285,11/02/2022,Stevens,away,L,0,2,False

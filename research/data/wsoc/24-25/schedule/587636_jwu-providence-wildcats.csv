@@ -1,0 +1,24 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Babson,W 3-2,200,08/30/2024,Babson,away,W,3,2,False
+09/04/2024,Elms,W 4-0,93,09/04/2024,Elms,home,W,4,0,False
+09/07/2024,@ New England Col.,W 9-0,155,09/07/2024,New England Col.,away,W,9,0,False
+09/11/2024,@ Colby-Sawyer,W 2-0,125,09/11/2024,Colby-Sawyer,away,W,2,0,False
+09/14/2024,Simmons,W 9-0,211,09/14/2024,Simmons,home,W,9,0,False
+09/19/2024,MIT,L 0-4,289,09/19/2024,MIT,home,L,0,4,False
+09/22/2024,@ Brandeis,L 1-2,250,09/22/2024,Brandeis,away,L,1,2,False
+09/25/2024,@ Albertus Magnus,W 4-0,120,09/25/2024,Albertus Magnus,away,W,4,0,False
+09/28/2024,@ Mitchell,W 7-0,108,09/28/2024,Mitchell,away,W,7,0,False
+09/29/2024,Trinity (CT),L 1-2,243,09/29/2024,Trinity (CT),home,L,1,2,False
+10/05/2024,@ Emmanuel (MA),W 2-0,257,10/05/2024,Emmanuel (MA),away,W,2,0,False
+10/07/2024,Connecticut Col.,W 1-0,121,10/07/2024,Connecticut Col.,home,W,1,0,False
+10/09/2024,Saint Joseph (CT),W 2-0,141,10/09/2024,Saint Joseph (CT),home,W,2,0,False
+10/12/2024,Lasell,W 1-0,411,10/12/2024,Lasell,home,W,1,0,False
+10/14/2024,Anna Maria,W 5-0,0,10/14/2024,Anna Maria,home,W,5,0,False
+10/16/2024,@ Dean,W 8-1,130,10/16/2024,Dean,away,W,8,1,False
+10/19/2024,@ Regis (MA),T 0-0,88,10/19/2024,Regis (MA),away,T,0,0,False
+10/23/2024,Rivier,W 3-0,217,10/23/2024,Rivier,home,W,3,0,False
+10/26/2024,@ St. Joseph's (ME),W 3-0,100,10/26/2024,St. Joseph's (ME),away,W,3,0,False
+10/29/2024,Norwich,W 3-1,213,10/29/2024,Norwich,home,W,3,1,False
+11/02/2024,#8 Regis (MA) Great Northeast Women's Soccer Championship,W 2-0,457,11/02/2024,Regis (MA),home,W,2,0,False
+11/05/2024,#4 Lasell Great Northeast Women's Soccer Championship,W 2-0,403,11/05/2024,Lasell,home,W,2,0,False
+11/09/2024,#2 Emmanuel (MA) Great Northeast Women's Soccer Championship,L 1-2,692,11/09/2024,Emmanuel (MA),home,L,1,2,False

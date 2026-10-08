@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ York (PA),W 2-1,347,09/01/2023,York (PA),away,W,2,1,False
+09/05/2023,Elizabethtown,W 3-0,131,09/05/2023,Elizabethtown,home,W,3,0,False
+09/09/2023,Wash. & Lee,T 1-1,215,09/09/2023,Wash. & Lee,home,T,1,1,False
+09/13/2023,@ Marywood,W 6-0,124,09/13/2023,Marywood,away,W,6,0,False
+09/16/2023,@ Bryn Mawr,W 2-0,65,09/16/2023,Bryn Mawr,away,W,2,0,False
+09/20/2023,Haverford,W 5-0,140,09/20/2023,Haverford,home,W,5,0,False
+09/23/2023,Swarthmore,L 0-2,130,09/23/2023,Swarthmore,home,L,0,2,False
+09/27/2023,Penn St. Harrisburg,T 2-2,140,09/27/2023,Penn St. Harrisburg,home,T,2,2,False
+09/30/2023,@ McDaniel,T 0-0,642,09/30/2023,McDaniel,away,T,0,0,False
+10/04/2023,@ Ursinus,W 5-0,97,10/04/2023,Ursinus,away,W,5,0,False
+10/07/2023,Muhlenberg,W 3-0,120,10/07/2023,Muhlenberg,home,W,3,0,False
+10/11/2023,@ Dickinson,W 2-1,175,10/11/2023,Dickinson,away,W,2,1,False
+10/14/2023,Johns Hopkins,L 0-1,130,10/14/2023,Johns Hopkins,home,L,0,1,False
+10/17/2023,@ Penn St.-Berks,W 3-0,118,10/17/2023,Penn St.-Berks,away,W,3,0,False
+10/25/2023,Gettysburg,W 2-0,140,10/25/2023,Gettysburg,home,W,2,0,False
+10/28/2023,@ Washington Col.,T 2-2,163,10/28/2023,Washington Col.,away,T,2,2,False
+10/31/2023,#5 Gettysburg Centennial Women's Soccer Championship,W 2-0,180,10/31/2023,Gettysburg,home,W,2,0,False
+11/03/2023,@ #1 Swarthmore Centennial Women's Soccer Championship,W 1-0,200,11/03/2023,Swarthmore,away,W,1,0,False
+11/05/2023,@ #2 Johns Hopkins Centennial Women's Soccer Championship,L 1-2,209,11/05/2023,Johns Hopkins,away,L,1,2,False
+11/11/2023,"Tufts @Ewing Township, NJ (NCAA Division III Women's Soccer Championship)",L 1-2,300,11/11/2023,Tufts,neutral,L,1,2,False

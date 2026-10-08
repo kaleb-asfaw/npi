@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/04/2021,@ NYU,W 1-0,0,09/04/2021,NYU,away,W,1,0,False
+09/08/2021,Montclair St.,W 2-1,110,09/08/2021,Montclair St.,home,W,2,1,False
+09/11/2021,Scranton,L 0-2,125,09/11/2021,Scranton,home,L,0,2,False
+09/15/2021,@ WestConn,L 2-4,66,09/15/2021,WestConn,away,L,2,4,False
+09/18/2021,SUNY Oneonta,W 4-2,145,09/18/2021,SUNY Oneonta,home,W,4,2,False
+09/21/2021,@ Stevens,W 1-0,161,09/21/2021,Stevens,away,W,1,0,False
+09/25/2021,RIT,T 2-2 (2 OT),125,09/25/2021,RIT,home,T,2,2,True
+09/29/2021,@ Bard,W 6-0,125,09/29/2021,Bard,away,W,6,0,False
+10/02/2021,Union (NY),L 1-2,250,10/02/2021,Union (NY),home,L,1,2,False
+10/06/2021,SUNY New Paltz,W 2-0,50,10/06/2021,SUNY New Paltz,home,W,2,0,False
+10/09/2021,@ Skidmore,L 0-3,180,10/09/2021,Skidmore,away,L,0,3,False
+10/15/2021,@ Clarkson,W 2-0,47,10/15/2021,Clarkson,away,W,2,0,False
+10/16/2021,@ St. Lawrence,W 2-0,51,10/16/2021,St. Lawrence,away,W,2,0,False
+10/23/2021,William Smith,L 1-4,85,10/23/2021,William Smith,home,L,1,4,False
+10/27/2021,Rensselaer,W 2-0,65,10/27/2021,Rensselaer,home,W,2,0,False
+10/30/2021,@ Ithaca,L 0-1,115,10/30/2021,Ithaca,away,L,0,1,False
+11/02/2021,@ #3 Union (NY) Liberty WSOC Championship,L 0-1 (1 OT),227,11/02/2021,Union (NY),away,L,0,1,True

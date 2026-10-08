@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Oglethorpe,L 0-4,212,09/01/2023,Oglethorpe,away,L,0,4,False
+09/04/2023,Dalton St.,L 0-9,58,09/04/2023,Dalton St.,home,L,0,9,False
+09/06/2023,@ Toccoa Falls,L 0-3,0,09/06/2023,@ Toccoa Falls,home,L,0,3,False
+09/09/2023,Sweet Briar,W 4-1,0,09/09/2023,Sweet Briar,home,W,4,1,False
+09/11/2023,Brevard,L 0-6,84,09/11/2023,Brevard,home,L,0,6,False
+09/15/2023,@ Salem (NC),T 1-1,121,09/15/2023,Salem (NC),away,T,1,1,False
+09/17/2023,@ JWU (Charlotte),T 1-1,50,09/17/2023,@ JWU (Charlotte),home,T,1,1,False
+09/21/2023,LaGrange,L 0-3,34,09/21/2023,LaGrange,home,L,0,3,False
+09/27/2023,@ Piedmont,L 0-2,101,09/27/2023,Piedmont,away,L,0,2,False
+09/29/2023,Huntingdon,L 0-5,53,09/29/2023,Huntingdon,home,L,0,5,False
+10/05/2023,Berea,T 0-0,81,10/05/2023,Berea,home,T,0,0,False
+10/07/2023,@ Belhaven,L 0-5,250,10/07/2023,Belhaven,away,L,0,5,False
+10/10/2023,Covenant,L 0-6,67,10/10/2023,Covenant,home,L,0,6,False
+10/14/2023,@ Wesleyan (GA),W 2-1,175,10/14/2023,Wesleyan (GA),away,W,2,1,False
+10/21/2023,@ Maryville (TN),L 0-9,290,10/21/2023,Maryville (TN),away,L,0,9,False
+10/24/2023,#9 Wesleyan (GA) CCS Women's Soccer Championship,W 2-1,91,10/24/2023,Wesleyan (GA),home,W,2,1,False
+10/28/2023,@ #1 Maryville (TN) CCS Women's Soccer Championship,L 0-8,112,10/28/2023,Maryville (TN),away,L,0,8,False

@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2021,@ St. Scholastica,W 2-0,122,09/03/2021,St. Scholastica,away,W,2,0,False
+09/05/2021,@ Saint Benedict,L 0-1,120,09/05/2021,Saint Benedict,away,L,0,1,False
+09/11/2021,MSOE,L 1-4,234,09/11/2021,MSOE,home,L,1,4,False
+09/15/2021,@ Luther,W 2-0,45,09/15/2021,Luther,away,W,2,0,False
+09/18/2021,"WashU @Memphis, TN",L 0-3,50,09/18/2021,WashU,neutral,L,0,3,False
+09/19/2021,@ Rhodes,W 3-2,100,09/19/2021,Rhodes,away,W,3,2,False
+09/22/2021,@ Grinnell,W 4-0,94,09/22/2021,Grinnell,away,W,4,0,False
+09/25/2021,Augsburg,W 3-1,259,09/25/2021,Augsburg,home,W,3,1,False
+09/28/2021,Viterbo,W 4-0,134,09/28/2021,Viterbo,home,W,4,0,False
+09/30/2021,@ Ripon,W 7-0,0,09/30/2021,Ripon,away,W,7,0,False
+10/02/2021,UW-River Falls,Canceled,,10/02/2021,UW-River Falls,home,,,,
+10/06/2021,@ Wis.-Platteville,W 1-0 (2 OT),112,10/06/2021,Wis.-Platteville,away,W,1,0,True
+10/09/2021,Wis.-Stevens Point,L 0-2,189,10/09/2021,Wis.-Stevens Point,home,L,0,2,False
+10/13/2021,Carthage,W 4-0,112,10/13/2021,Carthage,home,W,4,0,False
+10/16/2021,@ Wis.-Eau Claire,W 1-0,155,10/16/2021,Wis.-Eau Claire,away,W,1,0,False
+10/20/2021,Wis.-Oshkosh,L 1-4,126,10/20/2021,Wis.-Oshkosh,home,L,1,4,False
+10/23/2021,Wis.-Stout,W 1-0,163,10/23/2021,Wis.-Stout,home,W,1,0,False
+10/26/2021,Augustana (IL),W 1-0,62,10/26/2021,Augustana (IL),home,W,1,0,False
+10/30/2021,@ Wis.-La Crosse,L 0-3,180,10/30/2021,Wis.-La Crosse,away,L,0,3,False
+11/02/2021,#5 Wis.-Eau Claire WIAC WSOC Tournament,L 0-1,133,11/02/2021,Wis.-Eau Claire,home,L,0,1,False

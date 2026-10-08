@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2023,@ Westcliff,T 1-1,0,09/02/2023,@ Westcliff,home,T,1,1,False
+09/05/2023,Bethesda (CA),W 4-1,425,09/05/2023,Bethesda (CA),home,W,4,1,False
+09/09/2023,Lewis & Clark,W 1-0,237,09/09/2023,Lewis & Clark,home,W,1,0,False
+09/13/2023,Caltech,W 2-1,212,09/13/2023,Caltech,home,W,2,1,False
+09/16/2023,@ Whittier,T 2-2,100,09/16/2023,Whittier,away,T,2,2,False
+09/20/2023,Pomona-Pitzer,L 0-3,175,09/20/2023,Pomona-Pitzer,home,L,0,3,False
+09/23/2023,Redlands,W 2-1,207,09/23/2023,Redlands,home,W,2,1,False
+09/27/2023,@ Cal Lutheran,L 0-2,125,09/27/2023,Cal Lutheran,away,L,0,2,False
+09/30/2023,@ La Verne,T 1-1,112,09/30/2023,La Verne,away,T,1,1,False
+10/04/2023,Chapman,W 3-0,213,10/04/2023,Chapman,home,W,3,0,False
+10/11/2023,@ CMS,L 0-3,337,10/11/2023,CMS,away,L,0,3,False
+10/18/2023,Cal Lutheran,L 0-1,243,10/18/2023,Cal Lutheran,home,L,0,1,False
+10/21/2023,Whittier,W 2-1,"1,273",10/21/2023,Whittier,home,W,2,1,False
+10/25/2023,@ Pomona-Pitzer,T 1-1,132,10/25/2023,Pomona-Pitzer,away,T,1,1,False
+10/28/2023,@ Caltech,T 2-2,121,10/28/2023,Caltech,away,T,2,2,False

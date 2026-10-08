@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,UMSV,W 4-0,103,09/01/2023,UMSV,home,W,4,0,False
+09/03/2023,@ NYU,L 0-3,164,09/03/2023,NYU,away,L,0,3,False
+09/06/2023,Sarah Lawrence,W 5-0,79,09/06/2023,Sarah Lawrence,home,W,5,0,False
+09/09/2023,Scranton,W 2-1,154,09/09/2023,Scranton,home,W,2,1,False
+09/13/2023,@ WestConn,W 2-0,220,09/13/2023,WestConn,away,W,2,0,False
+09/16/2023,Montclair St.,L 0-1,80,09/16/2023,Montclair St.,home,L,0,1,False
+09/19/2023,@ Wesleyan (CT),W 2-1,100,09/19/2023,Wesleyan (CT),away,W,2,1,False
+09/23/2023,Union (NY),T 0-0,0,09/23/2023,Union (NY),home,T,0,0,False
+09/27/2023,@ Bard,T 0-0,70,09/27/2023,Bard,away,T,0,0,False
+09/30/2023,@ Skidmore,W 2-1,148,09/30/2023,Skidmore,away,W,2,1,False
+10/04/2023,@ Russell Sage,W 2-1,142,10/04/2023,Russell Sage,away,W,2,1,False
+10/13/2023,@ St. Lawrence,L 0-1,153,10/13/2023,St. Lawrence,away,L,0,1,False
+10/14/2023,@ Clarkson,W 1-0,228,10/14/2023,Clarkson,away,W,1,0,False
+10/21/2023,@ Ithaca,T 0-0,130,10/21/2023,Ithaca,away,T,0,0,False
+10/22/2023,William Smith,T 0-0,127,10/22/2023,William Smith,home,T,0,0,False
+10/25/2023,Rensselaer,L 0-1,77,10/25/2023,Rensselaer,home,L,0,1,False
+10/28/2023,RIT,T 0-0,129,10/28/2023,RIT,home,T,0,0,False

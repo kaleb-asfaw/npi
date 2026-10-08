@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2022,@ Albertus Magnus,T 3-3,0,09/03/2022,Albertus Magnus,away,T,3,3,False
+09/10/2022,@ St. Joseph's (Brkln),W 3-0,74,09/10/2022,St. Joseph's (Brkln),away,W,3,0,False
+09/14/2022,Old Westbury,W 1-0,50,09/14/2022,Old Westbury,home,W,1,0,False
+09/17/2022,@ Sarah Lawrence,L 1-5,60,09/17/2022,Sarah Lawrence,away,L,1,5,False
+09/21/2022,Saint Elizabeth,W 10-0,55,09/21/2022,Saint Elizabeth,home,W,10,0,False
+09/28/2022,York (NY),Ppd,,09/28/2022,York (NY),home,,,,
+10/01/2022,Lehman,W 9-0,102,10/01/2022,Lehman,home,W,9,0,False
+10/05/2022,@ Purchase,W 9-0,25,10/05/2022,Purchase,away,W,9,0,False
+10/10/2022,@ SUNY Maritime,Ppd,,10/10/2022,SUNY Maritime,away,,,,
+10/12/2022,@ Brooklyn,W 5-0,22,10/12/2022,Brooklyn,away,W,5,0,False
+10/15/2022,@ York (NY),Canceled,,10/15/2022,York (NY),away,,,,
+10/19/2022,@ Medgar Evers,Ppd,,10/19/2022,Medgar Evers,away,,,,
+10/22/2022,John Jay,L 1-2,0,10/22/2022,John Jay,home,L,1,2,False
+10/25/2022,@ Pratt,W 9-1,21,10/25/2022,Pratt,away,W,9,1,False
+10/29/2022,#3 Brooklyn CUNYAC WSOC Championship,W 4-0,75,10/29/2022,Brooklyn,home,W,4,0,False
+11/03/2022,@ Yeshiva,W 4-0,15,11/03/2022,Yeshiva,away,W,4,0,False
+11/05/2022,@ #1 John Jay CUNYAC WSOC Championship,L 0-1,300,11/05/2022,John Jay,away,L,0,1,False

@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Clark (MA),Ppd,,09/01/2021,Clark (MA),away,,,,
+09/04/2021,Springfield,W 1-0,250,09/04/2021,Springfield,home,W,1,0,False
+09/11/2021,@ UMass Boston,T 1-1 (2 OT),122,09/11/2021,UMass Boston,away,T,1,1,True
+09/15/2021,Lesley,L 1-2 (2 OT),125,09/15/2021,Lesley,home,L,1,2,True
+09/18/2021,Curry,W 2-0,300,09/18/2021,Curry,home,W,2,0,False
+09/21/2021,@ Babson,L 0-1,246,09/21/2021,Babson,away,L,0,1,False
+09/25/2021,@ Wentworth,W 1-0,165,09/25/2021,Wentworth,away,W,1,0,False
+09/29/2021,Wheaton (MA),T 3-3 (2 OT),105,09/29/2021,Wheaton (MA),home,T,3,3,True
+10/02/2021,Roger Williams,W 3-1,550,10/02/2021,Roger Williams,home,W,3,1,False
+10/05/2021,@ Salem St.,W 10-0,100,10/05/2021,Salem St.,away,W,10,0,False
+10/09/2021,@ Gordon,L 0-1,217,10/09/2021,Gordon,away,L,0,1,False
+10/12/2021,Salve Regina,W 3-0,125,10/12/2021,Salve Regina,home,W,3,0,False
+10/16/2021,Suffolk,W 1-0,215,10/16/2021,Suffolk,home,W,1,0,False
+10/20/2021,U New England,W 3-0,175,10/20/2021,U New England,home,W,3,0,False
+10/23/2021,@ Western New Eng.,W 3-2,210,10/23/2021,Western New Eng.,away,W,3,2,False
+10/27/2021,@ Nichols,W 3-0,150,10/27/2021,Nichols,away,W,3,0,False
+10/30/2021,#8 Curry CCC WSOC Championship,W 3-0,175,10/30/2021,Curry,home,W,3,0,False
+11/03/2021,#4 Gordon CCC WSOC Championship,L 1-3,450,11/03/2021,Gordon,home,L,1,3,False

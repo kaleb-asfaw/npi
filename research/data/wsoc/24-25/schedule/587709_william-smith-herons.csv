@@ -1,0 +1,26 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Plattsburgh St.,W 8-0,275,08/30/2024,Plattsburgh St.,home,W,8,0,False
+08/31/2024,Wash. & Lee,L 0-2,275,08/31/2024,Wash. & Lee,home,L,0,2,False
+09/07/2024,@ Carnegie Mellon,L 1-4,75,09/07/2024,Carnegie Mellon,away,L,1,4,False
+09/08/2024,"Denison @Pittsburgh, PA",T 1-1,80,09/08/2024,Denison,neutral,T,1,1,False
+09/14/2024,Messiah,W 1-0,232,09/14/2024,Messiah,home,W,1,0,False
+09/18/2024,@ SUNY Geneseo,W 2-0,100,09/18/2024,SUNY Geneseo,away,W,2,0,False
+09/21/2024,@ Rochester (NY),W 3-1,182,09/21/2024,Rochester (NY),away,W,3,1,False
+09/25/2024,RIT,W 2-1,175,09/25/2024,RIT,home,W,2,1,False
+09/28/2024,@ Skidmore,T 0-0,87,09/28/2024,Skidmore,away,T,0,0,False
+10/02/2024,@ Ithaca,L 0-1,175,10/02/2024,Ithaca,away,L,0,1,False
+10/05/2024,@ Clarkson,W 3-0,302,10/05/2024,Clarkson,away,W,3,0,False
+10/12/2024,Vassar,T 0-0,225,10/12/2024,Vassar,home,T,0,0,False
+10/18/2024,@ Rensselaer,W 1-0,173,10/18/2024,Rensselaer,away,W,1,0,False
+10/19/2024,@ Union (NY),W 2-1,100,10/19/2024,Union (NY),away,W,2,1,False
+10/26/2024,Bard,W 6-0,175,10/26/2024,Bard,home,W,6,0,False
+10/30/2024,@ Cortland,W 1-0,167,10/30/2024,Cortland,away,W,1,0,False
+11/02/2024,St. Lawrence,W 4-1,377,11/02/2024,St. Lawrence,home,W,4,1,False
+11/08/2024,Vassar Liberty League Women's Soccer Championship,W 2-0,255,11/08/2024,Vassar,home,W,2,0,False
+11/10/2024,@ Ithaca Liberty League Women's Soccer Championship,T 0-0 (3 OT),200,11/10/2024,Ithaca,away,T,0,0,True
+11/16/2024,Penn St. Harrisburg NCAA Division III Women's Soccer Championship,W 2-1,155,11/16/2024,Penn St. Harrisburg,home,W,2,1,False
+11/17/2024,"Tufts @Geneva, NY (NCAA Division III Women's Soccer Championship)",W 2-1,211,11/17/2024,Tufts,neutral,W,2,1,False
+11/23/2024,"Wash. & Lee @Scranton, PA (NCAA Division III Women's Soccer Championship)",W 2-0,218,11/23/2024,Wash. & Lee,neutral,W,2,0,False
+11/24/2024,"Trinity (TX) @Scranton, PA (NCAA Division III Women's Soccer Championship)",W 1-0,213,11/24/2024,Trinity (TX),neutral,W,1,0,False
+12/06/2024,"Emory @Las Vegas, NV (NCAA Division III Women's Soccer Championship)",W 2-0,399,12/06/2024,Emory,neutral,W,2,0,False
+12/08/2024,"WashU @Las Vegas, NV (NCAA Division III Women's Soccer Championship)",L 0-3,252,12/08/2024,WashU,neutral,L,0,3,False

@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Cazenovia,W 1-0,65,09/01/2021,Cazenovia,home,W,1,0,False
+09/04/2021,@ SUNY Canton,W 5-0,117,09/04/2021,SUNY Canton,away,W,5,0,False
+09/07/2021,@ Houghton,Canceled,,09/07/2021,Houghton,away,,,,
+09/10/2021,"Utica @Fredonia, NY",Ppd,,09/10/2021,Utica,neutral,,,,
+09/11/2021,"Pitt.-Bradford @Fredonia, NY",Canceled,,09/11/2021,Pitt.-Bradford,neutral,,,,
+09/16/2021,Hilbert,Canceled,,09/16/2021,Hilbert,home,,,,
+09/20/2021,@ King's (PA),L 1-4,112,09/20/2021,King's (PA),away,L,1,4,False
+09/24/2021,Plattsburgh St.,L 1-2,73,09/24/2021,Plattsburgh St.,home,L,1,2,False
+09/25/2021,SUNY Potsdam,W 1-0 (2 OT),182,09/25/2021,SUNY Potsdam,home,W,1,0,True
+09/28/2021,@ Keuka,W 2-1,100,09/28/2021,Keuka,away,W,2,1,False
+10/01/2021,Buffalo St.,W 3-0,70,10/01/2021,Buffalo St.,home,W,3,0,False
+10/02/2021,Fredonia,L 0-1,153,10/02/2021,Fredonia,home,L,0,1,False
+10/08/2021,@ SUNY Brockport,L 1-2,0,10/08/2021,SUNY Brockport,away,L,1,2,False
+10/09/2021,@ SUNY Geneseo,L 0-4,350,10/09/2021,SUNY Geneseo,away,L,0,4,False
+10/12/2021,Hamilton,L 1-3,35,10/12/2021,Hamilton,home,L,1,3,False
+10/16/2021,@ Cortland,L 1-2 (1 OT),137,10/16/2021,Cortland,away,L,1,2,True
+10/22/2021,@ SUNY New Paltz,L 1-2 (1 OT),50,10/22/2021,SUNY New Paltz,away,L,1,2,True
+10/23/2021,@ SUNY Oneonta,L 1-2 (1 OT),0,10/23/2021,SUNY Oneonta,away,L,1,2,True

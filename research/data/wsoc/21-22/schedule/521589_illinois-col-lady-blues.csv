@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2021,@ Neb. Wesleyan,L 3-4,100,09/03/2021,Neb. Wesleyan,away,L,3,4,False
+09/04/2021,"Rhodes @Lincoln, NE",L 1-2,50,09/04/2021,Rhodes,neutral,L,1,2,False
+09/07/2021,Principia,W 3-0,51,09/07/2021,Principia,home,W,3,0,False
+09/11/2021,@ Rose-Hulman,L 0-10,75,09/11/2021,Rose-Hulman,away,L,0,10,False
+09/12/2021,Lyon,L 0-2,24,09/12/2021,Lyon,home,L,0,2,False
+09/17/2021,@ Webster,L 0-11,100,09/17/2021,Webster,away,L,0,11,False
+09/19/2021,Buena Vista,W 8-1,32,09/19/2021,Buena Vista,home,W,8,1,False
+09/25/2021,@ Grinnell,L 0-8,75,09/25/2021,Grinnell,away,L,0,8,False
+09/29/2021,@ Millikin,L 0-4,60,09/29/2021,Millikin,away,L,0,4,False
+10/02/2021,Lawrence,L 1-5,33,10/02/2021,Lawrence,home,L,1,5,False
+10/06/2021,Hannibal-La Grange,L 1-3,38,10/06/2021,Hannibal-La Grange,home,L,1,3,False
+10/09/2021,@ Lake Forest,L 0-4,50,10/09/2021,Lake Forest,away,L,0,4,False
+10/16/2021,@ Beloit,L 1-4,150,10/16/2021,Beloit,away,L,1,4,False
+10/19/2021,Monmouth (IL),L 1-6,45,10/19/2021,Monmouth (IL),home,L,1,6,False
+10/23/2021,Mount Mary,Canceled,,10/23/2021,Mount Mary,home,,,,
+10/24/2021,Cornell College,L 0-2,38,10/24/2021,Cornell College,home,L,0,2,False
+10/26/2021,Knox,L 0-1,45,10/26/2021,Knox,home,L,0,1,False
+10/30/2021,@ Ripon,W 4-1,0,10/30/2021,Ripon,away,W,4,1,False

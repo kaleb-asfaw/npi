@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Nichols,W 2-1,123,09/01/2023,Nichols,away,W,2,1,False
+09/02/2023,Me.-Farmington,W 3-0,135,09/02/2023,Me.-Farmington,home,W,3,0,False
+09/06/2023,Worcester St.,W 2-0,0,09/06/2023,Worcester St.,home,W,2,0,False
+09/09/2023,Salem St.,W 7-0,100,09/09/2023,Salem St.,home,W,7,0,False
+09/12/2023,@ Brandeis,T 0-0,67,09/12/2023,Brandeis,away,T,0,0,False
+09/15/2023,Coast Guard,W 1-0,103,09/15/2023,Coast Guard,home,W,1,0,False
+09/23/2023,@ Springfield,L 0-2,200,09/23/2023,Springfield,away,L,0,2,False
+09/27/2023,@ Framingham St.,W 3-0,65,09/27/2023,Framingham St.,away,W,3,0,False
+09/30/2023,MIT,L 0-3,153,09/30/2023,MIT,home,L,0,3,False
+10/01/2023,Williams,T 0-0,127,10/01/2023,Williams,home,T,0,0,False
+10/04/2023,@ Smith,L 0-2,50,10/04/2023,Smith,away,L,0,2,False
+10/06/2023,@ WPI,T 1-1,500,10/06/2023,WPI,away,T,1,1,False
+10/11/2023,Salve Regina,W 3-1,73,10/11/2023,Salve Regina,home,W,3,1,False
+10/14/2023,Wellesley,T 1-1,138,10/14/2023,Wellesley,home,T,1,1,False
+10/18/2023,@ Mount Holyoke,W 1-0,50,10/18/2023,Mount Holyoke,away,W,1,0,False
+10/21/2023,Emerson,L 0-2,111,10/21/2023,Emerson,home,L,0,2,False
+10/25/2023,Wheaton (MA),L 0-1,111,10/25/2023,Wheaton (MA),home,L,0,1,False
+10/28/2023,@ Babson,L 0-4,250,10/28/2023,Babson,away,L,0,4,False
+10/31/2023,@ #1 MIT NEWMAC Women's Soccer Championship,L 0-6,67,10/31/2023,MIT,away,L,0,6,False

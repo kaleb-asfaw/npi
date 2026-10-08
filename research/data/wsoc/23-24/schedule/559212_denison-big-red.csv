@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Alma,W 2-1,113,09/01/2023,Alma,away,W,2,1,False
+09/02/2023,@ Adrian,T 1-1,142,09/02/2023,Adrian,away,T,1,1,False
+09/09/2023,New Jersey City,W 2-0,51,09/09/2023,New Jersey City,home,W,2,0,False
+09/10/2023,John Carroll,T 1-1,89,09/10/2023,John Carroll,home,T,1,1,False
+09/13/2023,Albion,T 0-0,100,09/13/2023,Albion,home,T,0,0,False
+09/16/2023,Centre,T 1-1,55,09/16/2023,Centre,home,T,1,1,False
+09/20/2023,@ Ohio Northern,L 1-2,147,09/20/2023,Ohio Northern,away,L,1,2,False
+09/23/2023,Trine,L 1-4,63,09/23/2023,Trine,home,L,1,4,False
+09/27/2023,@ Otterbein,W 1-0,107,09/27/2023,Otterbein,away,W,1,0,False
+10/07/2023,Kenyon,W 4-0,123,10/07/2023,Kenyon,home,W,4,0,False
+10/11/2023,@ DePauw,T 1-1,81,10/11/2023,DePauw,away,T,1,1,False
+10/14/2023,@ Wooster,T 1-1,180,10/14/2023,Wooster,away,T,1,1,False
+10/17/2023,Oberlin,W 1-0,26,10/17/2023,Oberlin,home,W,1,0,False
+10/21/2023,@ Hiram,W 1-0,70,10/21/2023,Hiram,away,W,1,0,False
+10/25/2023,Wittenberg,L 0-2,85,10/25/2023,Wittenberg,home,L,0,2,False
+10/28/2023,@ Ohio Wesleyan,L 0-3,250,10/28/2023,Ohio Wesleyan,away,L,0,3,False
+11/02/2023,@ #1 Wittenberg NCAC Women's Soccer Championship,W 1-0,103,11/02/2023,Wittenberg,away,W,1,0,False
+11/05/2023,@ #3 DePauw NCAC Women's Soccer Championship,W 2-0,155,11/05/2023,DePauw,away,W,2,0,False
+11/10/2023,"MSOE @Grand Rapids, MI (NCAA Division III Women's Soccer Championship)",L 1-2,117,11/10/2023,MSOE,neutral,L,1,2,False

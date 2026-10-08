@@ -1,0 +1,24 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Framingham St.,W 2-0,123,09/01/2022,Framingham St.,away,W,2,0,False
+09/03/2022,@ Babson,L 0-5,240,09/03/2022,Babson,away,L,0,5,False
+09/09/2022,"Clarkson @Henniker, NH",L 1-4,0,09/09/2022,Clarkson,neutral,L,1,4,False
+09/09/2022,"SUNY Potsdam @Henniker, NH",Canceled,,09/09/2022,SUNY Potsdam,neutral,,,,
+09/10/2022,"SUNY Potsdam @Henniker, N.H.",W 2-1,143,09/10/2022,SUNY Potsdam,neutral,W,2,1,False
+09/14/2022,MIT,L 1-6,74,09/14/2022,MIT,home,L,1,6,False
+09/17/2022,@ U New England,L 0-1,103,09/17/2022,U New England,away,L,0,1,False
+09/20/2022,@ WPI,W 2-1,100,09/20/2022,WPI,away,W,2,1,False
+09/22/2022,@ Brandeis,L 1-3,75,09/22/2022,Brandeis,away,L,1,3,False
+09/24/2022,Gordon,W 4-0,118,09/24/2022,Gordon,home,W,4,0,False
+09/28/2022,Bridgewater St.,L 4-5,154,09/28/2022,Bridgewater St.,home,L,4,5,False
+10/01/2022,@ Suffolk,W 2-1,118,10/01/2022,Suffolk,away,W,2,1,False
+10/04/2022,Wesleyan (CT),L 0-4,37,10/04/2022,Wesleyan (CT),home,L,0,4,False
+10/06/2022,@ UMass Dartmouth,T 1-1,136,10/06/2022,UMass Dartmouth,away,T,1,1,False
+10/08/2022,@ Wentworth,T 2-2,325,10/08/2022,Wentworth,away,T,2,2,False
+10/11/2022,Curry,L 0-1,114,10/11/2022,Curry,home,L,0,1,False
+10/15/2022,Endicott,T 1-1,262,10/15/2022,Endicott,home,T,1,1,False
+10/17/2022,Fitchburg St.,W 6-2,78,10/17/2022,Fitchburg St.,home,W,6,2,False
+10/19/2022,@ Salve Regina,L 3-4,119,10/19/2022,Salve Regina,away,L,3,4,False
+10/22/2022,@ Western New Eng.,W 1-0,200,10/22/2022,Western New Eng.,away,W,1,0,False
+10/25/2022,Nichols,W 6-4,48,10/25/2022,Nichols,home,W,6,4,False
+10/29/2022,#5 Gordon CCC WSOC Championship,W 2-0,123,10/29/2022,Gordon,home,W,2,0,False
+11/01/2022,#1 Western New Eng. CCC WSOC Championship,T 2-2 (3 OT),220,11/01/2022,Western New Eng.,home,T,2,2,True

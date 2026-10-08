@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2023,@ Bard,L 1-6,50,09/02/2023,Bard,away,L,1,6,False
+09/09/2023,Ramapo,L 1-6,1,09/09/2023,Ramapo,home,L,1,6,False
+09/13/2023,@ Keystone,W 9-0,50,09/13/2023,Keystone,away,W,9,0,False
+09/17/2023,York (NY),W 12-0,51,09/17/2023,York (NY),home,W,12,0,False
+09/21/2023,@ Brooklyn,Ppd,,09/21/2023,Brooklyn,away,,,,
+09/27/2023,@ Lehman,W 7-3,20,09/27/2023,Lehman,away,W,7,3,False
+09/29/2023,Penn St.-Abington,Ppd,,09/29/2023,Penn St.-Abington,home,,,,
+10/01/2023,@ Immaculata,L 1-4,88,10/01/2023,Immaculata,away,L,1,4,False
+10/04/2023,@ Kean,L 0-4,100,10/04/2023,Kean,away,L,0,4,False
+10/08/2023,@ Old Westbury,W 6-5,36,10/08/2023,Old Westbury,away,W,6,5,False
+10/12/2023,Five Towns,W 6-0,37,10/12/2023,Five Towns,home,W,6,0,False
+10/16/2023,@ Wm. Paterson,T 1-1,64,10/16/2023,Wm. Paterson,away,T,1,1,False
+10/18/2023,@ Russell Sage,L 1-7,218,10/18/2023,Russell Sage,away,L,1,7,False
+10/21/2023,@ Centenary (NJ),L 1-8,76,10/21/2023,Centenary (NJ),away,L,1,8,False
+10/24/2023,Medgar Evers,W 11-0,51,10/24/2023,Medgar Evers,home,W,11,0,False
+10/29/2023,@ Yeshiva,Canceled,,10/29/2023,Yeshiva,away,,,,
+11/02/2023,@ #4 Mary Washington C2C Women's Soccer Championship,L 0-4,142,11/02/2023,Mary Washington,away,L,0,4,False

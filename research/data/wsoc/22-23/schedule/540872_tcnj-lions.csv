@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2022,"Salisbury @Saint Mary's City, MD",L 2-3,122,09/03/2022,Salisbury,neutral,L,2,3,False
+09/04/2022,@ St. Mary's (MD),W 5-0,123,09/04/2022,St. Mary's (MD),away,W,5,0,False
+09/09/2022,"NYU @Hoboken, NJ",T 4-4,215,09/09/2022,NYU,neutral,T,4,4,False
+09/11/2022,"Redlands @Hoboken, NJ",W 4-1,71,09/11/2022,Redlands,neutral,W,4,1,False
+09/14/2022,Farmingdale St.,W 9-0,82,09/14/2022,Farmingdale St.,home,W,9,0,False
+09/17/2022,@ Penn St.-Berks,W 6-2,192,09/17/2022,Penn St.-Berks,away,W,6,2,False
+09/20/2022,@ Stevens,W 1-0,132,09/20/2022,Stevens,away,W,1,0,False
+09/24/2022,@ Ramapo,W 6-0,120,09/24/2022,Ramapo,away,W,6,0,False
+09/28/2022,Kean,W 5-0,66,09/28/2022,Kean,home,W,5,0,False
+10/01/2022,Wm. Paterson,W 6-1,0,10/01/2022,Wm. Paterson,home,W,6,1,False
+10/05/2022,Elizabethtown,W 6-1,82,10/05/2022,Elizabethtown,home,W,6,1,False
+10/08/2022,@ Rutgers-Newark,W 5-0,123,10/08/2022,Rutgers-Newark,away,W,5,0,False
+10/12/2022,@ Stockton,W 4-3,167,10/12/2022,Stockton,away,W,4,3,False
+10/15/2022,Montclair St.,L 2-3,149,10/15/2022,Montclair St.,home,L,2,3,False
+10/19/2022,@ Rowan,T 0-0,269,10/19/2022,Rowan,away,T,0,0,False
+10/22/2022,@ New Jersey City,W 3-0,121,10/22/2022,New Jersey City,away,W,3,0,False
+10/26/2022,Rutgers-Camden,W 6-1,109,10/26/2022,Rutgers-Camden,home,W,6,1,False
+10/29/2022,#6 Stockton NJAC WSOC Championship,W 1-0,0,10/29/2022,Stockton,home,W,1,0,False
+11/02/2022,@ #2 Rowan NJAC WSOC Championship,L 0-1,345,11/02/2022,Rowan,away,L,0,1,False

@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Simpson,W 4-3 (2 OT),132,09/01/2021,Simpson,home,W,4,3,True
+09/04/2021,"Bridgewater (VA) @Lexington, VA",L 0-1,58,09/04/2021,Bridgewater (VA),neutral,L,0,1,False
+09/05/2021,@ Wash. & Lee,L 0-3,83,09/05/2021,Wash. & Lee,away,L,0,3,False
+09/11/2021,"Wartburg @La Crosse, WI",L 0-2,70,09/11/2021,Wartburg,neutral,L,0,2,False
+09/12/2021,@ Wis.-La Crosse,L 0-4,247,09/12/2021,Wis.-La Crosse,away,L,0,4,False
+09/18/2021,@ Loras,L 2-3 (2 OT),110,09/18/2021,Loras,away,L,2,3,True
+09/25/2021,@ North Park,W 5-0,96,09/25/2021,North Park,away,W,5,0,False
+09/26/2021,@ UChicago,T 2-2 (2 OT),171,09/26/2021,UChicago,away,T,2,2,True
+09/29/2021,Elmhurst,W 4-0,170,09/29/2021,Elmhurst,home,W,4,0,False
+10/03/2021,Concordia Wisconsin,W 4-3 (1 OT),54,10/03/2021,Concordia Wisconsin,home,W,4,3,True
+10/09/2021,@ Wheaton (IL),L 1-2,812,10/09/2021,Wheaton (IL),away,L,1,2,False
+10/13/2021,@ North Central (IL),W 2-1,143,10/13/2021,North Central (IL),away,W,2,1,False
+10/16/2021,Augustana (IL),W 2-1,76,10/16/2021,Augustana (IL),home,W,2,1,False
+10/20/2021,WashU,L 0-1,57,10/20/2021,WashU,home,L,0,1,False
+10/23/2021,@ Carroll (WI),W 3-1,145,10/23/2021,Carroll (WI),away,W,3,1,False
+10/27/2021,Millikin,W 3-1,71,10/27/2021,Millikin,home,W,3,1,False
+10/30/2021,Carthage,W 8-0,115,10/30/2021,Carthage,home,W,8,0,False
+11/03/2021,#3 North Central (IL) CCIW WSOC Championship,L 3-6,306,11/03/2021,North Central (IL),home,L,3,6,False

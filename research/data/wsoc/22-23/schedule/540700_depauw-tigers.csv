@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Otterbein,T 1-1,209,09/01/2022,Otterbein,away,T,1,1,False
+09/03/2022,Manchester,W 2-0,150,09/03/2022,Manchester,home,W,2,0,False
+09/07/2022,@ Franklin,W 1-0,217,09/07/2022,Franklin,away,W,1,0,False
+09/11/2022,St. Mary's (IN),W 2-1,58,09/11/2022,St. Mary's (IN),home,W,2,1,False
+09/17/2022,@ Wis.-Whitewater,L 0-4,100,09/17/2022,Wis.-Whitewater,away,L,0,4,False
+09/18/2022,"Rhodes @Whitewater, WI",T 1-1,100,09/18/2022,Rhodes,neutral,T,1,1,False
+09/21/2022,Rose-Hulman,T 1-1,67,09/21/2022,Rose-Hulman,home,T,1,1,False
+09/24/2022,@ Ohio Northern,L 0-2,161,09/24/2022,Ohio Northern,away,L,0,2,False
+09/27/2022,Wilmington (OH),W 2-0,104,09/27/2022,Wilmington (OH),home,W,2,0,False
+10/01/2022,@ Asbury,W 4-0,0,10/01/2022,Asbury,away,W,4,0,False
+10/08/2022,@ Wooster,W 1-0,177,10/08/2022,Wooster,away,W,1,0,False
+10/12/2022,Ohio Wesleyan,L 0-1,213,10/12/2022,Ohio Wesleyan,home,L,0,1,False
+10/15/2022,@ Kenyon,W 1-0,150,10/15/2022,Kenyon,away,W,1,0,False
+10/18/2022,@ Denison,L 0-5,37,10/18/2022,Denison,away,L,0,5,False
+10/22/2022,Oberlin,W 4-1,131,10/22/2022,Oberlin,home,W,4,1,False
+10/26/2022,Wittenberg,W 1-0,107,10/26/2022,Wittenberg,home,W,1,0,False
+10/29/2022,Hiram,W 3-0,150,10/29/2022,Hiram,home,W,3,0,False
+11/02/2022,#3 Ohio Wesleyan NCAC WSOC Tournament,L 0-2,176,11/02/2022,Ohio Wesleyan,home,L,0,2,False

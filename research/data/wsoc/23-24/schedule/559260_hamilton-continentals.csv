@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/05/2023,Williams,T 0-0,157,09/05/2023,Williams,home,T,0,0,False
+09/09/2023,Trinity (CT),T 1-1,146,09/09/2023,Trinity (CT),home,T,1,1,False
+09/12/2023,@ Oswego St.,W 2-0,68,09/12/2023,Oswego St.,away,W,2,0,False
+09/16/2023,Middlebury,W 2-1,62,09/16/2023,Middlebury,home,W,2,1,False
+09/20/2023,@ Utica,W 3-0,103,09/20/2023,Utica,away,W,3,0,False
+09/23/2023,@ Tufts,T 1-1,100,09/23/2023,Tufts,away,T,1,1,False
+09/24/2023,@ Wesleyan (CT),W 2-0,100,09/24/2023,Wesleyan (CT),away,W,2,0,False
+09/30/2023,Connecticut Col.,W 1-0,134,09/30/2023,Connecticut Col.,home,W,1,0,False
+10/07/2023,@ Bates,L 0-2,250,10/07/2023,Bates,away,L,0,2,False
+10/08/2023,@ Colby,L 2-3,150,10/08/2023,Colby,away,L,2,3,False
+10/11/2023,Hartwick,W 2-1,45,10/11/2023,Hartwick,home,W,2,1,False
+10/14/2023,Bowdoin,L 1-3,157,10/14/2023,Bowdoin,home,L,1,3,False
+10/18/2023,Union (NY),W 2-0,67,10/18/2023,Union (NY),home,W,2,0,False
+10/21/2023,@ Amherst,L 0-3,0,10/21/2023,Amherst,away,L,0,3,False
+10/22/2023,@ Mt. St. Mary (NY),W 2-1,80,10/22/2023,Mt. St. Mary (NY),away,W,2,1,False
+10/28/2023,@ #2 Williams NESCAC Women's Soccer Championship,T 1-1 (2 OT),307,10/28/2023,Williams,away,T,1,1,True

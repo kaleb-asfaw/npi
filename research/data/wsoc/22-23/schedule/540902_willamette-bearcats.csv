@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Warner Pacific,W 4-0,145,09/01/2022,Warner Pacific,home,W,4,0,False
+09/09/2022,@ La Verne,W 1-0,100,09/09/2022,La Verne,away,W,1,0,False
+09/11/2022,@ Whittier,L 2-4,0,09/11/2022,Whittier,away,L,2,4,False
+09/17/2022,@ Whitworth,L 0-1,103,09/17/2022,Whitworth,away,L,0,1,False
+09/18/2022,@ Whitman,W 3-0,0,09/18/2022,Whitman,away,W,3,0,False
+09/24/2022,@ Linfield,W 3-0,126,09/24/2022,Linfield,away,W,3,0,False
+09/25/2022,Pacific Lutheran,L 1-4,90,09/25/2022,Pacific Lutheran,home,L,1,4,False
+09/28/2022,Lewis & Clark,L 2-3,70,09/28/2022,Lewis & Clark,home,L,2,3,False
+10/01/2022,Pacific (OR),L 1-2,75,10/01/2022,Pacific (OR),home,L,1,2,False
+10/08/2022,@ Puget Sound,L 0-3,100,10/08/2022,Puget Sound,away,L,0,3,False
+10/09/2022,George Fox,L 0-2,125,10/09/2022,George Fox,home,L,0,2,False
+10/15/2022,Whitworth,T 0-0,125,10/15/2022,Whitworth,home,T,0,0,False
+10/16/2022,Whitman,W 3-0,100,10/16/2022,Whitman,home,W,3,0,False
+10/22/2022,Linfield,L 1-2,80,10/22/2022,Linfield,home,L,1,2,False
+10/23/2022,@ Pacific Lutheran,L 1-4,173,10/23/2022,Pacific Lutheran,away,L,1,4,False
+10/26/2022,@ Lewis & Clark,T 0-0,116,10/26/2022,Lewis & Clark,away,T,0,0,False
+10/29/2022,@ Pacific (OR),W 4-2,67,10/29/2022,Pacific (OR),away,W,4,2,False
+11/05/2022,Puget Sound,L 0-4,155,11/05/2022,Puget Sound,home,L,0,4,False
+11/06/2022,@ George Fox,L 0-3,86,11/06/2022,George Fox,away,L,0,3,False

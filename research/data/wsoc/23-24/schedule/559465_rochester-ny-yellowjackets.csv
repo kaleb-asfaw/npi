@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ RIT,W 3-0,500,09/01/2023,RIT,away,W,3,0,False
+09/04/2023,Cortland,W 2-0,87,09/04/2023,Cortland,home,W,2,0,False
+09/07/2023,@ Alfred,W 4-0,185,09/07/2023,Alfred,away,W,4,0,False
+09/10/2023,@ William Smith,T 2-2,323,09/10/2023,William Smith,away,T,2,2,False
+09/13/2023,@ Keuka,W 4-0,145,09/13/2023,Keuka,away,W,4,0,False
+09/16/2023,York (PA),W 2-0,242,09/16/2023,York (PA),home,W,2,0,False
+09/21/2023,St. John Fisher,W 2-0,172,09/21/2023,St. John Fisher,home,W,2,0,False
+09/26/2023,SUNY Geneseo,W 1-0,111,09/26/2023,SUNY Geneseo,home,W,1,0,False
+09/30/2023,@ UChicago,T 2-2,179,09/30/2023,UChicago,away,T,2,2,False
+10/03/2023,@ Houghton,W 4-1,75,10/03/2023,Houghton,away,W,4,1,False
+10/07/2023,@ Carnegie Mellon,T 1-1,258,10/07/2023,Carnegie Mellon,away,T,1,1,False
+10/10/2023,Buffalo St.,W 6-0,75,10/10/2023,Buffalo St.,home,W,6,0,False
+10/14/2023,CWRU,T 1-1,137,10/14/2023,CWRU,home,T,1,1,False
+10/20/2023,NYU,T 0-0,147,10/20/2023,NYU,home,T,0,0,False
+10/22/2023,Brandeis,W 1-0,103,10/22/2023,Brandeis,home,W,1,0,False
+10/29/2023,@ WashU,W 2-1,578,10/29/2023,WashU,away,W,2,1,False
+11/04/2023,Emory,W 2-1,280,11/04/2023,Emory,home,W,2,1,False
+11/11/2023,Penn St.-Behrend NCAA Division III Women's Soccer Championship,W 2-1,253,11/11/2023,Penn St.-Behrend,home,W,2,1,False
+11/12/2023,Misericordia NCAA Division III Women's Soccer Championship,W 2-1,205,11/12/2023,Misericordia,home,W,2,1,False
+11/18/2023,NYU NCAA Division III Women's Soccer Championship,W 2-1,289,11/18/2023,NYU,home,W,2,1,False
+11/19/2023,Tufts NCAA Division III Women's Soccer Championship,L 0-1,364,11/19/2023,Tufts,home,L,0,1,False

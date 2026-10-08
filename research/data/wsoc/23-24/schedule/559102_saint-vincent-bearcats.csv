@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Marietta,L 0-1,274,09/01/2023,Marietta,away,L,0,1,False
+09/03/2023,Hiram,W 3-0,140,09/03/2023,Hiram,home,W,3,0,False
+09/06/2023,Pitt.-Greensburg,W 1-0,88,09/06/2023,Pitt.-Greensburg,home,W,1,0,False
+09/10/2023,@ Penn St.-Altoona,W 2-1,79,09/10/2023,Penn St.-Altoona,away,W,2,1,False
+09/13/2023,@ Wilson,L 0-1,160,09/13/2023,Wilson,away,L,0,1,False
+09/15/2023,La Roche,W 7-0,105,09/15/2023,La Roche,home,W,7,0,False
+09/19/2023,Westminster (PA),L 0-1,90,09/19/2023,Westminster (PA),home,L,0,1,False
+09/23/2023,@ Wash. & Jeff.,W 2-1,120,09/23/2023,Wash. & Jeff.,away,W,2,1,False
+09/27/2023,@ Waynesburg,T 4-4,77,09/27/2023,Waynesburg,away,T,4,4,False
+09/30/2023,Geneva,W 3-0,160,09/30/2023,Geneva,home,W,3,0,False
+10/04/2023,Penn College,T 1-1,55,10/04/2023,Penn College,home,T,1,1,False
+10/07/2023,@ Bethany (WV),W 2-0,54,10/07/2023,Bethany (WV),away,W,2,0,False
+10/11/2023,Thiel,W 8-0,105,10/11/2023,Thiel,home,W,8,0,False
+10/14/2023,Franciscan,W 4-0,76,10/14/2023,Franciscan,home,W,4,0,False
+10/18/2023,@ Allegheny,T 1-1,145,10/18/2023,Allegheny,away,T,1,1,False
+10/21/2023,@ Grove City,L 0-1,100,10/21/2023,Grove City,away,L,0,1,False
+10/24/2023,Chatham,W 2-0,115,10/24/2023,Chatham,home,W,2,0,False
+10/28/2023,#6 Franciscan PAC Women's Soccer Championship,T 0-0 (3 OT),115,10/28/2023,Franciscan,home,T,0,0,True

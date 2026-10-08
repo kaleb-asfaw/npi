@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/08/2021,Roger Williams,Ppd,,09/08/2021,Roger Williams,home,,,,
+09/15/2021,@ Coast Guard,W 2-1,150,09/15/2021,Coast Guard,away,W,2,1,False
+09/18/2021,@ Bates,W 1-0,150,09/18/2021,Bates,away,W,1,0,False
+09/19/2021,Colby,W 2-0,75,09/19/2021,Colby,home,W,2,0,False
+09/20/2021,@ UMass Dartmouth,Ppd,,09/20/2021,UMass Dartmouth,away,,,,
+09/25/2021,Amherst,L 0-4,450,09/25/2021,Amherst,home,L,0,4,False
+09/26/2021,@ Hamilton,T 0-0 (2 OT),100,09/26/2021,Hamilton,away,T,0,0,True
+10/02/2021,Middlebury,W 2-0,"1,500",10/02/2021,Middlebury,home,W,2,0,False
+10/03/2021,Williams,W 1-0,563,10/03/2021,Williams,home,W,1,0,False
+10/06/2021,Eastern Conn. St.,W 3-0,100,10/06/2021,Eastern Conn. St.,home,W,3,0,False
+10/07/2021,Mitchell,W 4-0,100,10/07/2021,Mitchell,home,W,4,0,False
+10/11/2021,@ JWU (Providence),T 0-0 (2 OT),75,10/11/2021,JWU (Providence),away,T,0,0,True
+10/16/2021,@ Bowdoin,W 3-1,194,10/16/2021,Bowdoin,away,W,3,1,False
+10/19/2021,Trinity (CT),L 1-2 (1 OT),102,10/19/2021,Trinity (CT),home,L,1,2,True
+10/21/2021,@ UMass Dartmouth,W 6-0,84,10/21/2021,UMass Dartmouth,away,W,6,0,False
+10/24/2021,Tufts,L 1-2 (2 OT),400,10/24/2021,Tufts,home,L,1,2,True
+10/26/2021,@ Wesleyan (CT),T 1-1 (2 OT),78,10/26/2021,Wesleyan (CT),away,T,1,1,True
+10/30/2021,@ #4 Middlebury NESCAC WSOC Championship,L 1-2,128,10/30/2021,Middlebury,away,L,1,2,False
+11/13/2021,"SUNY Geneseo @Scranton, PA (NCAA Division III Women's Soccer Championship)",L 1-2,274,11/13/2021,SUNY Geneseo,neutral,L,1,2,False

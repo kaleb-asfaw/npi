@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2024,@ Grinnell,L 0-3,100,09/01/2024,Grinnell,away,L,0,3,False
+09/04/2024,Edgewood,L 1-2,83,09/04/2024,Edgewood,home,L,1,2,False
+09/07/2024,@ Concordia Chicago,L 0-1,287,09/07/2024,Concordia Chicago,away,L,0,1,False
+09/11/2024,Augustana (IL),L 1-2,48,09/11/2024,Augustana (IL),home,L,1,2,False
+09/14/2024,Monmouth (IL),T 0-0,146,09/14/2024,Monmouth (IL),home,T,0,0,False
+09/15/2024,Augsburg,L 0-7,93,09/15/2024,Augsburg,home,L,0,7,False
+09/18/2024,Cornell College,W 2-1,164,09/18/2024,Cornell College,home,W,2,1,False
+09/21/2024,Ripon,W 1-0,132,09/21/2024,Ripon,home,W,1,0,False
+09/22/2024,Knox,W 4-0,114,09/22/2024,Knox,home,W,4,0,False
+09/28/2024,@ Wis.-Whitewater,L 0-4,212,09/28/2024,Wis.-Whitewater,away,L,0,4,False
+10/05/2024,Wartburg,L 0-1,94,10/05/2024,Wartburg,home,L,0,1,False
+10/09/2024,Dubuque,L 0-5,71,10/09/2024,Dubuque,home,L,0,5,False
+10/12/2024,@ Neb. Wesleyan,T 2-2,149,10/12/2024,Neb. Wesleyan,away,T,2,2,False
+10/15/2024,Buena Vista,L 1-2,47,10/15/2024,Buena Vista,home,L,1,2,False
+10/19/2024,@ Luther,L 0-1,64,10/19/2024,Luther,away,L,0,1,False
+10/23/2024,@ Central (IA),L 0-5,125,10/23/2024,Central (IA),away,L,0,5,False
+10/26/2024,Loras,L 0-5,85,10/26/2024,Loras,home,L,0,5,False
+10/29/2024,@ Simpson,L 0-4,102,10/29/2024,Simpson,away,L,0,4,False

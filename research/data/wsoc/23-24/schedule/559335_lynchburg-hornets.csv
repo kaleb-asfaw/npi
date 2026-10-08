@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,"Grove City @Salem, Va.",W 1-0,37,09/01/2023,Grove City,neutral,W,1,0,False
+09/02/2023,"Penn St. Harrisburg @Salem, VA",W 3-0,57,09/02/2023,Penn St. Harrisburg,neutral,W,3,0,False
+09/09/2023,Johns Hopkins,L 0-2,319,09/09/2023,Johns Hopkins,home,L,0,2,False
+09/13/2023,@ Roanoke,L 0-2,179,09/13/2023,Roanoke,away,L,0,2,False
+09/17/2023,"Emory @Charlotte, NC",L 0-1,98,09/17/2023,Emory,neutral,L,0,1,False
+09/20/2023,Southern Va.,W 2-0,71,09/20/2023,Southern Va.,home,W,2,0,False
+09/23/2023,@ East. Mennonite,W 3-1,96,09/23/2023,East. Mennonite,away,W,3,1,False
+09/25/2023,Mary Washington,W 2-1,94,09/25/2023,Mary Washington,home,W,2,1,False
+09/30/2023,Bridgewater (VA),W 2-1,341,09/30/2023,Bridgewater (VA),home,W,2,1,False
+10/04/2023,@ Averett,W 4-0,125,10/04/2023,Averett,away,W,4,0,False
+10/07/2023,@ Wash. & Lee,T 1-1,342,10/07/2023,Wash. & Lee,away,T,1,1,False
+10/11/2023,Batten,T 0-0,0,10/11/2023,Batten,home,T,0,0,False
+10/14/2023,@ Guilford,W 2-0,122,10/14/2023,Guilford,away,W,2,0,False
+10/18/2023,Randolph,W 4-0,111,10/18/2023,Randolph,home,W,4,0,False
+10/21/2023,Shenandoah,W 2-1,"1,006",10/21/2023,Shenandoah,home,W,2,1,False
+10/25/2023,@ Randolph-Macon,T 1-1,102,10/25/2023,Randolph-Macon,away,T,1,1,False
+10/28/2023,Ferrum,W 3-0,93,10/28/2023,Ferrum,home,W,3,0,False
+10/31/2023,#7 Randolph-Macon ODAC Women's Soccer Championship,W 1-0,332,10/31/2023,Randolph-Macon,home,W,1,0,False
+11/03/2023,#3 Wash. & Lee ODAC Women's Soccer Championship,L 2-3 (2 OT),877,11/03/2023,Wash. & Lee,home,L,2,3,True

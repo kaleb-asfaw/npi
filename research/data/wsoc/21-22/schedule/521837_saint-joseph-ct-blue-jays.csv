@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Fitchburg St.,W 1-0,75,09/01/2021,Fitchburg St.,away,W,1,0,False
+09/08/2021,@ Rhode Island Col.,W 2-0,65,09/08/2021,Rhode Island Col.,away,W,2,0,False
+09/11/2021,@ Anna Maria,W 1-0,125,09/11/2021,Anna Maria,away,W,1,0,False
+09/14/2021,MCLA,W 6-0,57,09/14/2021,MCLA,home,W,6,0,False
+09/18/2021,JWU (Providence),T 0-0 (2 OT),184,09/18/2021,JWU (Providence),home,T,0,0,True
+09/22/2021,@ Emmanuel (MA),W 1-0,100,09/22/2021,Emmanuel (MA),away,W,1,0,False
+09/25/2021,Lasell,L 0-1 (1 OT),219,09/25/2021,Lasell,home,L,0,1,True
+09/29/2021,St. Joseph's (ME),W 1-0,71,09/29/2021,St. Joseph's (ME),home,W,1,0,False
+10/06/2021,@ Elms,L 0-1,0,10/06/2021,Elms,away,L,0,1,False
+10/09/2021,@ Norwich,W 3-1,182,10/09/2021,Norwich,away,W,3,1,False
+10/12/2021,Albertus Magnus,W 3-2 (1 OT),241,10/12/2021,Albertus Magnus,home,W,3,2,True
+10/15/2021,Rivier,W 1-0,129,10/15/2021,Rivier,home,W,1,0,False
+10/20/2021,@ Regis (MA),L 0-2,125,10/20/2021,Regis (MA),away,L,0,2,False
+10/23/2021,@ Colby-Sawyer,W 1-0,82,10/23/2021,Colby-Sawyer,away,W,1,0,False
+10/25/2021,Simmons,W 4-2,61,10/25/2021,Simmons,home,W,4,2,False
+10/28/2021,@ Dean,W 4-2,65,10/28/2021,Dean,away,W,4,2,False
+10/30/2021,#5 Albertus Magnus Great Northeast WSOC Championship,W 3-0,343,10/30/2021,Albertus Magnus,home,W,3,0,False
+11/03/2021,@ #1 JWU (Providence) Great Northeast WSOC Championship,L 0-3,100,11/03/2021,JWU (Providence),away,L,0,3,False

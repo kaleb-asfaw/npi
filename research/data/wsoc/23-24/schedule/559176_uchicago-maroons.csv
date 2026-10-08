@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Fontbonne,W 3-0,132,09/01/2023,Fontbonne,home,W,3,0,False
+09/03/2023,@ Dominican (IL),W 1-0,200,09/03/2023,Dominican (IL),away,W,1,0,False
+09/06/2023,@ Hanover,T 1-1,133,09/06/2023,Hanover,away,T,1,1,False
+09/09/2023,Kalamazoo,W 4-1,75,09/09/2023,Kalamazoo,home,W,4,1,False
+09/13/2023,Wheaton (IL),W 4-0,181,09/13/2023,Wheaton (IL),home,W,4,0,False
+09/16/2023,Calvin,L 2-3,157,09/16/2023,Calvin,home,L,2,3,False
+09/20/2023,@ Wis.-Oshkosh,W 5-0,52,09/20/2023,Wis.-Oshkosh,away,W,5,0,False
+09/23/2023,@ Hope,T 1-1,397,09/23/2023,Hope,away,T,1,1,False
+09/27/2023,Carroll (WI),W 3-0,45,09/27/2023,Carroll (WI),home,W,3,0,False
+09/30/2023,Rochester (NY),T 2-2,179,09/30/2023,Rochester (NY),home,T,2,2,False
+10/03/2023,Alma,W 7-0,87,10/03/2023,Alma,home,W,7,0,False
+10/07/2023,NYU,L 2-4,134,10/07/2023,NYU,home,L,2,4,False
+10/09/2023,Illinois Tech,W 3-2,89,10/09/2023,Illinois Tech,home,W,3,2,False
+10/14/2023,@ Brandeis,W 1-0,300,10/14/2023,Brandeis,away,W,1,0,False
+10/20/2023,@ CWRU,T 1-1,212,10/20/2023,CWRU,away,T,1,1,False
+10/22/2023,@ Carnegie Mellon,T 0-0,197,10/22/2023,Carnegie Mellon,away,T,0,0,False
+10/28/2023,Emory,T 1-1,125,10/28/2023,Emory,home,T,1,1,False
+11/04/2023,@ WashU,T 0-0,296,11/04/2023,WashU,away,T,0,0,False
+11/11/2023,"North Central (IL) @Dubuque, IA (NCAA Division III Women's Soccer Championship)",T 1-1 (3 OT),250,11/11/2023,North Central (IL),neutral,T,1,1,True
+11/12/2023,@ Loras NCAA Division III Women's Soccer Championship,L 1-2 (2 OT),300,11/12/2023,Loras,away,L,1,2,True

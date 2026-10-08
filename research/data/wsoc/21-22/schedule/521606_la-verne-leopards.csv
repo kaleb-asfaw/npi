@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Occidental,L 0-2,389,09/01/2021,Occidental,home,L,0,2,False
+09/04/2021,@ Redlands,L 0-2,230,09/04/2021,Redlands,away,L,0,2,False
+09/09/2021,@ Cal St. San Marcos,L 0-3,116,09/09/2021,Cal St. San Marcos,away,L,0,3,False
+09/11/2021,@ Caltech,L 0-1,25,09/11/2021,Caltech,away,L,0,1,False
+09/15/2021,@ Whittier,L 1-4,100,09/15/2021,Whittier,away,L,1,4,False
+09/18/2021,@ CMS,W 2-0,117,09/18/2021,CMS,away,W,2,0,False
+09/22/2021,Pomona-Pitzer,L 0-4,0,09/22/2021,Pomona-Pitzer,home,L,0,4,False
+09/25/2021,Chapman,L 2-3,0,09/25/2021,Chapman,home,L,2,3,False
+10/02/2021,@ Occidental,L 0-1 (1 OT),100,10/02/2021,Occidental,away,L,0,1,True
+10/06/2021,Cal Lutheran,L 0-2,0,10/06/2021,Cal Lutheran,home,L,0,2,False
+10/09/2021,Redlands,L 0-1,0,10/09/2021,Redlands,home,L,0,1,False
+10/13/2021,@ Caltech,W 2-0,42,10/13/2021,Caltech,away,W,2,0,False
+10/16/2021,CMS,L 1-2 (1 OT),0,10/16/2021,CMS,home,L,1,2,True
+10/23/2021,@ Chapman,L 0-3,156,10/23/2021,Chapman,away,L,0,3,False
+10/27/2021,Whittier,W 1-0 (1 OT),0,10/27/2021,Whittier,home,W,1,0,True
+10/30/2021,@ Pomona-Pitzer,L 0-3,146,10/30/2021,Pomona-Pitzer,away,L,0,3,False

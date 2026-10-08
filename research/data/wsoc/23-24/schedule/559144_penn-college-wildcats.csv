@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Mount Aloysius,T 2-2,226,09/01/2023,Mount Aloysius,away,T,2,2,False
+09/02/2023,@ Geneva,T 1-1,171,09/02/2023,Geneva,away,T,1,1,False
+09/06/2023,Wilson,T 0-0,211,09/06/2023,Wilson,home,T,0,0,False
+09/09/2023,@ Elmira,W 1-0,78,09/09/2023,Elmira,away,W,1,0,False
+09/13/2023,@ Cairn,W 4-1,107,09/13/2023,Cairn,away,W,4,1,False
+09/16/2023,Alfred St.,W 6-1,50,09/16/2023,Alfred St.,home,W,6,1,False
+09/17/2023,Marymount (VA),T 0-0,0,09/17/2023,Marymount (VA),home,T,0,0,False
+09/20/2023,Penn St.-Altoona,W 4-1,211,09/20/2023,Penn St.-Altoona,home,W,4,1,False
+09/23/2023,Penn St.-Berks,T 0-0,75,09/23/2023,Penn St.-Berks,home,T,0,0,False
+09/25/2023,Clarks Summit,W 9-0,50,09/25/2023,Clarks Summit,home,W,9,0,False
+09/27/2023,@ Keystone,W 3-0,70,09/27/2023,Keystone,away,W,3,0,False
+09/30/2023,@ Penn St. Harrisburg,L 0-1,189,09/30/2023,Penn St. Harrisburg,away,L,0,1,False
+10/02/2023,@ Lancaster Bible,W 3-1,173,10/02/2023,Lancaster Bible,away,W,3,1,False
+10/04/2023,@ Saint Vincent,T 1-1,55,10/04/2023,Saint Vincent,away,T,1,1,False
+10/10/2023,Penn St.-Abington,W 6-2,150,10/10/2023,Penn St.-Abington,home,W,6,2,False
+10/12/2023,Pitt.-Bradford,Canceled,,10/12/2023,Pitt.-Bradford,home,,,,
+10/14/2023,St. Mary's (MD),T 0-0,115,10/14/2023,St. Mary's (MD),home,T,0,0,False
+10/18/2023,Keuka,W 4-0,100,10/18/2023,Keuka,home,W,4,0,False
+10/20/2023,@ Gallaudet,W 10-1,89,10/20/2023,Gallaudet,away,W,10,1,False
+10/28/2023,#6 Penn St.-Abington United East Women's Soccer Championship,W 4-0,169,10/28/2023,Penn St.-Abington,home,W,4,0,False
+10/31/2023,@ #2 Penn St. Harrisburg United East Women's Soccer Championship,L 0-1,192,10/31/2023,Penn St. Harrisburg,away,L,0,1,False

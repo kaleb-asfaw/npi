@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Centre,L 1-2,350,09/01/2023,Centre,away,L,1,2,False
+09/06/2023,@ Berea,W 7-0,120,09/06/2023,Berea,away,W,7,0,False
+09/09/2023,Marietta,W 1-0,700,09/09/2023,Marietta,home,W,1,0,False
+09/10/2023,Capital,T 1-1,500,09/10/2023,Capital,home,T,1,1,False
+09/16/2023,@ Albion,L 0-1,124,09/16/2023,Albion,away,L,0,1,False
+09/17/2023,@ Adrian,L 0-3,177,09/17/2023,Adrian,away,L,0,3,False
+09/20/2023,Wilmington (OH),T 1-1,200,09/20/2023,Wilmington (OH),home,T,1,1,False
+09/24/2023,@ Otterbein,L 0-2,218,09/24/2023,Otterbein,away,L,0,2,False
+09/27/2023,Rose-Hulman,W 2-1,412,09/27/2023,Rose-Hulman,home,W,2,1,False
+09/30/2023,Franklin,W 3-0,858,09/30/2023,Franklin,home,W,3,0,False
+10/04/2023,@ Bluffton,W 2-0,75,10/04/2023,Bluffton,away,W,2,0,False
+10/07/2023,Earlham,W 2-0,232,10/07/2023,Earlham,home,W,2,0,False
+10/11/2023,Transylvania,W 1-0,244,10/11/2023,Transylvania,home,W,1,0,False
+10/14/2023,@ Anderson (IN),W 1-0,162,10/14/2023,Anderson (IN),away,W,1,0,False
+10/18/2023,@ Hanover,L 0-6,267,10/18/2023,Hanover,away,L,0,6,False
+10/21/2023,@ Manchester,W 3-0,100,10/21/2023,Manchester,away,W,3,0,False
+10/23/2023,@ Asbury,W 2-1,100,10/23/2023,Asbury,away,W,2,1,False
+10/25/2023,Defiance,W 8-0,200,10/25/2023,Defiance,home,W,8,0,False
+10/31/2023,#3 Transylvania HCAC Women's Soccer Championship,L 1-2,500,10/31/2023,Transylvania,home,L,1,2,False

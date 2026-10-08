@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2021,Mt. St. Mary (NY),L 0-1,135,09/03/2021,Mt. St. Mary (NY),home,L,0,1,False
+09/04/2021,@ Mount Holyoke,W 7-0,54,09/04/2021,Mount Holyoke,away,W,7,0,False
+09/11/2021,SUNY New Paltz,W 2-1 (2 OT),235,09/11/2021,SUNY New Paltz,home,W,2,1,True
+09/14/2021,Russell Sage,W 3-0,75,09/14/2021,Russell Sage,home,W,3,0,False
+09/18/2021,Plattsburgh St.,L 1-2,185,09/18/2021,Plattsburgh St.,home,L,1,2,False
+09/25/2021,@ William Smith,L 0-4,425,09/25/2021,William Smith,away,L,0,4,False
+09/28/2021,@ Clarkson,T 1-1 (2 OT),70,09/28/2021,Clarkson,away,T,1,1,True
+10/02/2021,@ Rensselaer,W 4-1,0,10/02/2021,Rensselaer,away,W,4,1,False
+10/06/2021,@ Hartwick,W 1-0,75,10/06/2021,Hartwick,away,W,1,0,False
+10/09/2021,Vassar,W 3-0,180,10/09/2021,Vassar,home,W,3,0,False
+10/15/2021,@ Ithaca,W 2-1,100,10/15/2021,Ithaca,away,W,2,1,False
+10/16/2021,@ RIT,L 0-2,113,10/16/2021,RIT,away,L,0,2,False
+10/23/2021,St. Lawrence,L 1-2,310,10/23/2021,St. Lawrence,home,L,1,2,False
+10/27/2021,Union (NY),L 0-2,155,10/27/2021,Union (NY),home,L,0,2,False
+10/30/2021,Bard,W 4-0,137,10/30/2021,Bard,home,W,4,0,False
+11/02/2021,@ #4 RIT Liberty WSOC Championship,L 0-2,53,11/02/2021,RIT,away,L,0,2,False

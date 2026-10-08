@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,St. Thomas (TX),L 1-2,95,09/01/2022,St. Thomas (TX),home,L,1,2,False
+09/03/2022,Texas Lutheran,W 2-1,95,09/03/2022,Texas Lutheran,home,W,2,1,False
+09/06/2022,@ Austin,T 2-2,132,09/06/2022,Austin,away,T,2,2,False
+09/11/2022,@ Centenary (LA),W 4-1,100,09/11/2022,Centenary (LA),away,W,4,1,False
+09/13/2022,Texas Col.,W 9-0,110,09/13/2022,Texas Col.,home,W,9,0,False
+09/17/2022,Okla. Panhandle,W 2-0,100,09/17/2022,Okla. Panhandle,home,W,2,0,False
+09/22/2022,@ Hardin-Simmons,L 0-4,287,09/22/2022,Hardin-Simmons,away,L,0,4,False
+09/24/2022,"East Tex. Baptist @Midlothian, Texas",L 0-2,200,09/24/2022,East Tex. Baptist,neutral,L,0,2,False
+09/29/2022,Ozarks (AR),W 2-1,100,09/29/2022,Ozarks (AR),home,W,2,1,False
+10/01/2022,UT Dallas,L 0-2,100,10/01/2022,UT Dallas,home,L,0,2,False
+10/06/2022,@ Concordia (TX),L 0-2,48,10/06/2022,Concordia (TX),away,L,0,2,False
+10/08/2022,@ Mary Hardin-Baylor,T 0-0,306,10/08/2022,Mary Hardin-Baylor,away,T,0,0,False
+10/13/2022,Hardin-Simmons,L 1-5,100,10/13/2022,Hardin-Simmons,home,L,1,5,False
+10/15/2022,McMurry,L 0-2,100,10/15/2022,McMurry,home,L,0,2,False
+10/22/2022,@ Sul Ross St.,L 1-2,28,10/22/2022,Sul Ross St.,away,L,1,2,False
+10/27/2022,@ East Tex. Baptist,L 1-3,120,10/27/2022,East Tex. Baptist,away,L,1,3,False
+10/29/2022,@ LeTourneau,W 3-2,156,10/29/2022,LeTourneau,away,W,3,2,False

@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Stevens,W 2-1,103,08/30/2024,Stevens,home,W,2,1,False
+08/31/2024,Mt. St. Mary (NY),W 6-1,214,08/31/2024,Mt. St. Mary (NY),home,W,6,1,False
+09/07/2024,SUNY Geneseo,T 3-3,103,09/07/2024,SUNY Geneseo,home,T,3,3,False
+09/10/2024,@ St. John Fisher,T 2-2,150,09/10/2024,St. John Fisher,away,T,2,2,False
+09/14/2024,@ Plattsburgh St.,W 1-0,197,09/14/2024,Plattsburgh St.,away,W,1,0,False
+09/21/2024,@ Wooster,L 0-3,181,09/21/2024,Wooster,away,L,0,3,False
+09/25/2024,@ William Smith,L 1-2,175,09/25/2024,William Smith,away,L,1,2,False
+09/28/2024,Clarkson,T 0-0,147,09/28/2024,Clarkson,home,T,0,0,False
+10/01/2024,Nazareth,W 4-1,203,10/01/2024,Nazareth,home,W,4,1,False
+10/05/2024,Bard,W 7-0,184,10/05/2024,Bard,home,W,7,0,False
+10/08/2024,@ Rochester (NY),L 0-1,107,10/08/2024,Rochester (NY),away,L,0,1,False
+10/12/2024,@ St. Lawrence,W 2-1,186,10/12/2024,St. Lawrence,away,W,2,1,False
+10/18/2024,@ Skidmore,T 2-2,240,10/18/2024,Skidmore,away,T,2,2,False
+10/19/2024,@ Rensselaer,W 2-1,274,10/19/2024,Rensselaer,away,W,2,1,False
+10/26/2024,Union (NY),W 1-0,221,10/26/2024,Union (NY),home,W,1,0,False
+10/29/2024,Ithaca,L 0-1,146,10/29/2024,Ithaca,home,L,0,1,False
+11/02/2024,Vassar,L 1-2,207,11/02/2024,Vassar,home,L,1,2,False
+11/05/2024,@ Skidmore Liberty League Women's Soccer Championship,L 0-1,180,11/05/2024,Skidmore,away,L,0,1,False

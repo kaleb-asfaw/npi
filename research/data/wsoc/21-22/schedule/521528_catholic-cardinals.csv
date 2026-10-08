@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2021,McDaniel,L 0-3,134,09/02/2021,McDaniel,home,L,0,3,False
+09/04/2021,@ Batten,W 2-1,50,09/04/2021,Batten,away,W,2,1,False
+09/05/2021,"Chris. Newport @Virginia Beach, VA",L 0-4,132,09/05/2021,Chris. Newport,neutral,L,0,4,False
+09/08/2021,@ Stevenson,W 4-3 (1 OT),320,09/08/2021,Stevenson,away,W,4,3,True
+09/11/2021,Johns Hopkins,L 0-4,87,09/11/2021,Johns Hopkins,home,L,0,4,False
+09/19/2021,Salisbury,T 3-3 (2 OT),134,09/19/2021,Salisbury,home,T,3,3,True
+09/22/2021,@ St. Mary's (MD),W 2-1,60,09/22/2021,St. Mary's (MD),away,W,2,1,False
+09/25/2021,Moravian,L 0-1,180,09/25/2021,Moravian,home,L,0,1,False
+09/29/2021,Bryn Mawr,W 1-0,87,09/29/2021,Bryn Mawr,home,W,1,0,False
+10/02/2021,@ Elizabethtown,L 0-3,312,10/02/2021,Elizabethtown,away,L,0,3,False
+10/06/2021,@ Marymount (VA),W 5-1,55,10/06/2021,Marymount (VA),away,W,5,1,False
+10/09/2021,Drew,L 1-4,0,10/09/2021,Drew,home,L,1,4,False
+10/13/2021,Goucher,L 1-3,50,10/13/2021,Goucher,home,L,1,3,False
+10/16/2021,@ Scranton,L 0-5,201,10/16/2021,Scranton,away,L,0,5,False
+10/20/2021,Gettysburg,L 0-3,33,10/20/2021,Gettysburg,home,L,0,3,False
+10/23/2021,Susquehanna,L 0-4,164,10/23/2021,Susquehanna,home,L,0,4,False
+10/30/2021,@ Juniata,W 4-0,130,10/30/2021,Juniata,away,W,4,0,False

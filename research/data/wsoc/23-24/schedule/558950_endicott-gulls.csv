@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Lasell,W 4-0,113,09/01/2023,Lasell,home,W,4,0,False
+09/03/2023,Carthage,W 5-0,117,09/03/2023,Carthage,home,W,5,0,False
+09/06/2023,@ Wellesley,W 3-0,90,09/06/2023,Wellesley,away,W,3,0,False
+09/10/2023,@ Bowdoin,L 0-2,112,09/10/2023,Bowdoin,away,L,0,2,False
+09/13/2023,Emerson,W 1-0,153,09/13/2023,Emerson,home,W,1,0,False
+09/16/2023,@ Nichols,W 3-0,112,09/16/2023,Nichols,away,W,3,0,False
+09/20/2023,@ Babson,L 0-1,305,09/20/2023,Babson,away,L,0,1,False
+09/23/2023,Suffolk,W 3-0,110,09/23/2023,Suffolk,home,W,3,0,False
+09/26/2023,Wheaton (MA),W 2-0,147,09/26/2023,Wheaton (MA),home,W,2,0,False
+09/30/2023,Roger Williams,T 0-0,128,09/30/2023,Roger Williams,home,T,0,0,False
+10/03/2023,@ Salem St.,W 9-1,60,10/03/2023,Salem St.,away,W,9,1,False
+10/05/2023,@ Tufts,L 0-2,100,10/05/2023,Tufts,away,L,0,2,False
+10/07/2023,@ Wentworth,W 2-0,245,10/07/2023,Wentworth,away,W,2,0,False
+10/10/2023,@ Gordon,T 1-1,159,10/10/2023,Gordon,away,T,1,1,False
+10/14/2023,Hartford,L 0-3,303,10/14/2023,Hartford,home,L,0,3,False
+10/18/2023,Curry,W 3-0,157,10/18/2023,Curry,home,W,3,0,False
+10/22/2023,@ Western New Eng.,T 0-0,200,10/22/2023,Western New Eng.,away,T,0,0,False
+10/24/2023,U New England,T 1-1,213,10/24/2023,U New England,home,T,1,1,False
+10/28/2023,#6 Curry CCC Women's Soccer Championship,W 3-0,202,10/28/2023,Curry,home,W,3,0,False
+11/01/2023,#7 Suffolk CCC Women's Soccer Championship,W 4-0,213,11/01/2023,Suffolk,home,W,4,0,False
+11/04/2023,@ #1 Western New Eng. CCC Women's Soccer Championship,W 1-0,350,11/04/2023,Western New Eng.,away,W,1,0,False
+11/11/2023,"Williams @Mechanicsburg, PA (NCAA Division III Women's Soccer Championship)",L 0-2,259,11/11/2023,Williams,neutral,L,0,2,False

@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Regis (MA),W 3-1,20,09/01/2021,Regis (MA),away,W,3,1,False
+09/11/2021,Plymouth St.,W 2-1,150,09/11/2021,Plymouth St.,home,W,2,1,False
+09/15/2021,St. Joseph's (ME),W 4-1,75,09/15/2021,St. Joseph's (ME),home,W,4,1,False
+09/18/2021,Brandeis,L 0-2,75,09/18/2021,Brandeis,home,L,0,2,False
+09/25/2021,@ WPI,L 0-2,100,09/25/2021,WPI,away,L,0,2,False
+09/28/2021,@ Amherst,L 0-4,89,09/28/2021,Amherst,away,L,0,4,False
+10/02/2021,Mount Holyoke,W 6-0,50,10/02/2021,Mount Holyoke,home,W,6,0,False
+10/06/2021,@ Coast Guard,W 1-0,55,10/06/2021,Coast Guard,away,W,1,0,False
+10/09/2021,@ Babson,L 1-2,163,10/09/2021,Babson,away,L,1,2,False
+10/13/2021,Wheaton (MA),W 2-1,100,10/13/2021,Wheaton (MA),home,W,2,1,False
+10/16/2021,MIT,L 0-2,200,10/16/2021,MIT,home,L,0,2,False
+10/20/2021,@ Clark (MA),W 4-1,75,10/20/2021,Clark (MA),away,W,4,1,False
+10/23/2021,Wellesley,W 1-0,100,10/23/2021,Wellesley,home,W,1,0,False
+10/27/2021,Smith,W 2-0,75,10/27/2021,Smith,home,W,2,0,False
+10/30/2021,@ Springfield,W 1-0,75,10/30/2021,Springfield,away,W,1,0,False
+11/02/2021,Wheaton (MA),L 0-1,200,11/02/2021,Wheaton (MA),home,L,0,1,False

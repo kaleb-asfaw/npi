@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Allegheny,W 2-0,273,09/01/2023,Allegheny,home,W,2,0,False
+09/03/2023,Franciscan,W 3-1,272,09/03/2023,Franciscan,home,W,3,1,False
+09/05/2023,@ Baldwin Wallace,L 1-4,105,09/05/2023,Baldwin Wallace,away,L,1,4,False
+09/09/2023,Wilmington (OH),W 2-0,0,09/09/2023,Wilmington (OH),home,W,2,0,False
+09/13/2023,@ CWRU,L 0-2,137,09/13/2023,CWRU,away,L,0,2,False
+09/19/2023,Mount Union,T 1-1,67,09/19/2023,Mount Union,home,T,1,1,False
+09/21/2023,@ John Carroll,L 0-1,117,09/21/2023,John Carroll,away,L,0,1,False
+09/23/2023,Wheaton (IL),L 2-4,57,09/23/2023,Wheaton (IL),home,L,2,4,False
+09/27/2023,Heidelberg,W 2-1,373,09/27/2023,Heidelberg,home,W,2,1,False
+09/29/2023,@ Grove City,W 2-0,75,09/29/2023,Grove City,away,W,2,0,False
+10/07/2023,@ Ohio Wesleyan,L 0-3,187,10/07/2023,Ohio Wesleyan,away,L,0,3,False
+10/11/2023,Wooster,W 2-1,134,10/11/2023,Wooster,home,W,2,1,False
+10/14/2023,DePauw,T 1-1,94,10/14/2023,DePauw,home,T,1,1,False
+10/17/2023,@ Denison,L 0-1,26,10/17/2023,Denison,away,L,0,1,False
+10/21/2023,Wittenberg,L 0-2,178,10/21/2023,Wittenberg,home,L,0,2,False
+10/25/2023,Hiram,W 5-0,163,10/25/2023,Hiram,home,W,5,0,False
+10/28/2023,@ Kenyon,L 2-4,35,10/28/2023,Kenyon,away,L,2,4,False

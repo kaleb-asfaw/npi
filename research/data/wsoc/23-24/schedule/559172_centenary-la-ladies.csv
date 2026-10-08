@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2023,@ Ozarks (AR),L 0-1,205,09/02/2023,Ozarks (AR),away,L,0,1,False
+09/03/2023,"Hendrix @Clarksville, Ark.",L 0-3,105,09/03/2023,Hendrix,neutral,L,0,3,False
+09/08/2023,UT Dallas,L 0-1,225,09/08/2023,UT Dallas,home,L,0,1,False
+09/10/2023,"Sul Ross St. @Dallas, Texas",L 0-2,96,09/10/2023,Sul Ross St.,neutral,L,0,2,False
+09/12/2023,Belhaven,W 1-0,85,09/12/2023,Belhaven,home,W,1,0,False
+09/15/2023,Birmingham-So.,T 0-0,365,09/15/2023,Birmingham-So.,home,T,0,0,False
+09/17/2023,Millsaps,T 0-0,80,09/17/2023,Millsaps,home,T,0,0,False
+09/23/2023,@ Howard Payne,L 0-2,178,09/23/2023,Howard Payne,away,L,0,2,False
+09/26/2023,@ LeTourneau,L 0-2,0,09/26/2023,LeTourneau,away,L,0,2,False
+10/06/2023,Texas Lutheran,L 0-1,95,10/06/2023,Texas Lutheran,home,L,0,1,False
+10/08/2023,Southwestern (TX),L 0-6,95,10/08/2023,Southwestern (TX),home,L,0,6,False
+10/13/2023,@ Dallas,L 0-2,214,10/13/2023,Dallas,away,L,0,2,False
+10/15/2023,@ Austin,T 0-0,157,10/15/2023,Austin,away,T,0,0,False
+10/20/2023,@ Schreiner,L 0-2,213,10/20/2023,Schreiner,away,L,0,2,False
+10/22/2023,@ Trinity (TX),L 0-9,100,10/22/2023,Trinity (TX),away,L,0,9,False
+10/27/2023,St. Thomas (TX),L 0-4,284,10/27/2023,St. Thomas (TX),home,L,0,4,False

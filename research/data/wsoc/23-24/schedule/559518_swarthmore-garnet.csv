@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Marywood,W 6-1,191,09/01/2023,Marywood,home,W,6,1,False
+09/03/2023,Bridgewater (VA),W 3-2,93,09/03/2023,Bridgewater (VA),home,W,3,2,False
+09/06/2023,Rutgers-Newark,W 2-0,70,09/06/2023,Rutgers-Newark,home,W,2,0,False
+09/09/2023,Montclair St.,Canceled,,09/09/2023,Montclair St.,home,,,,
+09/13/2023,@ Rowan,T 2-2,125,09/13/2023,Rowan,away,T,2,2,False
+09/16/2023,Gettysburg,W 3-0,112,09/16/2023,Gettysburg,home,W,3,0,False
+09/20/2023,Muhlenberg,W 4-1,104,09/20/2023,Muhlenberg,home,W,4,1,False
+09/23/2023,@ Franklin & Marshall,W 2-0,130,09/23/2023,Franklin & Marshall,away,W,2,0,False
+09/27/2023,@ Widener,W 3-2,179,09/27/2023,Widener,away,W,3,2,False
+10/04/2023,@ Bryn Mawr,W 3-0,75,10/04/2023,Bryn Mawr,away,W,3,0,False
+10/07/2023,@ Ursinus,W 4-1,98,10/07/2023,Ursinus,away,W,4,1,False
+10/11/2023,Johns Hopkins,T 1-1,112,10/11/2023,Johns Hopkins,home,T,1,1,False
+10/14/2023,Dickinson,W 1-0,82,10/14/2023,Dickinson,home,W,1,0,False
+10/18/2023,@ Chris. Newport,L 0-1,209,10/18/2023,Chris. Newport,away,L,0,1,False
+10/21/2023,McDaniel,L 0-1,121,10/21/2023,McDaniel,home,L,0,1,False
+10/25/2023,@ Washington Col.,W 2-0,128,10/25/2023,Washington Col.,away,W,2,0,False
+10/28/2023,@ Haverford,W 2-0,173,10/28/2023,Haverford,away,W,2,0,False
+11/03/2023,#4 Franklin & Marshall Centennial Women's Soccer Championship,L 0-1,200,11/03/2023,Franklin & Marshall,home,L,0,1,False
+11/11/2023,"Bowdoin @Geneva, NY (NCAA Division III Women's Soccer Championship)",L 0-1,78,11/11/2023,Bowdoin,neutral,L,0,1,False

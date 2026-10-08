@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2021,@ Emory & Henry,L 0-1,124,09/02/2021,Emory & Henry,away,L,0,1,False
+09/04/2021,CarolinaU,W 3-1,63,09/04/2021,CarolinaU,home,W,3,1,False
+09/07/2021,Southern Va.,L 0-2,84,09/07/2021,Southern Va.,home,L,0,2,False
+09/11/2021,Berry,L 0-2,124,09/11/2021,Berry,home,L,0,2,False
+09/15/2021,William Peace,T 0-0,37,09/15/2021,William Peace,home,T,0,0,False
+09/18/2021,"N.C. Wesleyan @Winston-Salem, NC",T 0-0,31,09/18/2021,N.C. Wesleyan,neutral,T,0,0,False
+09/22/2021,Bob Jones,L 0-1,78,09/22/2021,Bob Jones,home,L,0,1,False
+09/25/2021,@ Huntingdon,L 0-1,40,09/25/2021,Huntingdon,away,L,0,1,False
+09/26/2021,@ LaGrange,W 2-1 (2 OT),151,09/26/2021,LaGrange,away,W,2,1,True
+09/29/2021,Piedmont,W 1-0,74,09/29/2021,Piedmont,home,W,1,0,False
+10/02/2021,Wesleyan (GA),W 2-0,82,10/02/2021,Wesleyan (GA),home,W,2,0,False
+10/07/2021,Warren Wilson,W 4-0,47,10/07/2021,Warren Wilson,home,W,4,0,False
+10/09/2021,@ Covenant,T 0-0 (2 OT),482,10/09/2021,Covenant,away,T,0,0,True
+10/13/2021,Maryville (TN),L 0-3,124,10/13/2021,Maryville (TN),home,L,0,3,False
+10/16/2021,Agnes Scott,W 8-0,92,10/16/2021,Agnes Scott,home,W,8,0,False
+10/18/2021,@ Warren Wilson,W 3-0,64,10/18/2021,Warren Wilson,away,W,3,0,False
+10/20/2021,JWU (Charlotte),W 1-0,112,10/20/2021,JWU (Charlotte),home,W,1,0,False
+10/23/2021,@ Berea,W 4-1,100,10/23/2021,Berea,away,W,4,1,False
+10/26/2021,Huntingdon,L 0-1,118,10/26/2021,Huntingdon,home,L,0,1,False

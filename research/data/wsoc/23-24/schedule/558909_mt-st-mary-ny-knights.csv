@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,NYU,L 0-7,143,09/01/2023,NYU,home,L,0,7,False
+09/06/2023,@ Ithaca,L 0-5,125,09/06/2023,Ithaca,away,L,0,5,False
+09/09/2023,@ Salisbury,L 0-4,148,09/09/2023,Salisbury,away,L,0,4,False
+09/10/2023,"St. Mary's (MD) @Salisbury, MD",L 0-1,56,09/10/2023,St. Mary's (MD),neutral,L,0,1,False
+09/13/2023,SUNY New Paltz,L 1-6,85,09/13/2023,SUNY New Paltz,home,L,1,6,False
+09/16/2023,@ Skidmore,L 0-3,75,09/16/2023,Skidmore,away,L,0,3,False
+09/20/2023,Manhattanville,T 1-1,74,09/20/2023,Manhattanville,home,T,1,1,False
+09/23/2023,@ Sarah Lawrence,T 3-3,25,09/23/2023,Sarah Lawrence,away,T,3,3,False
+09/26/2023,@ SUNY Maritime,W 2-0,94,09/26/2023,SUNY Maritime,away,W,2,0,False
+09/30/2023,UMSV,T 2-2,137,09/30/2023,UMSV,home,T,2,2,False
+10/04/2023,Farmingdale St.,W 2-0,143,10/04/2023,Farmingdale St.,home,W,2,0,False
+10/07/2023,@ Merchant Marine,L 0-1,50,10/07/2023,Merchant Marine,away,L,0,1,False
+10/12/2023,Yeshiva,W 10-0,48,10/12/2023,Yeshiva,home,W,10,0,False
+10/14/2023,@ Old Westbury,W 11-0,31,10/14/2023,Old Westbury,away,W,11,0,False
+10/18/2023,St. Joseph's (L.I.),L 2-3,62,10/18/2023,St. Joseph's (L.I.),home,L,2,3,False
+10/21/2023,@ Purchase,W 3-0,45,10/21/2023,Purchase,away,W,3,0,False
+10/22/2023,Hamilton,L 1-2,80,10/22/2023,Hamilton,home,L,1,2,False
+10/24/2023,St. Joseph's (Brkln),W 6-0,43,10/24/2023,St. Joseph's (Brkln),home,W,6,0,False
+10/28/2023,@ #3 UMSV Skyline Women's Soccer Championship,L 0-6,250,10/28/2023,UMSV,away,L,0,6,False

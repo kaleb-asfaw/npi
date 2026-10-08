@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Gustavus Adolphus,T 2-2,194,08/30/2024,Gustavus Adolphus,home,T,2,2,False
+09/03/2024,@ Marian (WI),L 0-2,313,09/03/2024,Marian (WI),away,L,0,2,False
+09/07/2024,@ Saint Benedict,L 1-3,225,09/07/2024,Saint Benedict,away,L,1,3,False
+09/08/2024,@ St. Catherine,L 0-1,164,09/08/2024,St. Catherine,away,L,0,1,False
+09/11/2024,@ Loras,L 0-3,115,09/11/2024,Loras,away,L,0,3,False
+09/14/2024,MSOE,L 0-2,168,09/14/2024,MSOE,home,L,0,2,False
+09/16/2024,St. Norbert,W 1-0,158,09/16/2024,St. Norbert,home,W,1,0,False
+09/21/2024,Dubuque,T 0-0,97,09/21/2024,Dubuque,home,T,0,0,False
+09/28/2024,@ UChicago,L 1-4,199,09/28/2024,UChicago,away,L,1,4,False
+10/02/2024,North Park,L 1-3,44,10/02/2024,North Park,home,L,1,3,False
+10/05/2024,@ Wis.-La Crosse,L 0-3,225,10/05/2024,Wis.-La Crosse,away,L,0,3,False
+10/09/2024,Wis.-Whitewater,L 3-4,123,10/09/2024,Wis.-Whitewater,home,L,3,4,False
+10/12/2024,@ Wis.-Stout,W 3-2,205,10/12/2024,Wis.-Stout,away,W,3,2,False
+10/19/2024,Wis.-Eau Claire,L 0-1,207,10/19/2024,Wis.-Eau Claire,home,L,0,1,False
+10/23/2024,@ Wis.-Stevens Point,L 0-1,167,10/23/2024,Wis.-Stevens Point,away,L,0,1,False
+10/26/2024,@ UW-River Falls,W 1-0,248,10/26/2024,UW-River Falls,away,W,1,0,False
+10/30/2024,@ Lake Forest,L 0-3,102,10/30/2024,Lake Forest,away,L,0,3,False
+11/02/2024,Wis.-Platteville,L 1-2,167,11/02/2024,Wis.-Platteville,home,L,1,2,False

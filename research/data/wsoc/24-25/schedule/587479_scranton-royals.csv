@@ -1,0 +1,24 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Kean,W 2-0,102,08/30/2024,Kean,away,W,2,0,False
+08/31/2024,"Stockton @Union, NJ",W 2-0,102,08/31/2024,Stockton,neutral,W,2,0,False
+09/07/2024,Vassar,T 1-1,243,09/07/2024,Vassar,home,T,1,1,False
+09/11/2024,@ Penn St.-Berks,W 5-0,0,09/11/2024,Penn St.-Berks,away,W,5,0,False
+09/14/2024,Stevens,W 2-1,264,09/14/2024,Stevens,home,W,2,1,False
+09/18/2024,@ SUNY New Paltz,W 2-0,75,09/18/2024,SUNY New Paltz,away,W,2,0,False
+09/21/2024,@ Haverford,W 3-0,213,09/21/2024,Haverford,away,W,3,0,False
+09/25/2024,Misericordia,T 0-0,163,09/25/2024,Misericordia,home,T,0,0,False
+09/28/2024,Elizabethtown,W 3-0,234,09/28/2024,Elizabethtown,home,W,3,0,False
+10/01/2024,NYU,L 0-1,134,10/01/2024,NYU,home,L,0,1,False
+10/05/2024,@ Catholic,W 3-1,187,10/05/2024,Catholic,away,W,3,1,False
+10/09/2024,Lycoming,W 4-2,134,10/09/2024,Lycoming,home,W,4,2,False
+10/12/2024,Goucher,W 3-0,214,10/12/2024,Goucher,home,W,3,0,False
+10/16/2024,@ Wilkes,W 3-0,110,10/16/2024,Wilkes,away,W,3,0,False
+10/19/2024,Juniata,W 4-0,314,10/19/2024,Juniata,home,W,4,0,False
+10/23/2024,Drew,W 2-0,256,10/23/2024,Drew,home,W,2,0,False
+10/26/2024,@ Susquehanna,W 3-0,176,10/26/2024,Susquehanna,away,W,3,0,False
+11/02/2024,@ Moravian,W 1-0,317,11/02/2024,Moravian,away,W,1,0,False
+11/07/2024,#4 Drew Landmark Women's Soccer Championship,W 5-0,189,11/07/2024,Drew,home,W,5,0,False
+11/09/2024,#2 Lycoming Landmark Women's Soccer Championship,W 3-0,317,11/09/2024,Lycoming,home,W,3,0,False
+11/16/2024,Marywood NCAA Division III Women's Soccer Championship,W 3-1,438,11/16/2024,Marywood,home,W,3,1,False
+11/17/2024,"Wesleyan (CT) @Scranton, PA (NCAA Division III Women's Soccer Championship)",W 2-0,397,11/17/2024,Wesleyan (CT),neutral,W,2,0,False
+11/23/2024,Trinity (TX) NCAA Division III Women's Soccer Championship,L 0-1 (1 OT),528,11/23/2024,Trinity (TX),home,L,0,1,True

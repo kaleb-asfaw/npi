@@ -1,0 +1,24 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Batten,T 0-0,694,08/30/2024,Batten,away,T,0,0,False
+09/01/2024,Shenandoah,W 1-0,302,09/01/2024,Shenandoah,home,W,1,0,False
+09/06/2024,UT Dallas,W 3-0,322,09/06/2024,UT Dallas,home,W,3,0,False
+09/08/2024,Ohio Northern,W 3-1,347,09/08/2024,Ohio Northern,home,W,3,1,False
+09/14/2024,"Emory @Greensboro, NC",W 1-0,100,09/14/2024,Emory,neutral,W,1,0,False
+09/20/2024,Trinity (TX),W 4-2,361,09/20/2024,Trinity (TX),home,W,4,2,False
+09/27/2024,@ Wis.-La Crosse,W 3-1,425,09/27/2024,Wis.-La Crosse,away,W,3,1,False
+09/29/2024,"Wis.-Eau Claire @La Crosse, WI",W 4-0,100,09/29/2024,Wis.-Eau Claire,neutral,W,4,0,False
+10/02/2024,Marymount (VA),W 2-0,162,10/02/2024,Marymount (VA),home,W,2,0,False
+10/05/2024,@ Swarthmore,W 1-0,112,10/05/2024,Swarthmore,away,W,1,0,False
+10/09/2024,Southern Va.,W 5-0,191,10/09/2024,Southern Va.,home,W,5,0,False
+10/12/2024,@ Mary Washington,W 2-0,310,10/12/2024,Mary Washington,away,W,2,0,False
+10/15/2024,@ Roanoke,W 6-0,76,10/15/2024,Roanoke,away,W,6,0,False
+10/20/2024,Wash. & Lee,T 0-0,265,10/20/2024,Wash. & Lee,home,T,0,0,False
+10/22/2024,Methodist,W 5-1,197,10/22/2024,Methodist,home,W,5,1,False
+10/26/2024,Salisbury,W 4-1,342,10/26/2024,Salisbury,home,W,4,1,False
+11/08/2024,"#4 Salisbury @Santa Cruz, CA (C2C WSOC Championship)",W 4-0,30,11/08/2024,Salisbury,neutral,W,4,0,False
+11/10/2024,@ #2 UC Santa Cruz C2C WSOC Championship,L 0-2,130,11/10/2024,UC Santa Cruz,away,L,0,2,False
+11/16/2024,John Jay NCAA Division III Women's Soccer Championship,W 12-0,227,11/16/2024,John Jay,home,W,12,0,False
+11/17/2024,Vassar NCAA Division III Women's Soccer Championship,W 4-0,241,11/17/2024,Vassar,home,W,4,0,False
+11/23/2024,Misericordia NCAA Division III Women's Soccer Championship,W 1-0,712,11/23/2024,Misericordia,home,W,1,0,False
+11/24/2024,Johns Hopkins NCAA Division III Women's Soccer Championship,W 3-2,382,11/24/2024,Johns Hopkins,home,W,3,2,False
+12/06/2024,"WashU @Las Vegas, NV (NCAA Division III Women's Soccer Championship)",L 0-3,399,12/06/2024,WashU,neutral,L,0,3,False

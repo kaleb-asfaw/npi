@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/08/2021,Old Westbury,Ppd,,09/08/2021,Old Westbury,home,,,,
+09/11/2021,Sarah Lawrence,L 1-6,20,09/11/2021,Sarah Lawrence,home,L,1,6,False
+09/15/2021,Purchase,W 1-0,1,09/15/2021,Purchase,home,W,1,0,False
+09/22/2021,St. Joseph's (L.I.),L 1-5,20,09/22/2021,St. Joseph's (L.I.),home,L,1,5,False
+09/25/2021,St. Joseph's (Brkln),W 3-1,0,09/25/2021,St. Joseph's (Brkln),home,W,3,1,False
+09/29/2021,CCNY,L 1-3,20,09/29/2021,CCNY,home,L,1,3,False
+10/04/2021,@ Purchase,W 2-1,15,10/04/2021,Purchase,away,W,2,1,False
+10/06/2021,@ CCNY,L 0-2,50,10/06/2021,CCNY,away,L,0,2,False
+10/09/2021,Pratt,L 0-2,0,10/09/2021,Pratt,home,L,0,2,False
+10/13/2021,York (NY),W 6-1,0,10/13/2021,York (NY),home,W,6,1,False
+10/16/2021,@ Medgar Evers,Canceled,,10/16/2021,Medgar Evers,away,,,,
+10/20/2021,John Jay,L 0-1,10,10/20/2021,John Jay,home,L,0,1,False
+10/23/2021,@ Brooklyn,W 4-1,3,10/23/2021,Brooklyn,away,W,4,1,False
+10/25/2021,Old Westbury,W 2-1,11,10/25/2021,Old Westbury,home,W,2,1,False
+10/30/2021,@ #2 CCNY CUNYAC WSOC Championship,W 2-1,100,10/30/2021,CCNY,away,W,2,1,False
+11/04/2021,Yeshiva,Canceled,,11/04/2021,Yeshiva,home,,,,
+11/06/2021,@ #1 John Jay CUNYAC WSOC Championship,L 0-1,30,11/06/2021,John Jay,away,L,0,1,False

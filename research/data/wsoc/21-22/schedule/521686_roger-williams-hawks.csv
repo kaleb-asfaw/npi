@@ -1,0 +1,24 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Framingham St.,W 3-0,50,09/01/2021,Framingham St.,home,W,3,0,False
+09/03/2021,Rhode Island Col.,W 8-0,0,09/03/2021,Rhode Island Col.,home,W,8,0,False
+09/04/2021,@ JWU (Providence),W 1-0,188,09/04/2021,JWU (Providence),away,W,1,0,False
+09/08/2021,@ Connecticut Col.,Ppd,,09/08/2021,Connecticut Col.,away,,,,
+09/10/2021,"SUNY Delhi @Henniker, NH",W 6-0,72,09/10/2021,SUNY Delhi,neutral,W,6,0,False
+09/11/2021,"SUNY Potsdam @Henniker, NH",L 0-1,85,09/11/2021,SUNY Potsdam,neutral,L,0,1,False
+09/14/2021,@ MIT,L 0-4,54,09/14/2021,MIT,away,L,0,4,False
+09/17/2021,Wentworth,W 4-0,0,09/17/2021,Wentworth,home,W,4,0,False
+09/21/2021,WPI,L 2-5,30,09/21/2021,WPI,home,L,2,5,False
+09/25/2021,@ Curry,W 6-1,133,09/25/2021,Curry,away,W,6,1,False
+09/29/2021,@ Bridgewater St.,W 2-0,125,09/29/2021,Bridgewater St.,away,W,2,0,False
+10/02/2021,@ Endicott,L 1-3,550,10/02/2021,Endicott,away,L,1,3,False
+10/07/2021,UMass Dartmouth,W 3-0,125,10/07/2021,UMass Dartmouth,home,W,3,0,False
+10/09/2021,U New England,W 3-1,185,10/09/2021,U New England,home,W,3,1,False
+10/11/2021,@ Fitchburg St.,W 5-2,60,10/11/2021,Fitchburg St.,away,W,5,2,False
+10/13/2021,@ Nichols,W 4-1,95,10/13/2021,Nichols,away,W,4,1,False
+10/16/2021,Western New Eng.,L 1-3,125,10/16/2021,Western New Eng.,home,L,1,3,False
+10/20/2021,@ Gordon,L 1-2,68,10/20/2021,Gordon,away,L,1,2,False
+10/23/2021,Salve Regina,W 2-0,400,10/23/2021,Salve Regina,home,W,2,0,False
+10/26/2021,Suffolk,L 1-2 (1 OT),30,10/26/2021,Suffolk,home,L,1,2,True
+10/30/2021,@ #3 Western New Eng. CCC WSOC Championship,W 2-1,120,10/30/2021,Western New Eng.,away,W,2,1,False
+11/03/2021,@ #2 U New England CCC WSOC Championship,W 2-0,312,11/03/2021,U New England,away,W,2,0,False
+11/06/2021,@ #4 Gordon CCC WSOC Championship,L 0-1,642,11/06/2021,Gordon,away,L,0,1,False

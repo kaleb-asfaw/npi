@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Piedmont,W 3-0,43,09/01/2022,Piedmont,home,W,3,0,False
+09/03/2022,Emory,W 1-0,72,09/03/2022,Emory,home,W,1,0,False
+09/09/2022,"Ohio Northern @Wheaton, IL",T 0-0,42,09/09/2022,Ohio Northern,neutral,T,0,0,False
+09/10/2022,"John Carroll @Wheaton, IL",W 6-0,46,09/10/2022,John Carroll,neutral,W,6,0,False
+09/17/2022,Pacific (OR),W 3-1,124,09/17/2022,Pacific (OR),home,W,3,1,False
+09/18/2022,Linfield,W 3-0,145,09/18/2022,Linfield,home,W,3,0,False
+09/22/2022,Puget Sound,L 0-1,147,09/22/2022,Puget Sound,home,L,0,1,False
+09/25/2022,@ Willamette,W 4-1,90,09/25/2022,Willamette,away,W,4,1,False
+10/01/2022,@ Whitman,W 4-2,0,10/01/2022,Whitman,away,W,4,2,False
+10/02/2022,@ Whitworth,W 2-0,105,10/02/2022,Whitworth,away,W,2,0,False
+10/08/2022,George Fox,T 1-1,156,10/08/2022,George Fox,home,T,1,1,False
+10/09/2022,Lewis & Clark,W 5-1,123,10/09/2022,Lewis & Clark,home,W,5,1,False
+10/14/2022,@ Pacific (OR),W 3-0,48,10/14/2022,Pacific (OR),away,W,3,0,False
+10/16/2022,@ Linfield,W 2-1,123,10/16/2022,Linfield,away,W,2,1,False
+10/19/2022,@ Puget Sound,W 1-0,134,10/19/2022,Puget Sound,away,W,1,0,False
+10/23/2022,Willamette,W 4-1,173,10/23/2022,Willamette,home,W,4,1,False
+10/29/2022,Whitman,W 2-0,79,10/29/2022,Whitman,home,W,2,0,False
+10/30/2022,Whitworth,W 2-1,226,10/30/2022,Whitworth,home,W,2,1,False
+11/05/2022,@ George Fox,W 3-1,127,11/05/2022,George Fox,away,W,3,1,False
+11/06/2022,@ Lewis & Clark,T 0-0,249,11/06/2022,Lewis & Clark,away,T,0,0,False
+11/12/2022,"Mary Hardin-Baylor @San Antonio, TX (NCAA Division III Women's Soccer Championship)",W 2-1,124,11/12/2022,Mary Hardin-Baylor,neutral,W,2,1,False
+11/13/2022,"Trinity (TX) @San Antonio, TX (NCAA Division III Women's Soccer Championship)",L 0-1,231,11/13/2022,Trinity (TX),neutral,L,0,1,False

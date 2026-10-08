@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Warner Pacific,W 3-1,132,09/01/2021,Warner Pacific,home,W,3,1,False
+09/11/2021,"Birmingham-So. @Richardson, TX",W 1-0,100,09/11/2021,Birmingham-So.,neutral,W,1,0,False
+09/12/2021,@ UT Dallas,L 0-2,160,09/12/2021,UT Dallas,away,L,0,2,False
+09/18/2021,George Fox,L 0-1,89,09/18/2021,George Fox,home,L,0,1,False
+09/19/2021,@ Willamette,W 1-0 (2 OT),65,09/19/2021,Willamette,away,W,1,0,True
+09/25/2021,@ Lewis & Clark,L 0-1,67,09/25/2021,Lewis & Clark,away,L,0,1,False
+09/26/2021,Puget Sound,L 0-1 (1 OT),78,09/26/2021,Puget Sound,home,L,0,1,True
+09/29/2021,Linfield,T 1-1 (2 OT),107,09/29/2021,Linfield,home,T,1,1,True
+10/02/2021,Pacific Lutheran,L 0-1,77,10/02/2021,Pacific Lutheran,home,L,0,1,False
+10/09/2021,@ Whitworth,L 0-3,142,10/09/2021,Whitworth,away,L,0,3,False
+10/10/2021,@ Whitman,W 2-1,1,10/10/2021,Whitman,away,W,2,1,False
+10/16/2021,@ George Fox,L 0-2,87,10/16/2021,George Fox,away,L,0,2,False
+10/17/2021,Willamette,W 1-0,74,10/17/2021,Willamette,home,W,1,0,False
+10/23/2021,Lewis & Clark,L 0-1,62,10/23/2021,Lewis & Clark,home,L,0,1,False
+10/24/2021,@ Puget Sound,L 0-1,102,10/24/2021,Puget Sound,away,L,0,1,False
+10/27/2021,@ Linfield,W 1-0,40,10/27/2021,Linfield,away,W,1,0,False
+10/30/2021,@ Pacific Lutheran,L 1-2,80,10/30/2021,Pacific Lutheran,away,L,1,2,False
+11/06/2021,Whitworth,L 0-1,57,11/06/2021,Whitworth,home,L,0,1,False
+11/07/2021,Whitman,L 0-1 (2 OT),0,11/07/2021,Whitman,home,L,0,1,True

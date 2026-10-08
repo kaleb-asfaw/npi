@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Concordia-M'head,L 0-1,40,08/30/2024,Concordia-M'head,home,L,0,1,False
+08/31/2024,Whitworth,L 0-3,65,08/31/2024,Whitworth,home,L,0,3,False
+09/03/2024,Wis.-Platteville,L 0-1,72,09/03/2024,Wis.-Platteville,home,L,0,1,False
+09/07/2024,St. Olaf,L 0-4,128,09/07/2024,St. Olaf,home,L,0,4,False
+09/10/2024,@ Wis.-Whitewater,T 2-2,146,09/10/2024,Wis.-Whitewater,away,T,2,2,False
+09/14/2024,@ St. Scholastica,T 2-2,148,09/14/2024,St. Scholastica,away,T,2,2,False
+09/18/2024,@ Wis.-Eau Claire,L 0-3,105,09/18/2024,Wis.-Eau Claire,away,L,0,3,False
+09/22/2024,Saint Benedict,T 1-1,109,09/22/2024,Saint Benedict,home,T,1,1,False
+09/25/2024,@ Hamline,T 0-0,72,09/25/2024,Hamline,away,T,0,0,False
+09/28/2024,@ Neb. Wesleyan,T 1-1,122,09/28/2024,Neb. Wesleyan,away,T,1,1,False
+10/05/2024,Buena Vista,W 4-1,69,10/05/2024,Buena Vista,home,W,4,1,False
+10/09/2024,Simpson,L 0-6,89,10/09/2024,Simpson,home,L,0,6,False
+10/12/2024,@ Wartburg,L 0-2,145,10/12/2024,Wartburg,away,L,0,2,False
+10/15/2024,@ Central (IA),T 0-0,125,10/15/2024,Central (IA),away,T,0,0,False
+10/19/2024,Coe,W 1-0,64,10/19/2024,Coe,home,W,1,0,False
+10/23/2024,@ Loras,L 0-5,95,10/23/2024,Loras,away,L,0,5,False
+10/29/2024,Dubuque,T 0-0,53,10/29/2024,Dubuque,home,T,0,0,False
+11/02/2024,@ #3 Wartburg American Rivers Women's Soccer Championship,L 0-1,300,11/02/2024,Wartburg,away,L,0,1,False

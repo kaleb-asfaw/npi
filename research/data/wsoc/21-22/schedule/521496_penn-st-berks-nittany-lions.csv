@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2021,@ Wilkes,L 1-4,105,09/02/2021,Wilkes,away,L,1,4,False
+09/04/2021,Moravian,T 1-1 (2 OT),143,09/04/2021,Moravian,home,T,1,1,True
+09/05/2021,@ Franklin & Marshall,L 0-5,154,09/05/2021,Franklin & Marshall,away,L,0,5,False
+09/11/2021,@ Albright,T 0-0 (2 OT),115,09/11/2021,Albright,away,T,0,0,True
+09/14/2021,Dickinson,L 0-2,203,09/14/2021,Dickinson,home,L,0,2,False
+09/18/2021,@ Elizabethtown,L 0-3,391,09/18/2021,Elizabethtown,away,L,0,3,False
+09/22/2021,@ Lancaster Bible,W 5-3,223,09/22/2021,Lancaster Bible,away,W,5,3,False
+09/25/2021,SUNY Morrisville,W 5-0,133,09/25/2021,SUNY Morrisville,home,W,5,0,False
+09/28/2021,@ Arcadia,L 1-2,102,09/28/2021,Arcadia,away,L,1,2,False
+10/02/2021,@ St. Mary's (MD),L 0-1,75,10/02/2021,St. Mary's (MD),away,L,0,1,False
+10/05/2021,TCNJ,L 0-2,140,10/05/2021,TCNJ,home,L,0,2,False
+10/09/2021,Gallaudet,W 2-0,119,10/09/2021,Gallaudet,home,W,2,0,False
+10/16/2021,@ Penn College,W 2-0,0,10/16/2021,Penn College,away,W,2,0,False
+10/17/2021,@ Alvernia,W 1-0,97,10/17/2021,Alvernia,away,W,1,0,False
+10/20/2021,Penn St.-Abington,W 6-0,122,10/20/2021,Penn St.-Abington,home,W,6,0,False
+10/23/2021,@ Penn St. Harrisburg,L 0-1,50,10/23/2021,Penn St. Harrisburg,away,L,0,1,False
+10/26/2021,@ Scranton,Canceled,,10/26/2021,Scranton,away,,,,
+10/30/2021,Wells,W 9-0,88,10/30/2021,Wells,home,W,9,0,False
+11/06/2021,@ #2 St. Mary's (MD) United East WSOC Championship,W 1-0,150,11/06/2021,St. Mary's (MD),away,W,1,0,False
+11/07/2021,@ #1 Penn St. Harrisburg United East WSOC Championship,L 1-2,200,11/07/2021,Penn St. Harrisburg,away,L,1,2,False

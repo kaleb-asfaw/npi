@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Allegheny,W 3-0,205,09/01/2022,Allegheny,away,W,3,0,False
+09/04/2022,@ SUNY Brockport,T 0-0,115,09/04/2022,SUNY Brockport,away,T,0,0,False
+09/10/2022,Geneva,W 6-1,0,09/10/2022,Geneva,home,W,6,1,False
+09/14/2022,Rochester (NY),T 0-0,100,09/14/2022,Rochester (NY),home,T,0,0,False
+09/17/2022,Fredonia,T 1-1,0,09/17/2022,Fredonia,home,T,1,1,False
+09/20/2022,@ Ithaca,L 0-5,120,09/20/2022,Ithaca,away,L,0,5,False
+09/24/2022,Hartwick,W 1-0,0,09/24/2022,Hartwick,home,W,1,0,False
+10/01/2022,@ Houghton,W 2-0,65,10/01/2022,Houghton,away,W,2,0,False
+10/04/2022,RIT,L 0-4,0,10/04/2022,RIT,home,L,0,4,False
+10/09/2022,@ Russell Sage,W 1-0,275,10/09/2022,Russell Sage,away,W,1,0,False
+10/12/2022,Utica,T 2-2,253,10/12/2022,Utica,home,T,2,2,False
+10/15/2022,@ Medaille,W 2-0,45,10/15/2022,Medaille,away,W,2,0,False
+10/18/2022,Nazareth,T 1-1,0,10/18/2022,Nazareth,home,T,1,1,False
+10/22/2022,Alfred,T 0-0,0,10/22/2022,Alfred,home,T,0,0,False
+10/26/2022,@ Keuka,W 4-0,80,10/26/2022,Keuka,away,W,4,0,False
+10/29/2022,@ Elmira,W 2-1,120,10/29/2022,Elmira,away,W,2,1,False
+11/03/2022,#4 Utica Empire 8 WSOC Championship,L 3-5,0,11/03/2022,Utica,home,L,3,5,False

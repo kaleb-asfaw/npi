@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Wis.-Superior,W 2-0,88,09/01/2021,Wis.-Superior,away,W,2,0,False
+09/04/2021,@ Coe,W 1-0,90,09/04/2021,Coe,away,W,1,0,False
+09/06/2021,Martin Luther,W 11-0,1,09/06/2021,Martin Luther,home,W,11,0,False
+09/11/2021,@ Marian (WI),W 4-0,217,09/11/2021,Marian (WI),away,W,4,0,False
+09/12/2021,@ Ripon,W 5-0,99,09/12/2021,Ripon,away,W,5,0,False
+09/14/2021,@ Carleton,W 1-0,123,09/14/2021,Carleton,away,W,1,0,False
+09/18/2021,Saint Benedict,T 0-0 (2 OT),50,09/18/2021,Saint Benedict,home,T,0,0,True
+09/21/2021,Wis.-Platteville,Ppd,,09/21/2021,Wis.-Platteville,home,,,,
+09/25/2021,@ St. Catherine,W 2-1,98,09/25/2021,St. Catherine,away,W,2,1,False
+09/26/2021,@ Wis.-Stout,L 1-2,98,09/26/2021,Wis.-Stout,away,L,1,2,False
+09/29/2021,@ Gustavus Adolphus,W 1-0 (1 OT),30,09/29/2021,Gustavus Adolphus,away,W,1,0,True
+10/02/2021,Concordia-M'head,W 1-0,30,10/02/2021,Concordia-M'head,home,W,1,0,False
+10/06/2021,UW-River Falls,W 1-0 (2 OT),20,10/06/2021,UW-River Falls,home,W,1,0,True
+10/09/2021,@ Augsburg,L 0-1,171,10/09/2021,Augsburg,away,L,0,1,False
+10/12/2021,St. Olaf,W 3-1,20,10/12/2021,St. Olaf,home,W,3,1,False
+10/16/2021,Bethel (MN),W 3-1,50,10/16/2021,Bethel (MN),home,W,3,1,False
+10/23/2021,@ Hamline,L 0-1,86,10/23/2021,Hamline,away,L,0,1,False
+10/27/2021,@ Macalester,W 1-0,234,10/27/2021,Macalester,away,W,1,0,False
+10/29/2021,St. Scholastica,L 1-2,50,10/29/2021,St. Scholastica,home,L,1,2,False
+11/01/2021,#6 St. Scholastica MIAC WSOC Tournament,T 0-0 (3 OT),200,11/01/2021,St. Scholastica,home,T,0,0,True
+11/03/2021,@ #2 Saint Benedict MIAC WSOC Tournament,L 2-3,130,11/03/2021,Saint Benedict,away,L,2,3,False

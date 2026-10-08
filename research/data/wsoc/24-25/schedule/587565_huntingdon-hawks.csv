@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ MUW,W 3-0,56,08/30/2024,MUW,away,W,3,0,False
+09/01/2024,Millsaps,W 3-1,45,09/01/2024,Millsaps,home,W,3,1,False
+09/07/2024,Meredith,L 1-3,70,09/07/2024,Meredith,home,L,1,3,False
+09/08/2024,N.C. Wesleyan,L 0-3,60,09/08/2024,N.C. Wesleyan,home,L,0,3,False
+09/14/2024,Greensboro,L 2-4,40,09/14/2024,Greensboro,home,L,2,4,False
+09/15/2024,Centenary (LA),T 3-3,40,09/15/2024,Centenary (LA),home,T,3,3,False
+09/21/2024,@ Covenant,L 0-1,289,09/21/2024,Covenant,away,L,0,1,False
+09/27/2024,@ Toccoa Falls,Canceled,,09/27/2024,@ Toccoa Falls,home,,,,
+10/01/2024,@ Belhaven,L 0-6,116,10/01/2024,Belhaven,away,L,0,6,False
+10/04/2024,@ Piedmont,L 1-3,151,10/04/2024,Piedmont,away,L,1,3,False
+10/06/2024,Agnes Scott,W 5-0,55,10/06/2024,Agnes Scott,home,W,5,0,False
+10/12/2024,Asbury,T 2-2,75,10/12/2024,Asbury,home,T,2,2,False
+10/15/2024,@ LaGrange,L 2-5,57,10/15/2024,LaGrange,away,L,2,5,False
+10/19/2024,Maryville (TN),L 2-6,60,10/19/2024,Maryville (TN),home,L,2,6,False
+10/23/2024,Wesleyan (GA),W 5-0,65,10/23/2024,Wesleyan (GA),home,W,5,0,False
+10/25/2024,@ Millsaps,W 1-0,40,10/25/2024,Millsaps,away,W,1,0,False

@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ SUNY Morrisville,L 0-1,147,09/01/2022,SUNY Morrisville,away,L,0,1,False
+09/04/2022,@ Wells,W 5-2,100,09/04/2022,Wells,away,W,5,2,False
+09/10/2022,Purchase,L 1-7,123,09/10/2022,Purchase,home,L,1,7,False
+09/13/2022,MCLA,T 1-1,48,09/13/2022,MCLA,home,T,1,1,False
+09/17/2022,@ SUNY Canton,T 0-0,73,09/17/2022,SUNY Canton,away,T,0,0,False
+09/18/2022,@ SUNY Potsdam,L 0-6,87,09/18/2022,SUNY Potsdam,away,L,0,6,False
+09/24/2022,@ Me.-Presque Isle,L 0-3,50,09/24/2022,Me.-Presque Isle,away,L,0,3,False
+09/25/2022,@ Husson,L 0-7,150,09/25/2022,Husson,away,L,0,7,False
+09/28/2022,@ Albany Pharmacy,L 1-2,0,09/28/2022,@ Albany Pharmacy,home,L,1,2,False
+10/01/2022,SUNY Poly,L 0-2,94,10/01/2022,SUNY Poly,home,L,0,2,False
+10/02/2022,SUNY ESF,Ppd,,10/02/2022,SUNY ESF,home,,,,
+10/08/2022,Maine Maritime,L 0-3,77,10/08/2022,Maine Maritime,home,L,0,3,False
+10/09/2022,Thomas (ME),L 0-2,51,10/09/2022,Thomas (ME),home,L,0,2,False
+10/15/2022,@ VTSU-Johnson,L 1-2,125,10/15/2022,VTSU-Johnson,away,L,1,2,False
+10/19/2022,@ SUNY Delhi,L 0-4,105,10/19/2022,SUNY Delhi,away,L,0,4,False
+10/22/2022,Cazenovia,L 0-3,114,10/22/2022,Cazenovia,home,L,0,3,False

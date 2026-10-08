@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Saint Vincent,W 1-0,274,09/01/2023,Saint Vincent,home,W,1,0,False
+09/05/2023,Chatham,W 2-1,109,09/05/2023,Chatham,home,W,2,1,False
+09/09/2023,@ Mt. St. Joseph,L 0-1,700,09/09/2023,Mt. St. Joseph,away,L,0,1,False
+09/13/2023,@ Wooster,L 0-3,134,09/13/2023,Wooster,away,L,0,3,False
+09/16/2023,@ Geneva,W 5-1,120,09/16/2023,Geneva,away,W,5,1,False
+09/23/2023,@ Kenyon,L 0-6,300,09/23/2023,Kenyon,away,L,0,6,False
+09/27/2023,@ Carnegie Mellon,L 0-5,103,09/27/2023,Carnegie Mellon,away,L,0,5,False
+09/30/2023,@ Baldwin Wallace,L 0-3,124,09/30/2023,Baldwin Wallace,away,L,0,3,False
+10/04/2023,@ Muskingum,T 1-1,120,10/04/2023,Muskingum,away,T,1,1,False
+10/07/2023,John Carroll,L 1-2,123,10/07/2023,John Carroll,home,L,1,2,False
+10/11/2023,Mount Union,W 2-0,120,10/11/2023,Mount Union,home,W,2,0,False
+10/14/2023,@ Wilmington (OH),T 1-1,256,10/14/2023,Wilmington (OH),away,T,1,1,False
+10/18/2023,@ Capital,L 0-4,263,10/18/2023,Capital,away,L,0,4,False
+10/21/2023,Heidelberg,W 3-0,123,10/21/2023,Heidelberg,home,W,3,0,False
+10/25/2023,Otterbein,L 1-3,104,10/25/2023,Otterbein,home,L,1,3,False
+10/28/2023,@ Ohio Northern,L 0-3,211,10/28/2023,Ohio Northern,away,L,0,3,False

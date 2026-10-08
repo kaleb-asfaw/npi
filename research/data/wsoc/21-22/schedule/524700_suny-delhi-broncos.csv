@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ SUNY Morrisville,L 0-3,63,09/01/2021,SUNY Morrisville,away,L,0,3,False
+09/04/2021,Old Westbury,W 7-0,142,09/04/2021,Old Westbury,home,W,7,0,False
+09/07/2021,Elmira,W 4-0,0,09/07/2021,Elmira,home,W,4,0,False
+09/10/2021,"Roger Williams @Henniker, NH",L 0-6,72,09/10/2021,Roger Williams,neutral,L,0,6,False
+09/11/2021,@ New England Col.,L 2-3 (1 OT),0,09/11/2021,New England Col.,away,L,2,3,True
+09/18/2021,VTSU-Johnson,W 5-1,129,09/18/2021,VTSU-Johnson,home,W,5,1,False
+09/25/2021,VTSU Lyndon,W 3-0,171,09/25/2021,VTSU Lyndon,home,W,3,0,False
+09/26/2021,Me.-Farmington,W 2-1,156,09/26/2021,Me.-Farmington,home,W,2,1,False
+10/02/2021,@ Cazenovia,W 1-0,45,10/02/2021,Cazenovia,away,W,1,0,False
+10/05/2021,Russell Sage,L 0-1,125,10/05/2021,Russell Sage,home,L,0,1,False
+10/09/2021,@ Maine Maritime,L 0-2,63,10/09/2021,Maine Maritime,away,L,0,2,False
+10/10/2021,@ Thomas (ME),W 1-0,72,10/10/2021,Thomas (ME),away,W,1,0,False
+10/16/2021,@ SUNY Poly,W 6-1,64,10/16/2021,SUNY Poly,away,W,6,1,False
+10/19/2021,@ Bard,W 2-0,85,10/19/2021,Bard,away,W,2,0,False
+10/23/2021,SUNY Canton,W 2-1,158,10/23/2021,SUNY Canton,home,W,2,1,False
+10/30/2021,#4 SUNY Poly North Atlantic Conference Tournament,W 3-1,164,10/30/2021,SUNY Poly,home,W,3,1,False
+10/31/2021,@ #2 Cazenovia North Atlantic Conference Tournament,L 1-2,95,10/31/2021,Cazenovia,away,L,1,2,False

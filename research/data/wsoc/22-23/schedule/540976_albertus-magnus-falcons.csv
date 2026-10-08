@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Mitchell,W 2-0,0,09/01/2022,Mitchell,home,W,2,0,False
+09/03/2022,CCNY,T 3-3,0,09/03/2022,CCNY,home,T,3,3,False
+09/07/2022,"Fisher @New Haven , New Haven",W 5-0,300,09/07/2022,"Fisher @New Haven , New Haven",neutral,W,5,0,False
+09/10/2022,Regis (MA),L 0-2,200,09/10/2022,Regis (MA),home,L,0,2,False
+09/14/2022,Rutgers-Newark,L 0-1,100,09/14/2022,Rutgers-Newark,home,L,0,1,False
+09/17/2022,@ Colby-Sawyer,W 2-0,88,09/17/2022,Colby-Sawyer,away,W,2,0,False
+09/21/2022,Lasell,L 1-2,300,09/21/2022,Lasell,home,L,1,2,False
+09/24/2022,@ Elms,T 1-1,0,09/24/2022,Elms,away,T,1,1,False
+09/28/2022,Anna Maria,W 4-1,200,09/28/2022,Anna Maria,home,W,4,1,False
+10/01/2022,@ Simmons,W 1-0,100,10/01/2022,Simmons,away,W,1,0,False
+10/05/2022,@ Emmanuel (MA),L 0-3,45,10/05/2022,Emmanuel (MA),away,L,0,3,False
+10/08/2022,@ Rivier,W 4-0,65,10/08/2022,Rivier,away,W,4,0,False
+10/12/2022,Saint Joseph (CT),T 0-0,500,10/12/2022,Saint Joseph (CT),home,T,0,0,False
+10/15/2022,St. Joseph's (ME),T 1-1,0,10/15/2022,St. Joseph's (ME),home,T,1,1,False
+10/19/2022,@ Dean,W 1-0,60,10/19/2022,Dean,away,W,1,0,False
+10/22/2022,@ Norwich,W 4-1,72,10/22/2022,Norwich,away,W,4,1,False
+10/25/2022,JWU (Providence),L 2-4,120,10/25/2022,JWU (Providence),home,L,2,4,False
+10/29/2022,@ #3 Emmanuel (MA) Great Northeast WSOC Championship,W 2-1,163,10/29/2022,Emmanuel (MA),away,W,2,1,False
+11/01/2022,@ #2 Lasell Great Northeast WSOC Championship,L 0-3,0,11/01/2022,Lasell,away,L,0,3,False

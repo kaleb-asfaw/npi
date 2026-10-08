@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Penn St.-Berks,L 0-1,324,09/01/2023,Penn St.-Berks,home,L,0,1,False
+09/06/2023,@ Wm. Paterson,T 0-0,80,09/06/2023,Wm. Paterson,away,T,0,0,False
+09/09/2023,Pitt.-Greensburg,L 0-1,217,09/09/2023,Pitt.-Greensburg,home,L,0,1,False
+09/13/2023,King's (PA),T 2-2,231,09/13/2023,King's (PA),home,T,2,2,False
+09/16/2023,Widener,T 0-0,167,09/16/2023,Widener,home,T,0,0,False
+09/20/2023,@ Albright,W 1-0,82,09/20/2023,Albright,away,W,1,0,False
+09/23/2023,Susquehanna,T 0-0,94,09/23/2023,Susquehanna,home,T,0,0,False
+09/27/2023,Marywood,W 2-1,227,09/27/2023,Marywood,home,W,2,1,False
+09/30/2023,@ Moravian,L 0-3,143,09/30/2023,Moravian,away,L,0,3,False
+10/03/2023,Drew,L 0-3,132,10/03/2023,Drew,home,L,0,3,False
+10/07/2023,@ Juniata,W 2-0,108,10/07/2023,Juniata,away,W,2,0,False
+10/10/2023,@ Scranton,L 0-4,213,10/10/2023,Scranton,away,L,0,4,False
+10/14/2023,@ Elizabethtown,T 1-1,115,10/14/2023,Elizabethtown,away,T,1,1,False
+10/17/2023,Lycoming,T 1-1,142,10/17/2023,Lycoming,home,T,1,1,False
+10/21/2023,Catholic,L 0-3,198,10/21/2023,Catholic,home,L,0,3,False
+10/28/2023,Goucher,T 1-1,182,10/28/2023,Goucher,home,T,1,1,False

@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2023,"Fredonia @Erie, PA",W 4-1,143,09/02/2023,Fredonia,neutral,W,4,1,False
+09/03/2023,@ Penn St.-Behrend,W 5-0,0,09/03/2023,Penn St.-Behrend,away,W,5,0,False
+09/06/2023,Franciscan,W 9-0,50,09/06/2023,Franciscan,home,W,9,0,False
+09/09/2023,"Bridgewater (VA) @Winchester, VA",W 2-0,151,09/09/2023,Bridgewater (VA),neutral,W,2,0,False
+09/10/2023,@ Shenandoah,W 3-0,223,09/10/2023,Shenandoah,away,W,3,0,False
+09/13/2023,@ Grove City,W 5-0,100,09/13/2023,Grove City,away,W,5,0,False
+09/15/2023,Ohio Northern,W 4-0,138,09/15/2023,Ohio Northern,home,W,4,0,False
+09/23/2023,@ Point Park,W 2-0,41,09/23/2023,@ Point Park,home,W,2,0,False
+09/24/2023,@ Baldwin Wallace,W 2-1,124,09/24/2023,Baldwin Wallace,away,W,2,1,False
+09/27/2023,Marietta,W 5-0,103,09/27/2023,Marietta,home,W,5,0,False
+09/30/2023,@ Brandeis,W 1-0,100,09/30/2023,Brandeis,away,W,1,0,False
+10/07/2023,Rochester (NY),T 1-1,258,10/07/2023,Rochester (NY),home,T,1,1,False
+10/14/2023,@ Emory,T 3-3,150,10/14/2023,Emory,away,T,3,3,False
+10/20/2023,WashU,T 0-0,198,10/20/2023,WashU,home,T,0,0,False
+10/22/2023,UChicago,T 0-0,197,10/22/2023,UChicago,home,T,0,0,False
+10/29/2023,@ NYU,T 1-1,134,10/29/2023,NYU,away,T,1,1,False
+11/04/2023,CWRU,T 0-0,245,11/04/2023,CWRU,home,T,0,0,False
+11/10/2023,"Wash. & Lee @Newark, NJ (NCAA Division III Women's Soccer Championship)",W 1-0,73,11/10/2023,Wash. & Lee,neutral,W,1,0,False
+11/11/2023,NYU NCAA Division III Women's Soccer Championship,L 0-2,135,11/11/2023,NYU,home,L,0,2,False

@@ -1,0 +1,26 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Salisbury,Ppd,,09/01/2021,Salisbury,home,,,,
+09/04/2021,"Albright @Ardmore, PA",W 3-0,43,09/04/2021,Albright,neutral,W,3,0,False
+09/05/2021,@ Haverford,W 2-0,137,09/05/2021,Haverford,away,W,2,0,False
+09/10/2021,Stevens,W 4-0,211,09/10/2021,Stevens,home,W,4,0,False
+09/12/2021,"NYU @Hoboken, NJ",W 4-0,185,09/12/2021,NYU,neutral,W,4,0,False
+09/15/2021,@ Widener,W 5-0,80,09/15/2021,Widener,away,W,5,0,False
+09/18/2021,Rutgers-Newark,W 4-0,189,09/18/2021,Rutgers-Newark,home,W,4,0,False
+09/25/2021,@ Wm. Paterson,W 2-0,120,09/25/2021,Wm. Paterson,away,W,2,0,False
+09/29/2021,Rowan,W 3-1,0,09/29/2021,Rowan,home,W,3,1,False
+10/02/2021,@ Montclair St.,W 3-1,449,10/02/2021,Montclair St.,away,W,3,1,False
+10/05/2021,@ Penn St.-Berks,W 2-0,140,10/05/2021,Penn St.-Berks,away,W,2,0,False
+10/09/2021,New Jersey City,W 4-0,0,10/09/2021,New Jersey City,home,W,4,0,False
+10/13/2021,@ Rutgers-Camden,W 1-0,100,10/13/2021,Rutgers-Camden,away,W,1,0,False
+10/16/2021,Ramapo,W 5-0,317,10/16/2021,Ramapo,home,W,5,0,False
+10/20/2021,@ Johns Hopkins,T 2-2 (2 OT),357,10/20/2021,Johns Hopkins,away,T,2,2,True
+10/23/2021,@ Kean,W 1-0,144,10/23/2021,Kean,away,W,1,0,False
+10/27/2021,Stockton,W 5-0,0,10/27/2021,Stockton,home,W,5,0,False
+11/02/2021,#4 Stockton NJAC WSOC Championship,W 2-0,227,11/02/2021,Stockton,home,W,2,0,False
+11/05/2021,#3 Rowan NJAC WSOC Championship,T 0-0 (2 OT),667,11/05/2021,Rowan,home,T,0,0,True
+11/13/2021,Westfield St. NCAA Division III Women's Soccer Championship,W 4-0,317,11/13/2021,Westfield St.,home,W,4,0,False
+11/14/2021,Messiah NCAA Division III Women's Soccer Championship,W 2-1,507,11/14/2021,Messiah,home,W,2,1,False
+11/20/2021,Scranton NCAA Division III Women's Soccer Championship,W 3-1,637,11/20/2021,Scranton,home,W,3,1,False
+11/21/2021,@ William Smith NCAA Division III Women's Soccer Championship,W 1-0,412,11/21/2021,William Smith,away,W,1,0,False
+12/03/2021,"Wesleyan (CT) @Greensboro, NC (NCAA Division III Women's Soccer Championship)",W 1-0,842,12/03/2021,Wesleyan (CT),neutral,W,1,0,False
+12/04/2021,"Chris. Newport @Greensboro, NC (NCAA Division III Women's Soccer Championship)",L 0-2,865,12/04/2021,Chris. Newport,neutral,L,0,2,False

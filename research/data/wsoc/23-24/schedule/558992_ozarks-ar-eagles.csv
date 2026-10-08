@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2023,Centenary (LA),W 1-0,205,09/02/2023,Centenary (LA),home,W,1,0,False
+09/03/2023,Westminster (MO),W 3-0,145,09/03/2023,Westminster (MO),home,W,3,0,False
+09/06/2023,Lyon,W 5-0,105,09/06/2023,Lyon,home,W,5,0,False
+09/10/2023,@ Rhodes,L 1-3,50,09/10/2023,Rhodes,away,L,1,3,False
+09/15/2023,@ Dallas,W 2-0,87,09/15/2023,Dallas,away,W,2,0,False
+09/16/2023,@ Austin,W 1-0,171,09/16/2023,Austin,away,W,1,0,False
+09/20/2023,Hendrix,L 0-1,135,09/20/2023,Hendrix,home,L,0,1,False
+09/22/2023,Southwestern Christ.,W 2-1,75,09/22/2023,Southwestern Christ.,home,W,2,1,False
+09/28/2023,Sul Ross St.,W 3-1,105,09/28/2023,Sul Ross St.,home,W,3,1,False
+09/30/2023,Howard Payne,L 1-4,325,09/30/2023,Howard Payne,home,L,1,4,False
+10/07/2023,@ UT Dallas,L 0-3,283,10/07/2023,UT Dallas,away,L,0,3,False
+10/12/2023,@ Mary Hardin-Baylor,L 0-3,160,10/12/2023,Mary Hardin-Baylor,away,L,0,3,False
+10/14/2023,@ Concordia (TX),L 0-1,177,10/14/2023,Concordia (TX),away,L,0,1,False
+10/19/2023,@ LeTourneau,T 1-1,87,10/19/2023,LeTourneau,away,T,1,1,False
+10/21/2023,@ East Tex. Baptist,W 2-0,120,10/21/2023,East Tex. Baptist,away,W,2,0,False
+10/26/2023,McMurry,L 1-4,85,10/26/2023,McMurry,home,L,1,4,False
+10/28/2023,Hardin-Simmons,L 0-5,65,10/28/2023,Hardin-Simmons,home,L,0,5,False

@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/31/2024,"SUNY Canton @Marcy, NY",L 0-2,43,08/31/2024,SUNY Canton,neutral,L,0,2,False
+09/03/2024,@ Bard,Canceled,,09/03/2024,Bard,away,,,,
+09/08/2024,Pitt.-Bradford,L 0-2,113,09/08/2024,Pitt.-Bradford,home,L,0,2,False
+09/11/2024,MCLA,Canceled,,09/11/2024,MCLA,home,,,,
+09/17/2024,SUNY Morrisville,Canceled,,09/17/2024,SUNY Morrisville,home,,,,
+09/21/2024,@ York (NY),Canceled,,09/21/2024,York (NY),away,,,,
+09/28/2024,@ VTSU-Johnson,L 0-1,150,09/28/2024,VTSU-Johnson,away,L,0,1,False
+09/29/2024,@ VTSU Lyndon,Canceled,,09/29/2024,VTSU Lyndon,away,,,,
+10/02/2024,@ Elms,Canceled,,10/02/2024,Elms,away,,,,
+10/05/2024,Brooklyn,Canceled,,10/05/2024,Brooklyn,home,,,,
+10/08/2024,@ SUNY Delhi,L 0-3,101,10/08/2024,SUNY Delhi,away,L,0,3,False
+10/12/2024,@ SUNY ESF,L 0-2,0,10/12/2024,@ SUNY ESF,home,L,0,2,False
+10/16/2024,@ VTSU Castleton,Canceled,,10/16/2024,VTSU Castleton,away,,,,
+10/17/2024,@ Ramapo,L 0-4,65,10/17/2024,Ramapo,away,L,0,4,False
+10/19/2024,VTSU Lyndon,Canceled,,10/19/2024,VTSU Lyndon,home,,,,
+10/20/2024,VTSU-Johnson,L 0-1,134,10/20/2024,VTSU-Johnson,home,L,0,1,False
+10/23/2024,Elmira,Canceled,,10/23/2024,Elmira,home,,,,
+10/26/2024,SUNY Delhi,L 0-5,120,10/26/2024,SUNY Delhi,home,L,0,5,False

@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Randolph-Macon,W 2-1,156,08/30/2024,Randolph-Macon,away,W,2,1,False
+09/01/2024,@ Penn St. Harrisburg,T 0-0,135,09/01/2024,Penn St. Harrisburg,away,T,0,0,False
+09/07/2024,@ Rutgers-Camden,W 1-0,103,09/07/2024,Rutgers-Camden,away,W,1,0,False
+09/11/2024,@ Dickinson,L 0-2,53,09/11/2024,Dickinson,away,L,0,2,False
+09/14/2024,Batten,T 1-1,310,09/14/2024,Batten,home,T,1,1,False
+09/18/2024,Bridgewater (VA),L 1-2,210,09/18/2024,Bridgewater (VA),home,L,1,2,False
+09/21/2024,Methodist,W 7-0,231,09/21/2024,Methodist,home,W,7,0,False
+09/25/2024,Lynchburg,L 0-1,231,09/25/2024,Lynchburg,home,L,0,1,False
+09/28/2024,Hood,W 1-0,210,09/28/2024,Hood,home,W,1,0,False
+10/01/2024,@ St. Mary's (MD),T 0-0,92,10/01/2024,St. Mary's (MD),away,T,0,0,False
+10/05/2024,Marymount (VA),W 1-0,312,10/05/2024,Marymount (VA),home,W,1,0,False
+10/09/2024,@ McDaniel,W 1-0,91,10/09/2024,McDaniel,away,W,1,0,False
+10/12/2024,Chris. Newport,L 0-2,310,10/12/2024,Chris. Newport,home,L,0,2,False
+10/19/2024,@ Salisbury,W 1-0,221,10/19/2024,Salisbury,away,W,1,0,False
+10/23/2024,Southern Va.,W 2-0,198,10/23/2024,Southern Va.,home,W,2,0,False
+10/26/2024,Franklin & Marshall,W 2-0,"1,043",10/26/2024,Franklin & Marshall,home,W,2,0,False
+10/30/2024,@ Catholic,T 0-0,130,10/30/2024,Catholic,away,T,0,0,False
+11/02/2024,@ Johns Hopkins,L 3-4,245,11/02/2024,Johns Hopkins,away,L,3,4,False
+11/08/2024,@ #2 UC Santa Cruz C2C WSOC Championship,L 2-3,87,11/08/2024,UC Santa Cruz,away,L,2,3,False

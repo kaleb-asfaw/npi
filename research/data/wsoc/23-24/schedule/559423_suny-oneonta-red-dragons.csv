@@ -1,0 +1,15 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Hartwick,T 1-1,300,09/01/2023,Hartwick,home,T,1,1,False
+09/05/2023,Alfred,W 4-1,200,09/05/2023,Alfred,home,W,4,1,False
+09/09/2023,Keene St.,W 2-0,154,09/09/2023,Keene St.,home,W,2,0,False
+09/10/2023,Rutgers-Camden,W 1-0,100,09/10/2023,Rutgers-Camden,home,W,1,0,False
+09/13/2023,@ Union (NY),T 1-1,129,09/13/2023,Union (NY),away,T,1,1,False
+09/16/2023,SUNY Potsdam,W 2-0,100,09/16/2023,SUNY Potsdam,home,W,2,0,False
+09/23/2023,SUNY Geneseo,T 0-0,312,09/23/2023,SUNY Geneseo,home,T,0,0,False
+09/30/2023,@ SUNY Brockport,L 0-1,55,09/30/2023,SUNY Brockport,away,L,0,1,False
+10/04/2023,Cortland,L 2-3,120,10/04/2023,Cortland,home,L,2,3,False
+10/07/2023,Oswego St.,L 0-2,88,10/07/2023,Oswego St.,home,L,0,2,False
+10/11/2023,@ SUNY New Paltz,L 0-7,70,10/11/2023,SUNY New Paltz,away,L,0,7,False
+10/14/2023,Fredonia,W 2-0,250,10/14/2023,Fredonia,home,W,2,0,False
+10/18/2023,@ Plattsburgh St.,L 0-2,111,10/18/2023,Plattsburgh St.,away,L,0,2,False
+10/21/2023,@ Buffalo St.,L 3-5,50,10/21/2023,Buffalo St.,away,L,3,5,False

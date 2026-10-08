@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Hiram,T 0-0,85,09/01/2023,Hiram,away,T,0,0,False
+09/13/2023,Kenyon,T 1-1,131,09/13/2023,Kenyon,home,T,1,1,False
+09/16/2023,@ Westminster (PA),L 0-2,155,09/16/2023,Westminster (PA),away,L,0,2,False
+09/17/2023,@ Thiel,W 7-0,64,09/17/2023,Thiel,away,W,7,0,False
+09/20/2023,Wooster,L 0-3,235,09/20/2023,Wooster,home,L,0,3,False
+09/23/2023,Bluffton,W 1-0,127,09/23/2023,Bluffton,home,W,1,0,False
+09/27/2023,@ Oberlin,L 1-2,373,09/27/2023,Oberlin,away,L,1,2,False
+09/30/2023,@ Muskingum,W 1-0,131,09/30/2023,Muskingum,away,W,1,0,False
+10/04/2023,John Carroll,L 1-2,186,10/04/2023,John Carroll,home,L,1,2,False
+10/07/2023,Mount Union,W 2-1,97,10/07/2023,Mount Union,home,W,2,1,False
+10/11/2023,@ Ohio Northern,L 0-3,197,10/11/2023,Ohio Northern,away,L,0,3,False
+10/14/2023,Otterbein,L 0-4,43,10/14/2023,Otterbein,home,L,0,4,False
+10/18/2023,@ Baldwin Wallace,L 0-1,113,10/18/2023,Baldwin Wallace,away,L,0,1,False
+10/21/2023,@ Marietta,L 0-3,123,10/21/2023,Marietta,away,L,0,3,False
+10/25/2023,Capital,L 1-2,93,10/25/2023,Capital,home,L,1,2,False
+10/28/2023,Wilmington (OH),L 0-1,197,10/28/2023,Wilmington (OH),home,L,0,1,False

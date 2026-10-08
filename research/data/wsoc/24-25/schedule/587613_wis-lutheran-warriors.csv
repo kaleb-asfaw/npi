@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Meredith,L 2-3,73,08/30/2024,Meredith,away,L,2,3,False
+08/31/2024,"N.C. Wesleyan @Raleigh, NC",W 4-1,68,08/31/2024,N.C. Wesleyan,neutral,W,4,1,False
+09/08/2024,Martin Luther,W 4-1,473,09/08/2024,Martin Luther,home,W,4,1,False
+09/13/2024,Beloit,W 6-0,223,09/13/2024,Beloit,home,W,6,0,False
+09/18/2024,@ Marian (WI),T 1-1,210,09/18/2024,Marian (WI),away,T,1,1,False
+09/21/2024,Rockford,W 6-0,150,09/21/2024,Rockford,home,W,6,0,False
+09/25/2024,Concordia Wisconsin,L 1-2,155,09/25/2024,Concordia Wisconsin,home,L,1,2,False
+09/28/2024,@ Concordia Chicago,L 1-2,82,09/28/2024,Concordia Chicago,away,L,1,2,False
+10/04/2024,@ Mount Mary,W 9-0,32,10/04/2024,Mount Mary,away,W,9,0,False
+10/05/2024,Edgewood,W 2-1,203,10/05/2024,Edgewood,home,W,2,1,False
+10/09/2024,Lakeland,W 3-0,78,10/09/2024,Lakeland,home,W,3,0,False
+10/12/2024,@ Benedictine (IL),T 0-0,107,10/12/2024,Benedictine (IL),away,T,0,0,False
+10/16/2024,St. Norbert,T 1-1,177,10/16/2024,St. Norbert,home,T,1,1,False
+10/19/2024,Dominican (IL),L 0-2,146,10/19/2024,Dominican (IL),home,L,0,2,False
+10/23/2024,@ Aurora,T 1-1,101,10/23/2024,Aurora,away,T,1,1,False
+10/26/2024,@ Illinois Tech,L 0-9,60,10/26/2024,Illinois Tech,away,L,0,9,False
+10/30/2024,@ MSOE,L 0-6,139,10/30/2024,MSOE,away,L,0,6,False
+11/02/2024,@ #1 Illinois Tech NACC Women's Championship,L 0-9,45,11/02/2024,Illinois Tech,away,L,0,9,False

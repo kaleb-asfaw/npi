@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ MIT,L 1-2,215,09/01/2022,MIT,away,L,1,2,False
+09/04/2022,@ Lasell,W 2-0,0,09/04/2022,Lasell,away,W,2,0,False
+09/07/2022,Babson,L 3-4,105,09/07/2022,Babson,home,L,3,4,False
+09/10/2022,JWU (Providence),W 3-1,100,09/10/2022,JWU (Providence),home,W,3,1,False
+09/14/2022,@ Clark (MA),W 2-1,169,09/14/2022,Clark (MA),away,W,2,1,False
+09/17/2022,Emerson,T 1-1,150,09/17/2022,Emerson,home,T,1,1,False
+09/20/2022,@ Bridgewater St.,W 2-0,175,09/20/2022,Bridgewater St.,away,W,2,0,False
+09/22/2022,Roger Williams,W 3-1,75,09/22/2022,Roger Williams,home,W,3,1,False
+09/27/2022,Lesley,W 3-0,100,09/27/2022,Lesley,home,W,3,0,False
+10/01/2022,@ CWRU,L 1-2,107,10/01/2022,CWRU,away,L,1,2,False
+10/08/2022,Carnegie Mellon,L 0-1,300,10/08/2022,Carnegie Mellon,home,L,0,1,False
+10/14/2022,@ Rochester (NY),L 0-1,134,10/14/2022,Rochester (NY),away,L,0,1,False
+10/16/2022,@ Emory,L 1-3,127,10/16/2022,Emory,away,L,1,3,False
+10/23/2022,@ Southern Me.,W 5-3,144,10/23/2022,Southern Me.,away,W,5,3,False
+10/28/2022,WashU,L 2-3,125,10/28/2022,WashU,home,L,2,3,False
+10/30/2022,UChicago,T 2-2,175,10/30/2022,UChicago,home,T,2,2,False
+11/05/2022,NYU,L 2-3,150,11/05/2022,NYU,home,L,2,3,False

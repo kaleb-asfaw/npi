@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/21/2024,Corban,L 0-1 *,103,08/21/2024,Corban,home,L,0,1,False
+08/30/2024,Multnomah,L 0-2,117,08/30/2024,Multnomah,home,L,0,2,False
+09/01/2024,Warner Pacific,T 1-1,86,09/01/2024,Warner Pacific,home,T,1,1,False
+09/06/2024,@ UC Santa Cruz,L 1-5,112,09/06/2024,UC Santa Cruz,away,L,1,5,False
+09/08/2024,"Chapman @Santa Cruz, CA",T 2-2,157,09/08/2024,Chapman,neutral,T,2,2,False
+09/15/2024,@ Linfield,L 1-2,112,09/15/2024,Linfield,away,L,1,2,False
+09/18/2024,Linfield,W 1-0,70,09/18/2024,Linfield,home,W,1,0,False
+09/21/2024,@ Whitman,T 0-0,100,09/21/2024,Whitman,away,T,0,0,False
+09/22/2024,@ Whitworth,L 0-1,155,09/22/2024,Whitworth,away,L,0,1,False
+09/28/2024,@ George Fox,L 0-2,111,09/28/2024,George Fox,away,L,0,2,False
+10/05/2024,Puget Sound,L 0-2,101,10/05/2024,Puget Sound,home,L,0,2,False
+10/06/2024,Pacific Lutheran,L 0-2,60,10/06/2024,Pacific Lutheran,home,L,0,2,False
+10/09/2024,Willamette,L 0-1,100,10/09/2024,Willamette,home,L,0,1,False
+10/12/2024,@ Lewis & Clark,L 1-2,163,10/12/2024,Lewis & Clark,away,L,1,2,False
+10/19/2024,Whitworth,L 1-3,75,10/19/2024,Whitworth,home,L,1,3,False
+10/20/2024,Whitman,L 1-2,40,10/20/2024,Whitman,home,L,1,2,False
+10/27/2024,George Fox,W 3-2,53,10/27/2024,George Fox,home,W,3,2,False
+11/02/2024,@ Pacific Lutheran,L 1-2,128,11/02/2024,Pacific Lutheran,away,L,1,2,False
+11/03/2024,@ Puget Sound,L 0-2,200,11/03/2024,Puget Sound,away,L,0,2,False
+11/06/2024,@ Willamette,T 1-1,56,11/06/2024,Willamette,away,T,1,1,False
+11/10/2024,Lewis & Clark,T 0-0,80,11/10/2024,Lewis & Clark,home,T,0,0,False

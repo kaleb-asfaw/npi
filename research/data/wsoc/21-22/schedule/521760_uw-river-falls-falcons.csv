@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Hamline,L 0-4,0,09/01/2021,Hamline,away,L,0,4,False
+09/05/2021,@ Wis.-Superior,L 2-3,86,09/05/2021,Wis.-Superior,away,L,2,3,False
+09/06/2021,Minn.-Morris,W 3-1,75,09/06/2021,Minn.-Morris,home,W,3,1,False
+09/08/2021,Macalester,L 0-1,150,09/08/2021,Macalester,home,L,0,1,False
+09/11/2021,@ Gustavus Adolphus,L 0-1,60,09/11/2021,Gustavus Adolphus,away,L,0,1,False
+09/12/2021,Northland,W 6-0,163,09/12/2021,Northland,home,W,6,0,False
+09/16/2021,Martin Luther,W 7-0,125,09/16/2021,Martin Luther,home,W,7,0,False
+09/18/2021,Bethany Lutheran,W 1-0 (1 OT),161,09/18/2021,Bethany Lutheran,home,W,1,0,True
+09/19/2021,Simpson,L 0-1,139,09/19/2021,Simpson,home,L,0,1,False
+09/22/2021,St. Scholastica,T 1-1 (2 OT),140,09/22/2021,St. Scholastica,home,T,1,1,True
+09/25/2021,Finlandia,W 8-0,155,09/25/2021,Finlandia,home,W,8,0,False
+09/29/2021,Wis.-La Crosse,L 2-4,160,09/29/2021,Wis.-La Crosse,home,L,2,4,False
+10/02/2021,@ Wis.-Whitewater,Canceled,,10/02/2021,Wis.-Whitewater,away,,,,
+10/06/2021,@ Saint Mary's (MN),L 0-1 (2 OT),20,10/06/2021,Saint Mary's (MN),away,L,0,1,True
+10/09/2021,Wis.-Platteville,T 2-2 (2 OT),134,10/09/2021,Wis.-Platteville,home,T,2,2,True
+10/16/2021,@ Wis.-Stevens Point,L 0-3,178,10/16/2021,Wis.-Stevens Point,away,L,0,3,False
+10/20/2021,@ Wis.-Stout,L 2-4,125,10/20/2021,Wis.-Stout,away,L,2,4,False
+10/24/2021,Wis.-Eau Claire,L 1-5,178,10/24/2021,Wis.-Eau Claire,home,L,1,5,False
+10/27/2021,@ Ripon,W 3-0,0,10/27/2021,Ripon,away,W,3,0,False
+10/30/2021,@ Wis.-Oshkosh,L 0-1 (1 OT),184,10/30/2021,Wis.-Oshkosh,away,L,0,1,True

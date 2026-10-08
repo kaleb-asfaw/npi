@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ SUNY Morrisville,W 6-1,127,09/01/2023,SUNY Morrisville,away,W,6,1,False
+09/06/2023,@ SUNY Poly,W 3-0,204,09/06/2023,SUNY Poly,away,W,3,0,False
+09/08/2023,"Oswego St. @Fredonia, NY",L 0-1,100,09/08/2023,Oswego St.,neutral,L,0,1,False
+09/09/2023,@ Fredonia,L 0-2,115,09/09/2023,Fredonia,away,L,0,2,False
+09/12/2023,SUNY Potsdam,W 1-0,127,09/12/2023,SUNY Potsdam,home,W,1,0,False
+09/15/2023,Union (NY),W 2-1,297,09/15/2023,Union (NY),home,W,2,1,False
+09/20/2023,Hamilton,L 0-3,103,09/20/2023,Hamilton,home,L,0,3,False
+09/23/2023,Alfred,T 2-2,160,09/23/2023,Alfred,home,T,2,2,False
+09/27/2023,@ Hartwick,T 1-1,124,09/27/2023,Hartwick,away,T,1,1,False
+09/30/2023,Houghton,W 3-0,250,09/30/2023,Houghton,home,W,3,0,False
+10/04/2023,@ Elmira,W 1-0,45,10/04/2023,Elmira,away,W,1,0,False
+10/07/2023,@ Keuka,W 5-1,137,10/07/2023,Keuka,away,W,5,1,False
+10/11/2023,Russell Sage,T 0-0,80,10/11/2023,Russell Sage,home,T,0,0,False
+10/14/2023,@ Nazareth,L 0-1,301,10/14/2023,Nazareth,away,L,0,1,False
+10/18/2023,St. Lawrence,L 0-3,77,10/18/2023,St. Lawrence,home,L,0,3,False
+10/25/2023,St. John Fisher,T 1-1,120,10/25/2023,St. John Fisher,home,T,1,1,False
+10/28/2023,#6 Alfred Empire 8 Women's Soccer Championship,T 0-0 (2 OT),132,10/28/2023,Alfred,home,T,0,0,True

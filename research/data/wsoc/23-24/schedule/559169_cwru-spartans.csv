@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,John Carroll,W 2-1,380,09/01/2023,John Carroll,home,W,2,1,False
+09/03/2023,@ Ohio Northern,W 1-0,143,09/03/2023,Ohio Northern,away,W,1,0,False
+09/08/2023,@ Misericordia,W 2-0,175,09/08/2023,Misericordia,away,W,2,0,False
+09/10/2023,"Clarkson @Dallas, PA",T 1-1,50,09/10/2023,Clarkson,neutral,T,1,1,False
+09/13/2023,Oberlin,W 2-0,137,09/13/2023,Oberlin,home,W,2,0,False
+09/16/2023,@ Otterbein,W 2-1,262,09/16/2023,Otterbein,away,W,2,1,False
+09/17/2023,Baldwin Wallace,W 3-0,456,09/17/2023,Baldwin Wallace,home,W,3,0,False
+09/20/2023,Penn St.-Behrend,W 1-0,101,09/20/2023,Penn St.-Behrend,home,W,1,0,False
+09/24/2023,@ Capital,W 2-0,178,09/24/2023,Capital,away,W,2,0,False
+09/30/2023,@ NYU,W 1-0,120,09/30/2023,NYU,away,W,1,0,False
+10/07/2023,Emory,W 3-1,380,10/07/2023,Emory,home,W,3,1,False
+10/14/2023,@ Rochester (NY),T 1-1,137,10/14/2023,Rochester (NY),away,T,1,1,False
+10/20/2023,UChicago,T 1-1,212,10/20/2023,UChicago,home,T,1,1,False
+10/22/2023,WashU,L 0-2,504,10/22/2023,WashU,home,L,0,2,False
+10/28/2023,@ Brandeis,W 2-0,150,10/28/2023,Brandeis,away,W,2,0,False
+11/04/2023,@ Carnegie Mellon,T 0-0,245,11/04/2023,Carnegie Mellon,away,T,0,0,False
+11/11/2023,Grove City NCAA Division III Women's Soccer Championship,W 5-1,823,11/11/2023,Grove City,home,W,5,1,False
+11/12/2023,John Carroll NCAA Division III Women's Soccer Championship,L 0-1,487,11/12/2023,John Carroll,home,L,0,1,False

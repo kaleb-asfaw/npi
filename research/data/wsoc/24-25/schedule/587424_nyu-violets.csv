@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Pomona-Pitzer,T 0-0,123,08/30/2024,Pomona-Pitzer,away,T,0,0,False
+09/01/2024,@ CMS,T 0-0,200,09/01/2024,CMS,away,T,0,0,False
+09/07/2024,"Husson @Hoboken, NJ",W 6-1,104,09/07/2024,Husson,neutral,W,6,1,False
+09/08/2024,@ Stevens,W 1-0,157,09/08/2024,Stevens,away,W,1,0,False
+09/11/2024,@ Farmingdale St.,T 0-0,188,09/11/2024,Farmingdale St.,away,T,0,0,False
+09/18/2024,@ Wm. Paterson,W 5-1,57,09/18/2024,Wm. Paterson,away,W,5,1,False
+09/21/2024,@ Vassar,W 4-3,103,09/21/2024,Vassar,away,W,4,3,False
+09/23/2024,Sarah Lawrence,W 1-0,64,09/23/2024,Sarah Lawrence,home,W,1,0,False
+09/26/2024,John Jay,W 8-1,68,09/26/2024,John Jay,home,W,8,1,False
+10/01/2024,@ Scranton,W 1-0,134,10/01/2024,Scranton,away,W,1,0,False
+10/05/2024,@ CWRU,T 1-1,345,10/05/2024,CWRU,away,T,1,1,False
+10/12/2024,UChicago,W 2-0,118,10/12/2024,UChicago,home,W,2,0,False
+10/16/2024,Mt. St. Mary (NY),W 4-0,20,10/16/2024,Mt. St. Mary (NY),home,W,4,0,False
+10/19/2024,@ WashU,L 0-3,300,10/19/2024,WashU,away,L,0,3,False
+10/25/2024,Rochester (NY),L 1-2,133,10/25/2024,Rochester (NY),home,L,1,2,False
+10/27/2024,Emory,T 0-0,120,10/27/2024,Emory,home,T,0,0,False
+11/03/2024,@ Carnegie Mellon,T 0-0,128,11/03/2024,Carnegie Mellon,away,T,0,0,False
+11/09/2024,@ Brandeis,W 2-1,125,11/09/2024,Brandeis,away,W,2,1,False
+11/16/2024,Husson NCAA Division III Women's Soccer Championship,W 7-1,110,11/16/2024,Husson,home,W,7,1,False
+11/17/2024,"McDaniel @Newark, NJ (NCAA Division III Women's Soccer Championship)",W 2-0,100,11/17/2024,McDaniel,neutral,W,2,0,False
+11/23/2024,"Johns Hopkins @Newport News, VA (NCAA Division III Women's Soccer Championship)",L 1-2,342,11/23/2024,Johns Hopkins,neutral,L,1,2,False

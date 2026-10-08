@@ -1,0 +1,15 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Clarke,T 1-1,50,09/01/2023,Clarke,home,T,1,1,False
+09/02/2023,Mt. Mercy,L 1-2,50,09/02/2023,Mt. Mercy,home,L,1,2,False
+09/07/2023,William Penn,L 1-2,50,09/07/2023,William Penn,home,L,1,2,False
+09/20/2023,Coe,L 0-5,50,09/20/2023,Coe,home,L,0,5,False
+09/23/2023,@ Beloit,L 0-2,67,09/23/2023,Beloit,away,L,0,2,False
+09/24/2023,@ Marian (WI),T 2-2,196,09/24/2023,Marian (WI),away,T,2,2,False
+09/27/2023,Elmhurst,T 1-1,50,09/27/2023,Elmhurst,home,T,1,1,False
+09/30/2023,Lawrence,L 0-5,50,09/30/2023,Lawrence,home,L,0,5,False
+10/04/2023,@ Monmouth (IL),L 0-4,60,10/04/2023,Monmouth (IL),away,L,0,4,False
+10/10/2023,Knox,W 3-1,60,10/10/2023,Knox,home,W,3,1,False
+10/14/2023,@ Ripon,L 0-1,30,10/14/2023,Ripon,away,L,0,1,False
+10/18/2023,Grinnell,L 0-2,50,10/18/2023,Grinnell,home,L,0,2,False
+10/24/2023,@ Illinois Col.,L 0-2,63,10/24/2023,Illinois Col.,away,L,0,2,False
+10/28/2023,Lake Forest,L 0-7,100,10/28/2023,Lake Forest,home,L,0,7,False

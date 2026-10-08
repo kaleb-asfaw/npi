@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,St. Catherine,L 0-2,172,09/01/2022,St. Catherine,home,L,0,2,False
+09/04/2022,@ St. Olaf,L 0-1,158,09/04/2022,St. Olaf,away,L,0,1,False
+09/07/2022,@ Hamline,T 0-0,47,09/07/2022,Hamline,away,T,0,0,False
+09/09/2022,@ Coe,W 3-1,54,09/09/2022,Coe,away,W,3,1,False
+09/10/2022,@ Luther,L 1-2,120,09/10/2022,Luther,away,L,1,2,False
+09/14/2022,@ Carthage,T 1-1,65,09/14/2022,Carthage,away,T,1,1,False
+09/17/2022,Wartburg,L 2-4,176,09/17/2022,Wartburg,home,L,2,4,False
+09/18/2022,St. Norbert,W 3-0,229,09/18/2022,St. Norbert,home,W,3,0,False
+09/21/2022,Carroll (WI),L 2-4,117,09/21/2022,Carroll (WI),home,L,2,4,False
+09/27/2022,Wheaton (IL),W 3-2,63,09/27/2022,Wheaton (IL),home,W,3,2,False
+10/01/2022,@ Wis.-La Crosse,L 0-1,124,10/01/2022,Wis.-La Crosse,away,L,0,1,False
+10/05/2022,Wis.-Oshkosh,T 2-2,87,10/05/2022,Wis.-Oshkosh,home,T,2,2,False
+10/08/2022,Wis.-Whitewater,W 1-0,145,10/08/2022,Wis.-Whitewater,home,W,1,0,False
+10/15/2022,@ UW-River Falls,T 1-1,215,10/15/2022,UW-River Falls,away,T,1,1,False
+10/16/2022,Saint Mary's (MN),L 0-2,86,10/16/2022,Saint Mary's (MN),home,L,0,2,False
+10/19/2022,Wis.-Eau Claire,L 0-2,79,10/19/2022,Wis.-Eau Claire,home,L,0,2,False
+10/22/2022,@ Wis.-Platteville,W 1-0,213,10/22/2022,Wis.-Platteville,away,W,1,0,False
+10/29/2022,@ Wis.-Stout,W 2-1,152,10/29/2022,Wis.-Stout,away,W,2,1,False
+11/01/2022,#5 Wis.-Platteville WIAC WSOC Tournament,W 1-0,126,11/01/2022,Wis.-Platteville,home,W,1,0,False
+11/03/2022,@ #1 Wis.-La Crosse WIAC WSOC Tournament,L 0-4,124,11/03/2022,Wis.-La Crosse,away,L,0,4,False

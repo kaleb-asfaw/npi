@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Centenary (NJ),T 0-0,206,09/01/2023,Centenary (NJ),home,T,0,0,False
+09/03/2023,@ Sarah Lawrence,L 0-1,80,09/03/2023,Sarah Lawrence,away,L,0,1,False
+09/06/2023,Wilkes,T 0-0,80,09/06/2023,Wilkes,home,T,0,0,False
+09/09/2023,@ FDU-Florham,T 2-2,95,09/09/2023,FDU-Florham,away,T,2,2,False
+09/13/2023,@ St. Joseph's (L.I.),W 1-0,127,09/13/2023,St. Joseph's (L.I.),away,W,1,0,False
+09/20/2023,@ NYU,L 0-6,113,09/20/2023,NYU,away,L,0,6,False
+09/22/2023,@ Rutgers-Camden,W 2-1,40,09/22/2023,Rutgers-Camden,away,W,2,1,False
+09/27/2023,Rutgers-Newark,L 1-2,113,09/27/2023,Rutgers-Newark,home,L,1,2,False
+09/30/2023,TCNJ,L 0-8,73,09/30/2023,TCNJ,home,L,0,8,False
+10/04/2023,CCNY,W 3-1,73,10/04/2023,CCNY,home,W,3,1,False
+10/07/2023,@ Stockton,T 0-0,75,10/07/2023,Stockton,away,T,0,0,False
+10/11/2023,@ New Jersey City,T 1-1,141,10/11/2023,New Jersey City,away,T,1,1,False
+10/13/2023,@ Kean,T 1-1,100,10/13/2023,Kean,away,T,1,1,False
+10/16/2023,Pratt,T 1-1,64,10/16/2023,Pratt,home,T,1,1,False
+10/18/2023,"Montclair St. @Harrison, NJ",L 0-3,237,10/18/2023,Montclair St.,neutral,L,0,3,False
+10/21/2023,@ Rowan,L 0-1,232,10/21/2023,Rowan,away,L,0,1,False
+10/25/2023,Ramapo,L 1-2,67,10/25/2023,Ramapo,home,L,1,2,False

@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/31/2024,@ Cornell College,L 0-11,75,08/31/2024,Cornell College,away,L,0,11,False
+09/03/2024,@ Lakeland,L 0-4,128,09/03/2024,Lakeland,away,L,0,4,False
+09/05/2024,Rockford,L 1-7,27,09/05/2024,Rockford,home,L,1,7,False
+09/08/2024,Andrews (MI),W 4-1,44,09/08/2024,Andrews (MI),home,W,4,1,False
+09/15/2024,@ Edgewood,L 0-9,213,09/15/2024,Edgewood,away,L,0,9,False
+09/22/2024,Blackburn,T 1-1,17,09/22/2024,Blackburn,home,T,1,1,False
+09/24/2024,Maranatha Baptist,L 2-6,19,09/24/2024,Maranatha Baptist,home,L,2,6,False
+09/27/2024,Grace Christian (MI),L 1-4,29,09/27/2024,Grace Christian (MI),home,L,1,4,False
+10/04/2024,Wis. Lutheran,L 0-9,32,10/04/2024,Wis. Lutheran,home,L,0,9,False
+10/11/2024,@ Great Lake Christian,L 0-7,44,10/11/2024,@ Great Lake Christian,home,L,0,7,False
+10/12/2024,@ Grace Christian (MI),L 0-6,0,10/12/2024,@ Grace Christian (MI),home,L,0,6,False
+10/16/2024,Eureka,T 1-1,43,10/16/2024,Eureka,home,T,1,1,False
+10/18/2024,@ Andrews (MI),L 1-2,0,10/18/2024,@ Andrews (MI),home,L,1,2,False
+10/20/2024,@ Lawrence,L 0-6,297,10/20/2024,Lawrence,away,L,0,6,False
+10/22/2024,Ripon,L 1-4,61,10/22/2024,Ripon,home,L,1,4,False
+10/31/2024,@ Maranatha Baptist,L 0-6,20,10/31/2024,Maranatha Baptist,away,L,0,6,False

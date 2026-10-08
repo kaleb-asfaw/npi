@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,York (NY),W 14-0,43,09/01/2023,York (NY),home,W,14,0,False
+09/05/2023,@ Brooklyn,W 1-0,100,09/05/2023,Brooklyn,away,W,1,0,False
+09/07/2023,@ SUNY Maritime,L 0-1,74,09/07/2023,SUNY Maritime,away,L,0,1,False
+09/13/2023,Purchase,L 0-2,107,09/13/2023,Purchase,home,L,0,2,False
+09/16/2023,@ Wells,W 4-0,75,09/16/2023,Wells,away,W,4,0,False
+09/20/2023,Lehman,W 1-0,55,09/20/2023,Lehman,home,W,1,0,False
+09/25/2023,@ Wilson,L 0-3,85,09/25/2023,Wilson,away,L,0,3,False
+09/28/2023,Medgar Evers,Canceled,,09/28/2023,Medgar Evers,home,,,,
+09/30/2023,Rosemont,L 0-2,52,09/30/2023,Rosemont,home,L,0,2,False
+10/04/2023,Cedar Crest,T 0-0,70,10/04/2023,Cedar Crest,home,T,0,0,False
+10/07/2023,@ Notre Dame (MD),L 0-2,67,10/07/2023,Notre Dame (MD),away,L,0,2,False
+10/10/2023,Clarks Summit,L 1-4,37,10/10/2023,Clarks Summit,home,L,1,4,False
+10/14/2023,Keystone,W 1-0,60,10/14/2023,Keystone,home,W,1,0,False
+10/18/2023,@ Valley Forge,W 9-0,25,10/18/2023,Valley Forge,away,W,9,0,False
+10/21/2023,Cairn,L 1-4,30,10/21/2023,Cairn,home,L,1,4,False
+10/24/2023,@ Bryn Athyn,L 0-5,100,10/24/2023,Bryn Athyn,away,L,0,5,False

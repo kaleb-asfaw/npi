@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Berry,W 3-1,225,09/01/2021,Berry,home,W,3,1,False
+09/04/2021,"Ohio Northern @Danville, KY (Centre Women's Soccer Invitational)",W 3-1,55,09/04/2021,Ohio Northern,neutral,W,3,1,False
+09/05/2021,@ Centre,T 0-0 (2 OT),207,09/05/2021,Centre,away,T,0,0,True
+09/11/2021,Greensboro,W 6-0,89,09/11/2021,Greensboro,home,W,6,0,False
+09/14/2021,Covenant,W 6-0,425,09/14/2021,Covenant,home,W,6,0,False
+09/18/2021,Wash. & Lee,W 1-0,75,09/18/2021,Wash. & Lee,home,W,1,0,False
+09/19/2021,@ Birmingham-So.,W 13-0,52,09/19/2021,Birmingham-So.,away,W,13,0,False
+09/22/2021,Maryville (TN),W 4-0,70,09/22/2021,Maryville (TN),home,W,4,0,False
+09/26/2021,"Lynchburg @Charlotte, NC",L 1-2,0,09/26/2021,Lynchburg,neutral,L,1,2,False
+10/02/2021,UChicago,L 1-2,245,10/02/2021,UChicago,home,L,1,2,False
+10/05/2021,@ Sewanee,W 3-0,42,10/05/2021,Sewanee,away,W,3,0,False
+10/10/2021,@ WashU,L 0-1,150,10/10/2021,WashU,away,L,0,1,False
+10/15/2021,CWRU,W 2-1,175,10/15/2021,CWRU,home,W,2,1,False
+10/17/2021,Carnegie Mellon,W 1-0,0,10/17/2021,Carnegie Mellon,home,W,1,0,False
+10/22/2021,Roanoke,W 4-0,543,10/22/2021,Roanoke,home,W,4,0,False
+10/29/2021,@ Brandeis,L 0-1,150,10/29/2021,Brandeis,away,L,0,1,False
+10/31/2021,@ NYU,T 0-0 (2 OT),325,10/31/2021,NYU,away,T,0,0,True
+11/06/2021,@ Rochester (NY),T 0-0 (2 OT),130,11/06/2021,Rochester (NY),away,T,0,0,True
+11/12/2021,"Wittenberg @Danville, KY (NCAA Division III Women's Soccer Championship)",W 4-0,174,11/12/2021,Wittenberg,neutral,W,4,0,False
+11/14/2021,@ Centre NCAA Division III Women's Soccer Championship,L 1-2 (1 OT),212,11/14/2021,Centre,away,L,1,2,True

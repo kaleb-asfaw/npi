@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Alfred St.,W 3-0,150,09/01/2021,Alfred St.,away,W,3,0,False
+09/04/2021,SUNY Brockport,L 0-4,150,09/04/2021,SUNY Brockport,home,L,0,4,False
+09/07/2021,Oswego St.,Canceled,,09/07/2021,Oswego St.,home,,,,
+09/11/2021,Clarks Summit,W 9-0,125,09/11/2021,Clarks Summit,home,W,9,0,False
+09/14/2021,@ Buffalo St.,W 3-0,55,09/14/2021,Buffalo St.,away,W,3,0,False
+09/18/2021,@ Utica,L 1-2,269,09/18/2021,Utica,away,L,1,2,False
+09/21/2021,Pitt.-Bradford,W 7-0,126,09/21/2021,Pitt.-Bradford,home,W,7,0,False
+09/25/2021,Elmira,T 1-1 (2 OT),128,09/25/2021,Elmira,home,T,1,1,True
+09/28/2021,@ Hilbert,W 4-0,127,09/28/2021,Hilbert,away,W,4,0,False
+10/02/2021,@ St. John Fisher,L 1-7,209,10/02/2021,St. John Fisher,away,L,1,7,False
+10/06/2021,@ D'Youville,L 1-5,153,10/06/2021,D'Youville,away,L,1,5,False
+10/09/2021,@ Hartwick,L 0-2,75,10/09/2021,Hartwick,away,L,0,2,False
+10/13/2021,Nazareth,L 0-2,123,10/13/2021,Nazareth,home,L,0,2,False
+10/16/2021,Keuka,L 0-3,0,10/16/2021,Keuka,home,L,0,3,False
+10/20/2021,Alfred,L 0-3,93,10/20/2021,Alfred,home,L,0,3,False
+10/23/2021,Rochester (NY),L 0-5,203,10/23/2021,Rochester (NY),home,L,0,5,False
+10/26/2021,@ Cazenovia,W 3-0,50,10/26/2021,Cazenovia,away,W,3,0,False
+10/30/2021,@ Russell Sage,L 2-4,223,10/30/2021,Russell Sage,away,L,2,4,False

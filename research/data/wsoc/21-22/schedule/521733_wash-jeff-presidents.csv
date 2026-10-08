@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Carnegie Mellon,L 0-6,80,09/01/2021,Carnegie Mellon,away,L,0,6,False
+09/04/2021,St. John Fisher,L 1-2,88,09/04/2021,St. John Fisher,home,L,1,2,False
+09/05/2021,@ Muskingum,W 2-1,150,09/05/2021,Muskingum,away,W,2,1,False
+09/08/2021,Penn St.-Altoona,W 1-0,64,09/08/2021,Penn St.-Altoona,home,W,1,0,False
+09/11/2021,@ Ohio Wesleyan,L 0-3,315,09/11/2021,Ohio Wesleyan,away,L,0,3,False
+09/14/2021,Allegheny,L 1-2 (1 OT),84,09/14/2021,Allegheny,home,L,1,2,True
+09/18/2021,@ Hiram,W 1-0,149,09/18/2021,Hiram,away,W,1,0,False
+09/22/2021,@ Marietta,T 1-1 (2 OT),138,09/22/2021,Marietta,away,T,1,1,True
+09/25/2021,John Carroll,L 0-1,134,09/25/2021,John Carroll,home,L,0,1,False
+09/29/2021,Grove City,W 1-0,87,09/29/2021,Grove City,home,W,1,0,False
+10/02/2021,Westminster (PA),L 0-2,188,10/02/2021,Westminster (PA),home,L,0,2,False
+10/06/2021,Saint Vincent,W 1-0,68,10/06/2021,Saint Vincent,home,W,1,0,False
+10/09/2021,@ Chatham,L 0-2,150,10/09/2021,Chatham,away,L,0,2,False
+10/13/2021,Waynesburg,T 0-0 (2 OT),130,10/13/2021,Waynesburg,home,T,0,0,True
+10/16/2021,Franciscan,W 3-2 (2 OT),135,10/16/2021,Franciscan,home,W,3,2,True
+10/19/2021,@ Thiel,W 2-1,81,10/19/2021,Thiel,away,W,2,1,False
+10/23/2021,@ Geneva,W 5-2,155,10/23/2021,Geneva,away,W,5,2,False
+10/26/2021,@ Bethany (WV),W 4-1,25,10/26/2021,Bethany (WV),away,W,4,1,False
+10/30/2021,#5 Waynesburg PAC WSOC Championship Tournament,W 1-0 (2 OT),213,10/30/2021,Waynesburg,home,W,1,0,True
+11/02/2021,@ #1 Westminster (PA) PAC WSOC Championship Tournament,L 0-4,290,11/02/2021,Westminster (PA),away,L,0,4,False

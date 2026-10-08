@@ -1,0 +1,14 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/09/2023,@ York (NY),Ppd,,09/09/2023,York (NY),away,,,,
+09/16/2023,@ Clarks Summit,Canceled,,09/16/2023,Clarks Summit,away,,,,
+09/20/2023,@ Five Towns,Ppd,,09/20/2023,@ Five Towns,home,,,,
+09/22/2023,York (NY),Ppd,,09/22/2023,York (NY),home,,,,
+09/25/2023,CCNY,Ppd,,09/25/2023,CCNY,home,,,,
+09/28/2023,@ Saint Elizabeth,Canceled,,09/28/2023,Saint Elizabeth,away,,,,
+10/07/2023,@ Purchase,L 1-9,45,10/07/2023,Purchase,away,L,1,9,False
+10/11/2023,John Jay,L 0-16,50,10/11/2023,John Jay,home,L,0,16,False
+10/14/2023,@ Brooklyn,Ppd,,10/14/2023,Brooklyn,away,,,,
+10/18/2023,Lehman,L 0-7,25,10/18/2023,Lehman,home,L,0,7,False
+10/21/2023,@ CCNY,L 0-8,75,10/21/2023,CCNY,away,L,0,8,False
+10/24/2023,@ Pratt,L 0-11,51,10/24/2023,Pratt,away,L,0,11,False
+11/05/2023,@ Yeshiva,L 1-5,12,11/05/2023,Yeshiva,away,L,1,5,False

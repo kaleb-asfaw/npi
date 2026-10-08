@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2022,"Kean @Galloway, NJ",W 5-0,120,09/03/2022,Kean,neutral,W,5,0,False
+09/04/2022,@ Stockton,W 1-0,125,09/04/2022,Stockton,away,W,1,0,False
+09/07/2022,Marywood,W 6-0,154,09/07/2022,Marywood,home,W,6,0,False
+09/10/2022,Vassar,L 0-1,167,09/10/2022,Vassar,home,L,0,1,False
+09/14/2022,@ Lebanon Valley,T 1-1,73,09/14/2022,Lebanon Valley,away,T,1,1,False
+09/17/2022,Stevens,W 1-0,215,09/17/2022,Stevens,home,W,1,0,False
+09/20/2022,@ Wilkes,W 8-0,97,09/20/2022,Wilkes,away,W,8,0,False
+09/24/2022,@ Catholic,W 2-0,152,09/24/2022,Catholic,away,W,2,0,False
+09/28/2022,Misericordia,L 0-1,202,09/28/2022,Misericordia,home,L,0,1,False
+10/01/2022,Goucher,W 4-0,217,10/01/2022,Goucher,home,W,4,0,False
+10/05/2022,@ Farmingdale St.,W 1-0,100,10/05/2022,Farmingdale St.,away,W,1,0,False
+10/08/2022,Elizabethtown,W 3-0,179,10/08/2022,Elizabethtown,home,W,3,0,False
+10/12/2022,Drew,W 2-1,178,10/12/2022,Drew,home,W,2,1,False
+10/15/2022,@ Moravian,W 1-0,211,10/15/2022,Moravian,away,W,1,0,False
+10/22/2022,@ Susquehanna,W 1-0,298,10/22/2022,Susquehanna,away,W,1,0,False
+10/26/2022,@ Penn St.-Berks,W 2-1,212,10/26/2022,Penn St.-Berks,away,W,2,1,False
+10/29/2022,Juniata,W 3-0,317,10/29/2022,Juniata,home,W,3,0,False
+11/01/2022,#4 Catholic Landmark WSOC Championship,W 1-0 (2 OT),241,11/01/2022,Catholic,home,W,1,0,True
+11/05/2022,#3 Drew Landmark WSOC Championship,W 1-0,401,11/05/2022,Drew,home,W,1,0,False
+11/12/2022,Bowdoin NCAA Division III Women's Soccer Championship,T 0-0 (3 OT),532,11/12/2022,Bowdoin,home,T,0,0,True
+11/13/2022,"Westfield St. @Scranton, PA (NCAA Division III Women's Soccer Championship)",W 3-0,432,11/13/2022,Westfield St.,neutral,W,3,0,False
+11/19/2022,@ Misericordia NCAA Division III Women's Soccer Championship,L 0-2,500,11/19/2022,Misericordia,away,L,0,2,False

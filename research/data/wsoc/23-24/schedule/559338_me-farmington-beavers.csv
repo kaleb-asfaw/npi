@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Rhode Island Col.,T 0-0,575,09/01/2023,Rhode Island Col.,away,T,0,0,False
+09/02/2023,@ Clark (MA),L 0-3,135,09/02/2023,Clark (MA),away,L,0,3,False
+09/06/2023,@ Me.-Presque Isle,W 4-2,100,09/06/2023,Me.-Presque Isle,away,W,4,2,False
+09/09/2023,Maine Maritime,L 1-2,135,09/09/2023,Maine Maritime,home,L,1,2,False
+09/12/2023,Plymouth St.,L 0-3,50,09/12/2023,Plymouth St.,home,L,0,3,False
+09/16/2023,@ Lesley,L 0-5,50,09/16/2023,Lesley,away,L,0,5,False
+09/20/2023,@ Thomas (ME),W 1-0,124,09/20/2023,Thomas (ME),away,W,1,0,False
+09/23/2023,@ Husson,L 0-6,200,09/23/2023,Husson,away,L,0,6,False
+09/26/2023,Me.-Presque Isle,W 8-0,50,09/26/2023,Me.-Presque Isle,home,W,8,0,False
+09/30/2023,@ Southern Me.,L 0-6,324,09/30/2023,Southern Me.,away,L,0,6,False
+10/03/2023,Thomas (ME),W 2-0,90,10/03/2023,Thomas (ME),home,W,2,0,False
+10/07/2023,SUNY Cobleskill,W 4-0,50,10/07/2023,SUNY Cobleskill,home,W,4,0,False
+10/08/2023,SUNY Delhi,L 1-3,80,10/08/2023,SUNY Delhi,home,L,1,3,False
+10/11/2023,Husson,L 0-4,50,10/11/2023,Husson,home,L,0,4,False
+10/14/2023,@ Maine Maritime,L 0-5,107,10/14/2023,Maine Maritime,away,L,0,5,False
+10/17/2023,Eastern Nazarene,W 3-1,40,10/17/2023,Eastern Nazarene,home,W,3,1,False
+10/21/2023,VTSU Lyndon,W 8-0,130,10/21/2023,VTSU Lyndon,home,W,8,0,False
+10/28/2023,@ #1 Lesley North Atlantic Women's Soccer Championship,L 0-4,100,10/28/2023,Lesley,away,L,0,4,False

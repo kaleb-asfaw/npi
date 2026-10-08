@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2021,"Willamette @Thousand Oaks, CA",W 3-1,53,09/03/2021,Willamette,neutral,W,3,1,False
+09/08/2021,Whittier,W 3-0,375,09/08/2021,Whittier,home,W,3,0,False
+09/11/2021,@ UC Santa Cruz,W 1-0,40,09/11/2021,UC Santa Cruz,away,W,1,0,False
+09/15/2021,@ Redlands,W 4-3,123,09/15/2021,Redlands,away,W,4,3,False
+09/18/2021,La Verne,L 0-2,117,09/18/2021,La Verne,home,L,0,2,False
+09/22/2021,Chapman,T 1-1 (2 OT),336,09/22/2021,Chapman,home,T,1,1,True
+09/25/2021,Occidental,T 0-0 (2 OT),0,09/25/2021,Occidental,home,T,0,0,True
+09/29/2021,@ Whittier,W 3-0,150,09/29/2021,Whittier,away,W,3,0,False
+10/02/2021,@ Caltech,W 2-1,36,10/02/2021,Caltech,away,W,2,1,False
+10/06/2021,Pomona-Pitzer,L 0-1,385,10/06/2021,Pomona-Pitzer,home,L,0,1,False
+10/09/2021,Cal Lutheran,T 1-1 (2 OT),365,10/09/2021,Cal Lutheran,home,T,1,1,True
+10/16/2021,@ La Verne,W 2-1 (1 OT),0,10/16/2021,La Verne,away,W,2,1,True
+10/20/2021,@ Pomona-Pitzer,L 0-4,283,10/20/2021,Pomona-Pitzer,away,L,0,4,False
+10/23/2021,UC Santa Cruz,W 1-0,315,10/23/2021,UC Santa Cruz,home,W,1,0,False
+10/27/2021,Redlands,W 2-1,300,10/27/2021,Redlands,home,W,2,1,False
+10/30/2021,@ Chapman,L 1-2 (1 OT),200,10/30/2021,Chapman,away,L,1,2,True

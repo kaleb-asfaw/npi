@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Nazareth,T 1-1 (2 OT),85,09/01/2021,Nazareth,home,T,1,1,True
+09/04/2021,@ Houghton,W 4-0,150,09/04/2021,Houghton,away,W,4,0,False
+09/08/2021,Alfred,L 2-3,73,09/08/2021,Alfred,home,L,2,3,False
+09/11/2021,@ St. John Fisher,W 4-0,300,09/11/2021,St. John Fisher,away,W,4,0,False
+09/15/2021,Keuka,W 1-0,0,09/15/2021,Keuka,home,W,1,0,False
+09/18/2021,RIT,L 2-5,0,09/18/2021,RIT,home,L,2,5,False
+09/24/2021,SUNY New Paltz,W 1-0,0,09/24/2021,SUNY New Paltz,home,W,1,0,False
+09/25/2021,SUNY Oneonta,T 1-1 (2 OT),89,09/25/2021,SUNY Oneonta,home,T,1,1,True
+09/28/2021,@ Rochester (NY),L 1-2,80,09/28/2021,Rochester (NY),away,L,1,2,False
+10/02/2021,SUNY Geneseo,L 0-1 (1 OT),51,10/02/2021,SUNY Geneseo,home,L,0,1,True
+10/05/2021,@ Susquehanna,L 2-5,0,10/05/2021,Susquehanna,away,L,2,5,False
+10/08/2021,Oswego St.,W 2-1,0,10/08/2021,Oswego St.,home,W,2,1,False
+10/09/2021,Cortland,L 0-3,0,10/09/2021,Cortland,home,L,0,3,False
+10/12/2021,SUNY Canton,W 8-1,49,10/12/2021,SUNY Canton,home,W,8,1,False
+10/15/2021,@ Plattsburgh St.,L 0-2,143,10/15/2021,Plattsburgh St.,away,L,0,2,False
+10/16/2021,@ SUNY Potsdam,W 1-0,72,10/16/2021,SUNY Potsdam,away,W,1,0,False
+10/22/2021,@ Fredonia,L 1-3,57,10/22/2021,Fredonia,away,L,1,3,False
+10/23/2021,@ Buffalo St.,W 1-0,100,10/23/2021,Buffalo St.,away,W,1,0,False
+10/30/2021,@ #3 Cortland SUNYAC WSOC Championship,L 3-4,231,10/30/2021,Cortland,away,L,3,4,False

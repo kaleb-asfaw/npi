@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ FDU-Florham,L 2-3,125,09/01/2023,FDU-Florham,away,L,2,3,False
+09/06/2023,@ St. Joseph's (L.I.),L 0-1,131,09/06/2023,St. Joseph's (L.I.),away,L,0,1,False
+09/09/2023,@ Pratt,W 6-1,1,09/09/2023,Pratt,away,W,6,1,False
+09/13/2023,@ UMSV,L 0-1,158,09/13/2023,UMSV,away,L,0,1,False
+09/16/2023,Neumann,W 4-0,200,09/16/2023,Neumann,home,W,4,0,False
+09/20/2023,@ Rensselaer,L 2-6,103,09/20/2023,Rensselaer,away,L,2,6,False
+09/27/2023,Rutgers-Camden,L 0-1,120,09/27/2023,Rutgers-Camden,home,L,0,1,False
+09/30/2023,@ Montclair St.,L 0-5,185,09/30/2023,Montclair St.,away,L,0,5,False
+10/04/2023,@ TCNJ,L 0-10,0,10/04/2023,TCNJ,away,L,0,10,False
+10/07/2023,New Jersey City,T 1-1,125,10/07/2023,New Jersey City,home,T,1,1,False
+10/11/2023,Kean,L 0-1,110,10/11/2023,Kean,home,L,0,1,False
+10/13/2023,@ Rowan,L 0-7,143,10/13/2023,Rowan,away,L,0,7,False
+10/18/2023,Rutgers-Newark,L 2-3,125,10/18/2023,Rutgers-Newark,home,L,2,3,False
+10/21/2023,Stockton,L 1-4,100,10/21/2023,Stockton,home,L,1,4,False
+10/25/2023,@ Wm. Paterson,W 2-1,67,10/25/2023,Wm. Paterson,away,W,2,1,False

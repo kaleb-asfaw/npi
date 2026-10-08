@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2021,Penn St.-Berks,W 4-1,105,09/02/2021,Penn St.-Berks,home,W,4,1,False
+09/04/2021,@ Ithaca,L 0-1,275,09/04/2021,Ithaca,away,L,0,1,False
+09/08/2021,@ Wm. Paterson,L 0-1 (1 OT),40,09/08/2021,Wm. Paterson,away,L,0,1,True
+09/11/2021,@ Rutgers-Newark,L 0-1,50,09/11/2021,Rutgers-Newark,away,L,0,1,False
+09/15/2021,Susquehanna,Canceled,,09/15/2021,Susquehanna,home,,,,
+09/18/2021,Messiah,L 1-4,150,09/18/2021,Messiah,home,L,1,4,False
+09/21/2021,@ Scranton,L 0-3,167,09/21/2021,Scranton,away,L,0,3,False
+09/26/2021,@ Penn College,W 6-0,0,09/26/2021,Penn College,away,W,6,0,False
+09/29/2021,Marywood,W 3-1,115,09/29/2021,Marywood,home,W,3,1,False
+10/02/2021,FDU-Florham,T 2-2 (2 OT),175,10/02/2021,FDU-Florham,home,T,2,2,True
+10/06/2021,Lycoming,T 3-3 (2 OT),100,10/06/2021,Lycoming,home,T,3,3,True
+10/09/2021,Neumann,W 7-0,0,10/09/2021,Neumann,home,W,7,0,False
+10/12/2021,@ Misericordia,L 2-9,100,10/12/2021,Misericordia,away,L,2,9,False
+10/16/2021,@ Arcadia,W 1-0 (1 OT),82,10/16/2021,Arcadia,away,W,1,0,True
+10/20/2021,King's (PA),W 1-0,225,10/20/2021,King's (PA),home,W,1,0,False
+10/23/2021,@ Stevens,L 0-1,210,10/23/2021,Stevens,away,L,0,1,False
+10/26/2021,Delaware Valley,W 2-0,50,10/26/2021,Delaware Valley,home,W,2,0,False
+10/30/2021,@ DeSales,L 1-2 (1 OT),220,10/30/2021,DeSales,away,L,1,2,True
+11/02/2021,@ #4 FDU-Florham MAC Freedom WSOC Championship,W 2-1,225,11/02/2021,FDU-Florham,away,W,2,1,False
+11/04/2021,@ #1 Misericordia MAC Freedom WSOC Championship,L 0-5,125,11/04/2021,Misericordia,away,L,0,5,False

@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,"Wis.-Whitewater @Abilene, TX",W 3-0,56,09/01/2022,Wis.-Whitewater,neutral,W,3,0,False
+09/03/2022,"St. Scholastica @Abilene, TX",W 3-2,109,09/03/2022,St. Scholastica,neutral,W,3,2,False
+09/09/2022,@ Our Lady of the Lake,W 3-1,0,09/09/2022,@ Our Lady of the Lake,home,W,3,1,False
+09/11/2022,@ Texas Lutheran,W 1-0,175,09/11/2022,Texas Lutheran,away,W,1,0,False
+09/16/2022,@ Hendrix,W 1-0,70,09/16/2022,Hendrix,away,W,1,0,False
+09/17/2022,@ Belhaven,W 3-1,95,09/17/2022,Belhaven,away,W,3,1,False
+09/21/2022,Southwestern (TX),W 2-0,207,09/21/2022,Southwestern (TX),home,W,2,0,False
+09/29/2022,@ LeTourneau,W 4-0,67,09/29/2022,LeTourneau,away,W,4,0,False
+10/01/2022,@ East Tex. Baptist,W 2-0,200,10/01/2022,East Tex. Baptist,away,W,2,0,False
+10/06/2022,Sul Ross St.,W 5-1,182,10/06/2022,Sul Ross St.,home,W,5,1,False
+10/08/2022,Howard Payne,T 0-0,306,10/08/2022,Howard Payne,home,T,0,0,False
+10/13/2022,@ UT Dallas,W 1-0,318,10/13/2022,UT Dallas,away,W,1,0,False
+10/15/2022,@ Ozarks (AR),W 3-1,125,10/15/2022,Ozarks (AR),away,W,3,1,False
+10/20/2022,McMurry,W 4-0,305,10/20/2022,McMurry,home,W,4,0,False
+10/22/2022,Hardin-Simmons,W 1-0,478,10/22/2022,Hardin-Simmons,home,W,1,0,False
+10/29/2022,@ Concordia (TX),W 3-1,171,10/29/2022,Concordia (TX),away,W,3,1,False
+11/03/2022,McMurry ASC WSOC Championship,W 1-0,0,11/03/2022,McMurry,home,W,1,0,False
+11/05/2022,Hardin-Simmons ASC WSOC Championship,W 1-0,0,11/05/2022,Hardin-Simmons,home,W,1,0,False
+11/12/2022,"Pacific Lutheran @San Antonio, TX (NCAA Division III Women's Soccer Championship)",L 1-2,124,11/12/2022,Pacific Lutheran,neutral,L,1,2,False

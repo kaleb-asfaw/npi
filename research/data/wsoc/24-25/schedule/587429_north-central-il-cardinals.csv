@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Bridgewater St.,W 7-2,250,08/30/2024,Bridgewater St.,away,W,7,2,False
+09/01/2024,@ Endicott,L 1-3,201,09/01/2024,Endicott,away,L,1,3,False
+09/04/2024,@ Dominican (IL),W 4-2,200,09/04/2024,Dominican (IL),away,W,4,2,False
+09/06/2024,@ WashU,L 1-5,107,09/06/2024,WashU,away,L,1,5,False
+09/08/2024,Ohio Wesleyan,W 3-2,107,09/08/2024,Ohio Wesleyan,home,W,3,2,False
+09/11/2024,Calvin,W 4-2,155,09/11/2024,Calvin,home,W,4,2,False
+09/13/2024,Greenville,W 3-0,73,09/13/2024,Greenville,home,W,3,0,False
+09/14/2024,Wis.-Eau Claire,W 3-2,104,09/14/2024,Wis.-Eau Claire,home,W,3,2,False
+09/20/2024,Hanover,W 6-2,107,09/20/2024,Hanover,home,W,6,2,False
+09/22/2024,Wis.-La Crosse,W 6-0,76,09/22/2024,Wis.-La Crosse,home,W,6,0,False
+09/28/2024,@ Carroll (WI),L 1-2,222,09/28/2024,Carroll (WI),away,L,1,2,False
+10/01/2024,@ UChicago,L 3-4,125,10/01/2024,UChicago,away,L,3,4,False
+10/09/2024,Augustana (IL),W 3-0,103,10/09/2024,Augustana (IL),home,W,3,0,False
+10/12/2024,@ Elmhurst,W 7-0,148,10/12/2024,Elmhurst,away,W,7,0,False
+10/16/2024,@ Millikin,W 6-0,56,10/16/2024,Millikin,away,W,6,0,False
+10/19/2024,Carthage,W 2-0,123,10/19/2024,Carthage,home,W,2,0,False
+10/23/2024,Ill. Wesleyan,W 6-0,120,10/23/2024,Ill. Wesleyan,home,W,6,0,False
+10/26/2024,North Park,W 4-0,55,10/26/2024,North Park,home,W,4,0,False
+10/30/2024,@ Wheaton (IL),W 4-0,108,10/30/2024,Wheaton (IL),away,W,4,0,False
+11/06/2024,Millikin CCIW Women's Soccer Tournament,W 4-0,148,11/06/2024,Millikin,home,W,4,0,False
+11/09/2024,Carroll (WI) CCIW Women's Soccer Tournament,T 1-1 (3 OT),413,11/09/2024,Carroll (WI),home,T,1,1,True
+11/16/2024,"Illinois Tech @Pittsburgh, PA (NCAA Division III Women's Soccer Championship)",L 1-3,162,11/16/2024,Illinois Tech,neutral,L,1,3,False

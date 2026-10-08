@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/31/2024,@ Hendrix,L 1-2,235,08/31/2024,Hendrix,away,L,1,2,False
+09/06/2024,Millsaps,W 4-1,35,09/06/2024,Millsaps,home,W,4,1,False
+09/08/2024,McMurry,L 0-3,50,09/08/2024,McMurry,home,L,0,3,False
+09/13/2024,LeTourneau,W 2-0,45,09/13/2024,LeTourneau,home,W,2,0,False
+09/19/2024,@ Howard Payne,L 0-7,300,09/19/2024,Howard Payne,away,L,0,7,False
+09/21/2024,Nelson,L 2-3,100,09/21/2024,Nelson,home,L,2,3,False
+10/04/2024,Texas Lutheran,L 2-4,100,10/04/2024,Texas Lutheran,home,L,2,4,False
+10/06/2024,@ Southwestern (TX),L 1-4,91,10/06/2024,Southwestern (TX),away,L,1,4,False
+10/11/2024,Ozarks (AR),T 2-2,65,10/11/2024,Ozarks (AR),home,T,2,2,False
+10/13/2024,Centenary (LA),W 3-0,30,10/13/2024,Centenary (LA),home,W,3,0,False
+10/18/2024,Trinity (TX),L 0-4,100,10/18/2024,Trinity (TX),home,L,0,4,False
+10/20/2024,Schreiner,L 0-1,100,10/20/2024,Schreiner,home,L,0,1,False
+10/25/2024,@ McMurry,L 2-3,100,10/25/2024,McMurry,away,L,2,3,False
+10/27/2024,@ Concordia (TX),L 0-8,171,10/27/2024,Concordia (TX),away,L,0,8,False
+10/29/2024,@ Austin,W 1-0,171,10/29/2024,Austin,away,W,1,0,False
+11/01/2024,@ St. Thomas (TX),W 3-1,200,11/01/2024,St. Thomas (TX),away,W,3,1,False

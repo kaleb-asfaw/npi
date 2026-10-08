@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Dalton St.,L 0-10,0,09/01/2021,@ Dalton St.,home,L,0,10,False
+09/05/2021,@ Hollins,Ppd,,09/05/2021,Hollins,away,,,,
+09/12/2021,Berry,L 1-6,120,09/12/2021,Berry,home,L,1,6,False
+09/15/2021,@ Ga. Southwestern,L 0-7,37,09/15/2021,Ga. Southwestern,away,L,0,7,False
+09/18/2021,JWU (Charlotte),T 1-1 (2 OT),0,09/18/2021,JWU (Charlotte),home,T,1,1,True
+09/19/2021,@ Oglethorpe,L 0-3,183,09/19/2021,Oglethorpe,away,L,0,3,False
+09/25/2021,@ Maryville (TN),L 0-11,131,09/25/2021,Maryville (TN),away,L,0,11,False
+09/27/2021,@ Bob Jones,L 1-7,175,09/27/2021,Bob Jones,away,L,1,7,False
+10/02/2021,@ Brevard,L 0-2,82,10/02/2021,Brevard,away,L,0,2,False
+10/05/2021,Agnes Scott,T 0-0 (2 OT),38,10/05/2021,Agnes Scott,home,T,0,0,True
+10/09/2021,Huntingdon,L 1-4,34,10/09/2021,Huntingdon,home,L,1,4,False
+10/10/2021,Berea,L 4-5 (1 OT),71,10/10/2021,Berea,home,L,4,5,True
+10/13/2021,LaGrange,L 0-1,41,10/13/2021,LaGrange,home,L,0,1,False
+10/16/2021,@ Covenant,L 0-8,145,10/16/2021,Covenant,away,L,0,8,False
+10/20/2021,@ Piedmont,L 0-3,89,10/20/2021,Piedmont,away,L,0,3,False

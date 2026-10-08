@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Shenandoah,L 0-3,112,09/01/2023,Shenandoah,home,L,0,3,False
+09/03/2023,Mary Washington,L 0-3,289,09/03/2023,Mary Washington,home,L,0,3,False
+09/06/2023,@ Goucher,T 1-1,162,09/06/2023,Goucher,away,T,1,1,False
+09/09/2023,@ Stevenson,L 0-1,171,09/09/2023,Stevenson,away,L,0,1,False
+09/11/2023,Notre Dame (MD),W 4-0,189,09/11/2023,Notre Dame (MD),home,W,4,0,False
+09/13/2023,@ Catholic,L 0-3,243,09/13/2023,Catholic,away,L,0,3,False
+09/16/2023,@ Lycoming,L 0-3,75,09/16/2023,Lycoming,away,L,0,3,False
+09/17/2023,@ Penn College,T 0-0,0,09/17/2023,Penn College,away,T,0,0,False
+09/22/2023,@ Hood,L 1-2,264,09/22/2023,Hood,away,L,1,2,False
+09/25/2023,@ Navy,L 0-11,128,09/25/2023,Navy,away,L,0,11,False
+09/27/2023,Washington Col.,T 0-0,108,09/27/2023,Washington Col.,home,T,0,0,False
+10/01/2023,Salisbury,L 0-2,132,10/01/2023,Salisbury,home,L,0,2,False
+10/04/2023,Immaculata,W 1-0,120,10/04/2023,Immaculata,home,W,1,0,False
+10/07/2023,Cabrini,L 0-2,354,10/07/2023,Cabrini,home,L,0,2,False
+10/11/2023,@ Gwynedd Mercy,T 1-1,53,10/11/2023,Gwynedd Mercy,away,T,1,1,False
+10/14/2023,@ Centenary (NJ),W 1-0,57,10/14/2023,Centenary (NJ),away,W,1,0,False
+10/18/2023,@ Mary Baldwin,W 2-0,100,10/18/2023,Mary Baldwin,away,W,2,0,False
+10/21/2023,Marywood,W 2-0,147,10/21/2023,Marywood,home,W,2,0,False
+10/25/2023,@ Neumann,T 0-0,150,10/25/2023,Neumann,away,T,0,0,False
+10/31/2023,#4 Neumann Atlantic East Women's Soccer Championship,W 2-0,203,10/31/2023,Neumann,home,W,2,0,False
+11/04/2023,@ #1 Marywood Atlantic East Women's Soccer Championship,W 1-0 (2 OT),462,11/04/2023,Marywood,away,W,1,0,True
+11/11/2023,@ Chris. Newport NCAA Division III Women's Soccer Championship,L 0-7,412,11/11/2023,Chris. Newport,away,L,0,7,False

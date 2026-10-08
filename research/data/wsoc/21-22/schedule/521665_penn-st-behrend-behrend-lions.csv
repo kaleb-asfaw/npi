@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Allegheny,W 3-0,89,09/01/2021,Allegheny,home,W,3,0,False
+09/04/2021,Baldwin Wallace,W 3-0,109,09/04/2021,Baldwin Wallace,home,W,3,0,False
+09/05/2021,Wooster,W 3-1,215,09/05/2021,Wooster,home,W,3,1,False
+09/11/2021,@ Buffalo St.,W 4-0,65,09/11/2021,Buffalo St.,away,W,4,0,False
+09/12/2021,"Trine @Buffalo, NY",L 0-2,85,09/12/2021,Trine,neutral,L,0,2,False
+09/15/2021,@ Mount Union,W 2-1,52,09/15/2021,Mount Union,away,W,2,1,False
+09/18/2021,Mount Aloysius,W 1-0,0,09/18/2021,Mount Aloysius,home,W,1,0,False
+09/21/2021,@ Grove City,W 1-0,70,09/21/2021,Grove City,away,W,1,0,False
+09/25/2021,@ Pitt.-Greensburg,W 1-0,212,09/25/2021,Pitt.-Greensburg,away,W,1,0,False
+09/28/2021,@ John Carroll,W 5-1,278,09/28/2021,John Carroll,away,W,5,1,False
+10/03/2021,@ Elmira,W 2-0,100,10/03/2021,Elmira,away,W,2,0,False
+10/06/2021,Pitt.-Bradford,W 11-0,109,10/06/2021,Pitt.-Bradford,home,W,11,0,False
+10/09/2021,@ Penn St.-Altoona,W 4-0,187,10/09/2021,Penn St.-Altoona,away,W,4,0,False
+10/12/2021,Fredonia,W 2-0,102,10/12/2021,Fredonia,home,W,2,0,False
+10/16/2021,La Roche,W 9-0,114,10/16/2021,La Roche,home,W,9,0,False
+10/20/2021,@ Alfred St.,W 3-0,127,10/20/2021,Alfred St.,away,W,3,0,False
+10/23/2021,Hilbert,W 4-0,57,10/23/2021,Hilbert,home,W,4,0,False
+10/26/2021,@ Medaille,W 7-0,0,10/26/2021,Medaille,away,W,7,0,False
+11/03/2021,#4 Penn St.-Altoona Allegheny Mountain WSOC Championship,W 6-0,103,11/03/2021,Penn St.-Altoona,home,W,6,0,False
+11/06/2021,#2 Pitt.-Greensburg Allegheny Mountain WSOC Championship,W 2-0,250,11/06/2021,Pitt.-Greensburg,home,W,2,0,False
+11/13/2021,@ Wesleyan (CT) NCAA Division III Women's Soccer Championship,L 0-1,330,11/13/2021,Wesleyan (CT),away,L,0,1,False

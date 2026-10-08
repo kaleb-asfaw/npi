@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,SUNY Brockport,W 1-0,125,09/01/2022,SUNY Brockport,home,W,1,0,False
+09/03/2022,SUNY Oneonta,L 0-1,150,09/03/2022,SUNY Oneonta,home,L,0,1,False
+09/10/2022,@ Rochester (NY),L 1-5,167,09/10/2022,Rochester (NY),away,L,1,5,False
+09/14/2022,@ Pitt.-Bradford,W 3-1,45,09/14/2022,Pitt.-Bradford,away,W,3,1,False
+09/17/2022,Medaille,W 2-0,225,09/17/2022,Medaille,home,W,2,0,False
+09/21/2022,@ King's (PA),L 1-2,75,09/21/2022,King's (PA),away,L,1,2,False
+09/24/2022,@ Russell Sage,L 0-1,208,09/24/2022,Russell Sage,away,L,0,1,False
+09/28/2022,@ Penn St.-Altoona,W 3-1,57,09/28/2022,Penn St.-Altoona,away,W,3,1,False
+10/01/2022,Utica,W 1-0,500,10/01/2022,Utica,home,W,1,0,False
+10/05/2022,@ Ithaca,L 0-2,115,10/05/2022,Ithaca,away,L,0,2,False
+10/08/2022,@ Elmira,T 0-0,100,10/08/2022,Elmira,away,T,0,0,False
+10/12/2022,Keuka,W 1-0,325,10/12/2022,Keuka,home,W,1,0,False
+10/16/2022,@ Hartwick,T 0-0,102,10/16/2022,Hartwick,away,T,0,0,False
+10/19/2022,Houghton,T 0-0,125,10/19/2022,Houghton,home,T,0,0,False
+10/22/2022,@ St. John Fisher,T 0-0,0,10/22/2022,St. John Fisher,away,T,0,0,False
+10/25/2022,Fredonia,T 1-1,400,10/25/2022,Fredonia,home,T,1,1,False
+10/29/2022,@ Nazareth,L 0-1,252,10/29/2022,Nazareth,away,L,0,1,False
+11/01/2022,@ #3 Russell Sage Empire 8 WSOC Championship,L 0-1,270,11/01/2022,Russell Sage,away,L,0,1,False

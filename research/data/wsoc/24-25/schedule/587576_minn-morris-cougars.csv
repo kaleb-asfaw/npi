@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Saint Mary's (MN),L 1-3,30,08/30/2024,Saint Mary's (MN),away,L,1,3,False
+09/03/2024,Hamline,L 1-5,57,09/03/2024,Hamline,home,L,1,5,False
+09/11/2024,UW-River Falls,L 0-5,20,09/11/2024,UW-River Falls,home,L,0,5,False
+09/12/2024,@ Martin Luther,L 0-1,25,09/12/2024,Martin Luther,away,L,0,1,False
+09/15/2024,Wis.-Stout,Canceled,,09/15/2024,Wis.-Stout,home,,,,
+09/18/2024,Martin Luther,L 0-1,38,09/18/2024,Martin Luther,home,L,0,1,False
+09/21/2024,Wis.-Superior,L 2-4,39,09/21/2024,Wis.-Superior,home,L,2,4,False
+09/24/2024,Crown (MN),T 2-2,58,09/24/2024,Crown (MN),home,T,2,2,False
+09/28/2024,@ Northland,Canceled,,09/28/2024,Northland,away,,,,
+10/02/2024,@ North Central (MN),W 3-0,206,10/02/2024,North Central (MN),away,W,3,0,False
+10/05/2024,@ Northwestern-St. Paul,L 0-5,146,10/05/2024,Northwestern-St. Paul,away,L,0,5,False
+10/08/2024,@ Bethany Lutheran,L 0-4,0,10/08/2024,Bethany Lutheran,away,L,0,4,False
+10/12/2024,@ Wis.-Superior,L 0-8,364,10/12/2024,Wis.-Superior,away,L,0,8,False
+10/16/2024,@ Crown (MN),L 0-1,78,10/16/2024,Crown (MN),away,L,0,1,False
+10/19/2024,Northland,Canceled,,10/19/2024,Northland,home,,,,
+10/22/2024,@ Martin Luther,T 0-0,100,10/22/2024,Martin Luther,away,T,0,0,False
+10/26/2024,Northwestern-St. Paul,L 1-5,25,10/26/2024,Northwestern-St. Paul,home,L,1,5,False
+10/30/2024,North Central (MN),W 2-1,28,10/30/2024,North Central (MN),home,W,2,1,False
+11/02/2024,Bethany Lutheran,T 2-2,78,11/02/2024,Bethany Lutheran,home,T,2,2,False

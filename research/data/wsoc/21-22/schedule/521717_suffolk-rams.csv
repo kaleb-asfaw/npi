@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Elms,W 1-0,72,09/01/2021,Elms,home,W,1,0,False
+09/04/2021,Framingham St.,W 3-0,93,09/04/2021,Framingham St.,home,W,3,0,False
+09/08/2021,@ Wellesley,L 0-2,60,09/08/2021,Wellesley,away,L,0,2,False
+09/11/2021,Lesley,W 2-0,89,09/11/2021,Lesley,home,W,2,0,False
+09/18/2021,Gordon,L 0-2,250,09/18/2021,Gordon,home,L,0,2,False
+09/21/2021,@ Eastern Nazarene,W 6-0,101,09/21/2021,Eastern Nazarene,away,W,6,0,False
+09/25/2021,Salve Regina,W 1-0,103,09/25/2021,Salve Regina,home,W,1,0,False
+09/30/2021,Fisher,W 8-0,75,09/30/2021,Fisher,home,W,8,0,False
+10/02/2021,@ Western New Eng.,L 0-1,115,10/02/2021,Western New Eng.,away,L,0,1,False
+10/06/2021,Husson,W 4-1,86,10/06/2021,Husson,home,W,4,1,False
+10/09/2021,Nichols,W 3-0,73,10/09/2021,Nichols,home,W,3,0,False
+10/12/2021,@ U New England,L 0-2,94,10/12/2021,U New England,away,L,0,2,False
+10/16/2021,@ Endicott,L 0-1,215,10/16/2021,Endicott,away,L,0,1,False
+10/19/2021,Wentworth,W 4-1,152,10/19/2021,Wentworth,home,W,4,1,False
+10/23/2021,Curry,W 1-0,252,10/23/2021,Curry,home,W,1,0,False
+10/26/2021,@ Roger Williams,W 2-1 (1 OT),30,10/26/2021,Roger Williams,away,W,2,1,True
+10/30/2021,@ #4 Gordon CCC WSOC Championship,L 1-2,102,10/30/2021,Gordon,away,L,1,2,False

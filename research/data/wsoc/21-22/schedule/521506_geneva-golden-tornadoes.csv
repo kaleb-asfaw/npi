@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ La Roche,L 1-3,120,09/01/2021,La Roche,away,L,1,3,False
+09/04/2021,@ Hiram,L 0-6,142,09/04/2021,Hiram,away,L,0,6,False
+09/08/2021,Mount Aloysius,L 1-4,284,09/08/2021,Mount Aloysius,home,L,1,4,False
+09/11/2021,@ Penn St.-Beaver,W 10-0,150,09/11/2021,@ Penn St.-Beaver,home,W,10,0,False
+09/18/2021,@ Heidelberg,L 1-6,68,09/18/2021,Heidelberg,away,L,1,6,False
+09/21/2021,Pitt.-Greensburg,L 0-1,107,09/21/2021,Pitt.-Greensburg,home,L,0,1,False
+09/25/2021,Baldwin Wallace,L 1-2,251,09/25/2021,Baldwin Wallace,home,L,1,2,False
+09/29/2021,@ Westminster (PA),L 0-4,254,09/29/2021,Westminster (PA),away,L,0,4,False
+10/02/2021,Thiel,W 3-1,218,10/02/2021,Thiel,home,W,3,1,False
+10/04/2021,@ Allegheny,L 1-2 (1 OT),154,10/04/2021,Allegheny,away,L,1,2,True
+10/06/2021,@ Franciscan,W 2-1,105,10/06/2021,Franciscan,away,W,2,1,False
+10/08/2021,@ Grove City,L 1-5,100,10/08/2021,Grove City,away,L,1,5,False
+10/13/2021,Chatham,L 0-4,131,10/13/2021,Chatham,home,L,0,4,False
+10/16/2021,Saint Vincent,W 3-2 (1 OT),245,10/16/2021,Saint Vincent,home,W,3,2,True
+10/20/2021,@ Bethany (WV),W 2-1,60,10/20/2021,Bethany (WV),away,W,2,1,False
+10/23/2021,Wash. & Jeff.,L 2-5,155,10/23/2021,Wash. & Jeff.,home,L,2,5,False
+10/26/2021,@ Waynesburg,L 1-7,50,10/26/2021,Waynesburg,away,L,1,7,False
+10/30/2021,@ #3 Chatham PAC WSOC Championship Tournament,L 0-4,150,10/30/2021,Chatham,away,L,0,4,False

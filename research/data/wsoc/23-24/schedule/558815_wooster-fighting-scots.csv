@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2023,@ Chatham,T 2-2,170,09/02/2023,Chatham,away,T,2,2,False
+09/03/2023,@ Allegheny,W 2-0,201,09/03/2023,Allegheny,away,W,2,0,False
+09/05/2023,@ Bluffton,W 2-0,100,09/05/2023,Bluffton,away,W,2,0,False
+09/09/2023,Grove City,W 3-1,183,09/09/2023,Grove City,home,W,3,1,False
+09/10/2023,Muskingum,W 2-0,142,09/10/2023,Muskingum,home,W,2,0,False
+09/13/2023,Marietta,W 3-0,134,09/13/2023,Marietta,home,W,3,0,False
+09/16/2023,@ Pitt.-Greensburg,W 4-1,0,09/16/2023,Pitt.-Greensburg,away,W,4,1,False
+09/20/2023,@ Heidelberg,W 3-0,235,09/20/2023,Heidelberg,away,W,3,0,False
+09/23/2023,John Carroll,T 1-1,200,09/23/2023,John Carroll,home,T,1,1,False
+09/27/2023,@ Baldwin Wallace,W 3-2,67,09/27/2023,Baldwin Wallace,away,W,3,2,False
+10/07/2023,Wittenberg,W 2-0,165,10/07/2023,Wittenberg,home,W,2,0,False
+10/11/2023,@ Oberlin,L 1-2,134,10/11/2023,Oberlin,away,L,1,2,False
+10/14/2023,Denison,T 1-1,180,10/14/2023,Denison,home,T,1,1,False
+10/17/2023,@ Hiram,W 4-0,67,10/17/2023,Hiram,away,W,4,0,False
+10/21/2023,Ohio Wesleyan,L 2-3,150,10/21/2023,Ohio Wesleyan,home,L,2,3,False
+10/25/2023,@ Kenyon,W 1-0,200,10/25/2023,Kenyon,away,W,1,0,False
+10/28/2023,@ DePauw,L 0-1,127,10/28/2023,DePauw,away,L,0,1,False

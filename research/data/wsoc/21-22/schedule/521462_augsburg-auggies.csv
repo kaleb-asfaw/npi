@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Wis.-Eau Claire,T 0-0 (2 OT),260,09/01/2021,Wis.-Eau Claire,away,T,0,0,True
+09/04/2021,Northwestern-St. Paul,W 1-0,169,09/04/2021,Northwestern-St. Paul,home,W,1,0,False
+09/07/2021,Wis.-La Crosse,W 3-1,120,09/07/2021,Wis.-La Crosse,home,W,3,1,False
+09/10/2021,Wis.-Superior,W 2-1 (2 OT),174,09/10/2021,Wis.-Superior,home,W,2,1,True
+09/14/2021,@ Hamline,L 1-3,107,09/14/2021,Hamline,away,L,1,3,False
+09/18/2021,@ Wartburg,L 0-4,50,09/18/2021,Wartburg,away,L,0,4,False
+09/21/2021,Macalester,W 1-0,135,09/21/2021,Macalester,home,W,1,0,False
+09/25/2021,@ Wis.-Whitewater,L 1-3,259,09/25/2021,Wis.-Whitewater,away,L,1,3,False
+09/29/2021,@ Carleton,W 2-1,144,09/29/2021,Carleton,away,W,2,1,False
+10/02/2021,@ Saint Benedict,T 1-1 (2 OT),0,10/02/2021,Saint Benedict,away,T,1,1,True
+10/06/2021,St. Scholastica,W 2-1,178,10/06/2021,St. Scholastica,home,W,2,1,False
+10/09/2021,Saint Mary's (MN),W 1-0,171,10/09/2021,Saint Mary's (MN),home,W,1,0,False
+10/12/2021,@ Gustavus Adolphus,L 1-3,30,10/12/2021,Gustavus Adolphus,away,L,1,3,False
+10/16/2021,Concordia-M'head,W 3-1,150,10/16/2021,Concordia-M'head,home,W,3,1,False
+10/22/2021,St. Catherine,L 1-2 (1 OT),171,10/22/2021,St. Catherine,home,L,1,2,True
+10/27/2021,@ St. Olaf,L 1-2,65,10/27/2021,St. Olaf,away,L,1,2,False
+10/30/2021,Bethel (MN),W 3-1,200,10/30/2021,Bethel (MN),home,W,3,1,False
+11/01/2021,@ #4 Gustavus Adolphus MIAC WSOC Tournament,L 0-1,103,11/01/2021,Gustavus Adolphus,away,L,0,1,False

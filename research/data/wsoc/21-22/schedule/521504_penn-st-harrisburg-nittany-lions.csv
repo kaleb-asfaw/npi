@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/04/2021,York (PA),L 0-2,105,09/04/2021,York (PA),home,L,0,2,False
+09/05/2021,Alfred,T 0-0 (2 OT),115,09/05/2021,Alfred,home,T,0,0,True
+09/11/2021,@ Hartwick,T 1-1 (2 OT),85,09/11/2021,Hartwick,away,T,1,1,True
+09/12/2021,@ SUNY Oneonta,W 2-0,109,09/12/2021,SUNY Oneonta,away,W,2,0,False
+09/15/2021,@ Albright,T 0-0 (2 OT),47,09/15/2021,Albright,away,T,0,0,True
+09/18/2021,@ Penn St.-Abington,W 3-0,109,09/18/2021,Penn St.-Abington,away,W,3,0,False
+09/19/2021,Penn College,W 5-0,50,09/19/2021,Penn College,home,W,5,0,False
+09/23/2021,@ Widener,L 0-4,100,09/23/2021,Widener,away,L,0,4,False
+09/25/2021,@ St. Mary's (MD),T 0-0 (2 OT),175,09/25/2021,St. Mary's (MD),away,T,0,0,True
+09/29/2021,Elizabethtown,L 0-4,75,09/29/2021,Elizabethtown,home,L,0,4,False
+10/02/2021,SUNY Morrisville,W 3-0,75,10/02/2021,SUNY Morrisville,home,W,3,0,False
+10/06/2021,Mount Aloysius,L 1-2,75,10/06/2021,Mount Aloysius,home,L,1,2,False
+10/09/2021,Wells,W 6-0,60,10/09/2021,Wells,home,W,6,0,False
+10/13/2021,@ Lancaster Bible,W 2-1 (1 OT),84,10/13/2021,Lancaster Bible,away,W,2,1,True
+10/16/2021,@ Gallaudet,W 6-0,35,10/16/2021,Gallaudet,away,W,6,0,False
+10/18/2021,John Jay,W 4-0,75,10/18/2021,John Jay,home,W,4,0,False
+10/23/2021,Penn St.-Berks,W 1-0,50,10/23/2021,Penn St.-Berks,home,W,1,0,False
+10/28/2021,Bryn Mawr,W 3-0,30,10/28/2021,Bryn Mawr,home,W,3,0,False
+11/06/2021,#4 Lancaster Bible United East WSOC Championship,W 3-0,175,11/06/2021,Lancaster Bible,home,W,3,0,False
+11/07/2021,#3 Penn St.-Berks United East WSOC Championship,W 2-1,200,11/07/2021,Penn St.-Berks,home,W,2,1,False
+11/13/2021,@ McDaniel NCAA Division III Women's Soccer Championship,L 0-2,500,11/13/2021,McDaniel,away,L,0,2,False

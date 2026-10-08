@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Crown (MN),W 8-1,225,09/01/2023,Crown (MN),home,W,8,1,False
+09/03/2023,Bethany Lutheran,T 2-2,211,09/03/2023,Bethany Lutheran,home,T,2,2,False
+09/07/2023,Minn.-Morris,W 11-0,155,09/07/2023,Minn.-Morris,home,W,11,0,False
+09/10/2023,Gustavus Adolphus,L 1-2,102,09/10/2023,Gustavus Adolphus,home,L,1,2,False
+09/12/2023,Wis.-Superior,T 0-0,145,09/12/2023,Wis.-Superior,home,T,0,0,False
+09/17/2023,@ St. Catherine,L 0-5,176,09/17/2023,St. Catherine,away,L,0,5,False
+09/20/2023,St. Scholastica,W 4-0,102,09/20/2023,St. Scholastica,home,W,4,0,False
+09/24/2023,@ Macalester,W 1-0,176,09/24/2023,Macalester,away,W,1,0,False
+09/30/2023,Wis.-Platteville,T 0-0,114,09/30/2023,Wis.-Platteville,home,T,0,0,False
+10/04/2023,@ Hamline,W 3-0,53,10/04/2023,Hamline,away,W,3,0,False
+10/07/2023,@ Wis.-Stevens Point,L 0-1,426,10/07/2023,Wis.-Stevens Point,away,L,0,1,False
+10/11/2023,@ Wis.-Stout,W 1-0,145,10/11/2023,Wis.-Stout,away,W,1,0,False
+10/14/2023,Wis.-La Crosse,L 0-2,165,10/14/2023,Wis.-La Crosse,home,L,0,2,False
+10/16/2023,@ Carleton,L 0-6,145,10/16/2023,Carleton,away,L,0,6,False
+10/18/2023,@ Augsburg,L 0-5,200,10/18/2023,Augsburg,away,L,0,5,False
+10/21/2023,@ Wis.-Oshkosh,L 1-2,188,10/21/2023,Wis.-Oshkosh,away,L,1,2,False
+10/25/2023,Wis.-Eau Claire,L 0-4,201,10/25/2023,Wis.-Eau Claire,home,L,0,4,False
+10/28/2023,@ Wis.-Whitewater,T 2-2,103,10/28/2023,Wis.-Whitewater,away,T,2,2,False

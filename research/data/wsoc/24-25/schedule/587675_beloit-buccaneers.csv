@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Wis.-Platteville,L 0-4,137,08/30/2024,Wis.-Platteville,away,L,0,4,False
+08/31/2024,Webster,L 3-4,120,08/31/2024,Webster,home,L,3,4,False
+09/04/2024,@ Benedictine (IL),T 1-1,124,09/04/2024,Benedictine (IL),away,T,1,1,False
+09/07/2024,@ Saint Mary's (MN),L 0-3,54,09/07/2024,Saint Mary's (MN),away,L,0,3,False
+09/11/2024,Lakeland,W 4-0,32,09/11/2024,Lakeland,home,W,4,0,False
+09/13/2024,@ Wis. Lutheran,L 0-6,223,09/13/2024,Wis. Lutheran,away,L,0,6,False
+09/15/2024,@ Wis.-Stevens Point,L 0-1,116,09/15/2024,Wis.-Stevens Point,away,L,0,1,False
+09/17/2024,@ Dubuque,T 2-2,230,09/17/2024,Dubuque,away,T,2,2,False
+09/22/2024,Kalamazoo,L 0-4,64,09/22/2024,Kalamazoo,home,L,0,4,False
+09/24/2024,@ Carroll (WI),L 0-1,109,09/24/2024,Carroll (WI),away,L,0,1,False
+09/28/2024,@ Cornell College,W 4-1,80,09/28/2024,Cornell College,away,W,4,1,False
+10/05/2024,Monmouth (IL),T 2-2,94,10/05/2024,Monmouth (IL),home,T,2,2,False
+10/08/2024,Lawrence,L 1-2,42,10/08/2024,Lawrence,home,L,1,2,False
+10/12/2024,@ Ripon,W 1-0,200,10/12/2024,Ripon,away,W,1,0,False
+10/19/2024,Knox,W 1-0,132,10/19/2024,Knox,home,W,1,0,False
+10/22/2024,Lake Forest,L 0-1,39,10/22/2024,Lake Forest,home,L,0,1,False
+10/26/2024,@ Grinnell,L 0-1,80,10/26/2024,Grinnell,away,L,0,1,False
+11/02/2024,@ Illinois Col.,W 1-0,325,11/02/2024,Illinois Col.,away,W,1,0,False
+11/08/2024,@ #1 Lake Forest MWC Women's Soccer Tournament,L 0-1,141,11/08/2024,Lake Forest,away,L,0,1,False

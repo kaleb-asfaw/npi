@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Johns Hopkins,L 1-6,200,09/01/2022,Johns Hopkins,away,L,1,6,False
+09/03/2022,Bridgewater (VA),L 0-3,135,09/03/2022,Bridgewater (VA),home,L,0,3,False
+09/07/2022,Stevenson,W 3-2,78,09/07/2022,Stevenson,home,W,3,2,False
+09/09/2022,Muhlenberg,L 0-1,142,09/09/2022,Muhlenberg,home,L,0,1,False
+09/13/2022,@ Bryn Mawr,T 1-1,75,09/13/2022,Bryn Mawr,away,T,1,1,False
+09/16/2022,@ Salisbury,L 1-2,178,09/16/2022,Salisbury,away,L,1,2,False
+09/21/2022,St. Mary's (MD),T 2-2,107,09/21/2022,St. Mary's (MD),home,T,2,2,False
+09/24/2022,Scranton,L 0-2,152,09/24/2022,Scranton,home,L,0,2,False
+09/28/2022,@ McDaniel,L 0-2,327,09/28/2022,McDaniel,away,L,0,2,False
+10/01/2022,@ Drew,T 0-0,50,10/01/2022,Drew,away,T,0,0,False
+10/08/2022,Juniata,W 4-0,155,10/08/2022,Juniata,home,W,4,0,False
+10/12/2022,@ Goucher,T 0-0,200,10/12/2022,Goucher,away,T,0,0,False
+10/15/2022,@ Susquehanna,L 0-1,225,10/15/2022,Susquehanna,away,L,0,1,False
+10/19/2022,@ Gettysburg,L 0-3,76,10/19/2022,Gettysburg,away,L,0,3,False
+10/22/2022,@ Moravian,T 0-0,169,10/22/2022,Moravian,away,T,0,0,False
+10/26/2022,Mary Washington,L 0-3,81,10/26/2022,Mary Washington,home,L,0,3,False
+10/29/2022,Elizabethtown,W 2-1,155,10/29/2022,Elizabethtown,home,W,2,1,False
+11/01/2022,@ #1 Scranton Landmark WSOC Championship,L 0-1 (2 OT),241,11/01/2022,Scranton,away,L,0,1,True

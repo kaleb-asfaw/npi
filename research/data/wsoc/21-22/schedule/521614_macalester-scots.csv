@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Carleton,T 2-2 (2 OT),157,09/01/2021,Carleton,away,T,2,2,True
+09/04/2021,@ Northland,W 7-0,50,09/04/2021,Northland,away,W,7,0,False
+09/08/2021,@ UW-River Falls,W 1-0,150,09/08/2021,UW-River Falls,away,W,1,0,False
+09/15/2021,Concordia-M'head,W 1-0,104,09/15/2021,Concordia-M'head,home,W,1,0,False
+09/18/2021,@ Wis.-Stout,W 1-0,80,09/18/2021,Wis.-Stout,away,W,1,0,False
+09/21/2021,@ Augsburg,L 0-1,135,09/21/2021,Augsburg,away,L,0,1,False
+09/25/2021,@ St. Olaf,L 1-2,200,09/25/2021,St. Olaf,away,L,1,2,False
+09/26/2021,Finlandia,W 3-0,117,09/26/2021,Finlandia,home,W,3,0,False
+09/29/2021,Bethel (MN),L 0-1,194,09/29/2021,Bethel (MN),home,L,0,1,False
+10/02/2021,@ Hamline,W 1-0 (1 OT),87,10/02/2021,Hamline,away,W,1,0,True
+10/06/2021,Wis.-Eau Claire,W 2-0,238,10/06/2021,Wis.-Eau Claire,home,W,2,0,False
+10/09/2021,St. Catherine,T 1-1 (2 OT),261,10/09/2021,St. Catherine,home,T,1,1,True
+10/12/2021,St. Scholastica,W 2-1,159,10/12/2021,St. Scholastica,home,W,2,1,False
+10/16/2021,@ Carleton,W 2-0,593,10/16/2021,Carleton,away,W,2,0,False
+10/19/2021,Grinnell,W 2-0,287,10/19/2021,Grinnell,home,W,2,0,False
+10/23/2021,Saint Benedict,L 0-1,278,10/23/2021,Saint Benedict,home,L,0,1,False
+10/27/2021,Saint Mary's (MN),L 0-1,234,10/27/2021,Saint Mary's (MN),home,L,0,1,False
+10/30/2021,@ Gustavus Adolphus,L 0-1,363,10/30/2021,Gustavus Adolphus,away,L,0,1,False

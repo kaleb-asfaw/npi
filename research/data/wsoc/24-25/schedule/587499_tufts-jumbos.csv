@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/04/2024,Emerson,W 4-1,276,09/04/2024,Emerson,home,W,4,1,False
+09/07/2024,@ Williams,L 1-2,173,09/07/2024,Williams,away,L,1,2,False
+09/14/2024,Colby,W 3-0,392,09/14/2024,Colby,home,W,3,0,False
+09/15/2024,Connecticut Col.,W 6-1,327,09/15/2024,Connecticut Col.,home,W,6,1,False
+09/21/2024,@ Hamilton,T 2-2,214,09/21/2024,Hamilton,away,T,2,2,False
+09/25/2024,@ MIT,W 2-0,67,09/25/2024,MIT,away,W,2,0,False
+09/28/2024,@ Wesleyan (CT),L 1-2,197,09/28/2024,Wesleyan (CT),away,L,1,2,False
+10/01/2024,@ Endicott,W 4-1,208,10/01/2024,Endicott,away,W,4,1,False
+10/05/2024,Trinity (CT),W 6-0,367,10/05/2024,Trinity (CT),home,W,6,0,False
+10/07/2024,Regis (MA),W 5-0,86,10/07/2024,Regis (MA),home,W,5,0,False
+10/12/2024,@ Bates,W 3-1,100,10/12/2024,Bates,away,W,3,1,False
+10/15/2024,@ Amherst,W 2-1,57,10/15/2024,Amherst,away,W,2,1,False
+10/19/2024,Middlebury,W 3-0,513,10/19/2024,Middlebury,home,W,3,0,False
+10/22/2024,Bridgewater St.,W 4-1,112,10/22/2024,Bridgewater St.,home,W,4,1,False
+10/29/2024,@ Bowdoin,W 2-0,101,10/29/2024,Bowdoin,away,W,2,0,False
+11/02/2024,Hamilton NESCAC Women's Soccer Championship,W 1-0,147,11/02/2024,Hamilton,home,W,1,0,False
+11/09/2024,"#4 Amherst @Middletown, CT (NESCAC Women's Soccer Championship)",L 1-2,214,11/09/2024,Amherst,neutral,L,1,2,False
+11/16/2024,"Rowan @Geneva, NY (NCAA Division III Women's Soccer Championship)",W 1-0,98,11/16/2024,Rowan,neutral,W,1,0,False
+11/17/2024,"William Smith @Geneva, NY (NCAA Division III Women's Soccer Championship)",L 1-2,211,11/17/2024,William Smith,neutral,L,1,2,False

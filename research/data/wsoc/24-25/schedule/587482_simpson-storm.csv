@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Ill. Wesleyan,W 2-0,132,08/30/2024,Ill. Wesleyan,home,W,2,0,False
+08/31/2024,Concordia-M'head,W 2-0,257,08/31/2024,Concordia-M'head,home,W,2,0,False
+09/03/2024,Carroll (WI),T 0-0,122,09/03/2024,Carroll (WI),home,T,0,0,False
+09/08/2024,MSOE,W 4-1,138,09/08/2024,MSOE,home,W,4,1,False
+09/11/2024,@ Grinnell,W 4-0,50,09/11/2024,Grinnell,away,W,4,0,False
+09/14/2024,@ Gustavus Adolphus,T 2-2,223,09/14/2024,Gustavus Adolphus,away,T,2,2,False
+09/15/2024,@ Carleton,T 3-3,344,09/15/2024,Carleton,away,T,3,3,False
+09/21/2024,Wis.-Eau Claire,W 3-2,315,09/21/2024,Wis.-Eau Claire,home,W,3,2,False
+09/28/2024,@ Central (IA),W 3-1,175,09/28/2024,Central (IA),away,W,3,1,False
+10/01/2024,Westminster (MO),W 6-1,122,10/01/2024,Westminster (MO),home,W,6,1,False
+10/09/2024,@ Luther,W 6-0,89,10/09/2024,Luther,away,W,6,0,False
+10/12/2024,Buena Vista,W 9-0,435,10/12/2024,Buena Vista,home,W,9,0,False
+10/15/2024,@ Neb. Wesleyan,W 3-0,115,10/15/2024,Neb. Wesleyan,away,W,3,0,False
+10/19/2024,Loras,L 0-1,245,10/19/2024,Loras,home,L,0,1,False
+10/23/2024,Dubuque,W 3-1,186,10/23/2024,Dubuque,home,W,3,1,False
+10/26/2024,@ Wartburg,W 1-0,185,10/26/2024,Wartburg,away,W,1,0,False
+10/29/2024,Coe,W 4-0,102,10/29/2024,Coe,home,W,4,0,False
+11/06/2024,#3 Wartburg American Rivers Women's Soccer Championship,W 1-0,213,11/06/2024,Wartburg,home,W,1,0,False
+11/09/2024,@ #1 Loras American Rivers Women's Soccer Championship,L 2-3,167,11/09/2024,Loras,away,L,2,3,False
+11/16/2024,"Wis.-La Crosse @St. Louis, MO (NCAA Division III Women's Soccer Championship)",W 2-1 (2 OT),375,11/16/2024,Wis.-La Crosse,neutral,W,2,1,True
+11/17/2024,"WashU @St. Louis, MO (NCAA Division III Women's Soccer Championship)",L 1-5,437,11/17/2024,WashU,neutral,L,1,5,False

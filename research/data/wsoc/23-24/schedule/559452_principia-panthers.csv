@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Augustana (IL),L 0-1,30,09/01/2023,Augustana (IL),home,L,0,1,False
+09/02/2023,Maryville (TN),L 0-4,50,09/02/2023,Maryville (TN),home,L,0,4,False
+09/06/2023,@ Illinois Col.,L 1-4,72,09/06/2023,Illinois Col.,away,L,1,4,False
+09/09/2023,Rockford,L 0-1,50,09/09/2023,Rockford,home,L,0,1,False
+09/12/2023,@ UHSP,L 2-3,53,09/12/2023,@ UHSP,home,L,2,3,False
+09/19/2023,@ Stephens College,L 0-2,30,09/19/2023,@ Stephens College,home,L,0,2,False
+09/23/2023,@ Blackburn,T 1-1,100,09/23/2023,Blackburn,away,T,1,1,False
+09/27/2023,Eureka,W 8-0,15,09/27/2023,Eureka,home,W,8,0,False
+09/30/2023,Lyon,W 2-1,30,09/30/2023,Lyon,home,W,2,1,False
+10/03/2023,Greenville,L 0-1,50,10/03/2023,Greenville,home,L,0,1,False
+10/07/2023,@ Fontbonne,L 0-2,75,10/07/2023,Fontbonne,away,L,0,2,False
+10/11/2023,@ MUW,L 1-3,34,10/11/2023,MUW,away,L,1,3,False
+10/17/2023,Westminster (MO),L 0-2,50,10/17/2023,Westminster (MO),home,L,0,2,False
+10/24/2023,@ Webster,L 1-5,100,10/24/2023,Webster,away,L,1,5,False
+10/28/2023,@ Spalding,L 0-3,376,10/28/2023,Spalding,away,L,0,3,False

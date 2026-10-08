@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Framingham St.,W 4-0,189,09/01/2023,Framingham St.,home,W,4,0,False
+09/02/2023,Salve Regina,T 1-1,319,09/02/2023,Salve Regina,home,T,1,1,False
+09/06/2023,@ Wheaton (MA),L 1-4,127,09/06/2023,Wheaton (MA),away,L,1,4,False
+09/08/2023,Brandeis,L 1-2,113,09/08/2023,Brandeis,home,L,1,2,False
+09/13/2023,@ MIT,L 0-1,56,09/13/2023,MIT,away,L,0,1,False
+09/16/2023,Hartford,L 0-6,173,09/16/2023,Hartford,home,L,0,6,False
+09/19/2023,@ Fitchburg St.,T 1-1,65,09/19/2023,Fitchburg St.,away,T,1,1,False
+09/21/2023,WPI,L 0-2,273,09/21/2023,WPI,home,L,0,2,False
+09/23/2023,@ Curry,W 2-0,135,09/23/2023,Curry,away,W,2,0,False
+09/25/2023,@ UMass Boston,W 3-1,0,09/25/2023,UMass Boston,away,W,3,1,False
+09/27/2023,@ Bridgewater St.,W 2-0,219,09/27/2023,Bridgewater St.,away,W,2,0,False
+09/30/2023,@ Endicott,T 0-0,128,09/30/2023,Endicott,away,T,0,0,False
+10/03/2023,UMass Dartmouth,W 2-0,100,10/03/2023,UMass Dartmouth,home,W,2,0,False
+10/06/2023,Western New Eng.,L 0-2,133,10/06/2023,Western New Eng.,home,L,0,2,False
+10/11/2023,@ Nichols,W 2-1,230,10/11/2023,Nichols,away,W,2,1,False
+10/12/2023,Worcester St.,W 5-2,159,10/12/2023,Worcester St.,home,W,5,2,False
+10/14/2023,U New England,W 1-0,203,10/14/2023,U New England,home,W,1,0,False
+10/18/2023,@ Gordon,T 1-1,142,10/18/2023,Gordon,away,T,1,1,False
+10/21/2023,Wentworth,W 3-1,127,10/21/2023,Wentworth,home,W,3,1,False
+10/24/2023,Suffolk,W 2-0,123,10/24/2023,Suffolk,home,W,2,0,False
+10/28/2023,#7 Suffolk CCC Women's Soccer Championship,L 1-2,237,10/28/2023,Suffolk,home,L,1,2,False

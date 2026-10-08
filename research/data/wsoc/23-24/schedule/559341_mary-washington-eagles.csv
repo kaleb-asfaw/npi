@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Randolph-Macon,W 1-0,219,09/01/2023,Randolph-Macon,home,W,1,0,False
+09/03/2023,@ Marymount (VA),W 3-0,289,09/03/2023,Marymount (VA),away,W,3,0,False
+09/06/2023,@ Southern Va.,L 0-2,170,09/06/2023,Southern Va.,away,L,0,2,False
+09/10/2023,N.C. Wesleyan,W 6-0,170,09/10/2023,N.C. Wesleyan,home,W,6,0,False
+09/13/2023,@ Mount Aloysius,W 2-0,103,09/13/2023,Mount Aloysius,away,W,2,0,False
+09/16/2023,@ Batten,L 0-3,200,09/16/2023,Batten,away,L,0,3,False
+09/19/2023,@ Bridgewater (VA),L 0-2,105,09/19/2023,Bridgewater (VA),away,L,0,2,False
+09/25/2023,@ Lynchburg,L 1-2,94,09/25/2023,Lynchburg,away,L,1,2,False
+09/27/2023,@ Hood,W 1-0,269,09/27/2023,Hood,away,W,1,0,False
+09/30/2023,Kenyon,T 1-1,127,09/30/2023,Kenyon,home,T,1,1,False
+10/07/2023,Chris. Newport,L 0-5,453,10/07/2023,Chris. Newport,home,L,0,5,False
+10/11/2023,St. Mary's (MD),W 2-0,132,10/11/2023,St. Mary's (MD),home,W,2,0,False
+10/14/2023,@ Chris. Newport,L 0-1,186,10/14/2023,Chris. Newport,away,L,0,1,False
+10/21/2023,Salisbury,W 1-0,217,10/21/2023,Salisbury,home,W,1,0,False
+10/24/2023,Catholic,L 0-2,92,10/24/2023,Catholic,home,L,0,2,False
+10/28/2023,Johns Hopkins,L 0-2,619,10/28/2023,Johns Hopkins,home,L,0,2,False
+11/02/2023,#5 Pratt C2C Women's Soccer Championship,W 4-0,142,11/02/2023,Pratt,home,W,4,0,False
+11/03/2023,@ #1 Chris. Newport C2C Women's Soccer Championship,L 0-2,214,11/03/2023,Chris. Newport,away,L,0,2,False

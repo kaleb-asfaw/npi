@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Wis.-La Crosse,L 0-1,335,09/01/2023,Wis.-La Crosse,away,L,0,1,False
+09/03/2023,@ Wis.-Stevens Point,W 2-1,166,09/03/2023,Wis.-Stevens Point,away,W,2,1,False
+09/09/2023,@ Wis.-Eau Claire,L 2-3,112,09/09/2023,Wis.-Eau Claire,away,L,2,3,False
+09/12/2023,@ Macalester,L 1-2,227,09/12/2023,Macalester,away,L,1,2,False
+09/16/2023,Hamline,W 2-0,150,09/16/2023,Hamline,home,W,2,0,False
+09/17/2023,Wartburg,W 3-0,243,09/17/2023,Wartburg,home,W,3,0,False
+09/23/2023,@ Saint Mary's (MN),W 1-0,96,09/23/2023,Saint Mary's (MN),away,W,1,0,False
+09/27/2023,Augsburg,T 1-1,124,09/27/2023,Augsburg,home,T,1,1,False
+09/30/2023,@ St. Catherine,L 0-2,217,09/30/2023,St. Catherine,away,L,0,2,False
+10/01/2023,Simpson,T 0-0,120,10/01/2023,Simpson,home,T,0,0,False
+10/07/2023,@ Gustavus Adolphus,L 0-1,137,10/07/2023,Gustavus Adolphus,away,L,0,1,False
+10/11/2023,Concordia-M'head,W 2-0,85,10/11/2023,Concordia-M'head,home,W,2,0,False
+10/14/2023,@ Bethel (MN),W 3-1,215,10/14/2023,Bethel (MN),away,W,3,1,False
+10/15/2023,Wis.-Stout,W 2-1,78,10/15/2023,Wis.-Stout,home,W,2,1,False
+10/18/2023,@ St. Scholastica,W 4-1,59,10/18/2023,St. Scholastica,away,W,4,1,False
+10/21/2023,St. Olaf,W 1-0,125,10/21/2023,St. Olaf,home,W,1,0,False
+10/28/2023,Carleton,T 0-0,76,10/28/2023,Carleton,home,T,0,0,False
+10/30/2023,#5 Concordia-M'head MIAC Women's Soccer Championship,L 0-2,78,10/30/2023,Concordia-M'head,home,L,0,2,False

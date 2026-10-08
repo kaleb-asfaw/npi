@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,"Scranton @Baltimore, MD",T 0-0,80,09/01/2023,Scranton,neutral,T,0,0,False
+09/03/2023,"Sewanee @Baltimore, MD",T 0-0,75,09/03/2023,Sewanee,neutral,T,0,0,False
+09/08/2023,"NYU @Hoboken, NJ",L 0-4,124,09/08/2023,NYU,neutral,L,0,4,False
+09/09/2023,"Calvin @Hoboken, NJ",L 0-2,86,09/09/2023,Calvin,neutral,L,0,2,False
+09/13/2023,Haverford,T 0-0,167,09/13/2023,Haverford,home,T,0,0,False
+09/16/2023,@ Wilkes,T 0-0,167,09/16/2023,Wilkes,away,T,0,0,False
+09/20/2023,Cabrini,W 2-0,210,09/20/2023,Cabrini,home,W,2,0,False
+09/23/2023,Arcadia,W 1-0,151,09/23/2023,Arcadia,home,W,1,0,False
+09/27/2023,Swarthmore,L 2-3,179,09/27/2023,Swarthmore,home,L,2,3,False
+09/30/2023,York (PA),L 0-1,150,09/30/2023,York (PA),home,L,0,1,False
+10/07/2023,@ Messiah,L 0-2,495,10/07/2023,Messiah,away,L,0,2,False
+10/10/2023,Delaware Valley,L 2-3,106,10/10/2023,Delaware Valley,home,L,2,3,False
+10/13/2023,Hood,W 1-0,150,10/13/2023,Hood,home,W,1,0,False
+10/17/2023,@ Stevenson,W 2-0,155,10/17/2023,Stevenson,away,W,2,0,False
+10/21/2023,Albright,W 1-0,146,10/21/2023,Albright,home,W,1,0,False
+10/25/2023,@ Eastern,T 0-0,127,10/25/2023,Eastern,away,T,0,0,False
+10/28/2023,@ Alvernia,T 2-2,118,10/28/2023,Alvernia,away,T,2,2,False
+10/31/2023,@ #2 York (PA) MAC Commonwealth Women's Soccer Championship,L 0-2,167,10/31/2023,York (PA),away,L,0,2,False

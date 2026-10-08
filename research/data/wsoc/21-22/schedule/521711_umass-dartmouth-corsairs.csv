@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2021,Dean,T 2-2 (2 OT),120,09/02/2021,Dean,home,T,2,2,True
+09/04/2021,@ Salem St.,W 5-0,30,09/04/2021,Salem St.,away,W,5,0,False
+09/08/2021,Springfield,L 1-7,50,09/08/2021,Springfield,home,L,1,7,False
+09/11/2021,Wellesley,Ppd,,09/11/2021,Wellesley,home,,,,
+09/14/2021,@ Curry,L 0-3,135,09/14/2021,Curry,away,L,0,3,False
+09/18/2021,@ Plymouth St.,L 2-3 (2 OT),309,09/18/2021,Plymouth St.,away,L,2,3,True
+09/20/2021,Connecticut Col.,Ppd,,09/20/2021,Connecticut Col.,home,,,,
+09/23/2021,Salve Regina,Canceled,,09/23/2021,Salve Regina,home,,,,
+09/29/2021,@ Rhode Island Col.,L 0-3,85,09/29/2021,Rhode Island Col.,away,L,0,3,False
+10/02/2021,Southern Me.,L 0-4,200,10/02/2021,Southern Me.,home,L,0,4,False
+10/05/2021,Bridgewater St.,L 0-2,212,10/05/2021,Bridgewater St.,home,L,0,2,False
+10/07/2021,@ Roger Williams,L 0-3,125,10/07/2021,Roger Williams,away,L,0,3,False
+10/09/2021,@ Keene St.,L 0-1,60,10/09/2021,Keene St.,away,L,0,1,False
+10/13/2021,UMass Boston,L 0-1,64,10/13/2021,UMass Boston,home,L,0,1,False
+10/16/2021,WestConn,L 0-6,54,10/16/2021,WestConn,home,L,0,6,False
+10/19/2021,@ Westfield St.,L 0-6,100,10/19/2021,Westfield St.,away,L,0,6,False
+10/21/2021,Connecticut Col.,L 0-6,84,10/21/2021,Connecticut Col.,home,L,0,6,False
+10/24/2021,@ VTSU Castleton,L 0-5,380,10/24/2021,VTSU Castleton,away,L,0,5,False
+10/27/2021,Worcester St.,Canceled,,10/27/2021,Worcester St.,home,,,,
+10/29/2021,Eastern Conn. St.,L 0-1,87,10/29/2021,Eastern Conn. St.,home,L,0,1,False

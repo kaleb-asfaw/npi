@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,"Westminster (MO) @Clarksville, AR",W 2-0,145,09/01/2023,Westminster (MO),neutral,W,2,0,False
+09/03/2023,"Centenary (LA) @Clarksville, Ark.",W 3-0,105,09/03/2023,Centenary (LA),neutral,W,3,0,False
+09/08/2023,Austin,W 2-0,100,09/08/2023,Austin,home,W,2,0,False
+09/09/2023,Evangel,W 2-0,50,09/09/2023,Evangel,home,W,2,0,False
+09/12/2023,@ Lyon,W 4-0,100,09/12/2023,Lyon,away,W,4,0,False
+09/15/2023,@ UT Dallas,L 0-2,307,09/15/2023,UT Dallas,away,L,0,2,False
+09/17/2023,@ Dallas,L 2-4,57,09/17/2023,Dallas,away,L,2,4,False
+09/20/2023,@ Ozarks (AR),W 1-0,135,09/20/2023,Ozarks (AR),away,W,1,0,False
+09/23/2023,@ Birmingham-So.,W 3-1,151,09/23/2023,Birmingham-So.,away,W,3,1,False
+09/26/2023,Central Baptist,W 4-1,100,09/26/2023,Central Baptist,home,W,4,1,False
+09/30/2023,Millsaps,W 3-0,50,09/30/2023,Millsaps,home,W,3,0,False
+10/02/2023,Ecclesia,W 6-0,50,10/02/2023,Ecclesia,home,W,6,0,False
+10/06/2023,@ Centre,L 0-3,181,10/06/2023,Centre,away,L,0,3,False
+10/08/2023,@ Sewanee,L 0-2,139,10/08/2023,Sewanee,away,L,0,2,False
+10/10/2023,LeTourneau,L 3-4,50,10/10/2023,LeTourneau,home,L,3,4,False
+10/13/2023,Berry,W 3-0,100,10/13/2023,Berry,home,W,3,0,False
+10/15/2023,Oglethorpe,W 1-0,70,10/15/2023,Oglethorpe,home,W,1,0,False
+10/21/2023,@ Rhodes,L 0-3,90,10/21/2023,Rhodes,away,L,0,3,False
+10/28/2023,#5 Oglethorpe SAA Women's Soccer Championship,T 0-0 (3 OT),75,10/28/2023,Oglethorpe,home,T,0,0,True
+11/03/2023,@ #1 Sewanee SAA Women's Soccer Championship,L 0-3,337,11/03/2023,Sewanee,away,L,0,3,False

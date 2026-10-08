@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2021,DePauw,W 4-1,442,09/03/2021,DePauw,home,W,4,1,False
+09/04/2021,Wittenberg,W 2-0,212,09/04/2021,Wittenberg,home,W,2,0,False
+09/08/2021,@ North Park,W 6-0,78,09/08/2021,North Park,away,W,6,0,False
+09/11/2021,@ Knox,L 0-1,50,09/11/2021,Knox,away,L,0,1,False
+09/14/2021,Elmhurst,W 1-0,160,09/14/2021,Elmhurst,home,W,1,0,False
+09/21/2021,UChicago,L 0-4,125,09/21/2021,UChicago,home,L,0,4,False
+09/25/2021,Capital,W 1-0,122,09/25/2021,Capital,home,W,1,0,False
+09/29/2021,North Central (IL),W 3-0,145,09/29/2021,North Central (IL),home,W,3,0,False
+10/02/2021,@ St. Mary's (IN),W 3-0,97,10/02/2021,St. Mary's (IN),away,W,3,0,False
+10/06/2021,@ Calvin,L 1-2,375,10/06/2021,Calvin,away,L,1,2,False
+10/09/2021,Trine,W 2-1,125,10/09/2021,Trine,home,W,2,1,False
+10/12/2021,@ Albion,T 1-1 (2 OT),241,10/12/2021,Albion,away,T,1,1,True
+10/20/2021,@ Alma,W 2-0,0,10/20/2021,Alma,away,W,2,0,False
+10/21/2021,Adrian,L 3-5,65,10/21/2021,Adrian,home,L,3,5,False
+10/23/2021,Kalamazoo,W 3-0,315,10/23/2021,Kalamazoo,home,W,3,0,False
+10/26/2021,Olivet,W 2-0,124,10/26/2021,Olivet,home,W,2,0,False
+10/30/2021,#6 Kalamazoo MIAA WSOC Championship,W 3-1,89,10/30/2021,Kalamazoo,home,W,3,1,False
+11/02/2021,@ #2 Albion MIAA WSOC Championship,T 0-0 (3 OT),649,11/02/2021,Albion,away,T,0,0,True
+11/06/2021,#4 Trine MIAA WSOC Championship,W 3-1,227,11/06/2021,Trine,home,W,3,1,False
+11/12/2021,"Ohio Northern @Cleveland, OH (NCAA Division III Women's Soccer Championship)",L 0-2,93,11/12/2021,Ohio Northern,neutral,L,0,2,False

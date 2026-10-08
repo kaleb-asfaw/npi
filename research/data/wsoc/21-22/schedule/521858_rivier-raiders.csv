@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Eastern Nazarene,L 0-1,86,09/01/2021,Eastern Nazarene,away,L,0,1,False
+09/03/2021,Elms,L 0-4,200,09/03/2021,Elms,home,L,0,4,False
+09/11/2021,@ Albertus Magnus,L 2-7,355,09/11/2021,Albertus Magnus,away,L,2,7,False
+09/14/2021,@ Mass. Maritime,W 1-0 (2 OT),91,09/14/2021,Mass. Maritime,away,W,1,0,True
+09/16/2021,VTSU Lyndon,W 2-0,0,09/16/2021,VTSU Lyndon,home,W,2,0,False
+09/18/2021,Norwich,L 0-2,200,09/18/2021,Norwich,home,L,0,2,False
+09/20/2021,@ Nichols,L 0-7,175,09/20/2021,Nichols,away,L,0,7,False
+09/22/2021,@ Anna Maria,T 1-1 (2 OT),163,09/22/2021,Anna Maria,away,T,1,1,True
+09/25/2021,Colby-Sawyer,L 0-1 (1 OT),500,09/25/2021,Colby-Sawyer,home,L,0,1,True
+09/29/2021,@ Lasell,L 0-9,75,09/29/2021,Lasell,away,L,0,9,False
+10/02/2021,JWU (Providence),L 0-3,85,10/02/2021,JWU (Providence),home,L,0,3,False
+10/06/2021,@ Simmons,L 2-4,89,10/06/2021,Simmons,away,L,2,4,False
+10/09/2021,St. Joseph's (ME),L 0-2,85,10/09/2021,St. Joseph's (ME),home,L,0,2,False
+10/13/2021,Salem St.,L 1-2 (2 OT),500,10/13/2021,Salem St.,home,L,1,2,True
+10/15/2021,@ Saint Joseph (CT),L 0-1,129,10/15/2021,Saint Joseph (CT),away,L,0,1,False
+10/20/2021,Dean,T 0-0 (2 OT),69,10/20/2021,Dean,home,T,0,0,True
+10/23/2021,Regis (MA),T 1-1 (2 OT),95,10/23/2021,Regis (MA),home,T,1,1,True
+10/25/2021,Fisher,W 5-0,35,10/25/2021,Fisher,home,W,5,0,False
+10/27/2021,@ Emmanuel (MA),L 0-5,50,10/27/2021,Emmanuel (MA),away,L,0,5,False

@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Howard Payne,L 4-5,100,09/01/2021,Howard Payne,home,L,4,5,False
+09/03/2021,@ Hardin-Simmons,L 1-5,209,09/03/2021,Hardin-Simmons,away,L,1,5,False
+09/05/2021,@ McMurry,L 0-4,145,09/05/2021,McMurry,away,L,0,4,False
+09/10/2021,Centenary (LA),L 0-1 (2 OT),100,09/10/2021,Centenary (LA),home,L,0,1,True
+09/11/2021,Mary Hardin-Baylor,L 0-8,150,09/11/2021,Mary Hardin-Baylor,home,L,0,8,False
+09/17/2021,East Tex. Baptist,T 0-0 (2 OT),100,09/17/2021,East Tex. Baptist,home,T,0,0,True
+09/18/2021,Sul Ross St.,Canceled,,09/18/2021,Sul Ross St.,home,,,,
+09/24/2021,@ Southwestern (TX),L 1-2,150,09/24/2021,Southwestern (TX),away,L,1,2,False
+09/26/2021,@ Texas Lutheran,W 2-1,172,09/26/2021,Texas Lutheran,away,W,2,1,False
+10/01/2021,@ Schreiner,T 1-1 (2 OT),62,10/01/2021,Schreiner,away,T,1,1,True
+10/03/2021,@ Trinity (TX),L 0-3,102,10/03/2021,Trinity (TX),away,L,0,3,False
+10/08/2021,@ Centenary (LA),T 0-0 (2 OT),0,10/08/2021,Centenary (LA),away,T,0,0,True
+10/15/2021,Texas Lutheran,W 1-0,100,10/15/2021,Texas Lutheran,home,W,1,0,False
+10/17/2021,Southwestern (TX),L 1-2,100,10/17/2021,Southwestern (TX),home,L,1,2,False
+10/29/2021,@ Dallas,L 2-3,70,10/29/2021,Dallas,away,L,2,3,False
+10/31/2021,@ Austin,T 0-0 (2 OT),224,10/31/2021,Austin,away,T,0,0,True

@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2021,@ UMass Boston,L 1-2,110,09/03/2021,UMass Boston,away,L,1,2,False
+09/08/2021,Salve Regina,W 6-1,75,09/08/2021,Salve Regina,home,W,6,1,False
+09/11/2021,"Westfield St. @Madison, NJ",W 3-2 (1 OT),75,09/11/2021,Westfield St.,neutral,W,3,2,True
+09/12/2021,@ Drew,L 0-3,100,09/12/2021,Drew,away,L,0,3,False
+09/15/2021,Connecticut Col.,L 1-2,150,09/15/2021,Connecticut Col.,home,L,1,2,False
+09/18/2021,Wellesley,L 1-2,75,09/18/2021,Wellesley,home,L,1,2,False
+09/21/2021,@ Wesleyan (CT),L 0-4,189,09/21/2021,Wesleyan (CT),away,L,0,4,False
+09/25/2021,@ Babson,L 1-2,225,09/25/2021,Babson,away,L,1,2,False
+09/29/2021,@ Wentworth,Canceled,,09/29/2021,Wentworth,away,,,,
+10/02/2021,@ Springfield,L 1-2 (2 OT),250,10/02/2021,Springfield,away,L,1,2,True
+10/06/2021,Emerson,L 0-1,55,10/06/2021,Emerson,home,L,0,1,False
+10/09/2021,@ Clark (MA),L 1-3,120,10/09/2021,Clark (MA),away,L,1,3,False
+10/12/2021,Smith,W 2-1,50,10/12/2021,Smith,home,W,2,1,False
+10/16/2021,Wheaton (MA),W 3-1,125,10/16/2021,Wheaton (MA),home,W,3,1,False
+10/23/2021,MIT,L 0-2,150,10/23/2021,MIT,home,L,0,2,False
+10/27/2021,@ Mount Holyoke,W 4-1,34,10/27/2021,Mount Holyoke,away,W,4,1,False
+10/30/2021,@ WPI,L 1-2,100,10/30/2021,WPI,away,L,1,2,False

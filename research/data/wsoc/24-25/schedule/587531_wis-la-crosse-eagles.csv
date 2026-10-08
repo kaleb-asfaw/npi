@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Wis.-Superior,W 5-0,187,08/30/2024,Wis.-Superior,away,W,5,0,False
+09/01/2024,@ St. Scholastica,W 7-1,132,09/01/2024,St. Scholastica,away,W,7,1,False
+09/07/2024,@ Dominican (IL),W 2-0,200,09/07/2024,Dominican (IL),away,W,2,0,False
+09/08/2024,"Ill. Wesleyan @River Forest, IL",W 2-0,200,09/08/2024,Ill. Wesleyan,neutral,W,2,0,False
+09/11/2024,@ MSOE,W 4-1,198,09/11/2024,MSOE,away,W,4,1,False
+09/14/2024,Dubuque,W 2-1,246,09/14/2024,Dubuque,home,W,2,1,False
+09/20/2024,@ Calvin,L 1-3,327,09/20/2024,Calvin,away,L,1,3,False
+09/22/2024,@ North Central (IL),L 0-6,76,09/22/2024,North Central (IL),away,L,0,6,False
+09/27/2024,Chris. Newport,L 1-3,425,09/27/2024,Chris. Newport,home,L,1,3,False
+10/05/2024,Wis.-Oshkosh,W 3-0,225,10/05/2024,Wis.-Oshkosh,home,W,3,0,False
+10/09/2024,@ Wis.-Platteville,T 2-2,184,10/09/2024,Wis.-Platteville,away,T,2,2,False
+10/12/2024,@ Wis.-Whitewater,W 5-0,235,10/12/2024,Wis.-Whitewater,away,W,5,0,False
+10/15/2024,@ Lawrence,W 5-0,161,10/15/2024,Lawrence,away,W,5,0,False
+10/19/2024,UW-River Falls,W 5-0,259,10/19/2024,UW-River Falls,home,W,5,0,False
+10/20/2024,Carleton,T 2-2,140,10/20/2024,Carleton,home,T,2,2,False
+10/23/2024,Wis.-Stout,W 4-1,170,10/23/2024,Wis.-Stout,home,W,4,1,False
+10/26/2024,@ Wis.-Eau Claire,W 3-0,150,10/26/2024,Wis.-Eau Claire,away,W,3,0,False
+10/29/2024,Concordia Wisconsin,W 6-2,96,10/29/2024,Concordia Wisconsin,home,W,6,2,False
+11/02/2024,Wis.-Stevens Point,W 1-0,256,11/02/2024,Wis.-Stevens Point,home,W,1,0,False
+11/07/2024,#5 UW-River Falls WIAC Women's Soccer Championship,W 3-0,151,11/07/2024,UW-River Falls,home,W,3,0,False
+11/09/2024,#2 Wis.-Platteville WIAC Women's Soccer Championship,W 2-1,242,11/09/2024,Wis.-Platteville,home,W,2,1,False
+11/16/2024,"Simpson @St. Louis, MO (NCAA Division III Women's Soccer Championship)",L 1-2 (2 OT),375,11/16/2024,Simpson,neutral,L,1,2,True

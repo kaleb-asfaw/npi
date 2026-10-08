@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,SUNY Brockport,W 1-0,110,09/01/2023,SUNY Brockport,home,W,1,0,False
+09/02/2023,St. John Fisher,T 1-1,135,09/02/2023,St. John Fisher,home,T,1,1,False
+09/09/2023,SUNY Potsdam,W 1-0,135,09/09/2023,SUNY Potsdam,home,W,1,0,False
+09/10/2023,Trinity (CT),T 0-0,117,09/10/2023,Trinity (CT),home,T,0,0,False
+09/13/2023,Plattsburgh St.,W 1-0,120,09/13/2023,Plattsburgh St.,home,W,1,0,False
+09/16/2023,Mt. St. Mary (NY),W 3-0,75,09/16/2023,Mt. St. Mary (NY),home,W,3,0,False
+09/20/2023,@ Clarkson,L 0-2,98,09/20/2023,Clarkson,away,L,0,2,False
+09/23/2023,@ William Smith,T 1-1,175,09/23/2023,William Smith,away,T,1,1,False
+09/30/2023,Vassar,L 1-2,148,09/30/2023,Vassar,home,L,1,2,False
+10/03/2023,@ Hartwick,W 2-0,122,10/03/2023,Hartwick,away,W,2,0,False
+10/07/2023,@ Rensselaer,L 0-2,321,10/07/2023,Rensselaer,away,L,0,2,False
+10/13/2023,@ RIT,T 1-1,305,10/13/2023,RIT,away,T,1,1,False
+10/14/2023,@ Ithaca,L 0-1,50,10/14/2023,Ithaca,away,L,0,1,False
+10/21/2023,St. Lawrence,T 0-0,285,10/21/2023,St. Lawrence,home,T,0,0,False
+10/25/2023,Union (NY),T 1-1,110,10/25/2023,Union (NY),home,T,1,1,False
+10/28/2023,Bard,W 5-0,115,10/28/2023,Bard,home,W,5,0,False

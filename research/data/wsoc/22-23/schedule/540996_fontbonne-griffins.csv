@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Mo. Baptist,T 1-1,175,09/01/2022,@ Mo. Baptist,home,T,1,1,False
+09/03/2022,Trinity (TX),L 1-4,157,09/03/2022,Trinity (TX),home,L,1,4,False
+09/05/2022,@ WashU,T 1-1,300,09/05/2022,WashU,away,T,1,1,False
+09/10/2022,UHSP,Canceled,,09/10/2022,UHSP,home,,,,
+09/14/2022,@ Spalding,W 5-0,95,09/14/2022,Spalding,away,W,5,0,False
+09/17/2022,Webster,W 2-0,120,09/17/2022,Webster,home,W,2,0,False
+09/21/2022,@ Westminster (MO),W 1-0,100,09/21/2022,Westminster (MO),away,W,1,0,False
+09/24/2022,Greenville,W 2-0,125,09/24/2022,Greenville,home,W,2,0,False
+09/28/2022,@ Blackburn,W 9-0,100,09/28/2022,Blackburn,away,W,9,0,False
+10/01/2022,Eureka,W 6-0,30,10/01/2022,Eureka,home,W,6,0,False
+10/04/2022,@ Principia,W 2-0,45,10/04/2022,Principia,away,W,2,0,False
+10/08/2022,@ Webster,W 1-0,150,10/08/2022,Webster,away,W,1,0,False
+10/13/2022,Spalding,W 2-0,100,10/13/2022,Spalding,home,W,2,0,False
+10/15/2022,@ Greenville,W 1-0,200,10/15/2022,Greenville,away,W,1,0,False
+10/19/2022,Blackburn,W 7-0,50,10/19/2022,Blackburn,home,W,7,0,False
+10/21/2022,@ Eureka,W 9-0,50,10/21/2022,Eureka,away,W,9,0,False
+10/25/2022,Principia,W 5-1,25,10/25/2022,Principia,home,W,5,1,False
+10/29/2022,Westminster (MO),W 1-0,50,10/29/2022,Westminster (MO),home,W,1,0,False
+11/03/2022,#4 Westminster (MO) SLIAC WSOC Tournament,T 1-1 (3 OT),175,11/03/2022,Westminster (MO),home,T,1,1,True

@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Buena Vista,W 2-0,80,09/01/2023,Buena Vista,away,W,2,0,False
+09/03/2023,@ UW-River Falls,T 2-2,211,09/03/2023,UW-River Falls,away,T,2,2,False
+09/06/2023,Gustavus Adolphus,L 1-4,127,09/06/2023,Gustavus Adolphus,home,L,1,4,False
+09/09/2023,Augsburg,L 2-3,137,09/09/2023,Augsburg,home,L,2,3,False
+09/13/2023,Northwestern-St. Paul,W 4-3,207,09/13/2023,Northwestern-St. Paul,home,W,4,3,False
+09/16/2023,North Central (MN),W 7-0,227,09/16/2023,North Central (MN),home,W,7,0,False
+09/19/2023,@ Martin Luther,W 1-0,65,09/19/2023,Martin Luther,away,W,1,0,False
+09/24/2023,@ Wis.-Superior,L 1-2,106,09/24/2023,Wis.-Superior,away,L,1,2,False
+09/27/2023,Crown (MN),W 3-0,123,09/27/2023,Crown (MN),home,W,3,0,False
+09/30/2023,@ Northland,W 2-0,76,09/30/2023,Northland,away,W,2,0,False
+10/03/2023,@ Minn.-Morris,W 4-0,42,10/03/2023,Minn.-Morris,away,W,4,0,False
+10/07/2023,@ North Central (MN),W 9-0,54,10/07/2023,North Central (MN),away,W,9,0,False
+10/11/2023,Martin Luther,W 5-1,177,10/11/2023,Martin Luther,home,W,5,1,False
+10/14/2023,Wis.-Superior,L 1-2,173,10/14/2023,Wis.-Superior,home,L,1,2,False
+10/17/2023,@ Northwestern-St. Paul,L 1-2,42,10/17/2023,Northwestern-St. Paul,away,L,1,2,False
+10/21/2023,Northland,W 6-1,128,10/21/2023,Northland,home,W,6,1,False
+10/25/2023,@ Crown (MN),T 0-0,100,10/25/2023,Crown (MN),away,T,0,0,False
+10/28/2023,Minn.-Morris,W 3-0,123,10/28/2023,Minn.-Morris,home,W,3,0,False
+11/01/2023,@ #2 Northwestern-St. Paul UMAC Women's Soccer Championship,L 2-5,58,11/01/2023,Northwestern-St. Paul,away,L,2,5,False

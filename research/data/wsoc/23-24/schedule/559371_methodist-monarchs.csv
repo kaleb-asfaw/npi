@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Stockton,L 0-1,150,09/01/2023,Stockton,away,L,0,1,False
+09/02/2023,"Kean @Galloway, NJ",W 4-2,80,09/02/2023,Kean,neutral,W,4,2,False
+09/06/2023,Averett,W 2-0,200,09/06/2023,Averett,home,W,2,0,False
+09/10/2023,East. Mennonite,W 2-0,167,09/10/2023,East. Mennonite,home,W,2,0,False
+09/13/2023,@ Guilford,L 1-2,175,09/13/2023,Guilford,away,L,1,2,False
+09/16/2023,@ Warren Wilson,W 10-0,75,09/16/2023,Warren Wilson,away,W,10,0,False
+09/20/2023,Chris. Newport,L 0-1,158,09/20/2023,Chris. Newport,home,L,0,1,False
+09/23/2023,@ Southern Va.,L 0-1,60,09/23/2023,Southern Va.,away,L,0,1,False
+09/30/2023,Salem (NC),W 3-0,80,09/30/2023,Salem (NC),home,W,3,0,False
+10/03/2023,William Peace,W 3-0,55,10/03/2023,William Peace,home,W,3,0,False
+10/07/2023,@ Mary Baldwin,W 1-0,50,10/07/2023,Mary Baldwin,away,W,1,0,False
+10/11/2023,@ Greensboro,W 2-0,112,10/11/2023,Greensboro,away,W,2,0,False
+10/14/2023,Brevard,W 1-0,90,10/14/2023,Brevard,home,W,1,0,False
+10/17/2023,@ Meredith,T 1-1,83,10/17/2023,Meredith,away,T,1,1,False
+10/21/2023,@ N.C. Wesleyan,W 5-0,154,10/21/2023,N.C. Wesleyan,away,W,5,0,False
+10/28/2023,Pfeiffer,W 3-2,266,10/28/2023,Pfeiffer,home,W,3,2,False
+10/31/2023,#7 Mary Baldwin USA South Women's Soccer Championship,W 5-0,75,10/31/2023,Mary Baldwin,home,W,5,0,False
+11/02/2023,#3 Brevard USA South Women's Soccer Championship,L 0-2,106,11/02/2023,Brevard,home,L,0,2,False

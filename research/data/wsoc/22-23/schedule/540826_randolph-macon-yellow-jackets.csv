@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,Mary Washington,W 1-0,160,09/01/2022,Mary Washington,home,W,1,0,False
+09/03/2022,@ St. Mary's (MD),W 1-0,114,09/03/2022,St. Mary's (MD),away,W,1,0,False
+09/04/2022,"Salisbury @Saint Mary's City, MD",W 3-1,132,09/04/2022,Salisbury,neutral,W,3,1,False
+09/08/2022,McDaniel,T 0-0,127,09/08/2022,McDaniel,home,T,0,0,False
+09/14/2022,@ Johns Hopkins,L 0-3,120,09/14/2022,Johns Hopkins,away,L,0,3,False
+09/17/2022,@ Greensboro,W 3-0,99,09/17/2022,Greensboro,away,W,3,0,False
+09/21/2022,@ Chris. Newport,L 0-1,313,09/21/2022,Chris. Newport,away,L,0,1,False
+09/24/2022,@ Guilford,W 3-0,100,09/24/2022,Guilford,away,W,3,0,False
+09/29/2022,Southern Va.,W 1-0,82,09/29/2022,Southern Va.,home,W,1,0,False
+09/30/2022,Sweet Briar,W 8-0,72,09/30/2022,Sweet Briar,home,W,8,0,False
+10/05/2022,@ Wash. & Lee,T 1-1,108,10/05/2022,Wash. & Lee,away,T,1,1,False
+10/08/2022,@ Bridgewater (VA),L 0-2,215,10/08/2022,Bridgewater (VA),away,L,0,2,False
+10/12/2022,Shenandoah,W 1-0,293,10/12/2022,Shenandoah,home,W,1,0,False
+10/15/2022,Ferrum,W 3-0,345,10/15/2022,Ferrum,home,W,3,0,False
+10/18/2022,@ Randolph,W 1-0,110,10/18/2022,Randolph,away,W,1,0,False
+10/21/2022,Roanoke,W 2-1,84,10/21/2022,Roanoke,home,W,2,1,False
+10/26/2022,Batten,L 1-4,58,10/26/2022,Batten,home,L,1,4,False
+10/29/2022,@ Lynchburg,L 0-2,201,10/29/2022,Lynchburg,away,L,0,2,False
+11/01/2022,@ #4 Lynchburg ODAC WSOC Tournament,L 0-3,333,11/01/2022,Lynchburg,away,L,0,3,False

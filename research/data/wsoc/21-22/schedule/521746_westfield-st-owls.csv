@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2021,@ Kean,W 4-0,12,09/03/2021,Kean,away,W,4,0,False
+09/04/2021,"Stockton @Union, NJ",T 0-0 (2 OT),30,09/04/2021,Stockton,neutral,T,0,0,True
+09/06/2021,@ U New England,L 0-4,185,09/06/2021,U New England,away,L,0,4,False
+09/11/2021,"Coast Guard @Madison, NJ",L 2-3 (1 OT),75,09/11/2021,Coast Guard,neutral,L,2,3,True
+09/12/2021,"Bard @Madison, NJ",W 6-1,60,09/12/2021,Bard,neutral,W,6,1,False
+09/16/2021,@ Keene St.,L 1-2,110,09/16/2021,Keene St.,away,L,1,2,False
+09/18/2021,Framingham St.,W 7-0,0,09/18/2021,Framingham St.,home,W,7,0,False
+09/22/2021,@ Eastern Conn. St.,W 4-3,100,09/22/2021,Eastern Conn. St.,away,W,4,3,False
+09/25/2021,MCLA,W 10-1,125,09/25/2021,MCLA,home,W,10,1,False
+09/29/2021,Smith,L 1-2 (1 OT),222,09/29/2021,Smith,home,L,1,2,True
+10/02/2021,@ Worcester St.,W 3-1,223,10/02/2021,Worcester St.,away,W,3,1,False
+10/06/2021,Western New Eng.,W 3-1,150,10/06/2021,Western New Eng.,home,W,3,1,False
+10/09/2021,Mass. Maritime,W 7-0,200,10/09/2021,Mass. Maritime,home,W,7,0,False
+10/16/2021,@ Bridgewater St.,W 3-2,225,10/16/2021,Bridgewater St.,away,W,3,2,False
+10/19/2021,UMass Dartmouth,W 6-0,100,10/19/2021,UMass Dartmouth,home,W,6,0,False
+10/23/2021,@ Fitchburg St.,W 7-0,100,10/23/2021,Fitchburg St.,away,W,7,0,False
+10/27/2021,Plymouth St.,W 4-0,150,10/27/2021,Plymouth St.,home,W,4,0,False
+10/30/2021,Salem St.,W 6-1,150,10/30/2021,Salem St.,home,W,6,1,False
+11/05/2021,#4 Framingham St. MASCAC WSOC Championship,W 3-0,250,11/05/2021,Framingham St.,home,W,3,0,False
+11/07/2021,#2 Worcester St. MASCAC WSOC Championship,W 1-0,400,11/07/2021,Worcester St.,home,W,1,0,False
+11/13/2021,@ TCNJ NCAA Division III Women's Soccer Championship,L 0-4,317,11/13/2021,TCNJ,away,L,0,4,False

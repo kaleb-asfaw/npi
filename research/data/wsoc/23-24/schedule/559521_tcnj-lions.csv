@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2023,@ William Smith,L 0-1,150,09/02/2023,William Smith,away,L,0,1,False
+09/03/2023,@ Haverford,W 6-0,143,09/03/2023,Haverford,away,W,6,0,False
+09/07/2023,Berry,W 4-0,126,09/07/2023,Berry,home,W,4,0,False
+09/09/2023,Penn St. Harrisburg,W 1-0,139,09/09/2023,Penn St. Harrisburg,home,W,1,0,False
+09/13/2023,Johns Hopkins,T 2-2,214,09/13/2023,Johns Hopkins,home,T,2,2,False
+09/16/2023,@ Hood,W 4-0,278,09/16/2023,Hood,away,W,4,0,False
+09/20/2023,Stevens,W 4-0,137,09/20/2023,Stevens,home,W,4,0,False
+09/27/2023,@ Kean,W 5-0,200,09/27/2023,Kean,away,W,5,0,False
+09/30/2023,@ Wm. Paterson,W 8-0,73,09/30/2023,Wm. Paterson,away,W,8,0,False
+10/04/2023,Ramapo,W 10-0,0,10/04/2023,Ramapo,home,W,10,0,False
+10/07/2023,Rutgers-Newark,W 9-1,158,10/07/2023,Rutgers-Newark,home,W,9,1,False
+10/11/2023,Stockton,W 6-0,198,10/11/2023,Stockton,home,W,6,0,False
+10/14/2023,@ Montclair St.,W 4-1,45,10/14/2023,Montclair St.,away,W,4,1,False
+10/18/2023,Rowan,L 0-1,200,10/18/2023,Rowan,home,L,0,1,False
+10/21/2023,New Jersey City,W 3-1,239,10/21/2023,New Jersey City,home,W,3,1,False
+10/25/2023,@ Rutgers-Camden,W 1-0,150,10/25/2023,Rutgers-Camden,away,W,1,0,False
+10/31/2023,#3 Montclair St. NJAC Women's Soccer Championship,W 3-2,300,10/31/2023,Montclair St.,home,W,3,2,False
+11/03/2023,@ #1 Rowan NJAC Women's Soccer Championship,W 2-0,528,11/03/2023,Rowan,away,W,2,0,False
+11/11/2023,JWU (Providence) NCAA Division III Women's Soccer Championship,W 3-0,450,11/11/2023,JWU (Providence),home,W,3,0,False
+11/12/2023,Tufts NCAA Division III Women's Soccer Championship,L 0-3,213,11/12/2023,Tufts,home,L,0,3,False

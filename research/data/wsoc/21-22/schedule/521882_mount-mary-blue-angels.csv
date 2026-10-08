@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Wis. Lutheran,L 0-9,87,09/01/2021,Wis. Lutheran,home,L,0,9,False
+09/04/2021,@ Finlandia,L 0-9,101,09/04/2021,Finlandia,away,L,0,9,False
+09/05/2021,"Northland @Hancock, MI",L 0-7,57,09/05/2021,Northland,neutral,L,0,7,False
+09/08/2021,@ Alverno,L 3-4,37,09/08/2021,Alverno,away,L,3,4,False
+09/17/2021,Grace Christian (MI),L 0-8,42,09/17/2021,Grace Christian (MI),home,L,0,8,False
+09/18/2021,@ Maranatha Baptist,L 0-5,0,09/18/2021,Maranatha Baptist,away,L,0,5,False
+09/26/2021,Andrews (MI),L 1-5,43,09/26/2021,Andrews (MI),home,L,1,5,False
+10/03/2021,Lawrence,L 0-5,55,10/03/2021,Lawrence,home,L,0,5,False
+10/09/2021,@ Grace Christian (MI),L 0-9,0,10/09/2021,@ Grace Christian (MI),home,L,0,9,False
+10/10/2021,@ Great Lake Christian,L 0-8,0,10/10/2021,@ Great Lake Christian,home,L,0,8,False
+10/14/2021,@ Lincoln Christian,L 0-5,0,10/14/2021,@ Lincoln Christian,home,L,0,5,False
+10/17/2021,@ Alverno,T 2-2 (2 OT),46,10/17/2021,Alverno,away,T,2,2,True
+10/19/2021,Maranatha Baptist,L 0-2,0,10/19/2021,Maranatha Baptist,home,L,0,2,False
+10/23/2021,@ Illinois Col.,Canceled,,10/23/2021,Illinois Col.,away,,,,
+10/24/2021,@ Eureka,L 0-2,40,10/24/2021,Eureka,away,L,0,2,False
+10/29/2021,Finlandia,L 0-5,0,10/29/2021,Finlandia,home,L,0,5,False
+10/31/2021,Mills,L 1-6,26,10/31/2021,Mills,home,L,1,6,False

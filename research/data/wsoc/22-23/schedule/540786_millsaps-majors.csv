@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2022,@ Lyon,W 1-0 (1 OT),0,09/03/2022,Lyon,away,W,1,0,True
+09/05/2022,Faulkner,L 0-3,62,09/05/2022,Faulkner,home,L,0,3,False
+09/10/2022,LeTourneau,T 0-0,56,09/10/2022,LeTourneau,home,T,0,0,False
+09/13/2022,Delta St.,L 0-3,56,09/13/2022,Delta St.,home,L,0,3,False
+09/16/2022,@ Huntingdon,L 0-2,68,09/16/2022,Huntingdon,away,L,0,2,False
+09/18/2022,Tougaloo,W 8-0,92,09/18/2022,Tougaloo,home,W,8,0,False
+09/23/2022,@ Rhodes,L 0-2,100,09/23/2022,Rhodes,away,L,0,2,False
+10/01/2022,Hendrix,L 0-1,70,10/01/2022,Hendrix,home,L,0,1,False
+10/07/2022,Oglethorpe,T 0-0,92,10/07/2022,Oglethorpe,home,T,0,0,False
+10/09/2022,Berry,L 1-5,88,10/09/2022,Berry,home,L,1,5,False
+10/14/2022,@ Centre,L 0-2,152,10/14/2022,Centre,away,L,0,2,False
+10/16/2022,@ Sewanee,L 0-1,60,10/16/2022,Sewanee,away,L,0,1,False
+10/22/2022,@ Birmingham-So.,L 0-1,103,10/22/2022,Birmingham-So.,away,L,0,1,False
+10/25/2022,@ Belhaven,W 1-0,121,10/25/2022,Belhaven,away,W,1,0,False
+10/29/2022,@ Sewanee SAA WSOC Championship,L 0-4,75,10/29/2022,Sewanee,away,L,0,4,False

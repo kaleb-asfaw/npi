@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Marian (WI),W 4-0,0,09/01/2023,Marian (WI),home,W,4,0,False
+09/03/2023,St. Joseph's (ME),W 6-0,224,09/03/2023,St. Joseph's (ME),home,W,6,0,False
+09/06/2023,Westfield St.,W 5-2,224,09/06/2023,Westfield St.,home,W,5,2,False
+09/09/2023,@ U New England,T 1-1,193,09/09/2023,U New England,away,T,1,1,False
+09/12/2023,@ Colby,W 2-1,76,09/12/2023,Colby,away,W,2,1,False
+09/15/2023,Eastern Conn. St.,W 1-0,144,09/15/2023,Eastern Conn. St.,home,W,1,0,False
+09/19/2023,@ Bowdoin,W 1-0,110,09/19/2023,Bowdoin,away,W,1,0,False
+09/23/2023,@ UMass Dartmouth,W 2-0,40,09/23/2023,UMass Dartmouth,away,W,2,0,False
+09/27/2023,Plymouth St.,W 6-1,324,09/27/2023,Plymouth St.,home,W,6,1,False
+09/30/2023,Me.-Farmington,W 6-0,324,09/30/2023,Me.-Farmington,home,W,6,0,False
+10/01/2023,@ Bates,T 0-0,250,10/01/2023,Bates,away,T,0,0,False
+10/04/2023,@ Brandeis,W 1-0,50,10/04/2023,Brandeis,away,W,1,0,False
+10/07/2023,Rhode Island Col.,W 3-0,124,10/07/2023,Rhode Island Col.,home,W,3,0,False
+10/11/2023,@ UMass Boston,T 0-0,100,10/11/2023,UMass Boston,away,T,0,0,False
+10/14/2023,@ Keene St.,T 0-0,238,10/14/2023,Keene St.,away,T,0,0,False
+10/21/2023,WestConn,W 3-2,224,10/21/2023,WestConn,home,W,3,2,False
+10/25/2023,@ Hartford,L 1-4,265,10/25/2023,Hartford,away,L,1,4,False
+10/28/2023,@ VTSU Castleton,W 5-2,156,10/28/2023,VTSU Castleton,away,W,5,2,False
+11/02/2023,#4 UMass Boston Little East Women's Soccer Championship,W 3-0,0,11/02/2023,UMass Boston,home,W,3,0,False
+11/04/2023,#2 WestConn Little East Women's Soccer Championship,W 3-0,344,11/04/2023,WestConn,home,W,3,0,False
+11/11/2023,"Rowan @Cambridge, MA (NCAA Division III Women's Soccer Championship)",W 2-0,256,11/11/2023,Rowan,neutral,W,2,0,False
+11/12/2023,@ MIT NCAA Division III Women's Soccer Championship,L 1-4,306,11/12/2023,MIT,away,L,1,4,False

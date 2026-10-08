@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Immaculata,T 0-0,89,09/01/2023,Immaculata,away,T,0,0,False
+09/08/2023,@ Moravian,L 0-2,103,09/08/2023,Moravian,away,L,0,2,False
+09/13/2023,New Jersey City,L 0-2,73,09/13/2023,New Jersey City,home,L,0,2,False
+09/16/2023,@ Albright,L 0-2,101,09/16/2023,Albright,away,L,0,2,False
+09/20/2023,@ Neumann,T 0-0,152,09/20/2023,Neumann,away,T,0,0,False
+09/26/2023,@ Cairn,T 0-0,45,09/26/2023,Cairn,away,T,0,0,False
+09/30/2023,@ Keystone,W 2-0,50,09/30/2023,Keystone,away,W,2,0,False
+10/04/2023,@ Saint Elizabeth,T 0-0,70,10/04/2023,Saint Elizabeth,away,T,0,0,False
+10/07/2023,Valley Forge,W 7-0,86,10/07/2023,Valley Forge,home,W,7,0,False
+10/10/2023,Bryn Athyn,T 0-0,71,10/10/2023,Bryn Athyn,home,T,0,0,False
+10/14/2023,@ Rosemont,T 1-1,60,10/14/2023,Rosemont,away,T,1,1,False
+10/18/2023,@ Notre Dame (MD),W 2-0,84,10/18/2023,Notre Dame (MD),away,W,2,0,False
+10/21/2023,Clarks Summit,W 4-0,87,10/21/2023,Clarks Summit,home,W,4,0,False
+10/24/2023,Wilson,L 0-1,91,10/24/2023,Wilson,home,L,0,1,False
+10/28/2023,@ #4 Rosemont United East Women's Soccer Championship,T 0-0 (3 OT),110,10/28/2023,Rosemont,away,T,0,0,True
+10/31/2023,@ #1 Bryn Athyn United East Women's Soccer Championship,L 0-1 (2 OT),200,10/31/2023,Bryn Athyn,away,L,0,1,True

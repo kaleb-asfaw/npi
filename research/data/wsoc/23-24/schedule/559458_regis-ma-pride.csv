@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,UMass Dartmouth,L 0-1,152,09/01/2023,UMass Dartmouth,home,L,0,1,False
+09/03/2023,Curry,W 1-0,177,09/03/2023,Curry,home,W,1,0,False
+09/06/2023,Emmanuel (MA),L 0-2,216,09/06/2023,Emmanuel (MA),home,L,0,2,False
+09/09/2023,Albertus Magnus,T 1-1,150,09/09/2023,Albertus Magnus,home,T,1,1,False
+09/13/2023,@ JWU (Providence),L 0-2,189,09/13/2023,JWU (Providence),away,L,0,2,False
+09/15/2023,St. Joseph's (ME),T 1-1,124,09/15/2023,St. Joseph's (ME),home,T,1,1,False
+09/18/2023,Wentworth,Canceled,,09/18/2023,Wentworth,home,,,,
+09/20/2023,New England Col.,W 3-0,120,09/20/2023,New England Col.,home,W,3,0,False
+09/23/2023,Mitchell,W 3-0,122,09/23/2023,Mitchell,home,W,3,0,False
+09/27/2023,@ Anna Maria,W 3-0,312,09/27/2023,Anna Maria,away,W,3,0,False
+09/30/2023,Saint Joseph (CT),L 1-3,120,09/30/2023,Saint Joseph (CT),home,L,1,3,False
+10/04/2023,@ Colby-Sawyer,T 0-0,43,10/04/2023,Colby-Sawyer,away,T,0,0,False
+10/07/2023,@ Rivier,T 2-2,130,10/07/2023,Rivier,away,T,2,2,False
+10/11/2023,Norwich,W 8-0,102,10/11/2023,Norwich,home,W,8,0,False
+10/14/2023,@ Elms,W 1-0,227,10/14/2023,Elms,away,W,1,0,False
+10/18/2023,@ Lasell,W 3-1,100,10/18/2023,Lasell,away,W,3,1,False
+10/21/2023,Simmons,W 3-0,152,10/21/2023,Simmons,home,W,3,0,False
+10/24/2023,@ Dean,W 4-2,78,10/24/2023,Dean,away,W,4,2,False
+10/28/2023,@ #4 Colby-Sawyer Great Northeast Women's Soccer Championship,L 2-3,157,10/28/2023,Colby-Sawyer,away,L,2,3,False

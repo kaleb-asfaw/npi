@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Franciscan,L 0-3,55,09/01/2021,Franciscan,home,L,0,3,False
+09/07/2021,@ Wells,W 7-0,78,09/07/2021,Wells,away,W,7,0,False
+09/11/2021,"Trine @Buffalo, NY",L 0-4,100,09/11/2021,Trine,neutral,L,0,4,False
+09/12/2021,@ Buffalo St.,L 1-2,25,09/12/2021,Buffalo St.,away,L,1,2,False
+09/15/2021,Fredonia,L 0-7,40,09/15/2021,Fredonia,home,L,0,7,False
+09/18/2021,Pitt.-Greensburg,L 0-9,45,09/18/2021,Pitt.-Greensburg,home,L,0,9,False
+09/21/2021,D'Youville,L 0-4,72,09/21/2021,D'Youville,home,L,0,4,False
+09/29/2021,@ Alfred,L 0-6,0,09/29/2021,Alfred,away,L,0,6,False
+10/02/2021,Penn St.-Altoona,L 2-3,0,10/02/2021,Penn St.-Altoona,home,L,2,3,False
+10/06/2021,@ Hilbert,W 3-2 (1 OT),130,10/06/2021,Hilbert,away,W,3,2,True
+10/09/2021,@ La Roche,L 0-5,180,10/09/2021,La Roche,away,L,0,5,False
+10/12/2021,@ Alfred St.,W 1-0,104,10/12/2021,Alfred St.,away,W,1,0,False
+10/17/2021,Elmira,T 0-0 (2 OT),72,10/17/2021,Elmira,home,T,0,0,True
+10/20/2021,Pitt.-Bradford,T 3-3 (2 OT),0,10/20/2021,Pitt.-Bradford,home,T,3,3,True
+10/23/2021,@ Mount Aloysius,L 0-5,143,10/23/2021,Mount Aloysius,away,L,0,5,False
+10/26/2021,Penn St.-Behrend,L 0-7,0,10/26/2021,Penn St.-Behrend,home,L,0,7,False
+10/29/2021,@ #3 Mount Aloysius Allegheny Mountain WSOC Championship,L 1-7,90,10/29/2021,Mount Aloysius,away,L,1,7,False

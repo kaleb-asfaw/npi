@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,"Wash. & Lee @Grantham, Pa.",L 0-5,110,09/01/2023,Wash. & Lee,neutral,L,0,5,False
+09/02/2023,@ Messiah,L 1-2,687,09/02/2023,Messiah,away,L,1,2,False
+09/08/2023,Calvin,T 1-1,156,09/08/2023,Calvin,home,T,1,1,False
+09/10/2023,NYU,L 0-3,192,09/10/2023,NYU,home,L,0,3,False
+09/16/2023,Scranton,T 1-1,315,09/16/2023,Scranton,home,T,1,1,False
+09/20/2023,@ TCNJ,L 0-4,137,09/20/2023,TCNJ,away,L,0,4,False
+09/24/2023,@ Montclair St.,L 0-2,58,09/24/2023,Montclair St.,away,L,0,2,False
+09/26/2023,Farmingdale St.,W 3-0,123,09/26/2023,Farmingdale St.,home,W,3,0,False
+09/30/2023,@ FDU-Florham,W 1-0,85,09/30/2023,FDU-Florham,away,W,1,0,False
+10/04/2023,John Jay,Canceled,,10/04/2023,John Jay,home,,,,
+10/07/2023,@ Misericordia,L 1-2,134,10/07/2023,Misericordia,away,L,1,2,False
+10/11/2023,@ UMSV,W 3-0,127,10/11/2023,UMSV,away,W,3,0,False
+10/14/2023,DeSales,W 2-1,88,10/14/2023,DeSales,home,W,2,1,False
+10/17/2023,@ King's (PA),W 8-0,100,10/17/2023,King's (PA),away,W,8,0,False
+10/21/2023,Arcadia,W 3-0,123,10/21/2023,Arcadia,home,W,3,0,False
+10/25/2023,@ Delaware Valley,W 7-1,81,10/25/2023,Delaware Valley,away,W,7,1,False
+10/28/2023,Lebanon Valley,W 4-0,221,10/28/2023,Lebanon Valley,home,W,4,0,False
+10/31/2023,#3 Arcadia MAC Freedom Women's Soccer Championship,W 2-0,250,10/31/2023,Arcadia,home,W,2,0,False
+11/04/2023,@ #1 Misericordia MAC Freedom Women's Soccer Championship,L 1-2 (2 OT),200,11/04/2023,Misericordia,away,L,1,2,True

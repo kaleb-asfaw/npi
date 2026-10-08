@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2021,@ Eureka,W 2-1 (2 OT),100,09/03/2021,Eureka,away,W,2,1,True
+09/08/2021,Mount Mary,W 4-3,37,09/08/2021,Mount Mary,home,W,4,3,False
+09/11/2021,@ Crown (MN),Canceled,,09/11/2021,Crown (MN),away,,,,
+09/12/2021,@ Bethany Lutheran,Canceled,,09/12/2021,Bethany Lutheran,away,,,,
+09/15/2021,@ Rockford,L 0-8,25,09/15/2021,Rockford,away,L,0,8,False
+09/18/2021,MSOE,L 0-8,64,09/18/2021,MSOE,home,L,0,8,False
+09/22/2021,Illinois Tech,Canceled,,09/22/2021,Illinois Tech,home,,,,
+09/25/2021,@ Edgewood,Canceled,,09/25/2021,Edgewood,away,,,,
+09/29/2021,@ Aurora,Canceled,,09/29/2021,Aurora,away,,,,
+10/02/2021,Wis. Lutheran,Canceled,,10/02/2021,Wis. Lutheran,home,,,,
+10/06/2021,Benedictine (IL),L 0-4,19,10/06/2021,Benedictine (IL),home,L,0,4,False
+10/09/2021,@ Concordia Wisconsin,L 0-10,103,10/09/2021,Concordia Wisconsin,away,L,0,10,False
+10/13/2021,Concordia Chicago,L 0-3,19,10/13/2021,Concordia Chicago,home,L,0,3,False
+10/16/2021,Lakeland,L 0-4,55,10/16/2021,Lakeland,home,L,0,4,False
+10/17/2021,Mount Mary,T 2-2 (2 OT),46,10/17/2021,Mount Mary,home,T,2,2,True
+10/20/2021,@ Dominican (IL),L 0-14,0,10/20/2021,Dominican (IL),away,L,0,14,False
+10/23/2021,@ Marian (WI),L 0-4,139,10/23/2021,Marian (WI),away,L,0,4,False
+10/28/2021,St. Norbert,L 0-6,46,10/28/2021,St. Norbert,home,L,0,6,False
+10/30/2021,Mills,Canceled,,10/30/2021,Mills,home,,,,

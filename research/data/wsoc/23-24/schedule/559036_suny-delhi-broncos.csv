@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Geneva,L 0-2,237,09/01/2023,Geneva,away,L,0,2,False
+09/02/2023,@ Pitt.-Bradford,W 6-1,50,09/02/2023,Pitt.-Bradford,away,W,6,1,False
+09/06/2023,Keystone,W 6-0,225,09/06/2023,Keystone,home,W,6,0,False
+09/09/2023,SUNY Maritime,W 4-1,145,09/09/2023,SUNY Maritime,home,W,4,1,False
+09/16/2023,@ SUNY Poly,W 1-0,127,09/16/2023,SUNY Poly,away,W,1,0,False
+09/23/2023,SUNY Canton,W 1-0,200,09/23/2023,SUNY Canton,home,W,1,0,False
+09/24/2023,@ Eastern Nazarene,T 1-1,113,09/24/2023,Eastern Nazarene,away,T,1,1,False
+09/30/2023,SUNY Morrisville,T 1-1,150,09/30/2023,SUNY Morrisville,home,T,1,1,False
+10/03/2023,MCLA,W 1-0,150,10/03/2023,MCLA,home,W,1,0,False
+10/07/2023,@ VTSU Lyndon,W 2-0,42,10/07/2023,VTSU Lyndon,away,W,2,0,False
+10/08/2023,@ Me.-Farmington,W 3-1,80,10/08/2023,Me.-Farmington,away,W,3,1,False
+10/11/2023,FDU-Florham,L 1-3,85,10/11/2023,FDU-Florham,home,L,1,3,False
+10/14/2023,VTSU-Johnson,L 1-2,130,10/14/2023,VTSU-Johnson,home,L,1,2,False
+10/17/2023,@ SUNY Cobleskill,W 4-0,53,10/17/2023,SUNY Cobleskill,away,W,4,0,False
+10/21/2023,SUNY ESF,W 1-0,88,10/21/2023,SUNY ESF,home,W,1,0,False
+10/28/2023,"#2 VTSU-Johnson @Marcy, NY (North Atlantic Women's Soccer Championship)",T 1-1 (3 OT),194,10/28/2023,VTSU-Johnson,neutral,T,1,1,True
+10/29/2023,"#4 SUNY Morrisville @Marcy, NY (North Atlantic Women's Soccer Championship)",L 0-2,73,10/29/2023,SUNY Morrisville,neutral,L,0,2,False

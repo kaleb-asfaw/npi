@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,MSOE,L 0-2,127,09/01/2023,MSOE,home,L,0,2,False
+09/02/2023,Ohio Wesleyan,W 2-1,186,09/02/2023,Ohio Wesleyan,home,W,2,1,False
+09/09/2023,@ Wittenberg,T 1-1,169,09/09/2023,Wittenberg,away,T,1,1,False
+09/13/2023,@ Denison,T 0-0,100,09/13/2023,Denison,away,T,0,0,False
+09/16/2023,Mt. St. Joseph,W 1-0,124,09/16/2023,Mt. St. Joseph,home,W,1,0,False
+09/17/2023,@ Franklin,W 4-0,112,09/17/2023,Franklin,away,W,4,0,False
+09/20/2023,@ Lawrence Tech,T 0-0,150,09/20/2023,@ Lawrence Tech,home,T,0,0,False
+09/23/2023,Wis.-Oshkosh,T 1-1,74,09/23/2023,Wis.-Oshkosh,home,T,1,1,False
+09/30/2023,Kalamazoo,T 0-0,200,09/30/2023,Kalamazoo,home,T,0,0,False
+10/04/2023,Olivet,W 7-0,143,10/04/2023,Olivet,home,W,7,0,False
+10/07/2023,@ Alma,T 0-0,106,10/07/2023,Alma,away,T,0,0,False
+10/10/2023,@ St. Mary's (IN),T 2-2,47,10/10/2023,St. Mary's (IN),away,T,2,2,False
+10/14/2023,Hope,T 1-1,121,10/14/2023,Hope,home,T,1,1,False
+10/18/2023,@ Adrian,T 0-0,302,10/18/2023,Adrian,away,T,0,0,False
+10/21/2023,@ Trine,T 1-1,257,10/21/2023,Trine,away,T,1,1,False
+10/24/2023,Calvin,W 3-2,145,10/24/2023,Calvin,home,W,3,2,False
+10/28/2023,@ #4 Adrian Michigan Intercol. Ath. Assn. Women's Soccer Championship,W 2-1,243,10/28/2023,Adrian,away,W,2,1,False
+11/01/2023,@ #1 Calvin Michigan Intercol. Ath. Assn. Women's Soccer Championship,L 0-1,96,11/01/2023,Calvin,away,L,0,1,False

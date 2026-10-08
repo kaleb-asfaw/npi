@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Elms,W 8-0,87,08/30/2024,Elms,away,W,8,0,False
+09/04/2024,@ Sarah Lawrence,W 3-0,70,09/04/2024,Sarah Lawrence,away,W,3,0,False
+09/07/2024,@ Scranton,T 1-1,243,09/07/2024,Scranton,away,T,1,1,False
+09/11/2024,WestConn,W 4-1,71,09/11/2024,WestConn,home,W,4,1,False
+09/14/2024,@ Montclair St.,T 1-1,115,09/14/2024,Montclair St.,away,T,1,1,False
+09/18/2024,SUNY Oneonta,W 2-1,73,09/18/2024,SUNY Oneonta,home,W,2,1,False
+09/21/2024,NYU,L 3-4,103,09/21/2024,NYU,home,L,3,4,False
+09/25/2024,Bard,W 10-0,21,09/25/2024,Bard,home,W,10,0,False
+09/28/2024,@ Union (NY),W 1-0,138,09/28/2024,Union (NY),away,W,1,0,False
+10/02/2024,@ Farmingdale St.,W 2-0,421,10/02/2024,Farmingdale St.,away,W,2,0,False
+10/05/2024,Skidmore,L 1-2,127,10/05/2024,Skidmore,home,L,1,2,False
+10/12/2024,@ William Smith,T 0-0,225,10/12/2024,William Smith,away,T,0,0,False
+10/18/2024,St. Lawrence,W 4-0,93,10/18/2024,St. Lawrence,home,W,4,0,False
+10/19/2024,Clarkson,T 1-1,103,10/19/2024,Clarkson,home,T,1,1,False
+10/26/2024,Ithaca,W 2-1,91,10/26/2024,Ithaca,home,W,2,1,False
+10/30/2024,@ Rensselaer,T 0-0,159,10/30/2024,Rensselaer,away,T,0,0,False
+11/02/2024,@ RIT,W 2-1,207,11/02/2024,RIT,away,W,2,1,False
+11/05/2024,Clarkson Liberty League Women's Soccer Championship,W 2-1,103,11/05/2024,Clarkson,home,W,2,1,False
+11/08/2024,@ William Smith Liberty League Women's Soccer Championship,L 0-2,255,11/08/2024,William Smith,away,L,0,2,False
+11/16/2024,"St. Mary's (MD) @Newport News, VA (NCAA Division III Women's Soccer Championship)",W 1-0,216,11/16/2024,St. Mary's (MD),neutral,W,1,0,False
+11/17/2024,@ Chris. Newport NCAA Division III Women's Soccer Championship,L 0-4,241,11/17/2024,Chris. Newport,away,L,0,4,False

@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ MSOE,W 2-0,163,09/01/2021,MSOE,away,W,2,0,False
+09/03/2021,@ Concordia Wisconsin,W 3-1,227,09/03/2021,Concordia Wisconsin,away,W,3,1,False
+09/10/2021,Wheaton (IL),W 1-0,120,09/10/2021,Wheaton (IL),home,W,1,0,False
+09/11/2021,Evergreen St.,W 6-0,150,09/11/2021,Evergreen St.,home,W,6,0,False
+09/18/2021,Whitworth,W 2-0,169,09/18/2021,Whitworth,home,W,2,0,False
+09/19/2021,Whitman,W 3-0,150,09/19/2021,Whitman,home,W,3,0,False
+09/25/2021,@ Linfield,W 4-1,120,09/25/2021,Linfield,away,W,4,1,False
+09/26/2021,@ Lewis & Clark,W 2-0,50,09/26/2021,Lewis & Clark,away,W,2,0,False
+10/02/2021,@ Pacific (OR),W 1-0,77,10/02/2021,Pacific (OR),away,W,1,0,False
+10/03/2021,@ Willamette,W 3-0,100,10/03/2021,Willamette,away,W,3,0,False
+10/06/2021,@ Puget Sound,L 0-1 (1 OT),160,10/06/2021,Puget Sound,away,L,0,1,True
+10/09/2021,George Fox,W 2-1,107,10/09/2021,George Fox,home,W,2,1,False
+10/16/2021,@ Whitworth,W 2-0,241,10/16/2021,Whitworth,away,W,2,0,False
+10/17/2021,@ Whitman,L 0-1,1,10/17/2021,Whitman,away,L,0,1,False
+10/23/2021,Linfield,W 4-0,169,10/23/2021,Linfield,home,W,4,0,False
+10/24/2021,Lewis & Clark,W 3-0,100,10/24/2021,Lewis & Clark,home,W,3,0,False
+10/30/2021,Pacific (OR),W 2-1,80,10/30/2021,Pacific (OR),home,W,2,1,False
+10/31/2021,Willamette,W 2-0,104,10/31/2021,Willamette,home,W,2,0,False
+11/03/2021,Puget Sound,W 1-0,177,11/03/2021,Puget Sound,home,W,1,0,False
+11/06/2021,@ George Fox,W 1-0,184,11/06/2021,George Fox,away,W,1,0,False
+11/13/2021,"Pomona-Pitzer @San Antonio, TX (NCAA Division III Women's Soccer Championship)",L 0-1,83,11/13/2021,Pomona-Pitzer,neutral,L,0,1,False

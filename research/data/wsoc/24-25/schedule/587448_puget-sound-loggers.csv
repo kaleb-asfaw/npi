@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/31/2024,@ Cal Lutheran,T 1-1,250,08/31/2024,Cal Lutheran,away,T,1,1,False
+09/02/2024,@ Pomona-Pitzer,L 0-3,168,09/02/2024,Pomona-Pitzer,away,L,0,3,False
+09/06/2024,CWRU,L 2-3,75,09/06/2024,CWRU,home,L,2,3,False
+09/08/2024,CMS,L 0-1,60,09/08/2024,CMS,home,L,0,1,False
+09/21/2024,Linfield,W 2-0,100,09/21/2024,Linfield,home,W,2,0,False
+09/22/2024,Willamette,T 1-1,100,09/22/2024,Willamette,home,T,1,1,False
+09/25/2024,@ Pacific Lutheran,L 0-1,67,09/25/2024,Pacific Lutheran,away,L,0,1,False
+09/29/2024,@ Lewis & Clark,W 2-1,127,09/29/2024,Lewis & Clark,away,W,2,1,False
+10/05/2024,@ Pacific (OR),W 2-0,101,10/05/2024,Pacific (OR),away,W,2,0,False
+10/06/2024,@ George Fox,W 3-1,98,10/06/2024,George Fox,away,W,3,1,False
+10/12/2024,Whitworth,T 1-1,400,10/12/2024,Whitworth,home,T,1,1,False
+10/13/2024,Whitman,T 1-1,400,10/13/2024,Whitman,home,T,1,1,False
+10/19/2024,@ Willamette,W 2-1,100,10/19/2024,Willamette,away,W,2,1,False
+10/20/2024,@ Linfield,T 1-1,30,10/20/2024,Linfield,away,T,1,1,False
+10/23/2024,Pacific Lutheran,T 0-0,100,10/23/2024,Pacific Lutheran,home,T,0,0,False
+10/26/2024,Lewis & Clark,W 3-2,10,10/26/2024,Lewis & Clark,home,W,3,2,False
+11/02/2024,George Fox,W 5-0,100,11/02/2024,George Fox,home,W,5,0,False
+11/03/2024,Pacific (OR),W 2-0,200,11/03/2024,Pacific (OR),home,W,2,0,False
+11/09/2024,@ Whitman,T 1-1,131,11/09/2024,Whitman,away,T,1,1,False
+11/10/2024,@ Whitworth,W 3-0,150,11/10/2024,Whitworth,away,W,3,0,False

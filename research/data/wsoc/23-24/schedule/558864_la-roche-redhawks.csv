@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Thiel,W 3-0,75,09/01/2023,Thiel,home,W,3,0,False
+09/03/2023,Wash. & Jeff.,L 1-3,100,09/03/2023,Wash. & Jeff.,home,L,1,3,False
+09/06/2023,@ Waynesburg,L 1-8,105,09/06/2023,Waynesburg,away,L,1,8,False
+09/09/2023,Westminster (PA),L 0-5,100,09/09/2023,Westminster (PA),home,L,0,5,False
+09/12/2023,Geneva,W 1-0,75,09/12/2023,Geneva,home,W,1,0,False
+09/15/2023,@ Saint Vincent,L 0-7,105,09/15/2023,Saint Vincent,away,L,0,7,False
+09/17/2023,@ Bethany (WV),T 0-0,87,09/17/2023,Bethany (WV),away,T,0,0,False
+09/23/2023,@ Penn St.-Behrend,L 0-5,75,09/23/2023,Penn St.-Behrend,away,L,0,5,False
+09/26/2023,Penn St.-Altoona,T 0-0,75,09/26/2023,Penn St.-Altoona,home,T,0,0,False
+09/30/2023,@ Wells,W 11-0,75,09/30/2023,Wells,away,W,11,0,False
+10/04/2023,@ Mount Aloysius,W 1-0,145,10/04/2023,Mount Aloysius,away,W,1,0,False
+10/07/2023,Pitt.-Bradford,W 5-0,130,10/07/2023,Pitt.-Bradford,home,W,5,0,False
+10/10/2023,@ Carlow,W 1-0,128,10/10/2023,Carlow,away,W,1,0,False
+10/14/2023,@ Alfred St.,L 1-3,130,10/14/2023,Alfred St.,away,L,1,3,False
+10/18/2023,Pitt.-Greensburg,L 2-3,75,10/18/2023,Pitt.-Greensburg,home,L,2,3,False
+10/21/2023,Hilbert,T 1-1,75,10/21/2023,Hilbert,home,T,1,1,False
+10/28/2023,@ #4 Mount Aloysius AMCC Women's Soccer Championship,L 1-3,205,10/28/2023,Mount Aloysius,away,L,1,3,False

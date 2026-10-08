@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Rivier,W 2-1,75,09/01/2023,Rivier,home,W,2,1,False
+09/03/2023,@ Brandeis,L 0-2,50,09/03/2023,Brandeis,away,L,0,2,False
+09/06/2023,@ Eastern Conn. St.,L 0-4,100,09/06/2023,Eastern Conn. St.,away,L,0,4,False
+09/09/2023,@ Western New Eng.,L 0-4,200,09/09/2023,Western New Eng.,away,L,0,4,False
+09/12/2023,Suffolk,L 1-2,50,09/12/2023,Suffolk,home,L,1,2,False
+09/15/2023,@ Salem St.,W 3-0,60,09/15/2023,Salem St.,away,W,3,0,False
+09/19/2023,Roger Williams,T 1-1,65,09/19/2023,Roger Williams,home,T,1,1,False
+09/22/2023,@ Bridgewater St.,L 0-2,125,09/22/2023,Bridgewater St.,away,L,0,2,False
+09/27/2023,@ Wentworth,T 1-1,235,09/27/2023,Wentworth,away,T,1,1,False
+09/30/2023,Worcester St.,L 2-4,0,09/30/2023,Worcester St.,home,L,2,4,False
+10/03/2023,Curry,L 0-3,65,10/03/2023,Curry,home,L,0,3,False
+10/06/2023,@ Mass. Maritime,T 1-1,76,10/06/2023,Mass. Maritime,away,T,1,1,False
+10/13/2023,Westfield St.,L 0-2,125,10/13/2023,Westfield St.,home,L,0,2,False
+10/16/2023,@ Nichols,L 0-4,35,10/16/2023,Nichols,away,L,0,4,False
+10/21/2023,MCLA,T 2-2,45,10/21/2023,MCLA,home,T,2,2,False
+10/25/2023,Keene St.,L 0-3,40,10/25/2023,Keene St.,home,L,0,3,False
+10/28/2023,@ Framingham St.,W 4-1,0,10/28/2023,Framingham St.,away,W,4,1,False
+10/31/2023,@ #4 Salem St. MASCAC Women's Soccer Championship,W 3-1,100,10/31/2023,Salem St.,away,W,3,1,False
+11/03/2023,@ #1 Bridgewater St. MASCAC Women's Soccer Championship,L 0-2,566,11/03/2023,Bridgewater St.,away,L,0,2,False

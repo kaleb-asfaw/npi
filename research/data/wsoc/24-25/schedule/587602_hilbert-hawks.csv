@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Alfred,L 0-7,223,08/30/2024,Alfred,away,L,0,7,False
+09/03/2024,Keuka,L 0-4,55,09/03/2024,Keuka,home,L,0,4,False
+09/07/2024,Buffalo St.,L 0-2,134,09/07/2024,Buffalo St.,home,L,0,2,False
+09/11/2024,@ Houghton,L 0-5,150,09/11/2024,Houghton,away,L,0,5,False
+09/17/2024,@ Thiel,L 0-3,50,09/17/2024,Thiel,away,L,0,3,False
+09/21/2024,Bry. & Strat. (Syr.),L 0-4,64,09/21/2024,Bry. & Strat. (Syr.),home,L,0,4,False
+09/25/2024,SUNY Brockport,L 0-3,63,09/25/2024,SUNY Brockport,home,L,0,3,False
+09/28/2024,@ Carlow,L 2-4,78,09/28/2024,Carlow,away,L,2,4,False
+10/01/2024,@ Fredonia,L 0-9,111,10/01/2024,Fredonia,away,L,0,9,False
+10/05/2024,Mount Aloysius,L 0-5,57,10/05/2024,Mount Aloysius,home,L,0,5,False
+10/09/2024,Alfred St.,W 3-2,34,10/09/2024,Alfred St.,home,W,3,2,False
+10/12/2024,Penn St.-Altoona,L 1-2,56,10/12/2024,Penn St.-Altoona,home,L,1,2,False
+10/19/2024,@ Pitt.-Greensburg,L 0-9,123,10/19/2024,Pitt.-Greensburg,away,L,0,9,False
+10/23/2024,@ Pitt.-Bradford,T 0-0,75,10/23/2024,Pitt.-Bradford,away,T,0,0,False
+10/26/2024,La Roche,T 2-2,84,10/26/2024,La Roche,home,T,2,2,False
+10/29/2024,Penn St.-Behrend,L 0-8,52,10/29/2024,Penn St.-Behrend,home,L,0,8,False

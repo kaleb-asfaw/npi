@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Grove City,Ppd,,09/01/2021,Grove City,home,,,,
+09/04/2021,Dickinson,L 0-4,136,09/04/2021,Dickinson,home,L,0,4,False
+09/05/2021,@ Lycoming,W 2-1,105,09/05/2021,Lycoming,away,W,2,1,False
+09/08/2021,@ Geneva,W 4-1,284,09/08/2021,Geneva,away,W,4,1,False
+09/11/2021,Waynesburg,L 0-1,139,09/11/2021,Waynesburg,home,L,0,1,False
+09/15/2021,@ Bethany (WV),W 3-1,55,09/15/2021,Bethany (WV),away,W,3,1,False
+09/18/2021,@ Penn St.-Behrend,L 0-1,0,09/18/2021,Penn St.-Behrend,away,L,0,1,False
+09/22/2021,@ Chatham,L 1-4,25,09/22/2021,Chatham,away,L,1,4,False
+09/25/2021,Pitt.-Bradford,W 6-0,134,09/25/2021,Pitt.-Bradford,home,W,6,0,False
+09/27/2021,Grove City,L 0-2,133,09/27/2021,Grove City,home,L,0,2,False
+09/29/2021,@ Albright,L 0-5,48,09/29/2021,Albright,away,L,0,5,False
+10/06/2021,@ Penn St. Harrisburg,W 2-1,75,10/06/2021,Penn St. Harrisburg,away,W,2,1,False
+10/09/2021,Hilbert,W 4-0,108,10/09/2021,Hilbert,home,W,4,0,False
+10/12/2021,Pitt.-Greensburg,L 0-1,136,10/12/2021,Pitt.-Greensburg,home,L,0,1,False
+10/16/2021,@ Alfred St.,W 2-0,110,10/16/2021,Alfred St.,away,W,2,0,False
+10/20/2021,@ La Roche,W 2-1,67,10/20/2021,La Roche,away,W,2,1,False
+10/23/2021,Medaille,W 5-0,143,10/23/2021,Medaille,home,W,5,0,False
+10/26/2021,Penn St.-Altoona,W 3-1,97,10/26/2021,Penn St.-Altoona,home,W,3,1,False
+10/29/2021,#6 Medaille Allegheny Mountain WSOC Championship,W 7-1,90,10/29/2021,Medaille,home,W,7,1,False
+11/03/2021,@ #2 Pitt.-Greensburg Allegheny Mountain WSOC Championship,L 0-2,111,11/03/2021,Pitt.-Greensburg,away,L,0,2,False

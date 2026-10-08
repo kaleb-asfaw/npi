@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Husson,W 5-3,125,08/30/2024,Husson,away,W,5,3,False
+09/04/2024,Fisher,W 10-0,222,09/04/2024,Fisher,home,W,10,0,False
+09/07/2024,Colby-Sawyer,T 3-3,88,09/07/2024,Colby-Sawyer,home,T,3,3,False
+09/11/2024,Regis (MA),W 3-1,86,09/11/2024,Regis (MA),home,W,3,1,False
+09/14/2024,@ Saint Joseph (CT),W 6-0,224,09/14/2024,Saint Joseph (CT),away,W,6,0,False
+09/17/2024,@ Lasell,W 3-0,100,09/17/2024,Lasell,away,W,3,0,False
+09/21/2024,Dean,W 5-0,75,09/21/2024,Dean,home,W,5,0,False
+09/25/2024,@ Elms,W 5-0,78,09/25/2024,Elms,away,W,5,0,False
+09/28/2024,@ Rivier,L 1-2,351,09/28/2024,Rivier,away,L,1,2,False
+10/01/2024,@ Norwich,W 7-0,53,10/01/2024,Norwich,away,W,7,0,False
+10/03/2024,Connecticut Col.,W 2-1,117,10/03/2024,Connecticut Col.,home,W,2,1,False
+10/05/2024,JWU (Providence),L 0-2,257,10/05/2024,JWU (Providence),home,L,0,2,False
+10/09/2024,Mitchell,W 6-0,112,10/09/2024,Mitchell,home,W,6,0,False
+10/16/2024,@ Simmons,W 11-2,116,10/16/2024,Simmons,away,W,11,2,False
+10/19/2024,@ Anna Maria,W 5-0,451,10/19/2024,Anna Maria,away,W,5,0,False
+10/22/2024,St. Joseph's (ME),W 6-1,57,10/22/2024,St. Joseph's (ME),home,W,6,1,False
+10/26/2024,Albertus Magnus,W 1-0,127,10/26/2024,Albertus Magnus,home,W,1,0,False
+10/29/2024,@ New England Col.,W 11-1,93,10/29/2024,New England Col.,away,W,11,1,False
+11/02/2024,#7 Norwich Great Northeast Women's Soccer Championship,W 7-1,263,11/02/2024,Norwich,home,W,7,1,False
+11/05/2024,#3 Rivier Great Northeast Women's Soccer Championship,W 6-0,316,11/05/2024,Rivier,home,W,6,0,False
+11/09/2024,@ #1 JWU (Providence) Great Northeast Women's Soccer Championship,W 2-1,692,11/09/2024,JWU (Providence),away,W,2,1,False
+11/16/2024,@ Rochester (NY) NCAA Division III Women's Soccer Championship,L 1-3,384,11/16/2024,Rochester (NY),away,L,1,3,False

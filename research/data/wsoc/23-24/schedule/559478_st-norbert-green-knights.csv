@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Carleton,L 0-5,161,09/01/2023,Carleton,away,L,0,5,False
+09/03/2023,@ St. Olaf,W 2-1,114,09/03/2023,St. Olaf,away,W,2,1,False
+09/06/2023,Wis.-Oshkosh,T 1-1,125,09/06/2023,Wis.-Oshkosh,home,T,1,1,False
+09/10/2023,@ Wis.-Eau Claire,L 1-2,108,09/10/2023,Wis.-Eau Claire,away,L,1,2,False
+09/12/2023,@ Lawrence,W 3-1,518,09/12/2023,Lawrence,away,W,3,1,False
+09/13/2023,@ Lakeland,W 5-2,145,09/13/2023,Lakeland,away,W,5,2,False
+09/15/2023,Carroll (WI),L 0-4,200,09/15/2023,Carroll (WI),home,L,0,4,False
+09/16/2023,@ Benedictine (IL),W 2-1,122,09/16/2023,Benedictine (IL),away,W,2,1,False
+09/20/2023,Marian (WI),L 1-4,100,09/20/2023,Marian (WI),home,L,1,4,False
+09/23/2023,Dominican (IL),T 2-2,125,09/23/2023,Dominican (IL),home,T,2,2,False
+09/27/2023,Concordia Wisconsin,W 1-0,125,09/27/2023,Concordia Wisconsin,home,W,1,0,False
+10/01/2023,@ Concordia Chicago,W 1-0,182,10/01/2023,Concordia Chicago,away,W,1,0,False
+10/04/2023,@ Alverno,W 6-0,45,10/04/2023,Alverno,away,W,6,0,False
+10/08/2023,Rockford,W 3-1,110,10/08/2023,Rockford,home,W,3,1,False
+10/11/2023,Wis. Lutheran,W 2-0,150,10/11/2023,Wis. Lutheran,home,W,2,0,False
+10/14/2023,@ Illinois Tech,L 1-4,100,10/14/2023,Illinois Tech,away,L,1,4,False
+10/18/2023,@ MSOE,L 2-4,138,10/18/2023,MSOE,away,L,2,4,False
+10/21/2023,Aurora,T 2-2,125,10/21/2023,Aurora,home,T,2,2,False
+10/22/2023,Wis.-Stevens Point,L 1-3,150,10/22/2023,Wis.-Stevens Point,home,L,1,3,False
+10/25/2023,@ Edgewood,L 0-2,167,10/25/2023,Edgewood,away,L,0,2,False
+10/29/2023,@ #4 Dominican (IL) NACC Women's Soccer Championship,W 1-0,200,10/29/2023,Dominican (IL),away,W,1,0,False
+11/01/2023,@ #1 Illinois Tech NACC Women's Soccer Championship,L 0-5,80,11/01/2023,Illinois Tech,away,L,0,5,False

@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Elmhurst,T 2-2,207,08/30/2024,Elmhurst,away,T,2,2,False
+09/01/2024,Dubuque,L 3-4,112,09/01/2024,Dubuque,home,L,3,4,False
+09/04/2024,@ Aurora,W 3-0,101,09/04/2024,Aurora,away,W,3,0,False
+09/07/2024,@ Concordia Wisconsin,L 0-1,144,09/07/2024,Concordia Wisconsin,away,L,0,1,False
+09/11/2024,@ Benedictine (IL),W 3-0,150,09/11/2024,Benedictine (IL),away,W,3,0,False
+09/16/2024,MSOE,W 2-1,87,09/16/2024,MSOE,home,W,2,1,False
+09/21/2024,@ Carthage,T 2-2,268,09/21/2024,Carthage,away,T,2,2,False
+09/23/2024,St. Norbert,W 3-0,56,09/23/2024,St. Norbert,home,W,3,0,False
+09/28/2024,@ Grinnell,W 4-0,95,09/28/2024,Grinnell,away,W,4,0,False
+10/02/2024,Ripon,W 6-0,74,10/02/2024,Ripon,home,W,6,0,False
+10/05/2024,Knox,W 2-0,112,10/05/2024,Knox,home,W,2,0,False
+10/12/2024,@ Lawrence,T 2-2,447,10/12/2024,Lawrence,away,T,2,2,False
+10/16/2024,North Park,W 1-0,74,10/16/2024,North Park,home,W,1,0,False
+10/19/2024,Monmouth (IL),W 7-0,284,10/19/2024,Monmouth (IL),home,W,7,0,False
+10/22/2024,@ Beloit,W 1-0,39,10/22/2024,Beloit,away,W,1,0,False
+10/26/2024,@ Illinois Col.,W 4-1,255,10/26/2024,Illinois Col.,away,W,4,1,False
+10/30/2024,Wis.-Oshkosh,W 3-0,102,10/30/2024,Wis.-Oshkosh,home,W,3,0,False
+11/02/2024,Cornell College,W 7-0,138,11/02/2024,Cornell College,home,W,7,0,False
+11/08/2024,#4 Beloit MWC Women's Soccer Tournament,W 1-0,141,11/08/2024,Beloit,home,W,1,0,False
+11/09/2024,"#2 Lawrence @Lake Forest, IL (MWC Women's Soccer Tournament)",L 1-2 (1 OT),89,11/09/2024,Lawrence,neutral,L,1,2,True

@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Lycoming,L 1-2,73,08/30/2024,Lycoming,home,L,1,2,False
+09/04/2024,Saint Vincent,W 1-0,0,09/04/2024,Saint Vincent,home,W,1,0,False
+09/06/2024,@ Bryn Athyn,W 4-1,200,09/06/2024,Bryn Athyn,away,W,4,1,False
+09/07/2024,@ Gwynedd Mercy,T 0-0,125,09/07/2024,Gwynedd Mercy,away,T,0,0,False
+09/10/2024,@ Waynesburg,T 0-0,79,09/10/2024,Waynesburg,away,T,0,0,False
+09/14/2024,@ Wooster,T 1-1,93,09/14/2024,Wooster,away,T,1,1,False
+09/18/2024,Franciscan,W 3-0,43,09/18/2024,Franciscan,home,W,3,0,False
+09/21/2024,@ Wash. & Jeff.,W 1-0,150,09/21/2024,Wash. & Jeff.,away,W,1,0,False
+09/25/2024,@ John Carroll,L 1-5,133,09/25/2024,John Carroll,away,L,1,5,False
+09/28/2024,Pitt.-Bradford,W 8-1,75,09/28/2024,Pitt.-Bradford,home,W,8,1,False
+10/02/2024,@ Juniata,T 0-0,105,10/02/2024,Juniata,away,T,0,0,False
+10/05/2024,@ Penn St.-Behrend,L 0-1,150,10/05/2024,Penn St.-Behrend,away,L,0,1,False
+10/09/2024,@ Penn St.-Altoona,W 4-0,64,10/09/2024,Penn St.-Altoona,away,W,4,0,False
+10/15/2024,@ Mount Aloysius,W 2-0,77,10/15/2024,Mount Aloysius,away,W,2,0,False
+10/19/2024,Hilbert,W 9-0,123,10/19/2024,Hilbert,home,W,9,0,False
+10/23/2024,La Roche,W 2-0,53,10/23/2024,La Roche,home,W,2,0,False
+10/26/2024,@ Alfred St.,W 1-0,100,10/26/2024,Alfred St.,away,W,1,0,False
+10/29/2024,Carlow,W 6-0,83,10/29/2024,Carlow,home,W,6,0,False
+11/06/2024,#3 Penn St.-Altoona AMCC WSOC Tournament,W 2-1,153,11/06/2024,Penn St.-Altoona,home,W,2,1,False
+11/09/2024,@ #1 Penn St.-Behrend AMCC WSOC Tournament,L 0-4,393,11/09/2024,Penn St.-Behrend,away,L,0,4,False
+11/16/2024,@ #6 FDU-Florham 2024 ECAC Women's Soccer Championship,W 2-1,105,11/16/2024,FDU-Florham,away,W,2,1,False
+11/23/2024,"#2 Springfield @Hartford, CT (2024 ECAC Women's Soccer Championship)",L 0-4,106,11/23/2024,Springfield,neutral,L,0,4,False

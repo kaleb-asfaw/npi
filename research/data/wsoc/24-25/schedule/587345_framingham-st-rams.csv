@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Roger Williams,L 0-7,101,08/30/2024,Roger Williams,home,L,0,7,False
+09/04/2024,Lasell,L 1-2,134,09/04/2024,Lasell,home,L,1,2,False
+09/07/2024,@ Clark (MA),L 0-4,201,09/07/2024,Clark (MA),away,L,0,4,False
+09/14/2024,@ Suffolk,L 1-9,261,09/14/2024,Suffolk,away,L,1,9,False
+09/18/2024,@ Salve Regina,L 0-4,222,09/18/2024,Salve Regina,away,L,0,4,False
+09/21/2024,MCLA,W 3-0,78,09/21/2024,MCLA,home,W,3,0,False
+09/25/2024,@ UMass Dartmouth,L 0-2,79,09/25/2024,UMass Dartmouth,away,L,0,2,False
+09/28/2024,@ Salem St.,T 2-2,75,09/28/2024,Salem St.,away,T,2,2,False
+09/30/2024,Nichols,W 2-1,80,09/30/2024,Nichols,home,W,2,1,False
+10/02/2024,Curry,L 0-2,80,10/02/2024,Curry,home,L,0,2,False
+10/05/2024,@ Bridgewater St.,L 0-4,250,10/05/2024,Bridgewater St.,away,L,0,4,False
+10/09/2024,@ Keene St.,L 0-4,157,10/09/2024,Keene St.,away,L,0,4,False
+10/12/2024,Westfield St.,L 0-5,85,10/12/2024,Westfield St.,home,L,0,5,False
+10/16/2024,@ Lesley,L 0-4,35,10/16/2024,Lesley,away,L,0,4,False
+10/18/2024,Worcester St.,L 0-1,100,10/18/2024,Worcester St.,home,L,0,1,False
+10/23/2024,@ Eastern Conn. St.,L 0-9,100,10/23/2024,Eastern Conn. St.,away,L,0,9,False
+10/26/2024,@ Mass. Maritime,W 1-0,78,10/26/2024,Mass. Maritime,away,W,1,0,False
+10/30/2024,Fisher,W 2-0,65,10/30/2024,Fisher,home,W,2,0,False
+11/01/2024,@ Fitchburg St.,L 0-5,100,11/01/2024,Fitchburg St.,away,L,0,5,False
+11/06/2024,@ #3 Worcester St. MASCAC Women's Soccer Championship,L 0-4,104,11/06/2024,Worcester St.,away,L,0,4,False

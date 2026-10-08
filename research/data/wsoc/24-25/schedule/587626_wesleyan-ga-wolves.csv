@@ -1,0 +1,14 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Oglethorpe,L 0-11,"1,120",08/30/2024,Oglethorpe,home,L,0,11,False
+09/08/2024,Salem (NC),L 1-6,65,09/08/2024,Salem (NC),home,L,1,6,False
+09/14/2024,@ Toccoa Falls,L 0-3,0,09/14/2024,@ Toccoa Falls,home,L,0,3,False
+09/22/2024,Oakwood,Canceled,,09/22/2024,Oakwood,home,,,,
+09/28/2024,Piedmont,L 0-10,130,09/28/2024,Piedmont,home,L,0,10,False
+10/01/2024,LaGrange,L 0-8,120,10/01/2024,LaGrange,home,L,0,8,False
+10/05/2024,@ Maryville (TN),L 0-9,412,10/05/2024,Maryville (TN),away,L,0,9,False
+10/10/2024,Belhaven,L 0-8,125,10/10/2024,Belhaven,home,L,0,8,False
+10/12/2024,Covenant,L 0-9,105,10/12/2024,Covenant,home,L,0,9,False
+10/15/2024,@ Agnes Scott,L 1-2,64,10/15/2024,Agnes Scott,away,L,1,2,False
+10/23/2024,@ Huntingdon,L 0-5,65,10/23/2024,Huntingdon,away,L,0,5,False
+10/26/2024,@ Asbury,L 0-9,125,10/26/2024,Asbury,away,L,0,9,False
+10/27/2024,@ Berea,L 0-4,78,10/27/2024,Berea,away,L,0,4,False

@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ U New England,L 0-4,167,09/01/2022,U New England,away,L,0,4,False
+09/04/2022,Southern Me.,L 1-4,125,09/04/2022,Southern Me.,home,L,1,4,False
+09/07/2022,@ Bowdoin,L 0-5,73,09/07/2022,Bowdoin,away,L,0,5,False
+09/10/2022,Saint Joseph (CT),W 4-2,100,09/10/2022,Saint Joseph (CT),home,W,4,2,False
+09/14/2022,Endicott,L 1-2,200,09/14/2022,Endicott,home,L,1,2,False
+09/17/2022,@ Anna Maria,W 5-0,55,09/17/2022,Anna Maria,away,W,5,0,False
+09/21/2022,@ Simmons,W 2-0,100,09/21/2022,Simmons,away,W,2,0,False
+09/24/2022,Norwich,W 4-0,125,09/24/2022,Norwich,home,W,4,0,False
+09/28/2022,@ Emmanuel (MA),L 0-1,125,09/28/2022,Emmanuel (MA),away,L,0,1,False
+10/01/2022,JWU (Providence),L 0-3,100,10/01/2022,JWU (Providence),home,L,0,3,False
+10/05/2022,@ Elms,W 4-0,100,10/05/2022,Elms,away,W,4,0,False
+10/08/2022,@ Lasell,L 3-4,50,10/08/2022,Lasell,away,L,3,4,False
+10/12/2022,Dean,W 6-0,150,10/12/2022,Dean,home,W,6,0,False
+10/15/2022,@ Albertus Magnus,T 1-1,0,10/15/2022,Albertus Magnus,away,T,1,1,False
+10/17/2022,@ Bates,L 1-2,250,10/17/2022,Bates,away,L,1,2,False
+10/19/2022,Rivier,W 6-0,100,10/19/2022,Rivier,home,W,6,0,False
+10/22/2022,Regis (MA),W 2-1,265,10/22/2022,Regis (MA),home,W,2,1,False
+10/26/2022,@ Colby-Sawyer,W 2-1,79,10/26/2022,Colby-Sawyer,away,W,2,1,False
+10/29/2022,#5 Regis (MA) Great Northeast WSOC Championship,W 3-1,125,10/29/2022,Regis (MA),home,W,3,1,False
+11/01/2022,@ #1 JWU (Providence) Great Northeast WSOC Championship,L 0-1,350,11/01/2022,JWU (Providence),away,L,0,1,False

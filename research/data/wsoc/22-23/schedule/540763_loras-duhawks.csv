@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,St. Norbert,W 6-1,145,09/01/2022,St. Norbert,home,W,6,1,False
+09/04/2022,@ Dominican (IL),T 1-1,75,09/04/2022,Dominican (IL),away,T,1,1,False
+09/07/2022,Concordia Wisconsin,T 1-1,122,09/07/2022,Concordia Wisconsin,home,T,1,1,False
+09/10/2022,@ Millikin,W 4-0,125,09/10/2022,Millikin,away,W,4,0,False
+09/14/2022,North Central (IL),W 3-2,135,09/14/2022,North Central (IL),home,W,3,2,False
+09/17/2022,@ St. Catherine,W 4-3,166,09/17/2022,St. Catherine,away,W,4,3,False
+09/20/2022,@ Lawrence,W 4-0,309,09/20/2022,Lawrence,away,W,4,0,False
+09/24/2022,Neb. Wesleyan,W 6-0,271,09/24/2022,Neb. Wesleyan,home,W,6,0,False
+09/28/2022,Wis.-Whitewater,T 2-2,124,09/28/2022,Wis.-Whitewater,home,T,2,2,False
+09/30/2022,@ Viterbo,W 4-2,0,09/30/2022,@ Viterbo,home,W,4,2,False
+10/05/2022,Luther,W 2-0,156,10/05/2022,Luther,home,W,2,0,False
+10/08/2022,@ Simpson,W 3-0,215,10/08/2022,Simpson,away,W,3,0,False
+10/11/2022,@ Dubuque,W 4-0,274,10/11/2022,Dubuque,away,W,4,0,False
+10/15/2022,Central (IA),W 3-0,121,10/15/2022,Central (IA),home,W,3,0,False
+10/19/2022,@ Coe,W 7-0,79,10/19/2022,Coe,away,W,7,0,False
+10/22/2022,@ Buena Vista,W 6-0,60,10/22/2022,Buena Vista,away,W,6,0,False
+10/25/2022,Wartburg,W 2-0,253,10/25/2022,Wartburg,home,W,2,0,False
+11/02/2022,#5 Luther American Rivers WSOC Championship,W 5-0,125,11/02/2022,Luther,home,W,5,0,False
+11/05/2022,#3 Simpson American Rivers WSOC Championship,W 6-1,231,11/05/2022,Simpson,home,W,6,1,False
+11/12/2022,Wis.-Superior NCAA Division III Women's Soccer Championship,W 7-1,202,11/12/2022,Wis.-Superior,home,W,7,1,False
+11/13/2022,"Ohio Northern @Dubuque, IA (NCAA Division III Women's Soccer Championship)",W 1-0,156,11/13/2022,Ohio Northern,neutral,W,1,0,False
+11/19/2022,@ CWRU NCAA Division III Women's Soccer Championship,L 1-3,582,11/19/2022,CWRU,away,L,1,3,False

@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ WPI,L 0-1,200,08/30/2024,WPI,away,L,0,1,False
+09/05/2024,@ Smith,W 2-0,50,09/05/2024,Smith,away,W,2,0,False
+09/07/2024,Endicott,W 1-0,150,09/07/2024,Endicott,home,W,1,0,False
+09/11/2024,Western New Eng.,T 2-2,100,09/11/2024,Western New Eng.,home,T,2,2,False
+09/14/2024,@ SUNY Oneonta,W 3-0,207,09/14/2024,SUNY Oneonta,away,W,3,0,False
+09/18/2024,@ Wheaton (MA),T 0-0,105,09/18/2024,Wheaton (MA),away,T,0,0,False
+09/21/2024,Ramapo,W 2-0,183,09/21/2024,Ramapo,home,W,2,0,False
+09/24/2024,@ St. Lawrence,T 1-1,115,09/24/2024,St. Lawrence,away,T,1,1,False
+09/28/2024,Vassar,L 0-1,138,09/28/2024,Vassar,home,L,0,1,False
+10/02/2024,Russell Sage,W 1-0,150,10/02/2024,Russell Sage,home,W,1,0,False
+10/05/2024,@ Rensselaer,T 0-0,239,10/05/2024,Rensselaer,away,T,0,0,False
+10/09/2024,@ Eastern Conn. St.,W 1-0,100,10/09/2024,Eastern Conn. St.,away,W,1,0,False
+10/12/2024,@ Bard,W 6-0,200,10/12/2024,Bard,away,W,6,0,False
+10/13/2024,Hamilton,W 2-1,101,10/13/2024,Hamilton,home,W,2,1,False
+10/18/2024,Ithaca,W 1-0,204,10/18/2024,Ithaca,home,W,1,0,False
+10/19/2024,William Smith,L 1-2,100,10/19/2024,William Smith,home,L,1,2,False
+10/26/2024,@ RIT,L 0-1,221,10/26/2024,RIT,away,L,0,1,False
+10/30/2024,Skidmore,L 0-1,30,10/30/2024,Skidmore,home,L,0,1,False
+11/02/2024,@ Clarkson,T 0-0,297,11/02/2024,Clarkson,away,T,0,0,False

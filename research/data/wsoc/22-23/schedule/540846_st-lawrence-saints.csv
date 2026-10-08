@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Hartwick,W 3-1,78,09/01/2022,Hartwick,away,W,3,1,False
+09/03/2022,Colby-Sawyer,W 1-0,210,09/03/2022,Colby-Sawyer,home,W,1,0,False
+09/04/2022,SUNY Potsdam,W 7-0,152,09/04/2022,SUNY Potsdam,home,W,7,0,False
+09/10/2022,"Nazareth @Dallas, PA",T 0-0,50,09/10/2022,Nazareth,neutral,T,0,0,False
+09/11/2022,"Farmingdale St. @Dallas, PA",W 1-0,50,09/11/2022,Farmingdale St.,neutral,W,1,0,False
+09/17/2022,Rensselaer,T 0-0,123,09/17/2022,Rensselaer,home,T,0,0,False
+09/24/2022,Union (NY),W 1-0,97,09/24/2022,Union (NY),home,W,1,0,False
+10/01/2022,@ Ithaca,L 0-1,95,10/01/2022,Ithaca,away,L,0,1,False
+10/04/2022,Plattsburgh St.,L 0-1,92,10/04/2022,Plattsburgh St.,home,L,0,1,False
+10/08/2022,RIT,L 1-3,163,10/08/2022,RIT,home,L,1,3,False
+10/14/2022,@ Bard,W 4-0,125,10/14/2022,Bard,away,W,4,0,False
+10/15/2022,@ Vassar,L 1-6,125,10/15/2022,Vassar,away,L,1,6,False
+10/22/2022,Skidmore,L 0-2,130,10/22/2022,Skidmore,home,L,0,2,False
+10/25/2022,@ Clarkson,L 1-2,185,10/25/2022,Clarkson,away,L,1,2,False
+10/29/2022,@ William Smith,T 0-0,147,10/29/2022,William Smith,away,T,0,0,False

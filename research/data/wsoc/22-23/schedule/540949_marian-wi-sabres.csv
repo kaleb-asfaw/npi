@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Beloit,L 0-1,50,09/01/2022,Beloit,away,L,0,1,False
+09/03/2022,@ Ripon,W 4-0,100,09/03/2022,Ripon,away,W,4,0,False
+09/07/2022,Lawrence,L 2-3,205,09/07/2022,Lawrence,home,L,2,3,False
+09/11/2022,Wis.-Oshkosh,T 1-1,273,09/11/2022,Wis.-Oshkosh,home,T,1,1,False
+09/14/2022,Wis. Lutheran,W 4-3,217,09/14/2022,Wis. Lutheran,home,W,4,3,False
+09/17/2022,Rockford,W 5-1,286,09/17/2022,Rockford,home,W,5,1,False
+09/21/2022,St. Norbert,L 0-1,193,09/21/2022,St. Norbert,home,L,0,1,False
+09/24/2022,@ Benedictine (IL),T 0-0,137,09/24/2022,Benedictine (IL),away,T,0,0,False
+09/28/2022,@ MSOE,L 0-3,214,09/28/2022,MSOE,away,L,0,3,False
+10/01/2022,Illinois Tech,L 0-3,221,10/01/2022,Illinois Tech,home,L,0,3,False
+10/05/2022,Dominican (IL),W 1-0,171,10/05/2022,Dominican (IL),home,W,1,0,False
+10/08/2022,@ Concordia Chicago,T 1-1,69,10/08/2022,Concordia Chicago,away,T,1,1,False
+10/12/2022,Concordia Wisconsin,L 0-2,113,10/12/2022,Concordia Wisconsin,home,L,0,2,False
+10/15/2022,Aurora,W 3-2,221,10/15/2022,Aurora,home,W,3,2,False
+10/19/2022,@ Lakeland,W 3-0,91,10/19/2022,Lakeland,away,W,3,0,False
+10/22/2022,@ Alverno,W 8-0,163,10/22/2022,Alverno,away,W,8,0,False
+10/23/2022,Grinnell,L 0-2,267,10/23/2022,Grinnell,home,L,0,2,False
+10/26/2022,@ Edgewood,T 1-1,137,10/26/2022,Edgewood,away,T,1,1,False

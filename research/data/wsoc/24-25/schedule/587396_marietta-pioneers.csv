@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,@ Saint Vincent,L 0-1,220,08/30/2024,Saint Vincent,away,L,0,1,False
+09/03/2024,Wash. & Jeff.,T 1-1,165,09/03/2024,Wash. & Jeff.,home,T,1,1,False
+09/07/2024,Allegheny,W 2-0,187,09/07/2024,Allegheny,home,W,2,0,False
+09/08/2024,Mt. St. Joseph,T 2-2,270,09/08/2024,Mt. St. Joseph,home,T,2,2,False
+09/11/2024,Wooster,L 2-3,180,09/11/2024,Wooster,home,L,2,3,False
+09/14/2024,Geneva,W 3-0,168,09/14/2024,Geneva,home,W,3,0,False
+09/18/2024,@ Chatham,W 4-1,100,09/18/2024,Chatham,away,W,4,1,False
+09/21/2024,Kenyon,W 2-0,278,09/21/2024,Kenyon,home,W,2,0,False
+09/28/2024,@ Oberlin,L 0-3,227,09/28/2024,Oberlin,away,L,0,3,False
+10/05/2024,@ Ohio Northern,L 1-5,124,10/05/2024,Ohio Northern,away,L,1,5,False
+10/09/2024,Otterbein,W 1-0,149,10/09/2024,Otterbein,home,W,1,0,False
+10/12/2024,Heidelberg,L 1-2,261,10/12/2024,Heidelberg,home,L,1,2,False
+10/16/2024,@ Capital,T 0-0,251,10/16/2024,Capital,away,T,0,0,False
+10/19/2024,John Carroll,L 0-2,106,10/19/2024,John Carroll,home,L,0,2,False
+10/23/2024,@ Muskingum,W 2-1,167,10/23/2024,Muskingum,away,W,2,1,False
+10/26/2024,@ Baldwin Wallace,L 0-5,353,10/26/2024,Baldwin Wallace,away,L,0,5,False
+10/30/2024,Mount Union,W 3-1,152,10/30/2024,Mount Union,home,W,3,1,False
+11/02/2024,@ Wilmington (OH),L 0-3,193,11/02/2024,Wilmington (OH),away,L,0,3,False

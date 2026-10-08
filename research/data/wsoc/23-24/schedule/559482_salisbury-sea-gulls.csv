@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,"Greensboro @Salisbury, MD",W 2-1,70,09/01/2023,Greensboro,neutral,W,2,1,False
+09/02/2023,"Dickinson @Saint Mary's City, MD",L 0-4,66,09/02/2023,Dickinson,neutral,L,0,4,False
+09/06/2023,Washington Col.,W 3-1,156,09/06/2023,Washington Col.,home,W,3,1,False
+09/09/2023,Mt. St. Mary (NY),W 4-0,148,09/09/2023,Mt. St. Mary (NY),home,W,4,0,False
+09/10/2023,Randolph-Macon,T 3-3,155,09/10/2023,Randolph-Macon,home,T,3,3,False
+09/16/2023,@ Catholic,W 1-0,219,09/16/2023,Catholic,away,W,1,0,False
+09/17/2023,@ Bridgewater (VA),L 0-1,187,09/17/2023,Bridgewater (VA),away,L,0,1,False
+09/20/2023,Batten,L 0-1,67,09/20/2023,Batten,home,L,0,1,False
+09/24/2023,York (PA),L 0-1,117,09/24/2023,York (PA),home,L,0,1,False
+09/27/2023,@ Stevenson,W 3-0,233,09/27/2023,Stevenson,away,W,3,0,False
+10/01/2023,@ Marymount (VA),W 2-0,132,10/01/2023,Marymount (VA),away,W,2,0,False
+10/04/2023,@ Hood,W 1-0,220,10/04/2023,Hood,away,W,1,0,False
+10/07/2023,@ Farmingdale St.,W 1-0,102,10/07/2023,Farmingdale St.,away,W,1,0,False
+10/13/2023,Wash. & Lee,W 1-0,163,10/13/2023,Wash. & Lee,home,W,1,0,False
+10/17/2023,@ McDaniel,T 0-0,432,10/17/2023,McDaniel,away,T,0,0,False
+10/21/2023,@ Mary Washington,L 0-1,217,10/21/2023,Mary Washington,away,L,0,1,False
+10/25/2023,St. Mary's (MD),W 2-0,73,10/25/2023,St. Mary's (MD),home,W,2,0,False
+10/28/2023,Chris. Newport,L 0-4,75,10/28/2023,Chris. Newport,home,L,0,4,False
+11/03/2023,@ #2 UC Santa Cruz C2C Women's Soccer Championship,L 0-1,121,11/03/2023,UC Santa Cruz,away,L,0,1,False

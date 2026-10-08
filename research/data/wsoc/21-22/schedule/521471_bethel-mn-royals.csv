@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Northwestern-St. Paul,W 2-1,250,09/01/2021,Northwestern-St. Paul,away,W,2,1,False
+09/04/2021,Dubuque,W 3-1,284,09/04/2021,Dubuque,home,W,3,1,False
+09/06/2021,@ Wis.-Oshkosh,L 0-4,147,09/06/2021,Wis.-Oshkosh,away,L,0,4,False
+09/11/2021,Whitworth,L 0-2,90,09/11/2021,Whitworth,home,L,0,2,False
+09/14/2021,St. Olaf,W 1-0,162,09/14/2021,St. Olaf,home,W,1,0,False
+09/18/2021,@ St. Catherine,L 1-2,423,09/18/2021,St. Catherine,away,L,1,2,False
+09/20/2021,@ Loras,L 0-5,155,09/20/2021,Loras,away,L,0,5,False
+09/25/2021,Hamline,W 3-1,148,09/25/2021,Hamline,home,W,3,1,False
+09/29/2021,@ Macalester,W 1-0,194,09/29/2021,Macalester,away,W,1,0,False
+10/02/2021,St. Scholastica,L 0-1,0,10/02/2021,St. Scholastica,home,L,0,1,False
+10/06/2021,@ Wis.-Stout,L 0-2,65,10/06/2021,Wis.-Stout,away,L,0,2,False
+10/09/2021,@ Carleton,L 1-3,175,10/09/2021,Carleton,away,L,1,3,False
+10/12/2021,Saint Benedict,L 2-3,123,10/12/2021,Saint Benedict,home,L,2,3,False
+10/16/2021,@ Saint Mary's (MN),L 1-3,50,10/16/2021,Saint Mary's (MN),away,L,1,3,False
+10/23/2021,@ Gustavus Adolphus,L 0-1 (2 OT),75,10/23/2021,Gustavus Adolphus,away,L,0,1,True
+10/27/2021,Concordia-M'head,L 0-1 (1 OT),113,10/27/2021,Concordia-M'head,home,L,0,1,True
+10/30/2021,@ Augsburg,L 1-3,200,10/30/2021,Augsburg,away,L,1,3,False

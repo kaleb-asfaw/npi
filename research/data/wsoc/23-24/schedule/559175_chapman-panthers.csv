@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2023,Westcliff,W 5-1 *,78,08/30/2023,Westcliff,home,W,5,1,False
+09/01/2023,Willamette,W 2-0,189,09/01/2023,Willamette,home,W,2,0,False
+09/03/2023,George Fox,T 2-2,156,09/03/2023,George Fox,home,T,2,2,False
+09/10/2023,Texas Lutheran,T 2-2,43,09/10/2023,Texas Lutheran,home,T,2,2,False
+09/13/2023,@ Redlands,T 2-2,82,09/13/2023,Redlands,away,T,2,2,False
+09/16/2023,@ CMS,W 2-0,237,09/16/2023,CMS,away,W,2,0,False
+09/20/2023,Cal Lutheran,L 0-2,134,09/20/2023,Cal Lutheran,home,L,0,2,False
+09/23/2023,@ Pomona-Pitzer,L 0-1,152,09/23/2023,Pomona-Pitzer,away,L,0,1,False
+09/27/2023,La Verne,T 0-0,25,09/27/2023,La Verne,home,T,0,0,False
+10/04/2023,@ Occidental,L 0-3,213,10/04/2023,Occidental,away,L,0,3,False
+10/07/2023,Whittier,W 3-0,140,10/07/2023,Whittier,home,W,3,0,False
+10/11/2023,Caltech,W 4-1,60,10/11/2023,Caltech,home,W,4,1,False
+10/14/2023,UC Santa Cruz,L 0-1,167,10/14/2023,UC Santa Cruz,home,L,0,1,False
+10/18/2023,@ La Verne,T 1-1,68,10/18/2023,La Verne,away,T,1,1,False
+10/21/2023,CMS,W 1-0,143,10/21/2023,CMS,home,W,1,0,False
+10/25/2023,Redlands,W 2-0,106,10/25/2023,Redlands,home,W,2,0,False
+10/28/2023,@ Cal Lutheran,L 1-3,150,10/28/2023,Cal Lutheran,away,L,1,3,False
+11/02/2023,@ #1 Cal Lutheran SCIAC Women's Soccer Championship,L 0-2,750,11/02/2023,Cal Lutheran,away,L,0,2,False

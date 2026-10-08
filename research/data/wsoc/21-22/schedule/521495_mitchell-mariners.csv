@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Albertus Magnus,L 0-1,75,09/01/2021,Albertus Magnus,home,L,0,1,False
+09/04/2021,Anna Maria,L 0-2,85,09/04/2021,Anna Maria,home,L,0,2,False
+09/08/2021,Fisher,W 6-5 (1 OT),75,09/08/2021,Fisher,home,W,6,5,True
+09/11/2021,@ Old Westbury,W 10-2,25,09/11/2021,Old Westbury,away,W,10,2,False
+09/14/2021,Dean,T 0-0 (2 OT),95,09/14/2021,Dean,home,T,0,0,True
+09/19/2021,Eastern Conn. St.,L 0-2,185,09/19/2021,Eastern Conn. St.,home,L,0,2,False
+09/21/2021,Mount Holyoke,L 0-3,75,09/21/2021,Mount Holyoke,home,L,0,3,False
+09/26/2021,@ Curry,L 0-6,135,09/26/2021,Curry,away,L,0,6,False
+10/02/2021,CCNY,W 3-0,75,10/02/2021,CCNY,home,W,3,0,False
+10/07/2021,@ Connecticut Col.,L 0-4,100,10/07/2021,Connecticut Col.,away,L,0,4,False
+10/13/2021,@ VTSU Lyndon,W 2-0,29,10/13/2021,VTSU Lyndon,away,W,2,0,False
+10/18/2021,Elms,L 0-3,85,10/18/2021,Elms,home,L,0,3,False
+10/20/2021,@ Lesley,L 0-4,0,10/20/2021,Lesley,away,L,0,4,False
+10/23/2021,New England Col.,T 1-1 (2 OT),95,10/23/2021,New England Col.,home,T,1,1,True
+10/29/2021,Eastern Nazarene,W 2-1,50,10/29/2021,Eastern Nazarene,home,W,2,1,False
+11/03/2021,@ #2 New England Col. NECC WSOC Championship,L 0-3,450,11/03/2021,New England Col.,away,L,0,3,False

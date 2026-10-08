@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Blue Mountain (MS),W 2-0,150,09/01/2023,Blue Mountain (MS),home,W,2,0,False
+09/07/2023,@ LeTourneau,T 1-1,57,09/07/2023,LeTourneau,away,T,1,1,False
+09/09/2023,@ East Tex. Baptist,L 1-2,75,09/09/2023,East Tex. Baptist,away,L,1,2,False
+09/12/2023,@ Centenary (LA),L 0-1,85,09/12/2023,Centenary (LA),away,L,0,1,False
+09/14/2023,Mississippi Val.,L 1-3 *,45,09/14/2023,Mississippi Val.,home,L,1,3,False
+09/16/2023,@ Berea,W 3-1,54,09/16/2023,Berea,away,W,3,1,False
+09/18/2023,Tougaloo,W 10-0,167,09/18/2023,Tougaloo,home,W,10,0,False
+09/20/2023,@ Huntingdon,W 3-0,75,09/20/2023,Huntingdon,away,W,3,0,False
+09/23/2023,Piedmont,W 3-0,223,09/23/2023,Piedmont,home,W,3,0,False
+09/26/2023,Birmingham-So.,W 3-0,320,09/26/2023,Birmingham-So.,home,W,3,0,False
+09/30/2023,@ Covenant,W 3-1,456,09/30/2023,Covenant,away,W,3,1,False
+10/05/2023,@ LaGrange,W 4-0,206,10/05/2023,LaGrange,away,W,4,0,False
+10/07/2023,Agnes Scott,W 5-0,250,10/07/2023,Agnes Scott,home,W,5,0,False
+10/10/2023,@ Millsaps,W 2-1,110,10/10/2023,Millsaps,away,W,2,1,False
+10/14/2023,Maryville (TN),L 0-1,237,10/14/2023,Maryville (TN),home,L,0,1,False
+10/17/2023,@ MUW,W 2-0,100,10/17/2023,MUW,away,W,2,0,False
+10/19/2023,Rhodes,Canceled,,10/19/2023,Rhodes,home,,,,
+10/21/2023,Wesleyan (GA),W 7-0,120,10/21/2023,Wesleyan (GA),home,W,7,0,False
+10/24/2023,"Sewanee @Birmingham, AL",T 1-1,52,10/24/2023,Sewanee,neutral,T,1,1,False
+10/28/2023,#7 Berea CCS Women's Soccer Championship,W 5-0,121,10/28/2023,Berea,home,W,5,0,False
+11/01/2023,#3 Covenant CCS Women's Soccer Championship,L 0-1,183,11/01/2023,Covenant,home,L,0,1,False

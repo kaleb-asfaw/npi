@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Mary Baldwin,Canceled,,09/01/2021,Mary Baldwin,away,,,,
+09/04/2021,Christendom,Canceled,,09/04/2021,Christendom,home,,,,
+09/08/2021,Wilson,W 2-1,0,09/08/2021,Wilson,home,W,2,1,False
+09/12/2021,Salem (NC),L 0-2,0,09/12/2021,Salem (NC),home,L,0,2,False
+09/15/2021,Trinity Washington,W 3-0,25,09/15/2021,Trinity Washington,home,W,3,0,False
+09/22/2021,Averett,Canceled,,09/22/2021,Averett,home,,,,
+09/28/2021,@ Lynchburg,L 0-9,0,09/28/2021,Lynchburg,away,L,0,9,False
+10/02/2021,Bridgewater (VA),L 1-4,100,10/02/2021,Bridgewater (VA),home,L,1,4,False
+10/06/2021,Wash. & Lee,L 0-9,25,10/06/2021,Wash. & Lee,home,L,0,9,False
+10/09/2021,Shenandoah,L 0-4,50,10/09/2021,Shenandoah,home,L,0,4,False
+10/09/2021,@ Hollins,Ppd,,10/09/2021,Hollins,away,,,,
+10/16/2021,Ferrum,L 0-7,0,10/16/2021,Ferrum,home,L,0,7,False
+10/20/2021,@ Randolph,L 0-8,125,10/20/2021,Randolph,away,L,0,8,False
+10/24/2021,@ Roanoke,L 0-1,,10/24/2021,Roanoke,away,L,0,1,False
+10/27/2021,East. Mennonite,L 0-5,100,10/27/2021,East. Mennonite,home,L,0,5,False
+10/30/2021,@ Guilford,L 0-8,52,10/30/2021,Guilford,away,L,0,8,False

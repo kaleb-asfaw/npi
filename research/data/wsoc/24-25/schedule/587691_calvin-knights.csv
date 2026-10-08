@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Illinois Tech,W 4-0,267,08/30/2024,Illinois Tech,home,W,4,0,False
+08/31/2024,Heidelberg,T 0-0,206,08/31/2024,Heidelberg,home,T,0,0,False
+09/07/2024,@ Wittenberg,L 0-1,75,09/07/2024,Wittenberg,away,L,0,1,False
+09/11/2024,@ North Central (IL),L 2-4,155,09/11/2024,North Central (IL),away,L,2,4,False
+09/14/2024,UChicago,W 3-1,245,09/14/2024,UChicago,home,W,3,1,False
+09/20/2024,Wis.-La Crosse,W 3-1,327,09/20/2024,Wis.-La Crosse,home,W,3,1,False
+09/23/2024,WashU,T 0-0,108,09/23/2024,WashU,home,T,0,0,False
+09/28/2024,@ Ohio Northern,W 3-0,94,09/28/2024,Ohio Northern,away,W,3,0,False
+10/02/2024,@ Alma,W 3-0,113,10/02/2024,Alma,away,W,3,0,False
+10/05/2024,St. Mary's (IN),W 5-0,"1,021",10/05/2024,St. Mary's (IN),home,W,5,0,False
+10/08/2024,@ Trine,W 2-0,254,10/08/2024,Trine,away,W,2,0,False
+10/12/2024,Olivet,W 8-0,215,10/12/2024,Olivet,home,W,8,0,False
+10/16/2024,@ Hope,W 2-0,851,10/16/2024,Hope,away,W,2,0,False
+10/19/2024,Albion,W 6-0,562,10/19/2024,Albion,home,W,6,0,False
+10/22/2024,Kalamazoo,W 6-1,276,10/22/2024,Kalamazoo,home,W,6,1,False
+10/30/2024,@ Adrian,W 4-0,145,10/30/2024,Adrian,away,W,4,0,False
+11/06/2024,Adrian MIAA Women's Soccer Tournament,W 3-0,0,11/06/2024,Adrian,home,W,3,0,False
+11/09/2024,Hope MIAA Women's Soccer Tournament,W 4-0,917,11/09/2024,Hope,home,W,4,0,False
+11/15/2024,Greenville NCAA Division III Women's Soccer Championship,W 4-0,227,11/15/2024,Greenville,home,W,4,0,False
+11/16/2024,"UChicago @Grand Rapids, MI (NCAA Division III Women's Soccer Championship)",L 1-3,317,11/16/2024,UChicago,neutral,L,1,3,False

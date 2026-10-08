@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Dickinson,Canceled,,09/01/2021,Dickinson,away,,,,
+09/04/2021,Catholic,L 1-2,50,09/04/2021,Catholic,home,L,1,2,False
+09/11/2021,"Pfeiffer @Newport News, VA",W 3-0,132,09/11/2021,Pfeiffer,neutral,W,3,0,False
+09/12/2021,"Centre @Newport News, VA",L 0-1,102,09/12/2021,Centre,neutral,L,0,1,False
+09/18/2021,Mary Washington,T 0-0 (2 OT),0,09/18/2021,Mary Washington,home,T,0,0,True
+09/22/2021,@ Salisbury,W 2-0,101,09/22/2021,Salisbury,away,W,2,0,False
+09/25/2021,Hollins,W 1-0,,09/25/2021,Hollins,home,W,1,0,False
+09/28/2021,@ McDaniel,L 0-2,0,09/28/2021,McDaniel,away,L,0,2,False
+10/02/2021,Guilford,W 2-0,328,10/02/2021,Guilford,home,W,2,0,False
+10/03/2021,@ Chris. Newport,L 0-3,294,10/03/2021,Chris. Newport,away,L,0,3,False
+10/06/2021,@ East. Mennonite,W 5-0,35,10/06/2021,East. Mennonite,away,W,5,0,False
+10/09/2021,@ Roanoke,W 2-0,175,10/09/2021,Roanoke,away,W,2,0,False
+10/13/2021,@ Lynchburg,W 1-0,80,10/13/2021,Lynchburg,away,W,1,0,False
+10/16/2021,Wash. & Lee,L 0-1,83,10/16/2021,Wash. & Lee,home,L,0,1,False
+10/19/2021,Shenandoah,W 3-0,136,10/19/2021,Shenandoah,home,W,3,0,False
+10/23/2021,@ Ferrum,W 3-0,112,10/23/2021,Ferrum,away,W,3,0,False
+10/27/2021,Randolph-Macon,W 3-2 (2 OT),229,10/27/2021,Randolph-Macon,home,W,3,2,True
+10/30/2021,@ Bridgewater (VA),T 1-1 (2 OT),125,10/30/2021,Bridgewater (VA),away,T,1,1,True
+11/02/2021,#8 Roanoke ODAC WSOC Tournament,W 1-0,189,11/02/2021,Roanoke,home,W,1,0,False
+11/05/2021,#4 Wash. & Lee ODAC WSOC Tournament,W 1-0,283,11/05/2021,Wash. & Lee,home,W,1,0,False
+11/07/2021,Lynchburg ODAC WSOC Tournament,W 1-0,293,11/07/2021,Lynchburg,home,W,1,0,False
+11/13/2021,"Messiah @Ewing Township, NJ (NCAA Division III Women's Soccer Championship)",L 0-1 (1 OT),0,11/13/2021,Messiah,neutral,L,0,1,True

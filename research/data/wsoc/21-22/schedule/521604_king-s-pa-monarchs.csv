@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Penn College,Canceled,,09/01/2021,Penn College,home,,,,
+09/11/2021,@ Alfred,L 1-3,500,09/11/2021,Alfred,away,L,1,3,False
+09/14/2021,@ Keystone,Ppd,,09/14/2021,Keystone,away,,,,
+09/15/2021,Juniata,Canceled,,09/15/2021,Juniata,home,,,,
+09/18/2021,@ Lebanon Valley,L 0-4,52,09/18/2021,Lebanon Valley,away,L,0,4,False
+09/20/2021,Oswego St.,W 4-1,112,09/20/2021,Oswego St.,home,W,4,1,False
+09/23/2021,Neumann,Ppd,,09/23/2021,Neumann,home,,,,
+09/25/2021,@ Albright,L 0-2,57,09/25/2021,Albright,away,L,0,2,False
+09/29/2021,Ursinus,L 0-1,109,09/29/2021,Ursinus,home,L,0,1,False
+10/02/2021,Immaculata,W 3-2 (1 OT),149,10/02/2021,Immaculata,home,W,3,2,True
+10/06/2021,@ FDU-Florham,L 2-3 (1 OT),200,10/06/2021,FDU-Florham,away,L,2,3,True
+10/09/2021,Stevens,T 0-0 (2 OT),158,10/09/2021,Stevens,home,T,0,0,True
+10/12/2021,DeSales,L 1-5,123,10/12/2021,DeSales,home,L,1,5,False
+10/16/2021,@ Delaware Valley,W 2-1,92,10/16/2021,Delaware Valley,away,W,2,1,False
+10/20/2021,@ Wilkes,L 0-1,225,10/20/2021,Wilkes,away,L,0,1,False
+10/23/2021,Arcadia,L 0-1,168,10/23/2021,Arcadia,home,L,0,1,False
+10/26/2021,@ Lycoming,L 0-2,50,10/26/2021,Lycoming,away,L,0,2,False
+10/30/2021,Misericordia,L 0-5,135,10/30/2021,Misericordia,home,L,0,5,False

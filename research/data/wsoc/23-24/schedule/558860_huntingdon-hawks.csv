@@ -1,0 +1,17 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Millsaps,L 0-3,53,09/01/2023,Millsaps,away,L,0,3,False
+09/02/2023,"McMurry @Jackson, MS",L 0-4,58,09/02/2023,McMurry,neutral,L,0,4,False
+09/08/2023,@ Birmingham-So.,W 4-1,202,09/08/2023,Birmingham-So.,away,W,4,1,False
+09/10/2023,MUW,W 1-0,50,09/10/2023,MUW,home,W,1,0,False
+09/15/2023,Oglethorpe,L 2-4,50,09/15/2023,Oglethorpe,home,L,2,4,False
+09/17/2023,@ Berry,L 1-6,40,09/17/2023,Berry,away,L,1,6,False
+09/20/2023,Belhaven,L 0-3,75,09/20/2023,Belhaven,home,L,0,3,False
+09/23/2023,@ Berea,W 3-1,96,09/23/2023,Berea,away,W,3,1,False
+09/26/2023,Millsaps,T 1-1,55,09/26/2023,Millsaps,home,T,1,1,False
+09/29/2023,@ Agnes Scott,W 5-0,53,09/29/2023,Agnes Scott,away,W,5,0,False
+10/04/2023,Piedmont,L 0-4,70,10/04/2023,Piedmont,home,L,0,4,False
+10/07/2023,@ Maryville (TN),L 1-8,103,10/07/2023,Maryville (TN),away,L,1,8,False
+10/10/2023,@ Wesleyan (GA),W 4-1,0,10/10/2023,Wesleyan (GA),away,W,4,1,False
+10/18/2023,LaGrange,L 0-1,50,10/18/2023,LaGrange,home,L,0,1,False
+10/21/2023,Covenant,L 0-5,75,10/21/2023,Covenant,home,L,0,5,False
+10/28/2023,@ #3 Covenant CCS Women's Soccer Championship,L 0-4,135,10/28/2023,Covenant,away,L,0,4,False

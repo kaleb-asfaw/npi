@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Wis.-Eau Claire,L 0-2,125,08/30/2024,Wis.-Eau Claire,home,L,0,2,False
+09/01/2024,Wis.-Stevens Point,W 3-2,210,09/01/2024,Wis.-Stevens Point,home,W,3,2,False
+09/07/2024,Wis.-Oshkosh,W 3-1,225,09/07/2024,Wis.-Oshkosh,home,W,3,1,False
+09/08/2024,Central (IA),W 1-0,234,09/08/2024,Central (IA),home,W,1,0,False
+09/14/2024,@ Wartburg,T 1-1,175,09/14/2024,Wartburg,away,T,1,1,False
+09/18/2024,Macalester,T 0-0,145,09/18/2024,Macalester,home,T,0,0,False
+09/21/2024,@ Hamline,T 0-0,283,09/21/2024,Hamline,away,T,0,0,False
+09/22/2024,@ Luther,T 1-1,109,09/22/2024,Luther,away,T,1,1,False
+09/28/2024,@ Saint Mary's (MN),L 1-2,225,09/28/2024,Saint Mary's (MN),away,L,1,2,False
+10/01/2024,@ Augsburg,L 0-1,250,10/01/2024,Augsburg,away,L,0,1,False
+10/05/2024,St. Catherine,L 0-3,156,10/05/2024,St. Catherine,home,L,0,3,False
+10/12/2024,Gustavus Adolphus,W 1-0,123,10/12/2024,Gustavus Adolphus,home,W,1,0,False
+10/16/2024,@ Concordia-M'head,L 1-2,174,10/16/2024,Concordia-M'head,away,L,1,2,False
+10/19/2024,Bethel (MN),L 0-1,135,10/19/2024,Bethel (MN),home,L,0,1,False
+10/22/2024,St. Scholastica,W 5-2,131,10/22/2024,St. Scholastica,home,W,5,2,False
+10/26/2024,@ St. Olaf,L 1-2,338,10/26/2024,St. Olaf,away,L,1,2,False
+11/02/2024,@ Carleton,L 1-2,348,11/02/2024,Carleton,away,L,1,2,False

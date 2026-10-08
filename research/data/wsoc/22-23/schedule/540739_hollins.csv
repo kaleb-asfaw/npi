@@ -1,0 +1,14 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/09/2022,Trinity Washington,L 2-4,105,09/09/2022,Trinity Washington,home,L,2,4,False
+09/10/2022,Agnes Scott,L 1-4,118,09/10/2022,Agnes Scott,home,L,1,4,False
+09/17/2022,William Peace,L 0-7,115,09/17/2022,William Peace,home,L,0,7,False
+09/24/2022,@ Sweet Briar,L 2-3,50,09/24/2022,Sweet Briar,away,L,2,3,False
+10/05/2022,Averett,L 1-6,79,10/05/2022,Averett,home,L,1,6,False
+10/08/2022,@ Batten,L 0-9,189,10/08/2022,Batten,away,L,0,9,False
+10/09/2022,@ Wash. & Lee,L 0-13,76,10/09/2022,Wash. & Lee,away,L,0,13,False
+10/12/2022,Guilford,L 0-12,110,10/12/2022,Guilford,home,L,0,12,False
+10/15/2022,@ Randolph,L 0-12,175,10/15/2022,Randolph,away,L,0,12,False
+10/19/2022,@ Ferrum,L 1-13,120,10/19/2022,Ferrum,away,L,1,13,False
+10/22/2022,Shenandoah,L 0-12,50,10/22/2022,Shenandoah,home,L,0,12,False
+10/26/2022,@ Roanoke,L 0-11,34,10/26/2022,Roanoke,away,L,0,11,False
+10/29/2022,East. Mennonite,L 0-10,114,10/29/2022,East. Mennonite,home,L,0,10,False

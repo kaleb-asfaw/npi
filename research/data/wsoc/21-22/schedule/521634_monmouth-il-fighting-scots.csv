@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Wis.-Platteville,L 0-1 (2 OT),322,09/01/2021,Wis.-Platteville,away,L,0,1,True
+09/04/2021,@ Webster,L 0-1,74,09/04/2021,Webster,away,L,0,1,False
+09/05/2021,UChicago,L 0-9,50,09/05/2021,UChicago,home,L,0,9,False
+09/10/2021,Dubuque,L 2-3,75,09/10/2021,Dubuque,home,L,2,3,False
+09/15/2021,@ Central (IA),L 1-5,100,09/15/2021,Central (IA),away,L,1,5,False
+09/17/2021,Buena Vista,W 3-1,50,09/17/2021,Buena Vista,home,W,3,1,False
+09/22/2021,@ Millikin,L 1-3,42,09/22/2021,Millikin,away,L,1,3,False
+09/26/2021,@ Simpson,L 1-4,84,09/26/2021,Simpson,away,L,1,4,False
+09/28/2021,Loras,L 1-5,50,09/28/2021,Loras,home,L,1,5,False
+10/02/2021,Lake Forest,L 0-1,35,10/02/2021,Lake Forest,home,L,0,1,False
+10/06/2021,Knox,L 0-1,30,10/06/2021,Knox,home,L,0,1,False
+10/09/2021,@ Ripon,W 6-0,55,10/09/2021,Ripon,away,W,6,0,False
+10/12/2021,@ Grinnell,W 3-2 (2 OT),103,10/12/2021,Grinnell,away,W,3,2,True
+10/19/2021,@ Illinois Col.,W 6-1,45,10/19/2021,Illinois Col.,away,W,6,1,False
+10/23/2021,Beloit,T 1-1 (2 OT),25,10/23/2021,Beloit,home,T,1,1,True
+10/26/2021,Cornell College,W 2-0,75,10/26/2021,Cornell College,home,W,2,0,False
+10/30/2021,@ Lawrence,L 0-1 (2 OT),373,10/30/2021,Lawrence,away,L,0,1,True

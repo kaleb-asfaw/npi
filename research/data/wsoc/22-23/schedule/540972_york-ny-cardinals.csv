@@ -1,0 +1,15 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/06/2022,@ Purchase,Ppd,,09/06/2022,Purchase,away,,,,
+09/10/2022,@ Valley Forge,Ppd,,09/10/2022,Valley Forge,away,,,,
+09/13/2022,@ Clarks Summit,Ppd,,09/13/2022,Clarks Summit,away,,,,
+09/17/2022,@ Old Westbury,Ppd,,09/17/2022,Old Westbury,away,,,,
+09/24/2022,St. Joseph's (Brkln),Ppd,,09/24/2022,St. Joseph's (Brkln),home,,,,
+09/28/2022,@ CCNY,Ppd,,09/28/2022,CCNY,away,,,,
+10/01/2022,Mitchell,L 1-6,18,10/01/2022,Mitchell,home,L,1,6,False
+10/04/2022,@ Saint Elizabeth,Ppd,,10/04/2022,Saint Elizabeth,away,,,,
+10/08/2022,@ John Jay,L 0-12,55,10/08/2022,John Jay,away,L,0,12,False
+10/10/2022,@ Lehman,L 2-7,20,10/10/2022,Lehman,away,L,2,7,False
+10/12/2022,Lehman,W 4-3,18,10/12/2022,Lehman,home,W,4,3,False
+10/15/2022,CCNY,Canceled,,10/15/2022,CCNY,home,,,,
+10/19/2022,@ Brooklyn,Canceled,,10/19/2022,Brooklyn,away,,,,
+10/22/2022,@ Medgar Evers,Canceled,,10/22/2022,Medgar Evers,away,,,,

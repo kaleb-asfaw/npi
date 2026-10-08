@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,SUNY New Paltz,L 0-3,255,09/01/2022,SUNY New Paltz,home,L,0,3,False
+09/03/2022,@ Plattsburgh St.,L 0-3,210,09/03/2022,Plattsburgh St.,away,L,0,3,False
+09/07/2022,@ Bard,T 1-1,100,09/07/2022,Bard,away,T,1,1,False
+09/10/2022,MCLA,W 3-0,292,09/10/2022,MCLA,home,W,3,0,False
+09/13/2022,Skidmore,L 0-2,75,09/13/2022,Skidmore,home,L,0,2,False
+09/17/2022,Elmira,W 2-0,280,09/17/2022,Elmira,home,W,2,0,False
+09/20/2022,@ WestConn,L 0-1,88,09/20/2022,WestConn,away,L,0,1,False
+09/24/2022,Alfred,W 1-0,208,09/24/2022,Alfred,home,W,1,0,False
+09/27/2022,@ Nichols,L 1-3,157,09/27/2022,Nichols,away,L,1,3,False
+10/01/2022,@ Keuka,W 2-0,147,10/01/2022,Keuka,away,W,2,0,False
+10/05/2022,@ Vassar,L 0-4,40,10/05/2022,Vassar,away,L,0,4,False
+10/09/2022,St. John Fisher,L 0-1,275,10/09/2022,St. John Fisher,home,L,0,1,False
+10/15/2022,@ Nazareth,L 1-2,200,10/15/2022,Nazareth,away,L,1,2,False
+10/19/2022,Hartwick,L 0-1,200,10/19/2022,Hartwick,home,L,0,1,False
+10/22/2022,@ Medaille,W 6-1,54,10/22/2022,Medaille,away,W,6,1,False
+10/26/2022,Utica,W 1-0,78,10/26/2022,Utica,home,W,1,0,False
+10/29/2022,@ Houghton,W 3-2,75,10/29/2022,Houghton,away,W,3,2,False
+11/01/2022,#6 Alfred Empire 8 WSOC Championship,W 1-0,270,11/01/2022,Alfred,home,W,1,0,False
+11/03/2022,@ #2 Nazareth Empire 8 WSOC Championship,L 0-2,215,11/03/2022,Nazareth,away,L,0,2,False

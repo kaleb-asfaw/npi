@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/04/2021,@ Fontbonne,W 3-1,85,09/04/2021,Fontbonne,away,W,3,1,False
+09/11/2021,Loras,T 0-0 (2 OT),125,09/11/2021,Loras,home,T,0,0,True
+09/12/2021,Carthage,W 7-1,130,09/12/2021,Carthage,home,W,7,1,False
+09/15/2021,Millikin,W 3-1,100,09/15/2021,Millikin,home,W,3,1,False
+09/18/2021,"Wis.-Whitewater @Memphis, TN",W 3-0,50,09/18/2021,Wis.-Whitewater,neutral,W,3,0,False
+09/19/2021,"DePauw @Memphis, TN",W 4-1,50,09/19/2021,DePauw,neutral,W,4,1,False
+09/24/2021,Wheaton (IL),W 2-0,100,09/24/2021,Wheaton (IL),home,W,2,0,False
+09/26/2021,@ Rose-Hulman,W 1-0,150,09/26/2021,Rose-Hulman,away,W,1,0,False
+10/02/2021,@ Rochester (NY),W 3-0,100,10/02/2021,Rochester (NY),away,W,3,0,False
+10/10/2021,Emory,W 1-0,150,10/10/2021,Emory,home,W,1,0,False
+10/15/2021,NYU,W 2-0,150,10/15/2021,NYU,home,W,2,0,False
+10/17/2021,Brandeis,W 2-1,150,10/17/2021,Brandeis,home,W,2,1,False
+10/20/2021,@ Ill. Wesleyan,W 1-0,57,10/20/2021,Ill. Wesleyan,away,W,1,0,False
+10/29/2021,@ Carnegie Mellon,W 1-0,148,10/29/2021,Carnegie Mellon,away,W,1,0,False
+10/31/2021,@ CWRU,L 0-1,97,10/31/2021,CWRU,away,L,0,1,False
+11/06/2021,UChicago,T 1-1 (2 OT),244,11/06/2021,UChicago,home,T,1,1,True
+11/13/2021,Beloit NCAA Division III Women's Soccer Championship,W 4-0,350,11/13/2021,Beloit,home,W,4,0,False
+11/14/2021,Dominican (IL) NCAA Division III Women's Soccer Championship,W 1-0,350,11/14/2021,Dominican (IL),home,W,1,0,False
+11/20/2021,Wis.-La Crosse NCAA Division III Women's Soccer Championship,T 1-1 (3 OT),100,11/20/2021,Wis.-La Crosse,home,T,1,1,True

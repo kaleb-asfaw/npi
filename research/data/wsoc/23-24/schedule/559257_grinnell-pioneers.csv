@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Dubuque,W 2-0,95,09/01/2023,Dubuque,away,W,2,0,False
+09/02/2023,@ Coe,W 1-0,78,09/02/2023,Coe,away,W,1,0,False
+09/09/2023,@ Carleton,L 0-2,137,09/09/2023,Carleton,away,L,0,2,False
+09/10/2023,@ Luther,T 0-0,64,09/10/2023,Luther,away,T,0,0,False
+09/14/2023,Simpson,L 0-2,40,09/14/2023,Simpson,home,L,0,2,False
+09/20/2023,Central (IA),T 0-0,31,09/20/2023,Central (IA),home,T,0,0,False
+09/23/2023,@ Lake Forest,T 1-1,217,09/23/2023,Lake Forest,away,T,1,1,False
+09/26/2023,@ Knox,W 5-0,55,09/26/2023,Knox,away,W,5,0,False
+09/30/2023,Ripon,W 3-0,50,09/30/2023,Ripon,home,W,3,0,False
+10/07/2023,Illinois Col.,W 4-0,157,10/07/2023,Illinois Col.,home,W,4,0,False
+10/08/2023,Saint Mary's (MN),L 0-1,72,10/08/2023,Saint Mary's (MN),home,L,0,1,False
+10/14/2023,Augustana (IL),W 1-0,50,10/14/2023,Augustana (IL),home,W,1,0,False
+10/15/2023,Buena Vista,W 7-0,20,10/15/2023,Buena Vista,home,W,7,0,False
+10/18/2023,@ Cornell College,W 2-0,50,10/18/2023,Cornell College,away,W,2,0,False
+10/21/2023,@ Beloit,T 1-1,50,10/21/2023,Beloit,away,T,1,1,False
+10/24/2023,Monmouth (IL),W 4-0,30,10/24/2023,Monmouth (IL),home,W,4,0,False
+10/28/2023,Lawrence,T 1-1,72,10/28/2023,Lawrence,home,T,1,1,False
+11/03/2023,"#3 Lawrence @Lake Forest, IL (MWC Women's Soccer Championship)",W 1-0,82,11/03/2023,Lawrence,neutral,W,1,0,False
+11/04/2023,@ #1 Lake Forest MWC Women's Soccer Championship,L 0-4,289,11/04/2023,Lake Forest,away,L,0,4,False

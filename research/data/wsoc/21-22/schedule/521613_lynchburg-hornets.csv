@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/04/2021,"Farmingdale St. @Roanoke College, Salem, Va.",L 1-2,105,09/04/2021,Farmingdale St.,neutral,L,1,2,False
+09/05/2021,"Millsaps @Salem, VA",W 6-0,100,09/05/2021,Millsaps,neutral,W,6,0,False
+09/11/2021,@ RIT,W 2-1 (2 OT),100,09/11/2021,RIT,away,W,2,1,True
+09/18/2021,@ Arcadia,W 4-0,118,09/18/2021,Arcadia,away,W,4,0,False
+09/22/2021,@ Roanoke,Ppd,,09/22/2021,Roanoke,away,,,,
+09/24/2021,@ Guilford,W 2-0,113,09/24/2021,Guilford,away,W,2,0,False
+09/26/2021,"Emory @Charlotte, NC",W 2-1,0,09/26/2021,Emory,neutral,W,2,1,False
+09/28/2021,Sweet Briar,W 9-0,0,09/28/2021,Sweet Briar,home,W,9,0,False
+09/29/2021,Mary Washington,W 2-0,0,09/29/2021,Mary Washington,home,W,2,0,False
+10/01/2021,@ Wash. & Lee,W 2-1 (1 OT),214,10/01/2021,Wash. & Lee,away,W,2,1,True
+10/06/2021,Randolph,W 2-0,184,10/06/2021,Randolph,home,W,2,0,False
+10/10/2021,@ Randolph-Macon,W 2-0,300,10/10/2021,Randolph-Macon,away,W,2,0,False
+10/13/2021,Batten,L 0-1,80,10/13/2021,Batten,home,L,0,1,False
+10/16/2021,Roanoke,W 2-0,145,10/16/2021,Roanoke,home,W,2,0,False
+10/20/2021,@ East. Mennonite,W 1-0,65,10/20/2021,East. Mennonite,away,W,1,0,False
+10/23/2021,Bridgewater (VA),L 0-1,600,10/23/2021,Bridgewater (VA),home,L,0,1,False
+10/27/2021,@ Hollins,W 11-0,77,10/27/2021,Hollins,away,W,11,0,False
+10/30/2021,@ Chris. Newport,L 1-5,441,10/30/2021,Chris. Newport,away,L,1,5,False
+11/02/2021,Guilford ODAC WSOC Tournament,W 1-0 (2 OT),200,11/02/2021,Guilford,home,W,1,0,True
+11/05/2021,@ #2 Bridgewater (VA) ODAC WSOC Tournament,W 4-0,200,11/05/2021,Bridgewater (VA),away,W,4,0,False
+11/07/2021,@ #1 Batten ODAC WSOC Tournament,L 0-1,293,11/07/2021,Batten,away,L,0,1,False
+11/13/2021,"Middlebury @Dallas, PA (NCAA Division III Women's Soccer Championship)",L 2-3,150,11/13/2021,Middlebury,neutral,L,2,3,False

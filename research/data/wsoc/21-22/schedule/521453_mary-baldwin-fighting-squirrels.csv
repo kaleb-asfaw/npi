@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Sweet Briar,Canceled,,09/01/2021,Sweet Briar,home,,,,
+09/03/2021,@ Ferrum,W 2-1 (1 OT),0,09/03/2021,Ferrum,away,W,2,1,True
+09/05/2021,JWU (Charlotte),W 2-1 (2 OT),0,09/05/2021,JWU (Charlotte),home,W,2,1,True
+09/09/2021,Piedmont,W 4-0,0,09/09/2021,Piedmont,home,W,4,0,False
+09/11/2021,Randolph,L 1-2,90,09/11/2021,Randolph,home,L,1,2,False
+09/14/2021,East. Mennonite,L 1-2,45,09/14/2021,East. Mennonite,home,L,1,2,False
+09/15/2021,Bob Jones,L 1-3,35,09/15/2021,Bob Jones,home,L,1,3,False
+09/18/2021,@ Marymount (VA),W 4-3,125,09/18/2021,Marymount (VA),away,W,4,3,False
+09/21/2021,Regent,Canceled,,09/21/2021,Regent,home,,,,
+09/25/2021,@ William Peace,T 0-0 (2 OT),56,09/25/2021,William Peace,away,T,0,0,True
+09/28/2021,Southern Va.,W 2-1,40,09/28/2021,Southern Va.,home,W,2,1,False
+10/02/2021,Methodist,L 1-2,109,10/02/2021,Methodist,home,L,1,2,False
+10/06/2021,Averett,W 2-1,55,10/06/2021,Averett,home,W,2,1,False
+10/09/2021,N.C. Wesleyan,W 3-2,0,10/09/2021,N.C. Wesleyan,home,W,3,2,False
+10/12/2021,@ Salem (NC),W 2-0,0,10/12/2021,Salem (NC),away,W,2,0,False
+10/15/2021,Meredith,L 1-2,55,10/15/2021,Meredith,home,L,1,2,False
+10/20/2021,@ Greensboro,T 1-1 (2 OT),67,10/20/2021,Greensboro,away,T,1,1,True
+10/23/2021,@ Pfeiffer,L 0-3,175,10/23/2021,Pfeiffer,away,L,0,3,False
+10/26/2021,Greensboro,W 2-0,115,10/26/2021,Greensboro,home,W,2,0,False
+10/30/2021,@ #1 Piedmont USA South WSOC Championship,T 0-0 (3 OT),101,10/30/2021,Piedmont,away,T,0,0,True

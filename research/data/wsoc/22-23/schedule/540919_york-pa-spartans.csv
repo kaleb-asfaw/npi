@@ -1,0 +1,22 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Franklin & Marshall,L 1-2,200,09/01/2022,Franklin & Marshall,away,L,1,2,False
+09/04/2022,Penn St. Harrisburg,W 4-1,316,09/04/2022,Penn St. Harrisburg,home,W,4,1,False
+09/07/2022,Salisbury,W 1-0,245,09/07/2022,Salisbury,home,W,1,0,False
+09/10/2022,@ McDaniel,L 0-3,450,09/10/2022,McDaniel,away,L,0,3,False
+09/14/2022,Dickinson,W 1-0,213,09/14/2022,Dickinson,home,W,1,0,False
+09/17/2022,Elizabethtown,W 2-0,0,09/17/2022,Elizabethtown,home,W,2,0,False
+09/21/2022,@ DeSales,T 2-2,120,09/21/2022,DeSales,away,T,2,2,False
+09/24/2022,Rochester (NY),W 1-0,280,09/24/2022,Rochester (NY),home,W,1,0,False
+09/28/2022,Susquehanna,L 0-1,267,09/28/2022,Susquehanna,home,L,0,1,False
+10/01/2022,Widener,T 1-1,283,10/01/2022,Widener,home,T,1,1,False
+10/04/2022,@ Albright,W 1-0,32,10/04/2022,Albright,away,W,1,0,False
+10/09/2022,@ Penn St.-Berks,T 2-2,208,10/09/2022,Penn St.-Berks,away,T,2,2,False
+10/12/2022,@ Messiah,W 1-0,401,10/12/2022,Messiah,away,W,1,0,False
+10/15/2022,Alvernia,W 3-1,370,10/15/2022,Alvernia,home,W,3,1,False
+10/18/2022,@ Stevenson,T 1-1,75,10/18/2022,Stevenson,away,T,1,1,False
+10/22/2022,@ Eastern,W 3-0,250,10/22/2022,Eastern,away,W,3,0,False
+10/26/2022,Hood,W 2-0,236,10/26/2022,Hood,home,W,2,0,False
+10/29/2022,Lebanon Valley,W 1-0,331,10/29/2022,Lebanon Valley,home,W,1,0,False
+11/02/2022,#3 Lebanon Valley MAC Commonwealth WSOC Championship,W 5-1,286,11/02/2022,Lebanon Valley,home,W,5,1,False
+11/05/2022,@ #1 Messiah MAC Commonwealth WSOC Championship,L 0-2,401,11/05/2022,Messiah,away,L,0,2,False
+11/12/2022,"Western New Eng. @Dallas, PA (NCAA Division III Women's Soccer Championship)",L 0-2,100,11/12/2022,Western New Eng.,neutral,L,0,2,False

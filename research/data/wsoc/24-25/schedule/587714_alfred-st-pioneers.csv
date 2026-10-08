@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/31/2024,@ Rosemont,W 2-0,125,08/31/2024,Rosemont,away,W,2,0,False
+09/01/2024,Chatham,L 0-1,50,09/01/2024,Chatham,home,L,0,1,False
+09/07/2024,@ SUNY Morrisville,T 0-0,95,09/07/2024,SUNY Morrisville,away,T,0,0,False
+09/11/2024,Alfred,L 0-2,175,09/11/2024,Alfred,home,L,0,2,False
+09/14/2024,SUNY Canton,W 2-1,100,09/14/2024,SUNY Canton,home,W,2,1,False
+09/17/2024,@ Elmira,L 1-5,230,09/17/2024,Elmira,away,L,1,5,False
+09/21/2024,Allegheny,L 0-7,100,09/21/2024,Allegheny,home,L,0,7,False
+09/24/2024,@ Houghton,L 0-1,150,09/24/2024,Houghton,away,L,0,1,False
+09/28/2024,Mount Aloysius,W 3-0,20,09/28/2024,Mount Aloysius,home,W,3,0,False
+10/01/2024,@ Pitt.-Bradford,T 3-3,75,10/01/2024,Pitt.-Bradford,away,T,3,3,False
+10/05/2024,@ Penn St.-Altoona,T 0-0,146,10/05/2024,Penn St.-Altoona,away,T,0,0,False
+10/09/2024,@ Hilbert,L 2-3,34,10/09/2024,Hilbert,away,L,2,3,False
+10/12/2024,Carlow,W 6-2,70,10/12/2024,Carlow,home,W,6,2,False
+10/15/2024,Penn St.-Behrend,L 0-6,100,10/15/2024,Penn St.-Behrend,home,L,0,6,False
+10/19/2024,@ La Roche,L 0-1,150,10/19/2024,La Roche,away,L,0,1,False
+10/26/2024,Pitt.-Greensburg,L 0-1,100,10/26/2024,Pitt.-Greensburg,home,L,0,1,False
+11/02/2024,@ #3 Penn St.-Altoona AMCC WSOC Tournament,L 0-5,81,11/02/2024,Penn St.-Altoona,away,L,0,5,False

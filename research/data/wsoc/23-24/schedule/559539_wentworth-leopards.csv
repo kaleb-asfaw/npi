@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Lesley,L 0-2,75,09/01/2023,Lesley,away,L,0,2,False
+09/03/2023,@ Lasell,L 1-2,100,09/03/2023,Lasell,away,L,1,2,False
+09/10/2023,Illinois Tech,L 0-2,183,09/10/2023,Illinois Tech,home,L,0,2,False
+09/13/2023,UMass Dartmouth,Canceled,,09/13/2023,UMass Dartmouth,home,,,,
+09/15/2023,@ Suffolk,L 0-1,72,09/15/2023,Suffolk,away,L,0,1,False
+09/18/2023,@ Regis (MA),Canceled,,09/18/2023,Regis (MA),away,,,,
+09/20/2023,Fisher,W 5-0,183,09/20/2023,Fisher,home,W,5,0,False
+09/23/2023,Western New Eng.,L 0-1,265,09/23/2023,Western New Eng.,home,L,0,1,False
+09/27/2023,Fitchburg St.,T 1-1,235,09/27/2023,Fitchburg St.,home,T,1,1,False
+09/30/2023,@ Gordon,L 0-3,327,09/30/2023,Gordon,away,L,0,3,False
+10/04/2023,Rhode Island Col.,W 1-0,203,10/04/2023,Rhode Island Col.,home,W,1,0,False
+10/07/2023,Endicott,L 0-2,245,10/07/2023,Endicott,home,L,0,2,False
+10/10/2023,@ U New England,L 1-3,76,10/10/2023,U New England,away,L,1,3,False
+10/14/2023,Nichols,T 0-0,375,10/14/2023,Nichols,home,T,0,0,False
+10/18/2023,Hartford,L 0-7,183,10/18/2023,Hartford,home,L,0,7,False
+10/21/2023,@ Roger Williams,L 1-3,127,10/21/2023,Roger Williams,away,L,1,3,False
+10/24/2023,@ Curry,L 0-3,156,10/24/2023,Curry,away,L,0,3,False

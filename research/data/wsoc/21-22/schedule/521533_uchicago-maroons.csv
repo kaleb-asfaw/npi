@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Augustana (IL),W 4-0,60,09/01/2021,Augustana (IL),away,W,4,0,False
+09/05/2021,@ Monmouth (IL),W 9-0,50,09/05/2021,Monmouth (IL),away,W,9,0,False
+09/08/2021,@ Concordia Chicago,W 12-0,100,09/08/2021,Concordia Chicago,away,W,12,0,False
+09/11/2021,Kalamazoo,W 3-0,41,09/11/2021,Kalamazoo,home,W,3,0,False
+09/15/2021,Wheaton (IL),W 4-0,54,09/15/2021,Wheaton (IL),home,W,4,0,False
+09/18/2021,Calvin,W 6-0,60,09/18/2021,Calvin,home,W,6,0,False
+09/21/2021,@ Hope,W 4-0,125,09/21/2021,Hope,away,W,4,0,False
+09/25/2021,@ Knox,W 7-0,50,09/25/2021,Knox,away,W,7,0,False
+09/26/2021,Ill. Wesleyan,T 2-2 (2 OT),171,09/26/2021,Ill. Wesleyan,home,T,2,2,True
+10/02/2021,@ Emory,W 2-1,245,10/02/2021,Emory,away,W,2,1,False
+10/05/2021,Finlandia,W 9-0,36,10/05/2021,Finlandia,home,W,9,0,False
+10/09/2021,Rochester (NY),T 1-1 (2 OT),87,10/09/2021,Rochester (NY),home,T,1,1,True
+10/15/2021,Brandeis,L 2-3,67,10/15/2021,Brandeis,home,L,2,3,False
+10/17/2021,NYU,W 4-2,88,10/17/2021,NYU,home,W,4,2,False
+10/21/2021,Illinois Tech,W 3-0,62,10/21/2021,Illinois Tech,home,W,3,0,False
+10/29/2021,@ CWRU,T 1-1 (2 OT),114,10/29/2021,CWRU,away,T,1,1,True
+10/31/2021,@ Carnegie Mellon,L 0-4,175,10/31/2021,Carnegie Mellon,away,L,0,4,False
+11/06/2021,@ WashU,T 1-1 (2 OT),244,11/06/2021,WashU,away,T,1,1,True
+11/12/2021,Rhodes NCAA Division III Women's Soccer Championship,W 3-0,121,11/12/2021,Rhodes,home,W,3,0,False
+11/14/2021,Wheaton (IL) NCAA Division III Women's Soccer Championship,W 2-0,144,11/14/2021,Wheaton (IL),home,W,2,0,False
+11/20/2021,@ CWRU NCAA Division III Women's Soccer Championship,W 2-1,304,11/20/2021,CWRU,away,W,2,1,False
+11/21/2021,"Chris. Newport @Cleveland, Ohio (NCAA Division III Women's Soccer Championship)",L 1-2,235,11/21/2021,Chris. Newport,neutral,L,1,2,False

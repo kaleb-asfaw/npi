@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Wis. Lutheran,L 0-2,50,09/01/2023,Wis. Lutheran,home,L,0,2,False
+09/02/2023,Northland,W 5-0,50,09/02/2023,Northland,home,W,5,0,False
+09/06/2023,Concordia Chicago,W 2-0,30,09/06/2023,Concordia Chicago,home,W,2,0,False
+09/10/2023,@ Elmhurst,T 0-0,179,09/10/2023,Elmhurst,away,T,0,0,False
+09/13/2023,Great Lake Christian,W 2-0,54,09/13/2023,Great Lake Christian,home,W,2,0,False
+09/16/2023,Buena Vista,W 4-1,50,09/16/2023,Buena Vista,home,W,4,1,False
+09/18/2023,Edgewood,T 0-0,30,09/18/2023,Edgewood,home,T,0,0,False
+09/23/2023,Illinois Col.,T 1-1,20,09/23/2023,Illinois Col.,home,T,1,1,False
+09/26/2023,Lake Forest,L 0-1,25,09/26/2023,Lake Forest,home,L,0,1,False
+09/30/2023,@ Grinnell,L 0-3,50,09/30/2023,Grinnell,away,L,0,3,False
+10/07/2023,@ Beloit,L 0-1,97,10/07/2023,Beloit,away,L,0,1,False
+10/10/2023,@ Maranatha Baptist,W 3-0,51,10/10/2023,Maranatha Baptist,away,W,3,0,False
+10/14/2023,Cornell College,W 1-0,30,10/14/2023,Cornell College,home,W,1,0,False
+10/21/2023,Monmouth (IL),L 0-3,200,10/21/2023,Monmouth (IL),home,L,0,3,False
+10/25/2023,@ Lawrence,L 0-1,318,10/25/2023,Lawrence,away,L,0,1,False
+10/28/2023,@ Knox,W 1-0,100,10/28/2023,Knox,away,W,1,0,False
+10/31/2023,Mount Mary,W 5-0,55,10/31/2023,Mount Mary,home,W,5,0,False

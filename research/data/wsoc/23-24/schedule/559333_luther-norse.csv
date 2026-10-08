@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Whitworth,T 0-0,45,09/01/2023,Whitworth,away,T,0,0,False
+09/02/2023,@ Whitman,T 1-1,78,09/02/2023,Whitman,away,T,1,1,False
+09/06/2023,Hamline,W 2-0,56,09/06/2023,Hamline,home,W,2,0,False
+09/09/2023,@ St. Olaf,L 1-2,321,09/09/2023,St. Olaf,away,L,1,2,False
+09/10/2023,Grinnell,T 0-0,64,09/10/2023,Grinnell,home,T,0,0,False
+09/13/2023,Wis.-Whitewater,L 0-1,41,09/13/2023,Wis.-Whitewater,home,L,0,1,False
+09/16/2023,Wis.-Stout,L 0-1,67,09/16/2023,Wis.-Stout,home,L,0,1,False
+09/20/2023,@ Wis.-Platteville,W 1-0,78,09/20/2023,Wis.-Platteville,away,W,1,0,False
+09/23/2023,Neb. Wesleyan,T 1-1,63,09/23/2023,Neb. Wesleyan,home,T,1,1,False
+09/24/2023,St. Scholastica,W 4-1,74,09/24/2023,St. Scholastica,home,W,4,1,False
+09/30/2023,@ Buena Vista,W 4-0,100,09/30/2023,Buena Vista,away,W,4,0,False
+10/04/2023,@ Simpson,L 2-3,120,10/04/2023,Simpson,away,L,2,3,False
+10/07/2023,Wartburg,L 1-2,88,10/07/2023,Wartburg,home,L,1,2,False
+10/10/2023,Central (IA),W 4-1,47,10/10/2023,Central (IA),home,W,4,1,False
+10/14/2023,@ Coe,W 6-0,104,10/14/2023,Coe,away,W,6,0,False
+10/18/2023,Loras,L 0-2,106,10/18/2023,Loras,home,L,0,2,False
+10/24/2023,@ Dubuque,W 3-2,212,10/24/2023,Dubuque,away,W,3,2,False
+10/28/2023,#6 Wartburg American Rivers Women's Soccer Championship,W 1-0,101,10/28/2023,Wartburg,home,W,1,0,False
+11/01/2023,@ #2 Simpson American Rivers Women's Soccer Championship,L 0-2,150,11/01/2023,Simpson,away,L,0,2,False

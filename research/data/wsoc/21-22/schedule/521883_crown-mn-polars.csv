@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ North Central (MN),W 3-1,87,09/01/2021,North Central (MN),away,W,3,1,False
+09/06/2021,Viterbo,L 1-8,"1,189",09/06/2021,Viterbo,home,L,1,8,False
+09/07/2021,Faith Bapt. Bible,W 1-0,250,09/07/2021,Faith Bapt. Bible,home,W,1,0,False
+09/11/2021,Alverno,Canceled,,09/11/2021,Alverno,home,,,,
+09/14/2021,Buena Vista,L 1-2,198,09/14/2021,Buena Vista,home,L,1,2,False
+09/17/2021,Lawrence,Canceled,,09/17/2021,Lawrence,home,,,,
+09/24/2021,Northwestern-St. Paul,L 1-2,300,09/24/2021,Northwestern-St. Paul,home,L,1,2,False
+09/25/2021,North Central (MN),W 3-0,200,09/25/2021,North Central (MN),home,W,3,0,False
+10/01/2021,@ Wis.-Superior,L 0-5,62,10/01/2021,Wis.-Superior,away,L,0,5,False
+10/02/2021,@ Northland,T 0-0 (2 OT),70,10/02/2021,Northland,away,T,0,0,True
+10/06/2021,Martin Luther,L 0-1,100,10/06/2021,Martin Luther,home,L,0,1,False
+10/09/2021,Bethany Lutheran,L 0-3,200,10/09/2021,Bethany Lutheran,home,L,0,3,False
+10/12/2021,@ Minn.-Morris,L 0-5,49,10/12/2021,Minn.-Morris,away,L,0,5,False
+10/15/2021,@ North Central (MN),L 2-3 (1 OT),23,10/15/2021,North Central (MN),away,L,2,3,True
+10/16/2021,@ Northwestern-St. Paul,L 0-3,221,10/16/2021,Northwestern-St. Paul,away,L,0,3,False
+10/19/2021,Minn.-Morris,L 1-2,100,10/19/2021,Minn.-Morris,home,L,1,2,False
+10/22/2021,@ Bethany Lutheran,L 0-6,75,10/22/2021,Bethany Lutheran,away,L,0,6,False
+10/23/2021,@ Martin Luther,L 0-3,126,10/23/2021,Martin Luther,away,L,0,3,False
+10/29/2021,Northland,W 2-1,100,10/29/2021,Northland,home,W,2,1,False
+10/30/2021,Wis.-Superior,L 0-4,110,10/30/2021,Wis.-Superior,home,L,0,4,False

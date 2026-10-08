@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,Penn St. Harrisburg,L 0-1,317,09/01/2023,Penn St. Harrisburg,home,L,0,1,False
+09/02/2023,Grove City,L 1-3,157,09/02/2023,Grove City,home,L,1,3,False
+09/08/2023,"Oglethorpe @Piedmont, GA",T 1-1,71,09/08/2023,Oglethorpe,neutral,T,1,1,False
+09/10/2023,@ Piedmont,T 0-0,103,09/10/2023,Piedmont,away,T,0,0,False
+09/13/2023,Lynchburg,W 2-0,179,09/13/2023,Lynchburg,home,W,2,0,False
+09/16/2023,Pfeiffer,W 6-1,163,09/16/2023,Pfeiffer,home,W,6,1,False
+09/20/2023,Mary Baldwin,W 3-0,317,09/20/2023,Mary Baldwin,home,W,3,0,False
+09/23/2023,Randolph-Macon,W 2-0,267,09/23/2023,Randolph-Macon,home,W,2,0,False
+09/27/2023,Ferrum,W 1-0,167,09/27/2023,Ferrum,home,W,1,0,False
+09/30/2023,Randolph,W 3-0,247,09/30/2023,Randolph,home,W,3,0,False
+10/04/2023,@ Shenandoah,T 1-1,146,10/04/2023,Shenandoah,away,T,1,1,False
+10/07/2023,@ Hollins,W 9-0,33,10/07/2023,Hollins,away,W,9,0,False
+10/11/2023,Guilford,T 1-1,363,10/11/2023,Guilford,home,T,1,1,False
+10/14/2023,@ East. Mennonite,W 4-0,291,10/14/2023,East. Mennonite,away,W,4,0,False
+10/18/2023,@ Wash. & Lee,L 0-2,94,10/18/2023,Wash. & Lee,away,L,0,2,False
+10/21/2023,@ Chris. Newport,L 0-5,362,10/21/2023,Chris. Newport,away,L,0,5,False
+10/25/2023,Averett,W 3-0,141,10/25/2023,Averett,home,W,3,0,False
+10/28/2023,@ Bridgewater (VA),L 2-3,302,10/28/2023,Bridgewater (VA),away,L,2,3,False
+10/31/2023,@ #3 Wash. & Lee ODAC Women's Soccer Championship,L 0-4,129,10/31/2023,Wash. & Lee,away,L,0,4,False

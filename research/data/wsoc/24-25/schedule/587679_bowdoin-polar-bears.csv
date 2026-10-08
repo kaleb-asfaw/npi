@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/03/2024,Hartford,T 0-0,251,09/03/2024,Hartford,home,T,0,0,False
+09/07/2024,Colby,L 0-1,150,09/07/2024,Colby,home,L,0,1,False
+09/10/2024,Me.-Farmington,W 7-0,100,09/10/2024,Me.-Farmington,home,W,7,0,False
+09/14/2024,@ Connecticut Col.,L 1-2,166,09/14/2024,Connecticut Col.,away,L,1,2,False
+09/17/2024,@ Southern Me.,T 0-0,244,09/17/2024,Southern Me.,away,T,0,0,False
+09/20/2024,Babson,T 1-1,317,09/20/2024,Babson,home,T,1,1,False
+09/28/2024,Hamilton,L 1-2,205,09/28/2024,Hamilton,home,L,1,2,False
+09/29/2024,Williams,L 0-1,317,09/29/2024,Williams,home,L,0,1,False
+10/05/2024,Middlebury,L 0-2,209,10/05/2024,Middlebury,home,L,0,2,False
+10/09/2024,@ Bates,W 2-1,250,10/09/2024,Bates,away,W,2,1,False
+10/13/2024,@ Trinity (CT),T 1-1,167,10/13/2024,Trinity (CT),away,T,1,1,False
+10/15/2024,@ Maine Maritime,T 1-1,74,10/15/2024,Maine Maritime,away,T,1,1,False
+10/19/2024,Wesleyan (CT),L 0-1,309,10/19/2024,Wesleyan (CT),home,L,0,1,False
+10/26/2024,@ Amherst,T 2-2,243,10/26/2024,Amherst,away,T,2,2,False
+10/29/2024,Tufts,L 0-2,101,10/29/2024,Tufts,home,L,0,2,False

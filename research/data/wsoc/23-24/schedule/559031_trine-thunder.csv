@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Wheaton (IL),T 0-0,153,09/01/2023,Wheaton (IL),away,T,0,0,False
+09/02/2023,"Greenville @Wheaton, IL",W 3-0,77,09/02/2023,Greenville,neutral,W,3,0,False
+09/05/2023,@ Otterbein,T 1-1,116,09/05/2023,Otterbein,away,T,1,1,False
+09/08/2023,Ohio Wesleyan,T 0-0,345,09/08/2023,Ohio Wesleyan,home,T,0,0,False
+09/10/2023,Centre,L 0-1,202,09/10/2023,Centre,home,L,0,1,False
+09/13/2023,Franklin,W 6-0,304,09/13/2023,Franklin,home,W,6,0,False
+09/16/2023,@ Wittenberg,T 1-1,127,09/16/2023,Wittenberg,away,T,1,1,False
+09/17/2023,@ Capital,L 1-2,149,09/17/2023,Capital,away,L,1,2,False
+09/20/2023,Anderson (IN),W 4-0,345,09/20/2023,Anderson (IN),home,W,4,0,False
+09/23/2023,@ Denison,W 4-1,63,09/23/2023,Denison,away,W,4,1,False
+09/26/2023,St. Mary's (IN),W 2-0,43,09/26/2023,St. Mary's (IN),home,W,2,0,False
+09/30/2023,@ Hope,L 1-3,512,09/30/2023,Hope,away,L,1,3,False
+10/04/2023,@ Adrian,L 0-1,187,10/04/2023,Adrian,away,L,0,1,False
+10/10/2023,@ Kalamazoo,L 0-2,93,10/10/2023,Kalamazoo,away,L,0,2,False
+10/14/2023,Calvin,L 0-1,201,10/14/2023,Calvin,home,L,0,1,False
+10/18/2023,Alma,W 5-0,201,10/18/2023,Alma,home,W,5,0,False
+10/21/2023,Albion,T 1-1,257,10/21/2023,Albion,home,T,1,1,False
+10/24/2023,@ Olivet,W 2-0,150,10/24/2023,Olivet,away,W,2,0,False
+10/28/2023,@ #3 Kalamazoo Michigan Intercol. Ath. Assn. Women's Soccer Championship,W 1-0,211,10/28/2023,Kalamazoo,away,W,1,0,False
+11/01/2023,@ #2 Hope Michigan Intercol. Ath. Assn. Women's Soccer Championship,L 1-2,229,11/01/2023,Hope,away,L,1,2,False

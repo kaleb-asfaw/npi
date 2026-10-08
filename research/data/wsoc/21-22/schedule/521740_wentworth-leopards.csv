@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Lesley,L 1-4,85,09/01/2021,Lesley,home,L,1,4,False
+09/04/2021,@ Eastern Conn. St.,L 0-2,200,09/04/2021,Eastern Conn. St.,away,L,0,2,False
+09/08/2021,Emmanuel (MA),T 0-0 (2 OT),225,09/08/2021,Emmanuel (MA),home,T,0,0,True
+09/11/2021,WestConn,L 0-2,135,09/11/2021,WestConn,home,L,0,2,False
+09/15/2021,@ WPI,L 0-2,100,09/15/2021,WPI,away,L,0,2,False
+09/17/2021,@ Roger Williams,L 0-4,0,09/17/2021,Roger Williams,away,L,0,4,False
+09/18/2021,Eastern Nazarene,W 5-1,110,09/18/2021,Eastern Nazarene,home,W,5,1,False
+09/22/2021,Southern Me.,T 1-1 (2 OT),83,09/22/2021,Southern Me.,home,T,1,1,True
+09/25/2021,Endicott,L 0-1,165,09/25/2021,Endicott,home,L,0,1,False
+09/29/2021,Coast Guard,Canceled,,09/29/2021,Coast Guard,home,,,,
+10/02/2021,@ U New England,L 1-2,207,10/02/2021,U New England,away,L,1,2,False
+10/09/2021,Salve Regina,T 0-0 (2 OT),125,10/09/2021,Salve Regina,home,T,0,0,True
+10/12/2021,@ Curry,L 0-2,0,10/12/2021,Curry,away,L,0,2,False
+10/16/2021,Nichols,W 1-0,350,10/16/2021,Nichols,home,W,1,0,False
+10/19/2021,@ Suffolk,L 1-4,152,10/19/2021,Suffolk,away,L,1,4,False
+10/23/2021,@ Gordon,L 0-2,139,10/23/2021,Gordon,away,L,0,2,False
+10/26/2021,Western New Eng.,L 0-3,35,10/26/2021,Western New Eng.,home,L,0,3,False

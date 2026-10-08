@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Misericordia,Ppd,,09/01/2021,Misericordia,away,,,,
+09/04/2021,"Mary Washington @Baltimore, MD",W 1-0 (2 OT),81,09/04/2021,Mary Washington,neutral,W,1,0,True
+09/05/2021,"Randolph-Macon @Baltimore, MD",L 0-2,85,09/05/2021,Randolph-Macon,neutral,L,0,2,False
+09/09/2021,@ Dickinson,L 0-2,58,09/09/2021,Dickinson,away,L,0,2,False
+09/11/2021,Muhlenberg,W 4-1,100,09/11/2021,Muhlenberg,home,W,4,1,False
+09/15/2021,@ Wilkes,Canceled,,09/15/2021,Wilkes,away,,,,
+09/18/2021,York (PA),L 0-1,64,09/18/2021,York (PA),home,L,0,1,False
+09/22/2021,Lycoming,W 5-1,46,09/22/2021,Lycoming,home,W,5,1,False
+09/25/2021,@ Scranton,L 1-2,277,09/25/2021,Scranton,away,L,1,2,False
+10/02/2021,Drew,W 2-1 (2 OT),89,10/02/2021,Drew,home,W,2,1,True
+10/05/2021,SUNY Brockport,W 5-2,0,10/05/2021,SUNY Brockport,home,W,5,2,False
+10/09/2021,Moravian,W 1-0,120,10/09/2021,Moravian,home,W,1,0,False
+10/13/2021,Juniata,W 3-0,102,10/13/2021,Juniata,home,W,3,0,False
+10/16/2021,@ Elizabethtown,W 3-1,216,10/16/2021,Elizabethtown,away,W,3,1,False
+10/23/2021,@ Catholic,W 4-0,164,10/23/2021,Catholic,away,W,4,0,False
+10/26/2021,Penn College,W 9-1,38,10/26/2021,Penn College,home,W,9,1,False
+10/30/2021,Goucher,W 1-0,0,10/30/2021,Goucher,home,W,1,0,False
+11/03/2021,#3 Elizabethtown Landmark WSOC Championship,T 2-2 (2 OT),189,11/03/2021,Elizabethtown,home,T,2,2,True

@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Muskingum,W 1-0,150,09/01/2021,Muskingum,away,W,1,0,False
+09/04/2021,John Carroll,L 1-4,0,09/04/2021,John Carroll,home,L,1,4,False
+09/08/2021,@ Spalding,L 0-2,78,09/08/2021,Spalding,away,L,0,2,False
+09/11/2021,Heidelberg,L 0-3,0,09/11/2021,Heidelberg,home,L,0,3,False
+09/15/2021,Wilmington (OH),L 0-3,25,09/15/2021,Wilmington (OH),home,L,0,3,False
+09/18/2021,Berea,Canceled,,09/18/2021,Berea,home,,,,
+09/22/2021,UC Clermont,Canceled,,09/22/2021,UC Clermont,home,,,,
+09/25/2021,@ Trine,L 1-3,145,09/25/2021,Trine,away,L,1,3,False
+09/29/2021,@ Hanover,L 0-5,124,09/29/2021,Hanover,away,L,0,5,False
+10/02/2021,Rose-Hulman,L 0-1,50,10/02/2021,Rose-Hulman,home,L,0,1,False
+10/06/2021,Anderson (IN),L 0-4,56,10/06/2021,Anderson (IN),home,L,0,4,False
+10/09/2021,@ Franklin,L 0-1,70,10/09/2021,Franklin,away,L,0,1,False
+10/13/2021,@ Bluffton,W 2-1,75,10/13/2021,Bluffton,away,W,2,1,False
+10/16/2021,@ Manchester,W 2-0,75,10/16/2021,Manchester,away,W,2,0,False
+10/20/2021,Transylvania,T 0-0 (2 OT),43,10/20/2021,Transylvania,home,T,0,0,True
+10/23/2021,Mt. St. Joseph,L 0-2,74,10/23/2021,Mt. St. Joseph,home,L,0,2,False
+10/27/2021,Defiance,W 5-0,53,10/27/2021,Defiance,home,W,5,0,False

@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Smith,W 2-0,190,08/30/2024,Smith,home,W,2,0,False
+09/03/2024,@ Coast Guard,W 1-0,100,09/03/2024,Coast Guard,away,W,1,0,False
+09/07/2024,@ Russell Sage,T 1-1,135,09/07/2024,Russell Sage,away,T,1,1,False
+09/11/2024,@ Wellesley,T 1-1,37,09/11/2024,Wellesley,away,T,1,1,False
+09/13/2024,@ Westfield St.,W 2-1,330,09/13/2024,Westfield St.,away,W,2,1,False
+09/16/2024,@ Roger Williams,L 0-1,225,09/16/2024,Roger Williams,away,L,0,1,False
+09/18/2024,Curry,W 3-2,115,09/18/2024,Curry,home,W,3,2,False
+09/21/2024,@ Plymouth St.,W 8-3,140,09/21/2024,Plymouth St.,away,W,8,3,False
+09/25/2024,WPI,T 1-1,125,09/25/2024,WPI,home,T,1,1,False
+09/28/2024,@ Husson,W 2-1,150,09/28/2024,Husson,away,W,2,1,False
+10/02/2024,UMass Dartmouth,W 3-0,90,10/02/2024,UMass Dartmouth,home,W,3,0,False
+10/05/2024,Rhode Island Col.,W 2-1,150,10/05/2024,Rhode Island Col.,home,W,2,1,False
+10/09/2024,@ U New England,L 1-4,119,10/09/2024,U New England,away,L,1,4,False
+10/12/2024,@ Keene St.,W 4-1,327,10/12/2024,Keene St.,away,W,4,1,False
+10/16/2024,@ Southern Me.,L 1-5,244,10/16/2024,Southern Me.,away,L,1,5,False
+10/19/2024,WestConn,T 3-3,112,10/19/2024,WestConn,home,T,3,3,False
+10/26/2024,@ VTSU Castleton,W 2-1,186,10/26/2024,VTSU Castleton,away,W,2,1,False
+10/30/2024,@ Bridgewater St.,T 0-0,100,10/30/2024,Bridgewater St.,away,T,0,0,False
+11/01/2024,Eastern Conn. St.,W 1-0,207,11/01/2024,Eastern Conn. St.,home,W,1,0,False
+11/07/2024,#3 WestConn Little East Women's Soccer Championship,L 1-2,253,11/07/2024,WestConn,home,L,1,2,False

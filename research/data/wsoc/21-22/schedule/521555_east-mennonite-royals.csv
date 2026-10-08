@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/04/2021,@ Methodist,L 0-2,185,09/04/2021,Methodist,away,L,0,2,False
+09/05/2021,@ William Peace,Canceled,,09/05/2021,William Peace,away,,,,
+09/08/2021,@ St. Mary's (MD),L 0-2,45,09/08/2021,St. Mary's (MD),away,L,0,2,False
+09/11/2021,Salem (NC),W 3-2,180,09/11/2021,Salem (NC),home,W,3,2,False
+09/14/2021,@ Mary Baldwin,W 2-1,45,09/14/2021,Mary Baldwin,away,W,2,1,False
+09/23/2021,Bridgewater (VA),L 1-4,55,09/23/2021,Bridgewater (VA),home,L,1,4,False
+09/26/2021,@ Randolph,L 1-2 (1 OT),200,09/26/2021,Randolph,away,L,1,2,True
+09/29/2021,@ Wash. & Lee,L 1-5,73,09/29/2021,Wash. & Lee,away,L,1,5,False
+10/01/2021,@ Ferrum,W 1-0,123,10/01/2021,Ferrum,away,W,1,0,False
+10/06/2021,Batten,L 0-5,35,10/06/2021,Batten,home,L,0,5,False
+10/09/2021,@ Guilford,T 1-1 (2 OT),104,10/09/2021,Guilford,away,T,1,1,True
+10/13/2021,Shenandoah,L 0-5,165,10/13/2021,Shenandoah,home,L,0,5,False
+10/16/2021,Randolph-Macon,L 0-2,290,10/16/2021,Randolph-Macon,home,L,0,2,False
+10/20/2021,Lynchburg,L 0-1,65,10/20/2021,Lynchburg,home,L,0,1,False
+10/23/2021,@ Emory & Henry,L 1-5,127,10/23/2021,Emory & Henry,away,L,1,5,False
+10/27/2021,@ Sweet Briar,W 5-0,100,10/27/2021,Sweet Briar,away,W,5,0,False
+10/30/2021,Hollins,W 8-0,26,10/30/2021,Hollins,home,W,8,0,False

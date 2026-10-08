@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Saint Vincent,Ppd,,09/01/2021,Saint Vincent,home,,,,
+09/05/2021,Pitt.-Greensburg,L 0-6,50,09/05/2021,Pitt.-Greensburg,home,L,0,6,False
+09/08/2021,@ Sweet Briar,L 1-2,0,09/08/2021,Sweet Briar,away,L,1,2,False
+09/09/2021,Saint Vincent,W 2-1,89,09/09/2021,Saint Vincent,home,W,2,1,False
+09/11/2021,Christendom,Canceled,,09/11/2021,Christendom,home,,,,
+09/15/2021,Penn St.-Abington,L 0-2,65,09/15/2021,Penn St.-Abington,home,L,0,2,False
+09/19/2021,@ Lycoming,L 0-7,120,09/19/2021,Lycoming,away,L,0,7,False
+09/22/2021,Trinity Washington,W 2-1,67,09/22/2021,Trinity Washington,home,W,2,1,False
+09/25/2021,@ Cedar Crest,L 1-2 (2 OT),67,09/25/2021,Cedar Crest,away,L,1,2,True
+09/29/2021,Rosemont,W 3-1,114,09/29/2021,Rosemont,home,W,3,1,False
+10/01/2021,Penn St.-Mont Alto,Canceled,,10/01/2021,Penn St.-Mont Alto,home,,,,
+10/05/2021,@ Valley Forge,W 13-0,40,10/05/2021,Valley Forge,away,W,13,0,False
+10/09/2021,@ Bryn Athyn,W 2-1,225,10/09/2021,Bryn Athyn,away,W,2,1,False
+10/13/2021,Notre Dame (MD),W 4-0,67,10/13/2021,Notre Dame (MD),home,W,4,0,False
+10/16/2021,@ Clarks Summit,W 6-1,40,10/16/2021,Clarks Summit,away,W,6,1,False
+10/20/2021,Cairn,W 1-0,77,10/20/2021,Cairn,home,W,1,0,False
+10/23/2021,Saint Elizabeth,W 6-0,105,10/23/2021,Saint Elizabeth,home,W,6,0,False
+10/27/2021,@ Delaware Valley,L 0-3,88,10/27/2021,Delaware Valley,away,L,0,3,False
+10/30/2021,Keystone,W 8-0,67,10/30/2021,Keystone,home,W,8,0,False
+11/03/2021,#3 Bryn Athyn Colonial States WSOC Championship,L 0-2,115,11/03/2021,Bryn Athyn,home,L,0,2,False

@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2023,"Huntingdon @Jackson, MS",W 4-0,58,09/02/2023,Huntingdon,neutral,W,4,0,False
+09/03/2023,@ Millsaps,W 2-1,56,09/03/2023,Millsaps,away,W,2,1,False
+09/05/2023,@ Nelson,W 1-0,0,09/05/2023,@ Nelson,home,W,1,0,False
+09/08/2023,Redlands,W 3-0,57,09/08/2023,Redlands,home,W,3,0,False
+09/10/2023,Schreiner,W 3-1,119,09/10/2023,Schreiner,home,W,3,1,False
+09/15/2023,@ Southwestern (TX),L 0-1,175,09/15/2023,Southwestern (TX),away,L,0,1,False
+09/19/2023,@ Wayland Baptist,W 3-1,160,09/19/2023,@ Wayland Baptist,home,W,3,1,False
+09/24/2023,@ Dallas,T 1-1,142,09/24/2023,Dallas,away,T,1,1,False
+09/26/2023,@ Austin,W 5-1,162,09/26/2023,Austin,away,W,5,1,False
+09/30/2023,Hardin-Simmons,T 2-2,757,09/30/2023,Hardin-Simmons,home,T,2,2,False
+10/05/2023,@ East Tex. Baptist,L 0-2,35,10/05/2023,East Tex. Baptist,away,L,0,2,False
+10/07/2023,@ LeTourneau,W 3-0,168,10/07/2023,LeTourneau,away,W,3,0,False
+10/12/2023,Howard Payne,L 0-4,250,10/12/2023,Howard Payne,home,L,0,4,False
+10/14/2023,Sul Ross St.,W 2-1,1,10/14/2023,Sul Ross St.,home,W,2,1,False
+10/19/2023,Concordia (TX),T 0-0,100,10/19/2023,Concordia (TX),home,T,0,0,False
+10/21/2023,Mary Hardin-Baylor,L 0-2,1,10/21/2023,Mary Hardin-Baylor,home,L,0,2,False
+10/26/2023,@ Ozarks (AR),W 4-1,85,10/26/2023,Ozarks (AR),away,W,4,1,False
+10/28/2023,@ UT Dallas,T 1-1,407,10/28/2023,UT Dallas,away,T,1,1,False
+10/31/2023,@ #4 UT Dallas ASC Women's Soccer Championship,W 3-0,217,10/31/2023,UT Dallas,away,W,3,0,False
+11/02/2023,@ #1 Mary Hardin-Baylor ASC Women's Soccer Championship,L 1-2,311,11/02/2023,Mary Hardin-Baylor,away,L,1,2,False

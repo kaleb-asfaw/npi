@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Wellesley,L 1-4,275,09/01/2023,Wellesley,away,L,1,4,False
+09/03/2023,Lesley,L 0-5,250,09/03/2023,Lesley,home,L,0,5,False
+09/06/2023,@ Mitchell,T 1-1,115,09/06/2023,Mitchell,away,T,1,1,False
+09/09/2023,Rivier,L 0-3,420,09/09/2023,Rivier,home,L,0,3,False
+09/12/2023,Lasell,L 0-4,514,09/12/2023,Lasell,home,L,0,4,False
+09/16/2023,@ Saint Joseph (CT),L 0-3,214,09/16/2023,Saint Joseph (CT),away,L,0,3,False
+09/20/2023,@ Colby-Sawyer,L 0-6,78,09/20/2023,Colby-Sawyer,away,L,0,6,False
+09/23/2023,@ Emmanuel (MA),L 0-1,90,09/23/2023,Emmanuel (MA),away,L,0,1,False
+09/26/2023,New England Col.,L 0-1,124,09/26/2023,New England Col.,home,L,0,1,False
+09/30/2023,@ Elms,L 0-5,157,09/30/2023,Elms,away,L,0,5,False
+10/04/2023,Dean,T 0-0,115,10/04/2023,Dean,home,T,0,0,False
+10/07/2023,@ St. Joseph's (ME),L 1-3,100,10/07/2023,St. Joseph's (ME),away,L,1,3,False
+10/10/2023,@ Albertus Magnus,L 1-2,110,10/10/2023,Albertus Magnus,away,L,1,2,False
+10/14/2023,Anna Maria,W 1-0,317,10/14/2023,Anna Maria,home,W,1,0,False
+10/18/2023,JWU (Providence),L 1-10,112,10/18/2023,JWU (Providence),home,L,1,10,False
+10/21/2023,@ Regis (MA),L 0-3,152,10/21/2023,Regis (MA),away,L,0,3,False
+10/24/2023,Norwich,L 1-2,115,10/24/2023,Norwich,home,L,1,2,False

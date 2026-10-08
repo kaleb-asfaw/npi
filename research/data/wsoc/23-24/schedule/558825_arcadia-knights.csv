@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2023,@ Haverford,W 2-1,150,09/02/2023,Haverford,away,W,2,1,False
+09/03/2023,"William Smith @Ardmore, PA",L 1-4,100,09/03/2023,William Smith,neutral,L,1,4,False
+09/06/2023,Ursinus,L 2-3,131,09/06/2023,Ursinus,home,L,2,3,False
+09/08/2023,"Westfield St. @Cortland, N.Y.",L 2-3,86,09/08/2023,Westfield St.,neutral,L,2,3,False
+09/09/2023,"UMass Boston @Cortland, NY",W 5-1,64,09/09/2023,UMass Boston,neutral,W,5,1,False
+09/13/2023,@ Cabrini,W 2-0,60,09/13/2023,Cabrini,away,W,2,0,False
+09/17/2023,Farmingdale St.,L 1-2,250,09/17/2023,Farmingdale St.,home,L,1,2,False
+09/19/2023,Rutgers-Camden,W 1-0,132,09/19/2023,Rutgers-Camden,home,W,1,0,False
+09/23/2023,@ Widener,L 0-1,151,09/23/2023,Widener,away,L,0,1,False
+09/27/2023,Penn St.-Berks,W 3-1,88,09/27/2023,Penn St.-Berks,home,W,3,1,False
+09/30/2023,@ King's (PA),L 0-2,150,09/30/2023,King's (PA),away,L,0,2,False
+10/04/2023,Montclair St.,L 1-2,200,10/04/2023,Montclair St.,home,L,1,2,False
+10/07/2023,DeSales,W 4-0,99,10/07/2023,DeSales,home,W,4,0,False
+10/10/2023,@ Penn St. Harrisburg,L 0-1,114,10/10/2023,Penn St. Harrisburg,away,L,0,1,False
+10/14/2023,FDU-Florham,W 4-1,112,10/14/2023,FDU-Florham,home,W,4,1,False
+10/17/2023,@ Delaware Valley,W 3-0,77,10/17/2023,Delaware Valley,away,W,3,0,False
+10/21/2023,@ Stevens,L 0-3,123,10/21/2023,Stevens,away,L,0,3,False
+10/25/2023,Lebanon Valley,W 1-0,150,10/25/2023,Lebanon Valley,home,W,1,0,False
+10/28/2023,Misericordia,L 0-3,136,10/28/2023,Misericordia,home,L,0,3,False
+10/31/2023,@ #2 Stevens MAC Freedom Women's Soccer Championship,L 0-2,250,10/31/2023,Stevens,away,L,0,2,False

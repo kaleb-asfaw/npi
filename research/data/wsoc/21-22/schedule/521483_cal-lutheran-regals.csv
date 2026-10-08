@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,St. Catherine,T 1-1 (2 OT),122,09/01/2021,St. Catherine,home,T,1,1,True
+09/03/2021,@ Pomona-Pitzer,L 0-3,176,09/03/2021,Pomona-Pitzer,away,L,0,3,False
+09/05/2021,Willamette,W 3-1,156,09/05/2021,Willamette,home,W,3,1,False
+09/08/2021,@ Chapman,Canceled,,09/08/2021,Chapman,away,,,,
+09/10/2021,@ Trinity (TX),L 2-3,146,09/10/2021,Trinity (TX),away,L,2,3,False
+09/12/2021,"Concordia (TX) @San Antonio, Texas",W 2-1,62,09/12/2021,Concordia (TX),neutral,W,2,1,False
+09/15/2021,@ Caltech,W 5-0,36,09/15/2021,Caltech,away,W,5,0,False
+09/18/2021,Redlands,W 6-0,367,09/18/2021,Redlands,home,W,6,0,False
+09/22/2021,Whittier,W 3-0,156,09/22/2021,Whittier,home,W,3,0,False
+09/25/2021,"Chris. Newport @Santa Cruz, CA",L 0-3,129,09/25/2021,Chris. Newport,neutral,L,0,3,False
+09/26/2021,@ UC Santa Cruz,W 3-0,143,09/26/2021,UC Santa Cruz,away,W,3,0,False
+09/29/2021,Chapman,W 1-0,120,09/29/2021,Chapman,home,W,1,0,False
+10/02/2021,Pomona-Pitzer,T 0-0 (2 OT),132,10/02/2021,Pomona-Pitzer,home,T,0,0,True
+10/06/2021,@ La Verne,W 2-0,0,10/06/2021,La Verne,away,W,2,0,False
+10/09/2021,@ CMS,T 1-1 (2 OT),365,10/09/2021,CMS,away,T,1,1,True
+10/13/2021,Occidental,T 1-1 (2 OT),100,10/13/2021,Occidental,home,T,1,1,True
+10/20/2021,Caltech,W 5-0,200,10/20/2021,Caltech,home,W,5,0,False
+10/23/2021,@ Redlands,W 2-0,235,10/23/2021,Redlands,away,W,2,0,False
+10/27/2021,@ Occidental,L 1-2 (1 OT),151,10/27/2021,Occidental,away,L,1,2,True
+10/30/2021,@ Whittier,W 1-0 (2 OT),185,10/30/2021,Whittier,away,W,1,0,True
+11/04/2021,#3 Chapman SCIAC WSOC Tournament,W 4-1,317,11/04/2021,Chapman,home,W,4,1,False
+11/06/2021,@ #1 Pomona-Pitzer SCIAC WSOC Tournament,L 0-2,324,11/06/2021,Pomona-Pitzer,away,L,0,2,False

@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,@ Bethel (MN),L 1-4,212,09/01/2022,Bethel (MN),away,L,1,4,False
+09/03/2022,Wis.-Platteville,L 0-3,67,09/03/2022,Wis.-Platteville,home,L,0,3,False
+09/10/2022,@ Macalester,L 0-3,93,09/10/2022,Macalester,away,L,0,3,False
+09/13/2022,Viterbo,L 1-5,204,09/13/2022,Viterbo,home,L,1,5,False
+09/17/2022,@ North Central (MN),W 7-0,101,09/17/2022,North Central (MN),away,W,7,0,False
+09/22/2022,Crown (MN),T 2-2,103,09/22/2022,Crown (MN),home,T,2,2,False
+09/24/2022,Minn.-Morris,T 0-0,203,09/24/2022,Minn.-Morris,home,T,0,0,False
+09/26/2022,Saint Benedict,L 1-7,303,09/26/2022,Saint Benedict,home,L,1,7,False
+09/29/2022,Martin Luther,W 5-0,103,09/29/2022,Martin Luther,home,W,5,0,False
+10/01/2022,Bethany Lutheran,W 2-1,207,10/01/2022,Bethany Lutheran,home,W,2,1,False
+10/04/2022,Hamline,L 0-2,203,10/04/2022,Hamline,home,L,0,2,False
+10/05/2022,@ Wis.-Superior,L 0-2,34,10/05/2022,Wis.-Superior,away,L,0,2,False
+10/08/2022,@ Northland,W 2-0,98,10/08/2022,Northland,away,W,2,0,False
+10/11/2022,North Central (MN),W 8-1,213,10/11/2022,North Central (MN),home,W,8,1,False
+10/13/2022,@ Minn.-Morris,W 6-2,32,10/13/2022,Minn.-Morris,away,W,6,2,False
+10/15/2022,@ Crown (MN),W 3-0,194,10/15/2022,Crown (MN),away,W,3,0,False
+10/21/2022,Northland,W 1-0,213,10/21/2022,Northland,home,W,1,0,False
+10/22/2022,Wis.-Superior,L 1-4,203,10/22/2022,Wis.-Superior,home,L,1,4,False
+10/26/2022,@ Bethany Lutheran,W 3-2,111,10/26/2022,Bethany Lutheran,away,W,3,2,False
+10/29/2022,@ Martin Luther,W 3-0,100,10/29/2022,Martin Luther,away,W,3,0,False
+11/02/2022,#3 Bethany Lutheran UMAC WSOC Championship,W 1-0,233,11/02/2022,Bethany Lutheran,home,W,1,0,False
+11/05/2022,@ #1 Wis.-Superior UMAC WSOC Championship,L 0-6,200,11/05/2022,Wis.-Superior,away,L,0,6,False

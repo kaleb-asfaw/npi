@@ -1,0 +1,15 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Penn St.-Mont Alto,W 1-0,84,08/30/2024,Penn St.-Mont Alto,home,W,1,0,False
+09/04/2024,@ Neumann,L 0-6,118,09/04/2024,Neumann,away,L,0,6,False
+09/07/2024,@ Juniata,L 0-8,183,09/07/2024,Juniata,away,L,0,8,False
+09/18/2024,@ Bryn Mawr,L 0-8,25,09/18/2024,Bryn Mawr,away,L,0,8,False
+09/21/2024,@ Goucher,L 0-7,75,09/21/2024,Goucher,away,L,0,7,False
+09/25/2024,Mount Aloysius,L 0-5,98,09/25/2024,Mount Aloysius,home,L,0,5,False
+09/28/2024,@ Cairn,L 0-6,250,09/28/2024,Cairn,away,L,0,6,False
+10/01/2024,@ Saint Elizabeth,W 3-2,100,10/01/2024,Saint Elizabeth,away,W,3,2,False
+10/10/2024,@ Valley Forge,T 0-0,20,10/10/2024,Valley Forge,away,T,0,0,False
+10/12/2024,Penn College,L 0-5,60,10/12/2024,Penn College,home,L,0,5,False
+10/16/2024,@ St. Mary's (MD),L 0-7,132,10/16/2024,St. Mary's (MD),away,L,0,7,False
+10/19/2024,Rosemont,L 0-3,60,10/19/2024,Rosemont,home,L,0,3,False
+10/22/2024,Wilson,L 0-5,50,10/22/2024,Wilson,home,L,0,5,False
+10/26/2024,@ Cedar Crest,L 0-1,83,10/26/2024,Cedar Crest,away,L,0,1,False

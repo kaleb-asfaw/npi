@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,@ Kalamazoo,T 1-1,167,09/01/2023,Kalamazoo,away,T,1,1,False
+09/02/2023,@ Albion,L 1-2,186,09/02/2023,Albion,away,L,1,2,False
+09/05/2023,@ Capital,L 0-4,278,09/05/2023,Capital,away,L,0,4,False
+09/08/2023,@ Trine,T 0-0,345,09/08/2023,Trine,away,T,0,0,False
+09/10/2023,Ind.-South Bend,W 2-0,315,09/10/2023,Ind.-South Bend,home,W,2,0,False
+09/13/2023,Muskingum,W 6-0,225,09/13/2023,Muskingum,home,W,6,0,False
+09/16/2023,Hope,W 1-0,270,09/16/2023,Hope,home,W,1,0,False
+09/20/2023,Baldwin Wallace,W 4-3,150,09/20/2023,Baldwin Wallace,home,W,4,3,False
+09/23/2023,@ Mount Union,W 2-1,78,09/23/2023,Mount Union,away,W,2,1,False
+09/26/2023,@ John Carroll,L 0-1,223,09/26/2023,John Carroll,away,L,0,1,False
+09/30/2023,North Central (IL),L 2-6,75,09/30/2023,North Central (IL),home,L,2,6,False
+10/07/2023,Oberlin,W 3-0,187,10/07/2023,Oberlin,home,W,3,0,False
+10/11/2023,@ Hiram,W 4-1,70,10/11/2023,Hiram,away,W,4,1,False
+10/14/2023,@ Wittenberg,L 1-2,234,10/14/2023,Wittenberg,away,L,1,2,False
+10/17/2023,Kenyon,W 1-0,225,10/17/2023,Kenyon,home,W,1,0,False
+10/21/2023,@ Wooster,W 3-2,150,10/21/2023,Wooster,away,W,3,2,False
+10/25/2023,DePauw,T 1-1,154,10/25/2023,DePauw,home,T,1,1,False
+10/28/2023,Denison,W 3-0,250,10/28/2023,Denison,home,W,3,0,False
+11/02/2023,#3 DePauw NCAC Women's Soccer Championship,L 0-1,202,11/02/2023,DePauw,home,L,0,1,False

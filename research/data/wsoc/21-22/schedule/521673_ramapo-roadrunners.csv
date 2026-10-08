@@ -1,0 +1,15 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/02/2021,@ FDU-Florham,L 0-1,200,09/02/2021,FDU-Florham,away,L,0,1,False
+09/04/2021,SUNY Geneseo,L 0-3,150,09/04/2021,SUNY Geneseo,home,L,0,3,False
+09/08/2021,@ WestConn,L 1-4,22,09/08/2021,WestConn,away,L,1,4,False
+09/15/2021,Drew,L 0-2,100,09/15/2021,Drew,home,L,0,2,False
+09/18/2021,@ Rowan,L 0-2,100,09/18/2021,Rowan,away,L,0,2,False
+09/22/2021,@ Moravian,L 0-3,172,09/22/2021,Moravian,away,L,0,3,False
+09/25/2021,Stockton,T 1-1 (2 OT),125,09/25/2021,Stockton,home,T,1,1,True
+09/29/2021,@ Wm. Paterson,L 1-2 (1 OT),60,09/29/2021,Wm. Paterson,away,L,1,2,True
+10/02/2021,Rutgers-Newark,L 1-2,75,10/02/2021,Rutgers-Newark,home,L,1,2,False
+10/09/2021,Rutgers-Camden,L 1-2,75,10/09/2021,Rutgers-Camden,home,L,1,2,False
+10/13/2021,@ Montclair St.,L 0-3,346,10/13/2021,Montclair St.,away,L,0,3,False
+10/16/2021,@ TCNJ,L 0-5,317,10/16/2021,TCNJ,away,L,0,5,False
+10/23/2021,New Jersey City,W 5-0,110,10/23/2021,New Jersey City,home,W,5,0,False
+10/27/2021,Kean,T 0-0 (2 OT),75,10/27/2021,Kean,home,T,0,0,True

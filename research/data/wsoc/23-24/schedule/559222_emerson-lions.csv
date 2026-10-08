@@ -1,0 +1,20 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,St. John Fisher,L 0-2,100,09/01/2023,St. John Fisher,home,L,0,2,False
+09/03/2023,Misericordia,L 0-4,125,09/03/2023,Misericordia,home,L,0,4,False
+09/06/2023,Tufts,L 0-3,50,09/06/2023,Tufts,home,L,0,3,False
+09/09/2023,@ Bates,W 2-1,300,09/09/2023,Bates,away,W,2,1,False
+09/13/2023,@ Endicott,L 0-1,153,09/13/2023,Endicott,away,L,0,1,False
+09/16/2023,Smith,T 0-0,0,09/16/2023,Smith,home,T,0,0,False
+09/23/2023,Mount Holyoke,W 6-0,50,09/23/2023,Mount Holyoke,home,W,6,0,False
+09/27/2023,U New England,W 2-1,0,09/27/2023,U New England,home,W,2,1,False
+09/29/2023,@ Coast Guard,L 0-1,85,09/29/2023,Coast Guard,away,L,0,1,False
+10/04/2023,@ Salve Regina,W 2-1,57,10/04/2023,Salve Regina,away,W,2,1,False
+10/06/2023,Wheaton (MA),W 7-0,50,10/06/2023,Wheaton (MA),home,W,7,0,False
+10/11/2023,@ Babson,W 2-0,120,10/11/2023,Babson,away,W,2,0,False
+10/14/2023,@ Springfield,W 2-0,200,10/14/2023,Springfield,away,W,2,0,False
+10/18/2023,Wellesley,T 0-0,50,10/18/2023,Wellesley,home,T,0,0,False
+10/21/2023,@ Clark (MA),W 2-0,111,10/21/2023,Clark (MA),away,W,2,0,False
+10/25/2023,@ WPI,W 1-0,200,10/25/2023,WPI,away,W,1,0,False
+10/28/2023,MIT,L 0-3,150,10/28/2023,MIT,home,L,0,3,False
+10/31/2023,#6 Coast Guard NEWMAC Women's Soccer Championship,W 2-1,100,10/31/2023,Coast Guard,home,W,2,1,False
+11/02/2023,@ #2 Babson NEWMAC Women's Soccer Championship,L 1-2 (2 OT),536,11/02/2023,Babson,away,L,1,2,True

@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,McMurry,Ppd,,09/01/2021,McMurry,home,,,,
+09/03/2021,@ UT Dallas,L 2-3 (2 OT),200,09/03/2021,UT Dallas,away,L,2,3,True
+09/06/2021,@ LeTourneau,W 2-0,58,09/06/2021,LeTourneau,away,W,2,0,False
+09/10/2021,Mary Hardin-Baylor,L 0-1,50,09/10/2021,Mary Hardin-Baylor,home,L,0,1,False
+09/12/2021,Texas Lutheran,W 1-0 (1 OT),30,09/12/2021,Texas Lutheran,home,W,1,0,True
+09/17/2021,Concordia (TX),L 0-1,50,09/17/2021,Concordia (TX),home,L,0,1,False
+09/19/2021,@ Ozarks (AR),W 1-0,105,09/19/2021,Ozarks (AR),away,W,1,0,False
+09/24/2021,@ Austin,W 2-0,137,09/24/2021,Austin,away,W,2,0,False
+10/01/2021,Austin,W 2-0,50,10/01/2021,Austin,home,W,2,0,False
+10/10/2021,@ MUW,W 9-0,63,10/10/2021,MUW,away,W,9,0,False
+10/15/2021,@ Schreiner,W 2-0,45,10/15/2021,Schreiner,away,W,2,0,False
+10/17/2021,@ Trinity (TX),L 0-1,127,10/17/2021,Trinity (TX),away,L,0,1,False
+10/22/2021,@ Texas Lutheran,L 1-2,101,10/22/2021,Texas Lutheran,away,L,1,2,False
+10/24/2021,@ Southwestern (TX),T 0-0 (2 OT),85,10/24/2021,Southwestern (TX),away,T,0,0,True
+10/29/2021,St. Thomas (TX),W 3-2,70,10/29/2021,St. Thomas (TX),home,W,3,2,False
+10/31/2021,Centenary (LA),W 3-0,70,10/31/2021,Centenary (LA),home,W,3,0,False
+11/05/2021,@ Trinity (TX) SCAC WSOC Tournament,L 0-2,80,11/05/2021,Trinity (TX),away,L,0,2,False

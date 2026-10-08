@@ -1,0 +1,19 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,@ Wis.-Oshkosh,L 0-7,100,09/01/2021,Wis.-Oshkosh,away,L,0,7,False
+09/04/2021,@ Central (IA),L 0-8,100,09/04/2021,Central (IA),away,L,0,8,False
+09/05/2021,@ Coe,L 0-5,106,09/05/2021,Coe,away,L,0,5,False
+09/11/2021,@ Illinois Tech,L 0-15,60,09/11/2021,Illinois Tech,away,L,0,15,False
+09/12/2021,Saint Mary's (MN),L 0-5,99,09/12/2021,Saint Mary's (MN),home,L,0,5,False
+09/14/2021,Maranatha Baptist,T 0-0 (2 OT),51,09/14/2021,Maranatha Baptist,home,T,0,0,True
+09/18/2021,Finlandia,L 1-2,51,09/18/2021,Finlandia,home,L,1,2,False
+09/25/2021,@ Beloit,L 0-3,97,09/25/2021,Beloit,away,L,0,3,False
+09/28/2021,Lake Forest,L 0-5,55,09/28/2021,Lake Forest,home,L,0,5,False
+09/30/2021,Wis.-Whitewater,L 0-7,0,09/30/2021,Wis.-Whitewater,home,L,0,7,False
+10/02/2021,Cornell College,L 0-3,47,10/02/2021,Cornell College,home,L,0,3,False
+10/09/2021,Monmouth (IL),L 0-6,55,10/09/2021,Monmouth (IL),home,L,0,6,False
+10/12/2021,@ Lawrence,L 0-1,282,10/12/2021,Lawrence,away,L,0,1,False
+10/16/2021,@ Knox,L 0-6,75,10/16/2021,Knox,away,L,0,6,False
+10/23/2021,@ Grinnell,L 0-4,121,10/23/2021,Grinnell,away,L,0,4,False
+10/24/2021,@ Marian (WI),L 0-5,107,10/24/2021,Marian (WI),away,L,0,5,False
+10/27/2021,UW-River Falls,L 0-3,0,10/27/2021,UW-River Falls,home,L,0,3,False
+10/30/2021,Illinois Col.,L 1-4,0,10/30/2021,Illinois Col.,home,L,1,4,False

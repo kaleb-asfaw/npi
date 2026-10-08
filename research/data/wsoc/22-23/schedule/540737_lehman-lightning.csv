@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2022,St. Joseph's (Brkln),Ppd,,09/01/2022,St. Joseph's (Brkln),home,,,,
+09/04/2022,@ St. Joseph's (L.I.),Ppd,,09/04/2022,St. Joseph's (L.I.),away,,,,
+09/06/2022,Saint Elizabeth,Ppd,,09/06/2022,Saint Elizabeth,home,,,,
+09/08/2022,@ Sarah Lawrence,L 0-7,45,09/08/2022,Sarah Lawrence,away,L,0,7,False
+09/14/2022,@ Merchant Marine,L 0-8,40,09/14/2022,Merchant Marine,away,L,0,8,False
+09/17/2022,Wm. Paterson,L 0-9,50,09/17/2022,Wm. Paterson,home,L,0,9,False
+09/21/2022,@ Ramapo,Ppd,,09/21/2022,Ramapo,away,,,,
+10/01/2022,@ CCNY,L 0-9,102,10/01/2022,CCNY,away,L,0,9,False
+10/07/2022,@ Pratt,L 1-7,25,10/07/2022,Pratt,away,L,1,7,False
+10/10/2022,York (NY),W 7-2,20,10/10/2022,York (NY),home,W,7,2,False
+10/12/2022,@ York (NY),L 3-4,18,10/12/2022,York (NY),away,L,3,4,False
+10/15/2022,Medgar Evers,W 9-0,100,10/15/2022,Medgar Evers,home,W,9,0,False
+10/19/2022,@ John Jay,L 0-8,42,10/19/2022,John Jay,away,L,0,8,False
+10/22/2022,Brooklyn,L 0-4,95,10/22/2022,Brooklyn,home,L,0,4,False
+10/24/2022,Old Westbury,L 0-7,55,10/24/2022,Old Westbury,home,L,0,7,False
+10/29/2022,@ #1 John Jay CUNYAC WSOC Championship,L 0-4,57,10/29/2022,John Jay,away,L,0,4,False
+11/01/2022,Yeshiva,T 1-1,55,11/01/2022,Yeshiva,home,T,1,1,False

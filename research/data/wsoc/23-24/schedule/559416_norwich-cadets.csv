@@ -1,0 +1,18 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2023,VTSU-Johnson,W 1-0,"1,700",09/01/2023,VTSU-Johnson,home,W,1,0,False
+09/03/2023,VTSU Castleton,L 0-6,"1,722",09/03/2023,VTSU Castleton,home,L,0,6,False
+09/06/2023,@ Elms,L 1-2,137,09/06/2023,Elms,away,L,1,2,False
+09/09/2023,@ Emmanuel (MA),Ppd,,09/09/2023,Emmanuel (MA),away,,,,
+09/12/2023,@ Rivier,L 1-2,80,09/12/2023,Rivier,away,L,1,2,False
+09/16/2023,JWU (Providence),L 0-3,250,09/16/2023,JWU (Providence),home,L,0,3,False
+09/20/2023,Lasell,L 0-3,135,09/20/2023,Lasell,home,L,0,3,False
+09/23/2023,St. Joseph's (ME),T 1-1,157,09/23/2023,St. Joseph's (ME),home,T,1,1,False
+09/26/2023,@ Albertus Magnus,T 1-1,101,09/26/2023,Albertus Magnus,away,T,1,1,False
+09/30/2023,Dean,W 4-2,196,09/30/2023,Dean,home,W,4,2,False
+10/04/2023,New England Col.,L 1-2,223,10/04/2023,New England Col.,home,L,1,2,False
+10/11/2023,@ Regis (MA),L 0-8,102,10/11/2023,Regis (MA),away,L,0,8,False
+10/14/2023,@ Mitchell,L 0-3,100,10/14/2023,Mitchell,away,L,0,3,False
+10/15/2023,@ Emmanuel (MA),L 0-3,55,10/15/2023,Emmanuel (MA),away,L,0,3,False
+10/18/2023,@ Colby-Sawyer,L 0-3,69,10/18/2023,Colby-Sawyer,away,L,0,3,False
+10/21/2023,Saint Joseph (CT),W 1-0,57,10/21/2023,Saint Joseph (CT),home,W,1,0,False
+10/24/2023,@ Simmons,W 2-1,115,10/24/2023,Simmons,away,W,2,1,False

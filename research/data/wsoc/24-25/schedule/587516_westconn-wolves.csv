@@ -1,0 +1,23 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+08/30/2024,Saint Joseph (CT),W 2-0,100,08/30/2024,Saint Joseph (CT),home,W,2,0,False
+08/31/2024,Western New Eng.,T 1-1,144,08/31/2024,Western New Eng.,home,T,1,1,False
+09/04/2024,@ Mount Holyoke,L 0-1,90,09/04/2024,Mount Holyoke,away,L,0,1,False
+09/06/2024,Merchant Marine,W 2-1,178,09/06/2024,Merchant Marine,home,W,2,1,False
+09/08/2024,@ St. Joseph's (L.I.),W 4-1,94,09/08/2024,St. Joseph's (L.I.),away,W,4,1,False
+09/11/2024,@ Vassar,L 1-4,71,09/11/2024,Vassar,away,L,1,4,False
+09/14/2024,@ Salve Regina,W 2-1,209,09/14/2024,Salve Regina,away,W,2,1,False
+09/17/2024,Russell Sage,W 3-0,95,09/17/2024,Russell Sage,home,W,3,0,False
+09/21/2024,Keene St.,W 3-0,189,09/21/2024,Keene St.,home,W,3,0,False
+09/25/2024,Wesleyan (CT),L 0-1,200,09/25/2024,Wesleyan (CT),home,L,0,1,False
+09/28/2024,@ VTSU Castleton,W 1-0,143,09/28/2024,VTSU Castleton,away,W,1,0,False
+10/01/2024,@ Worcester St.,L 0-1,87,10/01/2024,Worcester St.,away,L,0,1,False
+10/05/2024,@ Plymouth St.,L 1-2,104,10/05/2024,Plymouth St.,away,L,1,2,False
+10/08/2024,New Jersey City,T 0-0,100,10/08/2024,New Jersey City,home,T,0,0,False
+10/12/2024,UMass Dartmouth,W 7-0,150,10/12/2024,UMass Dartmouth,home,W,7,0,False
+10/16/2024,Eastern Conn. St.,W 1-0,195,10/16/2024,Eastern Conn. St.,home,W,1,0,False
+10/19/2024,@ UMass Boston,T 3-3,112,10/19/2024,UMass Boston,away,T,3,3,False
+10/26/2024,Southern Me.,T 0-0,223,10/26/2024,Southern Me.,home,T,0,0,False
+11/02/2024,@ Rhode Island Col.,T 2-2,225,11/02/2024,Rhode Island Col.,away,T,2,2,False
+11/05/2024,#6 Plymouth St. Little East Women's Soccer Championship,W 5-1,200,11/05/2024,Plymouth St.,home,W,5,1,False
+11/07/2024,@ #2 UMass Boston Little East Women's Soccer Championship,W 2-1,253,11/07/2024,UMass Boston,away,W,2,1,False
+11/09/2024,@ #1 Southern Me. Little East Women's Soccer Championship,L 0-3,444,11/09/2024,Southern Me.,away,L,0,3,False

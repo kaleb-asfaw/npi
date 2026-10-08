@@ -1,0 +1,16 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/01/2021,Hartwick,L 0-8,62,09/01/2021,Hartwick,home,L,0,8,False
+09/04/2021,SUNY ESF,L 0-4,0,09/04/2021,SUNY ESF,home,L,0,4,False
+09/07/2021,Medaille,L 0-7,78,09/07/2021,Medaille,home,L,0,7,False
+09/11/2021,@ Alfred St.,L 0-8,120,09/11/2021,Alfred St.,away,L,0,8,False
+09/14/2021,@ Cazenovia,L 0-2,45,09/14/2021,Cazenovia,away,L,0,2,False
+09/18/2021,Gallaudet,W 2-1 (1 OT),40,09/18/2021,Gallaudet,home,W,2,1,True
+09/19/2021,St. Mary's (MD),L 0-7,0,09/19/2021,St. Mary's (MD),home,L,0,7,False
+09/25/2021,@ Penn College,L 0-6,165,09/25/2021,Penn College,away,L,0,6,False
+10/01/2021,Hilbert,L 0-1,0,10/01/2021,Hilbert,home,L,0,1,False
+10/05/2021,@ SUNY Poly,L 0-4,82,10/05/2021,SUNY Poly,away,L,0,4,False
+10/09/2021,@ Penn St. Harrisburg,L 0-6,60,10/09/2021,Penn St. Harrisburg,away,L,0,6,False
+10/16/2021,Lancaster Bible,L 0-4,0,10/16/2021,Lancaster Bible,home,L,0,4,False
+10/19/2021,@ SUNY Morrisville,L 0-2,78,10/19/2021,SUNY Morrisville,away,L,0,2,False
+10/23/2021,Penn St.-Abington,L 1-8,0,10/23/2021,Penn St.-Abington,home,L,1,8,False
+10/30/2021,@ Penn St.-Berks,L 0-9,88,10/30/2021,Penn St.-Berks,away,L,0,9,False

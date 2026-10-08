@@ -1,0 +1,21 @@
+Date,Opponent,Result,Attendance,date_parsed,opponent,home_away,outcome,team_score,opp_score,overtime
+09/04/2024,North Park,L 0-2,167,09/04/2024,North Park,home,L,0,2,False
+09/11/2024,@ Wis.-Stevens Point,W 1-0,138,09/11/2024,Wis.-Stevens Point,away,W,1,0,False
+09/16/2024,@ Wis.-Oshkosh,L 0-1,158,09/16/2024,Wis.-Oshkosh,away,L,0,1,False
+09/18/2024,Lakeland,W 4-0,134,09/18/2024,Lakeland,home,W,4,0,False
+09/21/2024,Benedictine (IL),W 3-1,122,09/21/2024,Benedictine (IL),home,W,3,1,False
+09/23/2024,@ Lake Forest,L 0-3,56,09/23/2024,Lake Forest,away,L,0,3,False
+09/25/2024,@ Marian (WI),L 1-3,141,09/25/2024,Marian (WI),away,L,1,3,False
+09/28/2024,@ Dominican (IL),L 2-5,100,09/28/2024,Dominican (IL),away,L,2,5,False
+09/30/2024,Lawrence,L 0-4,115,09/30/2024,Lawrence,home,L,0,4,False
+10/02/2024,@ Concordia Wisconsin,L 0-4,108,10/02/2024,Concordia Wisconsin,away,L,0,4,False
+10/05/2024,Concordia Chicago,W 2-0,200,10/05/2024,Concordia Chicago,home,W,2,0,False
+10/12/2024,@ Rockford,W 1-0,117,10/12/2024,Rockford,away,W,1,0,False
+10/16/2024,@ Wis. Lutheran,T 1-1,177,10/16/2024,Wis. Lutheran,away,T,1,1,False
+10/19/2024,Illinois Tech,L 0-4,117,10/19/2024,Illinois Tech,home,L,0,4,False
+10/23/2024,MSOE,T 0-0,132,10/23/2024,MSOE,home,T,0,0,False
+10/26/2024,@ Aurora,W 3-0,167,10/26/2024,Aurora,away,W,3,0,False
+10/27/2024,Wis.-Eau Claire,L 0-5,236,10/27/2024,Wis.-Eau Claire,home,L,0,5,False
+10/31/2024,Edgewood,T 1-1,200,10/31/2024,Edgewood,home,T,1,1,False
+11/02/2024,@ #4 Concordia Wisconsin NACC Women's Championship,T 1-1 (3 OT),227,11/02/2024,Concordia Wisconsin,away,T,1,1,True
+11/05/2024,@ #1 Illinois Tech NACC Women's Championship,L 0-8,74,11/05/2024,Illinois Tech,away,L,0,8,False
